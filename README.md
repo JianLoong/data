@@ -12,10 +12,10 @@ Version: V1
 
 Simple API that allow consumers to view unit information.
 
-|URI|Description|
-|:---|:---|
-|v1/units.json| List of units |
-|v1/FIT9131.json | Returns information of FIT9131|
+| URI             | Description                    |
+|:----------------|:-------------------------------|
+| v1/units.json   | List of units                  |
+| v1/FIT9131.json | Returns information of FIT9131 |
 
 ### Example
 
