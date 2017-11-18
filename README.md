@@ -4,6 +4,10 @@ Data dump for various information.
 
 Information are stored as json files and can be obtained via GET request.
 
+### Disclaimer
+
+All data belongs to their rightful owner and will be removed upon request.
+
 ### Monash Data Collection
 
 Host : https://jianloong.github.io/data/monash/
