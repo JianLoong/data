@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7781938658439",
+    "CRN": "77819386584398",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e84afd30-def7-45c9-b1e9-e41a0286e2a2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "PIESTRZENIEWICZ, RYAN ",
+    "Name": "Kinship Migration",
+    "ABN": "37668037944",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2, 618 Hay Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.95428,
+      "Longitude": 115.86011,
+      "FullAddress": "Level 2, 618 Hay Street\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "0403667664",
+        "FullNumber": "61 08 0403667664"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1358089672475",
+      "CRN": "13580896724759",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d7de108a-5c39-4ef5-a90b-6727bba6cba0",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "PIESTRZENIEWICZ, RYAN ",
+      "Name": "Ink Bridge",
+      "ABN": "37668037944",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Moana Chambers",
+        "AddressLine2": "Level 2 618 Hay Street",
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "PERTH",
+        "OtherSuburb": null,
+        "PostCode": "6000",
+        "OtherPostCode": null,
+        "Latitude": -31.9541,
+        "Longitude": 115.858616,
+        "FullAddress": "Moana Chambers\r\nLevel 2 618 Hay Street\r\nPERTH WA 6000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "403667664",
+          "FullNumber": "61 8 403667664"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7781938658439",
+    "CRN": "77819386584398",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e84afd30-def7-45c9-b1e9-e41a0286e2a2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "PIESTRZENIEWICZ, RYAN ",
+    "Name": "Kinship Migration",
+    "ABN": "37668037944",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2, 618 Hay Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.95428,
+      "Longitude": 115.86011,
+      "FullAddress": "Level 2, 618 Hay Street\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "0403667664",
+        "FullNumber": "61 08 0403667664"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ryan",
+    "SecondName": "Luke",
+    "FamilyName": "Piestrzeniewicz",
+    "PostNominal": null,
+    "FullName": "Mr Ryan Luke Piestrzeniewicz",
+    "GivenName": "Ryan Luke"
+  },
+  "MARN": "1573808",
+  "IsNoFee": false,
+  "ContactId": "234b80d1-08dd-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

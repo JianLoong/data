@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6673936790062",
+    "CRN": "66739367900621",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3c4201a2-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "World 2 Australia Migration Solutions Pty Ltd",
+    "Name": "World 2 Australia Migration Solutions Pty Ltd",
+    "ABN": "72165731322",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "44 Vansittart Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "REGENTS PARK",
+      "OtherSuburb": null,
+      "PostCode": "4118",
+      "OtherPostCode": null,
+      "Latitude": -27.667072,
+      "Longitude": 153.040603,
+      "FullAddress": "44 Vansittart Road\r\nREGENTS PARK QLD 4118\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "REGENTS PARK",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "REGENTS PARK"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30590325",
+        "FullNumber": "61 7 30590325"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4216945483184",
+      "CRN": "42169454831842",
+      "IsProfileLockedOut": null,
+      "BusinessId": "266c35d3-9a3d-4c47-b283-4012471b93fd",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "W2A Migration Services",
+      "Name": "W2A Migration Services",
+      "ABN": null,
+      "Address": {
+        "Country": "Philippines",
+        "AddressLine1": "221 Manila Executive Regency",
+        "AddressLine2": "1200 J. Bocobo Street",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Ermita",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 14.5787293,
+        "Longitude": 120.9821856,
+        "FullAddress": "221 Manila Executive Regency\r\n1200 J. Bocobo Street\r\nErmita \r\nPhilippines"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "63",
+          "AreaCode": "906",
+          "Number": "5034385",
+          "FullNumber": "63 906 5034385"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6673936790062",
+    "CRN": "66739367900621",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3c4201a2-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "World 2 Australia Migration Solutions Pty Ltd",
+    "Name": "World 2 Australia Migration Solutions Pty Ltd",
+    "ABN": "72165731322",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "44 Vansittart Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "REGENTS PARK",
+      "OtherSuburb": null,
+      "PostCode": "4118",
+      "OtherPostCode": null,
+      "Latitude": -27.667072,
+      "Longitude": 153.040603,
+      "FullAddress": "44 Vansittart Road\r\nREGENTS PARK QLD 4118\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "REGENTS PARK",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "REGENTS PARK"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30590325",
+        "FullNumber": "61 7 30590325"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Gloria",
+    "SecondName": null,
+    "FamilyName": "Collins",
+    "PostNominal": null,
+    "FullName": "Mrs Gloria Collins",
+    "GivenName": "Gloria"
+  },
+  "MARN": "1387135",
+  "IsNoFee": false,
+  "ContactId": "d893f810-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "a30378eb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Torres",
+      "FirstName": "Gloria",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Gloria"
+    },
+    {
+      "Id": "cb937ef1-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Gumban",
+      "FirstName": "Gloria",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Gloria"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8799912290941",
+    "CRN": "87999122909417",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bddc6c56-131a-4d33-89b3-ac089d5d2e65",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "RENWICK, CHRISTOPHER JOHN",
+    "Name": "Buzz Migration",
+    "ABN": "14159031788",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "690",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SCORESBY",
+      "OtherSuburb": null,
+      "PostCode": "3179",
+      "OtherPostCode": null,
+      "Latitude": -36.8642845153809,
+      "Longitude": 144.310394287109,
+      "FullAddress": "690\r\nSCORESBY VIC 3179\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "403047425",
+        "FullNumber": "61 4 403047425"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9609963808014",
+      "CRN": "96099638080147",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f434add9-d8f4-4012-9f87-b1a4be5bff28",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "PRINCE MIGRATION AND EDUCATION PTY LTD",
+      "Name": "PRINCE MIGRATION AND EDUCATION PTY LTD",
+      "ABN": "23619566040",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "501/303 Collins Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.81652,
+        "Longitude": 144.96378,
+        "FullAddress": "501/303 Collins Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "90388842",
+          "FullNumber": "61 3 90388842"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8799912290941",
+    "CRN": "87999122909417",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bddc6c56-131a-4d33-89b3-ac089d5d2e65",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "RENWICK, CHRISTOPHER JOHN",
+    "Name": "Buzz Migration",
+    "ABN": "14159031788",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "690",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SCORESBY",
+      "OtherSuburb": null,
+      "PostCode": "3179",
+      "OtherPostCode": null,
+      "Latitude": -36.8642845153809,
+      "Longitude": 144.310394287109,
+      "FullAddress": "690\r\nSCORESBY VIC 3179\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "403047425",
+        "FullNumber": "61 4 403047425"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Christopher",
+    "SecondName": "John",
+    "FamilyName": "Renwick",
+    "PostNominal": null,
+    "FullName": "Mr Christopher John Renwick",
+    "GivenName": "Christopher John"
+  },
+  "MARN": "1796725",
+  "IsNoFee": false,
+  "ContactId": "ff94eee8-9373-e711-9412-000d3ad152db",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

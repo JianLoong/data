@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654757969328",
+    "CRN": "66547579693280",
+    "IsProfileLockedOut": null,
+    "BusinessId": "32ee112a-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Raef Istafanos",
+    "Name": "St George for Migration, Translation & Interpreting Services",
+    "ABN": null,
+    "Address": {
+      "Country": "Egypt",
+      "AddressLine1": "7 Ramses Square",
+      "AddressLine2": "3rd Floor",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Cairo",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 30.0484103,
+      "Longitude": 31.2361991,
+      "FullAddress": "7 Ramses Square\r\n3rd Floor\r\nCairo \r\nEgypt"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "20",
+        "AreaCode": "2",
+        "Number": "25881756",
+        "FullNumber": "20 2 25881756"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "20",
+        "AreaCode": "2",
+        "Number": "25932624",
+        "FullNumber": "20 2 25932624"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3346756236361",
+      "CRN": "33467562363613",
+      "IsProfileLockedOut": null,
+      "BusinessId": "df217343-c695-4c14-b2e5-1c6ae7a2700b",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "St George for Migration Services",
+      "Name": "St George for Migration Services",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "3/ 11 Doeberl Place",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "QUEANBEYAN",
+        "OtherSuburb": null,
+        "PostCode": "2620",
+        "OtherPostCode": null,
+        "Latitude": -35.37615,
+        "Longitude": 149.247846,
+        "FullAddress": "3/ 11 Doeberl Place\r\nQUEANBEYAN NSW 2620\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "2",
+          "AreaCode": "01",
+          "Number": "222397713",
+          "FullNumber": "2 01 222397713"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654757969328",
+    "CRN": "66547579693280",
+    "IsProfileLockedOut": null,
+    "BusinessId": "32ee112a-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Raef Istafanos",
+    "Name": "St George for Migration, Translation & Interpreting Services",
+    "ABN": null,
+    "Address": {
+      "Country": "Egypt",
+      "AddressLine1": "7 Ramses Square",
+      "AddressLine2": "3rd Floor",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Cairo",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 30.0484103,
+      "Longitude": 31.2361991,
+      "FullAddress": "7 Ramses Square\r\n3rd Floor\r\nCairo \r\nEgypt"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "20",
+        "AreaCode": "2",
+        "Number": "25881756",
+        "FullNumber": "20 2 25881756"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "20",
+        "AreaCode": "2",
+        "Number": "25932624",
+        "FullNumber": "20 2 25932624"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Raef",
+    "SecondName": "Iskander Tewfik",
+    "FamilyName": "Istafanos",
+    "PostNominal": null,
+    "FullName": "Mr Raef Iskander Tewfik Istafanos",
+    "GivenName": "Raef Iskander Tewfik"
+  },
+  "MARN": "9803658",
+  "IsNoFee": false,
+  "ContactId": "a0d470ab-a652-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

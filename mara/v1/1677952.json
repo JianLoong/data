@@ -1,0 +1,299 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3888015831504",
+    "CRN": "38880158315044",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c98efe94-c271-4077-a5f5-4b6357f67fbd",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "QAWASMI & ASSOCIATES PTY LTD",
+    "Name": "Qawasmi Lawyers & Consultants",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 3 / 5 Florence Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "COBURG",
+      "OtherSuburb": null,
+      "PostCode": "3058",
+      "OtherPostCode": null,
+      "Latitude": -37.79891,
+      "Longitude": 145.31463,
+      "FullAddress": "Unit 3 / 5 Florence Street\r\nCOBURG VIC 3058\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99120253",
+        "FullNumber": "61 3 99120253"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "426",
+        "Number": "633833",
+        "FullNumber": "61 426 633833"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0649527175215",
+      "CRN": "06495271752156",
+      "IsProfileLockedOut": null,
+      "BusinessId": "fff60d29-0619-4f66-aab4-cd692b6954e0",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "SAMA AUSTRALIA INC",
+      "Name": "SAMA AUSTRALIA INC",
+      "ABN": "61727275997",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "3/5 Florence Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "COBURG",
+        "OtherSuburb": null,
+        "PostCode": "3058",
+        "OtherPostCode": null,
+        "Latitude": -37.827301,
+        "Longitude": 145.102874,
+        "FullAddress": "3/5 Florence Street\r\nCOBURG VIC 3058\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "99120253",
+          "FullNumber": "61 3 99120253"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3888015831504",
+    "CRN": "38880158315044",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c98efe94-c271-4077-a5f5-4b6357f67fbd",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "QAWASMI & ASSOCIATES PTY LTD",
+    "Name": "Qawasmi Lawyers & Consultants",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 3 / 5 Florence Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "COBURG",
+      "OtherSuburb": null,
+      "PostCode": "3058",
+      "OtherPostCode": null,
+      "Latitude": -37.79891,
+      "Longitude": 145.31463,
+      "FullAddress": "Unit 3 / 5 Florence Street\r\nCOBURG VIC 3058\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99120253",
+        "FullNumber": "61 3 99120253"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "426",
+        "Number": "633833",
+        "FullNumber": "61 426 633833"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Abdulhameed",
+    "SecondName": null,
+    "FamilyName": "Al-Qawasmi",
+    "PostNominal": null,
+    "FullName": "Mr Abdulhameed Al-Qawasmi",
+    "GivenName": "Abdulhameed"
+  },
+  "MARN": "1677952",
+  "IsNoFee": false,
+  "ContactId": "61236349-9bb8-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Jordan"
+  ],
+  "OtherNames": [
+    {
+      "Id": "b5fe88ca-c797-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Abdulhameed Abdulhaleem Al-Qawasmi",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Abdulhameed Abdulhaleem Al-Qawasmi"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

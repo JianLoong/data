@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5807830329461",
+    "CRN": "58078303294618",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e7564cb5-6dbc-4c02-9da9-e923f32a90b6",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "HIBBINS, MELEA CLAUDINE",
+    "Name": "Flow Migration ",
+    "ABN": "63 395 271 268",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "397 Rosebank Road, Rosebank ",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "ROSEBANK",
+      "OtherSuburb": null,
+      "PostCode": "2480",
+      "OtherPostCode": null,
+      "Latitude": -28.67296,
+      "Longitude": 153.38664,
+      "FullAddress": "397 Rosebank Road, Rosebank \r\nROSEBANK NSW 2480\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "0407361130",
+        "FullNumber": "61 4 0407361130"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6669741979966",
+      "CRN": "66697419799662",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0bbbe1ab-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "VISA LAW PTY LTD",
+      "Name": "Visa Law Pty Ltd",
+      "ABN": "77158846489",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 22A",
+        "AddressLine2": "255 Drummond St",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "CARLTON",
+        "OtherSuburb": null,
+        "PostCode": "3053",
+        "OtherPostCode": null,
+        "Latitude": -37.799802,
+        "Longitude": 144.967938,
+        "FullAddress": "Suite 22A\r\n255 Drummond St\r\nCARLTON VIC 3053\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "CARLTON",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "CARLTON"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "86091500",
+          "FullNumber": "61 3 86091500"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5807830329461",
+    "CRN": "58078303294618",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e7564cb5-6dbc-4c02-9da9-e923f32a90b6",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "HIBBINS, MELEA CLAUDINE",
+    "Name": "Flow Migration ",
+    "ABN": "63 395 271 268",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "397 Rosebank Road, Rosebank ",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "ROSEBANK",
+      "OtherSuburb": null,
+      "PostCode": "2480",
+      "OtherPostCode": null,
+      "Latitude": -28.67296,
+      "Longitude": 153.38664,
+      "FullAddress": "397 Rosebank Road, Rosebank \r\nROSEBANK NSW 2480\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "0407361130",
+        "FullNumber": "61 4 0407361130"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Melea",
+    "SecondName": "Claudine",
+    "FamilyName": "Hibbins",
+    "PostNominal": null,
+    "FullName": "Ms Melea Claudine Hibbins",
+    "GivenName": "Melea Claudine"
+  },
+  "MARN": "1680160",
+  "IsNoFee": false,
+  "ContactId": "784805d7-1dca-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

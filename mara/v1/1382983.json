@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5454291167990",
+    "CRN": "54542911679904",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e44b91e0-4952-493c-9f0a-5f53d66d7e3f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ACREMAN, LAUREN KIM",
+    "Name": "Acreman Migration Services",
+    "ABN": "70869736533",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "5, 11 Logie Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "OAKLEIGH",
+      "OtherSuburb": null,
+      "PostCode": "3166",
+      "OtherPostCode": null,
+      "Latitude": -37.89428,
+      "Longitude": 145.08983,
+      "FullAddress": "5, 11 Logie Street\r\nOAKLEIGH VIC 3166\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "01223033",
+        "FullNumber": "61 4 01223033"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6654185832921",
+      "CRN": "66541858329214",
+      "IsProfileLockedOut": null,
+      "BusinessId": "69673e0b-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "REFUGEE & IMMIGRATION LEGAL CENTRE INC",
+      "Name": "Refugee Legal",
+      "ABN": "94806293897",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 6",
+        "AddressLine2": "20 Otter Street",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "COLLINGWOOD",
+        "OtherSuburb": null,
+        "PostCode": "3066",
+        "OtherPostCode": null,
+        "Latitude": -37.80064,
+        "Longitude": 144.985504,
+        "FullAddress": "Level 6\r\n20 Otter Street\r\nCOLLINGWOOD VIC 3066\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "94130101",
+          "FullNumber": "61 3 94130101"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "94130144",
+          "FullNumber": "61 3 94130144"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5454291167990",
+    "CRN": "54542911679904",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e44b91e0-4952-493c-9f0a-5f53d66d7e3f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ACREMAN, LAUREN KIM",
+    "Name": "Acreman Migration Services",
+    "ABN": "70869736533",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "5, 11 Logie Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "OAKLEIGH",
+      "OtherSuburb": null,
+      "PostCode": "3166",
+      "OtherPostCode": null,
+      "Latitude": -37.89428,
+      "Longitude": 145.08983,
+      "FullAddress": "5, 11 Logie Street\r\nOAKLEIGH VIC 3166\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "01223033",
+        "FullNumber": "61 4 01223033"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Lauren",
+    "SecondName": "Kim",
+    "FamilyName": "Acreman",
+    "PostNominal": null,
+    "FullName": "Ms Lauren Kim Acreman",
+    "GivenName": "Lauren Kim"
+  },
+  "MARN": "1382983",
+  "IsNoFee": false,
+  "ContactId": "5f1f4ace-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "29f06dd9-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Kim",
+      "FirstName": "Eunkyung",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Eunkyung"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

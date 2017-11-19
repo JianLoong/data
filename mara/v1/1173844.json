@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672485396276",
+    "CRN": "66724853962769",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6755bb4f-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Study Pro Pty Ltd",
+    "Name": "AVISA - Australian Visa immigration Skilled Agents",
+    "ABN": "49145951024",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": " Suite 308, 3rd Floor, 282 Victoria Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.7954999,
+      "Longitude": 151.1868,
+      "FullAddress": " Suite 308, 3rd Floor, 282 Victoria Avenue\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROCKDALE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROCKDALE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9411 6000",
+        "FullNumber": "61 2 9411 6000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6508427123513",
+      "CRN": "65084271235131",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b48d31bb-5ed9-42e8-a8a8-06bfff1ccba7",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Study Pro Bulgaria",
+      "Name": "Study Pro Bulgaria",
+      "ABN": null,
+      "Address": {
+        "Country": "Bulgaria",
+        "AddressLine1": "8B Yordan Yosifov Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Studentski grad, Sofia",
+        "PostCode": "Other",
+        "OtherPostCode": "1700",
+        "Latitude": 42.65421,
+        "Longitude": 23.34516,
+        "FullAddress": "8B Yordan Yosifov Street\r\nStudentski grad, Sofia 1700\r\nBulgaria"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "359",
+          "AreaCode": "02",
+          "Number": "8623760",
+          "FullNumber": "359 02 8623760"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672485396276",
+    "CRN": "66724853962769",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6755bb4f-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Study Pro Pty Ltd",
+    "Name": "AVISA - Australian Visa immigration Skilled Agents",
+    "ABN": "49145951024",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": " Suite 308, 3rd Floor, 282 Victoria Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.7954999,
+      "Longitude": 151.1868,
+      "FullAddress": " Suite 308, 3rd Floor, 282 Victoria Avenue\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROCKDALE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROCKDALE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9411 6000",
+        "FullNumber": "61 2 9411 6000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Gregory Scott",
+    "SecondName": null,
+    "FamilyName": "Newton",
+    "PostNominal": null,
+    "FullName": "Mr Gregory Scott Newton",
+    "GivenName": "Gregory Scott"
+  },
+  "MARN": "1173844",
+  "IsNoFee": false,
+  "ContactId": "f8fc7712-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

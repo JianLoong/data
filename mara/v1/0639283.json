@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9033075244333",
+    "CRN": "90330752443337",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a1ca499f-143f-4b72-9805-f5d6d531e63a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FRONTIER IMMIGRATION PTY LTD",
+    "Name": "FRONTIER IMMIGRATION PTY LTD",
+    "ABN": "80166199677",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "120 THOMAS STREET",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "DANDENONG",
+      "OtherSuburb": null,
+      "PostCode": "3175",
+      "OtherPostCode": null,
+      "Latitude": -37.989961,
+      "Longitude": 145.213113,
+      "FullAddress": "120 THOMAS STREET\r\nDANDENONG VIC 3175\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "31595727",
+        "FullNumber": "61 4 31595727"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6670071103974",
+      "CRN": "66700711039741",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4c9a80be-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "SOUTHERN MIGRANT AND REFUGEE CENTRE INC",
+      "Name": "Southern Migrant and Refugee Centre Inc",
+      "ABN": "44877224580",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "39 Clow Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "DANDENONG",
+        "OtherSuburb": null,
+        "PostCode": "3175",
+        "OtherPostCode": null,
+        "Latitude": -37.9851987,
+        "Longitude": 145.2172488,
+        "FullAddress": "39 Clow Street\r\nDANDENONG VIC 3175\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "9767 1900",
+          "FullNumber": "61 3 9767 1900"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "97068830",
+          "FullNumber": "61 3 97068830"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9033075244333",
+    "CRN": "90330752443337",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a1ca499f-143f-4b72-9805-f5d6d531e63a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FRONTIER IMMIGRATION PTY LTD",
+    "Name": "FRONTIER IMMIGRATION PTY LTD",
+    "ABN": "80166199677",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "120 THOMAS STREET",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "DANDENONG",
+      "OtherSuburb": null,
+      "PostCode": "3175",
+      "OtherPostCode": null,
+      "Latitude": -37.989961,
+      "Longitude": 145.213113,
+      "FullAddress": "120 THOMAS STREET\r\nDANDENONG VIC 3175\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "31595727",
+        "FullNumber": "61 4 31595727"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Hany",
+    "SecondName": null,
+    "FamilyName": "Boulous",
+    "PostNominal": null,
+    "FullName": "Mr Hany Boulous",
+    "GivenName": "Hany"
+  },
+  "MARN": "0639283",
+  "IsNoFee": false,
+  "ContactId": "94e24cba-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Egypt"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

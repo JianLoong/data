@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9694131990022",
+    "CRN": "96941319900227",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c635d61-717a-46ae-b6ee-c9bb843b8a4c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BOWEN, MATTHEW KIMBLE",
+    "Name": "BOWEN, MATTHEW KIMBLE",
+    "ABN": "34875517104",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "83 Kinnarid Street,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ASHGROVE",
+      "OtherSuburb": null,
+      "PostCode": "4060",
+      "OtherPostCode": null,
+      "Latitude": -27.4376477,
+      "Longitude": 152.9929937,
+      "FullAddress": "83 Kinnarid Street,\r\nASHGROVE QLD 4060\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "41",
+        "Number": "1038985",
+        "FullNumber": "61 41 1038985"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4216146528324",
+      "CRN": "42161465283243",
+      "IsProfileLockedOut": null,
+      "BusinessId": "42f3bc77-77bc-498f-880f-0a903081f40c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "QUEENSLAND SOLUTIONS PTY LTD",
+      "Name": "AUSTRALIAN MIGRATION AGENCY",
+      "ABN": "58165688479",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "83 Kinnaird St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "ASHGROVE",
+        "OtherSuburb": null,
+        "PostCode": "4060",
+        "OtherPostCode": null,
+        "Latitude": -27.4376477,
+        "Longitude": 152.9929937,
+        "FullAddress": "83 Kinnaird St\r\nASHGROVE QLD 4060\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "419",
+          "Number": "667878",
+          "FullNumber": "61 419 667878"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "07",
+          "Number": "33665512",
+          "FullNumber": "61 07 33665512"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9694131990022",
+    "CRN": "96941319900227",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c635d61-717a-46ae-b6ee-c9bb843b8a4c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BOWEN, MATTHEW KIMBLE",
+    "Name": "BOWEN, MATTHEW KIMBLE",
+    "ABN": "34875517104",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "83 Kinnarid Street,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ASHGROVE",
+      "OtherSuburb": null,
+      "PostCode": "4060",
+      "OtherPostCode": null,
+      "Latitude": -27.4376477,
+      "Longitude": 152.9929937,
+      "FullAddress": "83 Kinnarid Street,\r\nASHGROVE QLD 4060\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "41",
+        "Number": "1038985",
+        "FullNumber": "61 41 1038985"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Matthew",
+    "SecondName": "Kimble",
+    "FamilyName": "Bowen",
+    "PostNominal": null,
+    "FullName": "Mr Matthew Kimble Bowen",
+    "GivenName": "Matthew Kimble"
+  },
+  "MARN": "9472546",
+  "IsNoFee": false,
+  "ContactId": "3e06b6b3-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

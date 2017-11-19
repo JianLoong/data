@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4939811770168",
+    "CRN": "49398117701686",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8f7fa0b6-072c-4d3d-b3ec-029158eba072",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "symphony services australia limited",
+    "Name": "SYMPHONY SERVICES INTERNATIONAL",
+    "ABN": "69121149755",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Clocktower Square, Ground Floor,",
+      "AddressLine2": "Shops 6-9, 35 Harrington Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "THE ROCKS",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.85951,
+      "Longitude": 151.20765,
+      "FullAddress": "Clocktower Square, Ground Floor,\r\nShops 6-9, 35 Harrington Street\r\nTHE ROCKS NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82154665",
+        "FullNumber": "61 2 82154665"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1295700142292",
+      "CRN": "12957001422927",
+      "IsProfileLockedOut": null,
+      "BusinessId": "875ddb81-b194-4a06-9c38-2f666d058f16",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "TARA ENDE PTY LTD",
+      "Name": "TARA ENDE PTY LTD",
+      "ABN": "56619285102",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "136 Moverly Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SOUTH COOGEE",
+        "OtherSuburb": null,
+        "PostCode": "2034",
+        "OtherPostCode": null,
+        "Latitude": -33.93245,
+        "Longitude": 151.25329,
+        "FullAddress": "136 Moverly Road\r\nSOUTH COOGEE NSW 2034\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "414",
+          "Number": "891294",
+          "FullNumber": "61 414 891294"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4939811770168",
+    "CRN": "49398117701686",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8f7fa0b6-072c-4d3d-b3ec-029158eba072",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "symphony services australia limited",
+    "Name": "SYMPHONY SERVICES INTERNATIONAL",
+    "ABN": "69121149755",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Clocktower Square, Ground Floor,",
+      "AddressLine2": "Shops 6-9, 35 Harrington Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "THE ROCKS",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.85951,
+      "Longitude": 151.20765,
+      "FullAddress": "Clocktower Square, Ground Floor,\r\nShops 6-9, 35 Harrington Street\r\nTHE ROCKS NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82154665",
+        "FullNumber": "61 2 82154665"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Tara",
+    "SecondName": "Lyn",
+    "FamilyName": "Ende",
+    "PostNominal": null,
+    "FullName": "Ms Tara Lyn Ende",
+    "GivenName": "Tara Lyn"
+  },
+  "MARN": "0742398",
+  "IsNoFee": false,
+  "ContactId": "d6621bf7-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United States"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f51e42de-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Waingarten",
+      "FirstName": "Tara",
+      "SecondName": "Lyn",
+      "Alias": null,
+      "GivenName": "Tara Lyn"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

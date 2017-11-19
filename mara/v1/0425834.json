@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1498862810404",
+    "CRN": "14988628104047",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d0d4c652-25f0-4ac1-ab0d-59e8616285cb",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Visaconnect Limited",
+    "Name": "Visaconnect Limited",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Suite 1104, Crawford House",
+      "AddressLine2": "70 Queen's Road Central",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Hong Kong",
+      "Suburb": "Other",
+      "OtherSuburb": "Central",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.282758,
+      "Longitude": 114.155679,
+      "FullAddress": "Suite 1104, Crawford House\r\n70 Queen's Road Central\r\nCentral \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "-",
+        "Number": "8191 5561",
+        "FullNumber": "852 - 8191 5561"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6660330993411",
+      "CRN": "66603309934111",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c4884878-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "International Business data not available",
+      "Name": "Visaconnect",
+      "ABN": null,
+      "Address": {
+        "Country": "United Kingdom",
+        "AddressLine1": "10 Margaret Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "London",
+        "PostCode": "Other",
+        "OtherPostCode": "W1W 8RL",
+        "Latitude": 51.517093,
+        "Longitude": -0.139619,
+        "FullAddress": "10 Margaret Street\r\nLondon W1W 8RL\r\nUnited Kingdom"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "44",
+          "AreaCode": "20",
+          "Number": "7193 2327",
+          "FullNumber": "44 20 7193 2327"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1498862810404",
+    "CRN": "14988628104047",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d0d4c652-25f0-4ac1-ab0d-59e8616285cb",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Visaconnect Limited",
+    "Name": "Visaconnect Limited",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Suite 1104, Crawford House",
+      "AddressLine2": "70 Queen's Road Central",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Hong Kong",
+      "Suburb": "Other",
+      "OtherSuburb": "Central",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.282758,
+      "Longitude": 114.155679,
+      "FullAddress": "Suite 1104, Crawford House\r\n70 Queen's Road Central\r\nCentral \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "-",
+        "Number": "8191 5561",
+        "FullNumber": "852 - 8191 5561"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Mark",
+    "SecondName": "Alan",
+    "FamilyName": "Schwartz",
+    "PostNominal": null,
+    "FullName": "Mr Mark Alan Schwartz",
+    "GivenName": "Mark Alan"
+  },
+  "MARN": "0425834",
+  "IsNoFee": false,
+  "ContactId": "a7d566f9-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

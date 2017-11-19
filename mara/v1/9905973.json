@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657149608653",
+    "CRN": "66571496086536",
+    "IsProfileLockedOut": null,
+    "BusinessId": "277f7db9-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business data not available",
+    "Name": "Shanghai Overseas Affair Service Center Co Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Level 2, 129 Yan'an Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Shanghai",
+      "PostCode": "Other",
+      "OtherPostCode": "200040",
+      "Latitude": 31.2254719,
+      "Longitude": 121.4461333,
+      "FullAddress": "Level 2, 129 Yan'an Road\r\nShanghai 200040\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "21",
+        "Number": "62481396",
+        "FullNumber": "86 21 62481396"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "86",
+        "AreaCode": "21",
+        "Number": "62481396",
+        "FullNumber": "86 21 62481396"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8015035515662",
+      "CRN": "80150355156627",
+      "IsProfileLockedOut": null,
+      "BusinessId": "40d34f59-78d0-e511-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "ASCI CONSULTANCY PTY. LTD.",
+      "Name": "ASCI CONSULTANCY PTY. LTD.",
+      "ABN": "74 097 984 275",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "125/55 Victoria Harbour Promenade",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "DOCKLANDS",
+        "OtherSuburb": null,
+        "PostCode": "3008",
+        "OtherPostCode": null,
+        "Latitude": -37.81961,
+        "Longitude": 144.942764,
+        "FullAddress": "125/55 Victoria Harbour Promenade\r\nDOCKLANDS VIC 3008\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96706269",
+          "FullNumber": "61 3 96706269"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657149608653",
+    "CRN": "66571496086536",
+    "IsProfileLockedOut": null,
+    "BusinessId": "277f7db9-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business data not available",
+    "Name": "Shanghai Overseas Affair Service Center Co Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Level 2, 129 Yan'an Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Shanghai",
+      "PostCode": "Other",
+      "OtherPostCode": "200040",
+      "Latitude": 31.2254719,
+      "Longitude": 121.4461333,
+      "FullAddress": "Level 2, 129 Yan'an Road\r\nShanghai 200040\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "21",
+        "Number": "62481396",
+        "FullNumber": "86 21 62481396"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "86",
+        "AreaCode": "21",
+        "Number": "62481396",
+        "FullNumber": "86 21 62481396"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Jinnan",
+    "SecondName": null,
+    "FamilyName": "Shentu",
+    "PostNominal": null,
+    "FullName": "Miss Jinnan Shentu",
+    "GivenName": "Jinnan"
+  },
+  "MARN": "9905973",
+  "IsNoFee": false,
+  "ContactId": "f959cc00-a752-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "319c4a42-0453-e311-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Joanne",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Joanne"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

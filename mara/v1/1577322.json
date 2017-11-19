@@ -1,0 +1,384 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3560193354681",
+    "CRN": "35601933546815",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7af76b53-5c5e-484d-871a-b598ec4ae7d2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "YAO, QING ",
+    "Name": "OCEAN SUCCESS MIGRATION AGENT",
+    "ABN": "49287769965",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1306/41-45 Waitara Ave",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WAITARA",
+      "OtherSuburb": null,
+      "PostCode": "2077",
+      "OtherPostCode": null,
+      "Latitude": -33.706951,
+      "Longitude": 151.105194,
+      "FullAddress": "1306/41-45 Waitara Ave\r\nWAITARA NSW 2077\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "99870837",
+        "FullNumber": "61 2 99870837"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1715422705541",
+      "CRN": "17154227055416",
+      "IsProfileLockedOut": null,
+      "BusinessId": "55031b70-816b-449f-b076-9d020b6b9815",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "LOTUS BUSINESS SERVICES PTY. LTD.",
+      "Name": "LOTUS BUSINESS SERVICES PTY. LTD.",
+      "ABN": "15607057152",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 1701, Level 17, 31 Market St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.852798,
+        "Longitude": 150.932083,
+        "FullAddress": "Unit 1701, Level 17, 31 Market St\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "91885870",
+          "FullNumber": "61 2 91885870"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4700671652065",
+      "CRN": "47006716520657",
+      "IsProfileLockedOut": null,
+      "BusinessId": "722cc25b-80fe-47d2-a30f-2991d72905a5",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "QING YAO",
+      "Name": "QING YAO",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 1306",
+        "AddressLine2": "41-45 Waitara Ave",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "WAITARA",
+        "OtherSuburb": null,
+        "PostCode": "2077",
+        "OtherPostCode": null,
+        "Latitude": -33.706951,
+        "Longitude": 151.105194,
+        "FullAddress": "Unit 1306\r\n41-45 Waitara Ave\r\nWAITARA NSW 2077\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "99870837",
+          "FullNumber": "61 2 99870837"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3560193354681",
+    "CRN": "35601933546815",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7af76b53-5c5e-484d-871a-b598ec4ae7d2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "YAO, QING ",
+    "Name": "OCEAN SUCCESS MIGRATION AGENT",
+    "ABN": "49287769965",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1306/41-45 Waitara Ave",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WAITARA",
+      "OtherSuburb": null,
+      "PostCode": "2077",
+      "OtherPostCode": null,
+      "Latitude": -33.706951,
+      "Longitude": 151.105194,
+      "FullAddress": "1306/41-45 Waitara Ave\r\nWAITARA NSW 2077\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "99870837",
+        "FullNumber": "61 2 99870837"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Qing",
+    "SecondName": null,
+    "FamilyName": "Yao",
+    "PostNominal": null,
+    "FullName": "Mr Qing Yao",
+    "GivenName": "Qing"
+  },
+  "MARN": "1577322",
+  "IsNoFee": false,
+  "ContactId": "2b8425d4-777b-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3a9818a0-5270-48a1-9977-c2d437508b02",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "MIKE YAO",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "MIKE YAO"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

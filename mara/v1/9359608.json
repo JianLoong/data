@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655774645072",
+    "CRN": "66557746450722",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0f81fd67-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CARERI, PINA",
+    "Name": "Pina Careri",
+    "ABN": "99721004592",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "178 St George's Rd",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "FITZROY NORTH",
+      "OtherSuburb": null,
+      "PostCode": "3068",
+      "OtherPostCode": null,
+      "Latitude": -37.7851,
+      "Longitude": 144.98245,
+      "FullAddress": "178 St George's Rd\r\nFITZROY NORTH VIC 3068\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "FITZROY NORTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "FITZROY NORTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94868078",
+        "FullNumber": "61 3 94868078"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94899982",
+        "FullNumber": "61 3 94899982"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657832469830",
+      "CRN": "66578324698303",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8ef2d5e4-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "CARERI, YANG & ASSOCIATES PTY. LTD",
+      "Name": "Careri, Yang & Associates Pty Ltd",
+      "ABN": "13115325561",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1/48 Leeds Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "FOOTSCRAY",
+        "OtherSuburb": null,
+        "PostCode": "3011",
+        "OtherPostCode": null,
+        "Latitude": -37.8012,
+        "Longitude": 144.90073,
+        "FullAddress": "1/48 Leeds Street\r\nFOOTSCRAY VIC 3011\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "FOOTSCRAY",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "FOOTSCRAY"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96875220",
+          "FullNumber": "61 3 96875220"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96895280",
+          "FullNumber": "61 3 96895280"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655774645072",
+    "CRN": "66557746450722",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0f81fd67-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CARERI, PINA",
+    "Name": "Pina Careri",
+    "ABN": "99721004592",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "178 St George's Rd",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "FITZROY NORTH",
+      "OtherSuburb": null,
+      "PostCode": "3068",
+      "OtherPostCode": null,
+      "Latitude": -37.7851,
+      "Longitude": 144.98245,
+      "FullAddress": "178 St George's Rd\r\nFITZROY NORTH VIC 3068\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "FITZROY NORTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "FITZROY NORTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94868078",
+        "FullNumber": "61 3 94868078"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94899982",
+        "FullNumber": "61 3 94899982"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Pina",
+    "SecondName": null,
+    "FamilyName": "Careri",
+    "PostNominal": null,
+    "FullName": "Ms Pina Careri",
+    "GivenName": "Pina"
+  },
+  "MARN": "9359608",
+  "IsNoFee": false,
+  "ContactId": "e4df9f77-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

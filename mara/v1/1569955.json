@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4053294792978",
+    "CRN": "40532947929787",
+    "IsProfileLockedOut": null,
+    "BusinessId": "35d33c25-3d51-40ee-8d43-1a1448964d3c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MARUNDA, HAATSARI CHARLEN",
+    "Name": "MARUNDA, HAATSARI CHARLEN",
+    "ABN": "70303933534",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "51/36 BENHIAM STREET",
+      "AddressLine2": "CALMVALE",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CALAMVALE",
+      "OtherSuburb": null,
+      "PostCode": "4116",
+      "OtherPostCode": null,
+      "Latitude": -27.61667,
+      "Longitude": 153.04847,
+      "FullAddress": "51/36 BENHIAM STREET\r\nCALMVALE\r\nCALAMVALE QLD 4116\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "06073512",
+        "FullNumber": "61 4 06073512"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0471794186980",
+      "CRN": "04717941869805",
+      "IsProfileLockedOut": null,
+      "BusinessId": "39253ded-5558-4a29-97f6-36672d049f9c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "G.P EBERT & H.W ING & R.M STORY",
+      "Name": "Finemore Walters & Story",
+      "ABN": "80049417820",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "51 Woongarra Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BUNDABERG",
+        "OtherSuburb": null,
+        "PostCode": "4670",
+        "OtherPostCode": null,
+        "Latitude": -24.866678,
+        "Longitude": 152.350059,
+        "FullAddress": "51 Woongarra Street\r\nBUNDABERG QLD 4670\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "41530000",
+          "FullNumber": "61 7 41530000"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "4192",
+          "FullNumber": "61 7 4192"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4053294792978",
+    "CRN": "40532947929787",
+    "IsProfileLockedOut": null,
+    "BusinessId": "35d33c25-3d51-40ee-8d43-1a1448964d3c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MARUNDA, HAATSARI CHARLEN",
+    "Name": "MARUNDA, HAATSARI CHARLEN",
+    "ABN": "70303933534",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "51/36 BENHIAM STREET",
+      "AddressLine2": "CALMVALE",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CALAMVALE",
+      "OtherSuburb": null,
+      "PostCode": "4116",
+      "OtherPostCode": null,
+      "Latitude": -27.61667,
+      "Longitude": 153.04847,
+      "FullAddress": "51/36 BENHIAM STREET\r\nCALMVALE\r\nCALAMVALE QLD 4116\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "06073512",
+        "FullNumber": "61 4 06073512"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Haatsari",
+    "SecondName": "Charlen",
+    "FamilyName": "Marunda",
+    "PostNominal": null,
+    "FullName": "Ms Haatsari Charlen Marunda",
+    "GivenName": "Haatsari Charlen"
+  },
+  "MARN": "1569955",
+  "IsNoFee": false,
+  "ContactId": "13b68790-8ba6-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

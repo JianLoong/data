@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666526010588",
+    "CRN": "66665260105883",
+    "IsProfileLockedOut": null,
+    "BusinessId": "241c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MINJUN MICHAEL HUANG",
+    "Name": "BMKMichael & Partners, Migration Agent & Accountant",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2, Rm 223, 818 Whitehorse Road (South Entrance Via Prospect St)",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BOX HILL",
+      "OtherSuburb": null,
+      "PostCode": "3128",
+      "OtherPostCode": null,
+      "Latitude": -37.8172,
+      "Longitude": 145.11593,
+      "FullAddress": "Level 2, Rm 223, 818 Whitehorse Road (South Entrance Via Prospect St)\r\nBOX HILL VIC 3128\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SUNSHINE NORTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SUNSHINE NORTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "98958788",
+        "FullNumber": "61 03 98958788"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": "61"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5115728207702",
+      "CRN": "51157282077022",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1585f21d-00bb-4a30-8cc8-4f480f8b5c9c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "TK AUSTRALIA PTY LTD",
+      "Name": "TK AUSTRALIA PTY LTD",
+      "ABN": "81606067234",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "223/818 Whitehorse Rd",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "BOX HILL",
+        "OtherSuburb": null,
+        "PostCode": "3128",
+        "OtherPostCode": null,
+        "Latitude": -37.8172,
+        "Longitude": 145.11593,
+        "FullAddress": "223/818 Whitehorse Rd\r\nBOX HILL VIC 3128\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "03",
+          "Number": "98958788",
+          "FullNumber": "61 03 98958788"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666526010588",
+    "CRN": "66665260105883",
+    "IsProfileLockedOut": null,
+    "BusinessId": "241c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MINJUN MICHAEL HUANG",
+    "Name": "BMKMichael & Partners, Migration Agent & Accountant",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2, Rm 223, 818 Whitehorse Road (South Entrance Via Prospect St)",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BOX HILL",
+      "OtherSuburb": null,
+      "PostCode": "3128",
+      "OtherPostCode": null,
+      "Latitude": -37.8172,
+      "Longitude": 145.11593,
+      "FullAddress": "Level 2, Rm 223, 818 Whitehorse Road (South Entrance Via Prospect St)\r\nBOX HILL VIC 3128\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SUNSHINE NORTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SUNSHINE NORTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "98958788",
+        "FullNumber": "61 03 98958788"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": "61"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Michael",
+    "SecondName": "Minjun",
+    "FamilyName": "Huang",
+    "PostNominal": null,
+    "FullName": "Mr Michael Minjun Huang",
+    "GivenName": "Michael Minjun"
+  },
+  "MARN": "0639694",
+  "IsNoFee": false,
+  "ContactId": "b63571c0-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "2c2449d2-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Wong",
+      "FirstName": "Ming",
+      "SecondName": "Kuan",
+      "Alias": null,
+      "GivenName": "Ming Kuan"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

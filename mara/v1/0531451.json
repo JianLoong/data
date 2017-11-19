@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654777972014",
+    "CRN": "66547779720144",
+    "IsProfileLockedOut": null,
+    "BusinessId": "beb45330-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ZHOU, XIAOKANG",
+    "Name": "West Gate Services",
+    "ABN": "65479139336",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "4 Moondah Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOUNT ELIZA",
+      "OtherSuburb": null,
+      "PostCode": "3930",
+      "OtherPostCode": null,
+      "Latitude": -38.19774,
+      "Longitude": 145.07537,
+      "FullAddress": "4 Moondah Drive\r\nMOUNT ELIZA VIC 3930\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MOUNT ELIZA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MOUNT ELIZA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "97875271",
+        "FullNumber": "61 03 97875271"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "97875271",
+        "FullNumber": "61 03 97875271"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657538290563",
+      "CRN": "66575382905633",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4548eed1-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Ausbest International Pty Ltd",
+      "Name": "Ausbest Australia Pty Ltd",
+      "ABN": "20115521607",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 3/24 ",
+        "AddressLine2": "Bogong Avenue",
+        "AddressLine3": "Glen Waverley",
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.88183,
+        "Longitude": 145.1614899,
+        "FullAddress": "Unit 3/24 \r\nBogong Avenue\r\nGlen Waverley\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MELBOURNE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96629478",
+          "FullNumber": "61 3 96629478"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96629378",
+          "FullNumber": "61 3 96629378"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654777972014",
+    "CRN": "66547779720144",
+    "IsProfileLockedOut": null,
+    "BusinessId": "beb45330-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ZHOU, XIAOKANG",
+    "Name": "West Gate Services",
+    "ABN": "65479139336",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "4 Moondah Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOUNT ELIZA",
+      "OtherSuburb": null,
+      "PostCode": "3930",
+      "OtherPostCode": null,
+      "Latitude": -38.19774,
+      "Longitude": 145.07537,
+      "FullAddress": "4 Moondah Drive\r\nMOUNT ELIZA VIC 3930\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MOUNT ELIZA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MOUNT ELIZA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "97875271",
+        "FullNumber": "61 03 97875271"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "97875271",
+        "FullNumber": "61 03 97875271"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Dr",
+    "FirstName": "Xiaokang",
+    "SecondName": null,
+    "FamilyName": "Zhou",
+    "PostNominal": null,
+    "FullName": "Dr Xiaokang Zhou",
+    "GivenName": "Xiaokang"
+  },
+  "MARN": "0531451",
+  "IsNoFee": false,
+  "ContactId": "692be247-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

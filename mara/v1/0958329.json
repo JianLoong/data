@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2992472969280",
+    "CRN": "29924729692805",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fb6d9663-c1f8-4617-a9e5-105535bda621",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSCONNECT MIGRATION SERVICES PTY LTD",
+    "Name": "AUSCONNECT MIGRATION SERVICES PTY LTD",
+    "ABN": "94602470002",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "3 Garnet St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SUNSHINE NORTH",
+      "OtherSuburb": null,
+      "PostCode": "3020",
+      "OtherPostCode": null,
+      "Latitude": -37.77489,
+      "Longitude": 144.830825,
+      "FullAddress": "3 Garnet St\r\nSUNSHINE NORTH VIC 3020\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93127748",
+        "FullNumber": "61 3 93127748"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6662820395818",
+      "CRN": "66628203958185",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2ec4e60b-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "TRAN, HA THU THI",
+      "Name": "AUSCONNECT MIGRATION SERVICES",
+      "ABN": "37778125304",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "3 Garnet Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "SUNSHINE",
+        "OtherSuburb": null,
+        "PostCode": "3020",
+        "OtherPostCode": null,
+        "Latitude": -37.77489,
+        "Longitude": 144.830825,
+        "FullAddress": "3 Garnet Street\r\nSUNSHINE VIC 3020\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "SUNSHINE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "SUNSHINE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "93127748",
+          "FullNumber": "61 3 93127748"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2992472969280",
+    "CRN": "29924729692805",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fb6d9663-c1f8-4617-a9e5-105535bda621",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSCONNECT MIGRATION SERVICES PTY LTD",
+    "Name": "AUSCONNECT MIGRATION SERVICES PTY LTD",
+    "ABN": "94602470002",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "3 Garnet St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SUNSHINE NORTH",
+      "OtherSuburb": null,
+      "PostCode": "3020",
+      "OtherPostCode": null,
+      "Latitude": -37.77489,
+      "Longitude": 144.830825,
+      "FullAddress": "3 Garnet St\r\nSUNSHINE NORTH VIC 3020\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93127748",
+        "FullNumber": "61 3 93127748"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Ha",
+    "SecondName": "Thu Thi",
+    "FamilyName": "Tran",
+    "PostNominal": null,
+    "FullName": "Miss Ha Thu Thi Tran",
+    "GivenName": "Ha Thu Thi"
+  },
+  "MARN": "0958329",
+  "IsNoFee": false,
+  "ContactId": "5ce26e02-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Viet Nam"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

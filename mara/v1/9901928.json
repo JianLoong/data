@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662412101318",
+    "CRN": "66624121013181",
+    "IsProfileLockedOut": null,
+    "BusinessId": "eb46b0f3-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "JOHNSON, CORINNE MARIA",
+    "Name": "Corinne M. Johnson",
+    "ABN": "40323286367",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "18 Belltree Cres",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CASTLE HILL",
+      "OtherSuburb": null,
+      "PostCode": "2154",
+      "OtherPostCode": null,
+      "Latitude": -33.713849,
+      "Longitude": 151.025927,
+      "FullAddress": "18 Belltree Cres\r\nCASTLE HILL NSW 2154\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CASTLE HILL",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CASTLE HILL"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "80642313",
+        "FullNumber": "61 02 80642313"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6660007250193",
+      "CRN": "66600072501934",
+      "IsProfileLockedOut": null,
+      "BusinessId": "245bcf65-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Visa Executive Pty Ltd",
+      "Name": "Visa Executive Pty Ltd",
+      "ABN": "93120911275",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "5 Longfield Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "RICHMOND",
+        "OtherSuburb": null,
+        "PostCode": "3121",
+        "OtherPostCode": null,
+        "Latitude": -37.821,
+        "Longitude": 145.01158,
+        "FullAddress": "5 Longfield Street\r\nRICHMOND VIC 3121\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "RICHMOND",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "RICHMOND"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "94284178",
+          "FullNumber": "61 3 94284178"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "94284178",
+          "FullNumber": "61 3 94284178"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662412101318",
+    "CRN": "66624121013181",
+    "IsProfileLockedOut": null,
+    "BusinessId": "eb46b0f3-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "JOHNSON, CORINNE MARIA",
+    "Name": "Corinne M. Johnson",
+    "ABN": "40323286367",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "18 Belltree Cres",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CASTLE HILL",
+      "OtherSuburb": null,
+      "PostCode": "2154",
+      "OtherPostCode": null,
+      "Latitude": -33.713849,
+      "Longitude": 151.025927,
+      "FullAddress": "18 Belltree Cres\r\nCASTLE HILL NSW 2154\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CASTLE HILL",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CASTLE HILL"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "80642313",
+        "FullNumber": "61 02 80642313"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Corinne",
+    "SecondName": "Maria",
+    "FamilyName": "Johnson",
+    "PostNominal": null,
+    "FullName": "Mrs Corinne Maria Johnson",
+    "GivenName": "Corinne Maria"
+  },
+  "MARN": "9901928",
+  "IsNoFee": false,
+  "ContactId": "d565b1cf-a652-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "17e94a3c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ion",
+      "FirstName": "Corina",
+      "SecondName": "Maria",
+      "Alias": null,
+      "GivenName": "Corina Maria"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

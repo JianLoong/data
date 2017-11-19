@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6670663873083",
+    "CRN": "66706638730838",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a862b9e0-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Visatec Legal Pty Ltd",
+    "Name": "Visatec Legal Pty Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Visatec Legal, Level 1, 1 Queens Road ",
+      "AddressLine2": "(St Kilda Rd Towers)",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3004",
+      "OtherPostCode": null,
+      "Latitude": -37.836390914304246,
+      "Longitude": 144.97313275328452,
+      "FullAddress": "Visatec Legal, Level 1, 1 Queens Road \r\n(St Kilda Rd Towers)\r\nMELBOURNE VIC 3004\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "98637732",
+        "FullNumber": "61 3 98637732"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "86400983",
+        "FullNumber": "61 3 86400983"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661112097720",
+      "CRN": "66611120977207",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8f1c9ba4-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "OLADEJO, ADEWALE",
+      "Name": "Visatec Australia",
+      "ABN": "52934485238",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "68-72 York St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "SOUTH MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3205",
+        "OtherPostCode": null,
+        "Latitude": -37.83047,
+        "Longitude": 144.95985,
+        "FullAddress": "68-72 York St\r\nSOUTH MELBOURNE VIC 3205\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "SOUTH MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "SOUTH MELBOURNE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96944406",
+          "FullNumber": "61 3 96944406"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "86400983",
+          "FullNumber": "61 3 86400983"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6667674663961",
+      "CRN": "66676746639610",
+      "IsProfileLockedOut": null,
+      "BusinessId": "212b802f-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "OLADEJO, ADEWALE",
+      "Name": "Visatec Legal",
+      "ABN": "52934485238",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "68-72 York St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "SOUTH MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3205",
+        "OtherPostCode": null,
+        "Latitude": -37.83047,
+        "Longitude": 144.95985,
+        "FullAddress": "68-72 York St\r\nSOUTH MELBOURNE VIC 3205\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "SOUTH MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "SOUTH MELBOURNE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "03",
+          "Number": "96944406",
+          "FullNumber": "61 03 96944406"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "03",
+          "Number": "86400983",
+          "FullNumber": "61 03 86400983"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6670663873083",
+    "CRN": "66706638730838",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a862b9e0-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Visatec Legal Pty Ltd",
+    "Name": "Visatec Legal Pty Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Visatec Legal, Level 1, 1 Queens Road ",
+      "AddressLine2": "(St Kilda Rd Towers)",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3004",
+      "OtherPostCode": null,
+      "Latitude": -37.836390914304246,
+      "Longitude": 144.97313275328452,
+      "FullAddress": "Visatec Legal, Level 1, 1 Queens Road \r\n(St Kilda Rd Towers)\r\nMELBOURNE VIC 3004\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "98637732",
+        "FullNumber": "61 3 98637732"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "86400983",
+        "FullNumber": "61 3 86400983"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Adewale",
+    "SecondName": null,
+    "FamilyName": "Oladejo",
+    "PostNominal": null,
+    "FullName": "Mr Adewale Oladejo",
+    "GivenName": "Adewale"
+  },
+  "MARN": "0316370",
+  "IsNoFee": false,
+  "ContactId": "8b0ae08c-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9436889572866",
+    "CRN": "94368895728662",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5e6ec8a4-8300-4fbb-8b08-093faf2706a5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DREAM OVERSEAS PTY LTD",
+    "Name": "DREAM OVERSEAS PTY LTD",
+    "ABN": "53119110860",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2F,171 La Trobe St",
+      "AddressLine2": "Level 2, 683-689 George St Sydney",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.80899,
+      "Longitude": 144.96666,
+      "FullAddress": "2F,171 La Trobe St\r\nLevel 2, 683-689 George St Sydney\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96633737",
+        "FullNumber": "61 3 96633737"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96633779",
+        "FullNumber": "61 3 96633779"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657861863738",
+      "CRN": "66578618637389",
+      "IsProfileLockedOut": null,
+      "BusinessId": "97f2d5e4-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "MIGRATION PARTNERS PTY LTD",
+      "Name": "Dream Overseas",
+      "ABN": "84102744123",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 2",
+        "AddressLine2": "171 La Trobe Street",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.809016,
+        "Longitude": 144.966674,
+        "FullAddress": "Level 2\r\n171 La Trobe Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96633737",
+          "FullNumber": "61 3 96633737"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96633779",
+          "FullNumber": "61 3 96633779"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6665961745261",
+      "CRN": "66659617452613",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d2640aca-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business data not available",
+      "Name": "Hunan Chuguomeng International Education Exchange Center Co.,Ltd",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "Suite 2603, Level 26, Nanzheng Buliting,",
+        "AddressLine2": "588 Nanjing West Rd,",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Shanghai",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 31.228328,
+        "Longitude": 121.460277,
+        "FullAddress": "Suite 2603, Level 26, Nanzheng Buliting,\r\n588 Nanjing West Rd,\r\nShanghai \r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "21",
+          "Number": "62188123",
+          "FullNumber": "86 21 62188123"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "86",
+          "AreaCode": "21",
+          "Number": "62182979",
+          "FullNumber": "86 21 62182979"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9436889572866",
+    "CRN": "94368895728662",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5e6ec8a4-8300-4fbb-8b08-093faf2706a5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DREAM OVERSEAS PTY LTD",
+    "Name": "DREAM OVERSEAS PTY LTD",
+    "ABN": "53119110860",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2F,171 La Trobe St",
+      "AddressLine2": "Level 2, 683-689 George St Sydney",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.80899,
+      "Longitude": 144.96666,
+      "FullAddress": "2F,171 La Trobe St\r\nLevel 2, 683-689 George St Sydney\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96633737",
+        "FullNumber": "61 3 96633737"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96633779",
+        "FullNumber": "61 3 96633779"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Xiao Yan",
+    "SecondName": null,
+    "FamilyName": "Gao",
+    "PostNominal": null,
+    "FullName": "Ms Xiao Yan Gao",
+    "GivenName": "Xiao Yan"
+  },
+  "MARN": "0100356",
+  "IsNoFee": false,
+  "ContactId": "53921acb-9f52-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

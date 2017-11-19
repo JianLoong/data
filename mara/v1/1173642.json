@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4386292098844",
+    "CRN": "43862920988445",
+    "IsProfileLockedOut": null,
+    "BusinessId": "453e8958-e614-47b2-b93d-a48bf58edc64",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ASIF SYED",
+    "Name": "AUSTRAK Consultancy Services",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "47 Farr Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "ROCKDALE",
+      "OtherSuburb": null,
+      "PostCode": "2216",
+      "OtherPostCode": null,
+      "Latitude": -33.949668,
+      "Longitude": 151.145309,
+      "FullAddress": "47 Farr Street\r\nROCKDALE NSW 2216\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "18211435",
+        "FullNumber": "61 4 18211435"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8300375128232",
+      "CRN": "83003751282326",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5187e9a1-5690-4b08-9dcd-8123a4520ed9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Asif Syed",
+      "Name": "AUSTRAK Consultancy Services",
+      "ABN": null,
+      "Address": {
+        "Country": "Pakistan",
+        "AddressLine1": "Suite # 11, Amber Tower,",
+        "AddressLine2": "PECHS, Block 6, Main, Sharah-e-Faisal,",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Karachi, P.E.C.H.S.",
+        "PostCode": "Other",
+        "OtherPostCode": "74000",
+        "Latitude": 24.86039,
+        "Longitude": 67.06542,
+        "FullAddress": "Suite # 11, Amber Tower,\r\nPECHS, Block 6, Main, Sharah-e-Faisal,\r\nKarachi, P.E.C.H.S. 74000\r\nPakistan"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "92",
+          "AreaCode": "21",
+          "Number": "34371255",
+          "FullNumber": "92 21 34371255"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4386292098844",
+    "CRN": "43862920988445",
+    "IsProfileLockedOut": null,
+    "BusinessId": "453e8958-e614-47b2-b93d-a48bf58edc64",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ASIF SYED",
+    "Name": "AUSTRAK Consultancy Services",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "47 Farr Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "ROCKDALE",
+      "OtherSuburb": null,
+      "PostCode": "2216",
+      "OtherPostCode": null,
+      "Latitude": -33.949668,
+      "Longitude": 151.145309,
+      "FullAddress": "47 Farr Street\r\nROCKDALE NSW 2216\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "18211435",
+        "FullNumber": "61 4 18211435"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Asif Mohammod",
+    "SecondName": null,
+    "FamilyName": "Syed",
+    "PostNominal": null,
+    "FullName": "Mr Asif Mohammod Syed",
+    "GivenName": "Asif Mohammod"
+  },
+  "MARN": "1173642",
+  "IsNoFee": false,
+  "ContactId": "1712770c-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

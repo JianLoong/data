@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666195456457",
+    "CRN": "66661954564576",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b98729d6-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Horizon Australasia Pty Ltd",
+    "Name": "Horizon Australasia Pty Ltd",
+    "ABN": "149 171 693",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite B9, Attadale Business Centre",
+      "AddressLine2": "550 Canning Highway",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "ATTADALE",
+      "OtherSuburb": null,
+      "PostCode": "6156",
+      "OtherPostCode": null,
+      "Latitude": -32.026704,
+      "Longitude": 115.827032,
+      "FullAddress": "Suite B9, Attadale Business Centre\r\n550 Canning Highway\r\nATTADALE WA 6156\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MYAREE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MYAREE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "61613319",
+        "FullNumber": "61 8 61613319"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "94636434",
+        "FullNumber": "61 8 94636434"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0097596166657",
+      "CRN": "00975961666575",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a8bcaaeb-44c9-e511-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Sydney Migration International Pty Ltd",
+      "Name": "Sydney Migration International Pty Ltd",
+      "ABN": "38 142 851 536",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 9, Suite 4",
+        "AddressLine2": "3 Spring Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.86427,
+        "Longitude": 151.20928,
+        "FullAddress": "Level 9, Suite 4\r\n3 Spring Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "80050487",
+          "FullNumber": "61 2 80050487"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "84168005",
+          "FullNumber": "61 2 84168005"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666195456457",
+    "CRN": "66661954564576",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b98729d6-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Horizon Australasia Pty Ltd",
+    "Name": "Horizon Australasia Pty Ltd",
+    "ABN": "149 171 693",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite B9, Attadale Business Centre",
+      "AddressLine2": "550 Canning Highway",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "ATTADALE",
+      "OtherSuburb": null,
+      "PostCode": "6156",
+      "OtherPostCode": null,
+      "Latitude": -32.026704,
+      "Longitude": 115.827032,
+      "FullAddress": "Suite B9, Attadale Business Centre\r\n550 Canning Highway\r\nATTADALE WA 6156\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MYAREE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MYAREE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "61613319",
+        "FullNumber": "61 8 61613319"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "94636434",
+        "FullNumber": "61 8 94636434"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Kaushal",
+    "SecondName": "Uttam",
+    "FamilyName": "Jhaveri",
+    "PostNominal": null,
+    "FullName": "Mr Kaushal Uttam Jhaveri",
+    "GivenName": "Kaushal Uttam"
+  },
+  "MARN": "0848480",
+  "IsNoFee": false,
+  "ContactId": "8bf4c65d-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

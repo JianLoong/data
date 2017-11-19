@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7071585506659",
+    "CRN": "70715855066593",
+    "IsProfileLockedOut": null,
+    "BusinessId": "34c305eb-c17d-e511-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "The Trustee for Hijrad Family Trust",
+    "Name": "Hijrad Migration Services",
+    "ABN": "86 613 726 799",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Office D4, 67 Ashley Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BRAYBROOK",
+      "OtherSuburb": null,
+      "PostCode": "3019",
+      "OtherPostCode": null,
+      "Latitude": -37.910411,
+      "Longitude": 147.711807,
+      "FullAddress": "Office D4, 67 Ashley Street\r\nBRAYBROOK VIC 3019\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96874863",
+        "FullNumber": "61 3 96874863"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96890295",
+        "FullNumber": "61 3 96890295"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6673026718570",
+      "CRN": "66730267185709",
+      "IsProfileLockedOut": null,
+      "BusinessId": "48c7726a-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MYKYTA, TANIA IRENA",
+      "Name": "Mykyta Child Care Lawyers",
+      "ABN": "79736915694",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Office D4",
+        "AddressLine2": "67 Ashley Street",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "BRAYBROOK",
+        "OtherSuburb": null,
+        "PostCode": "3019",
+        "OtherPostCode": null,
+        "Latitude": -37.79882,
+        "Longitude": 144.901382,
+        "FullAddress": "Office D4\r\n67 Ashley Street\r\nBRAYBROOK VIC 3019\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "FOOTSCRAY",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "FOOTSCRAY"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "04",
+          "Number": "38702528",
+          "FullNumber": "61 04 38702528"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7071585506659",
+    "CRN": "70715855066593",
+    "IsProfileLockedOut": null,
+    "BusinessId": "34c305eb-c17d-e511-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "The Trustee for Hijrad Family Trust",
+    "Name": "Hijrad Migration Services",
+    "ABN": "86 613 726 799",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Office D4, 67 Ashley Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BRAYBROOK",
+      "OtherSuburb": null,
+      "PostCode": "3019",
+      "OtherPostCode": null,
+      "Latitude": -37.910411,
+      "Longitude": 147.711807,
+      "FullAddress": "Office D4, 67 Ashley Street\r\nBRAYBROOK VIC 3019\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96874863",
+        "FullNumber": "61 3 96874863"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96890295",
+        "FullNumber": "61 3 96890295"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Tania",
+    "SecondName": "Irena",
+    "FamilyName": "Mykyta",
+    "PostNominal": null,
+    "FullName": "Ms Tania Irena Mykyta",
+    "GivenName": "Tania Irena"
+  },
+  "MARN": "1575391",
+  "IsNoFee": false,
+  "ContactId": "fe6a2cf0-284a-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "42fa757d-a01a-4ead-b1ec-0fedf1fe54e2",
+      "Type": "Former Name",
+      "FamilyName": "Sonnenburg",
+      "FirstName": "Tania",
+      "SecondName": "Irene",
+      "Alias": null,
+      "GivenName": "Tania Irene"
+    },
+    {
+      "Id": "bf8e010b-65d2-45e8-84f6-16edb25113f6",
+      "Type": "Former Name",
+      "FamilyName": "Mykyta",
+      "FirstName": "Tania",
+      "SecondName": "Irene",
+      "Alias": null,
+      "GivenName": "Tania Irene"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

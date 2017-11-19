@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654115803598",
+    "CRN": "66541158035986",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f6b43e05-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "OXATEN PTY LTD",
+    "Name": "Taljaard Consultants",
+    "ABN": "63071103814",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "143/16 Surbiton Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CARINDALE",
+      "OtherSuburb": null,
+      "PostCode": "4152",
+      "OtherPostCode": null,
+      "Latitude": -27.50421,
+      "Longitude": 153.1048,
+      "FullAddress": "143/16 Surbiton Court\r\nCARINDALE QLD 4152\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WAKERLEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WAKERLEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "38430142",
+        "FullNumber": "61 07 38430142"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33981185",
+        "FullNumber": "61 07 33981185"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657989390780",
+      "CRN": "66579893907805",
+      "IsProfileLockedOut": null,
+      "BusinessId": "14a9d3ea-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "REFUGEE AND IMMIGRATION LEGAL SERVICE INC",
+      "Name": "Refugee and Immigration Legal Service Inc",
+      "ABN": "69697546949",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1 / 170 Boundary Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "WEST END",
+        "OtherSuburb": null,
+        "PostCode": "4101",
+        "OtherPostCode": null,
+        "Latitude": -27.48207,
+        "Longitude": 153.01202,
+        "FullAddress": "1 / 170 Boundary Street\r\nWEST END QLD 4101\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "38469300",
+          "FullNumber": "61 7 38469300"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "38443073",
+          "FullNumber": "61 7 38443073"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654115803598",
+    "CRN": "66541158035986",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f6b43e05-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "OXATEN PTY LTD",
+    "Name": "Taljaard Consultants",
+    "ABN": "63071103814",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "143/16 Surbiton Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CARINDALE",
+      "OtherSuburb": null,
+      "PostCode": "4152",
+      "OtherPostCode": null,
+      "Latitude": -27.50421,
+      "Longitude": 153.1048,
+      "FullAddress": "143/16 Surbiton Court\r\nCARINDALE QLD 4152\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WAKERLEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WAKERLEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "38430142",
+        "FullNumber": "61 07 38430142"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33981185",
+        "FullNumber": "61 07 33981185"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Jane",
+    "SecondName": "Alison",
+    "FamilyName": "Taljaard",
+    "PostNominal": null,
+    "FullName": "Mrs Jane Alison Taljaard",
+    "GivenName": "Jane Alison"
+  },
+  "MARN": "9581295",
+  "IsNoFee": false,
+  "ContactId": "74f7c9fc-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c69e7ef4-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Howard",
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

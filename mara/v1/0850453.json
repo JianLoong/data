@@ -1,0 +1,306 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5407080279309",
+    "CRN": "54070802793098",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6eb9776b-adfa-43a2-b265-c97081a544c7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "APPRISE CONSULTING PTY LTD",
+    "Name": "APPRISE CONSULTING PTY LTD",
+    "ABN": "65136635339",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "P O BOX 3234",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOORABBIN EAST",
+      "OtherSuburb": null,
+      "PostCode": "3189",
+      "OtherPostCode": null,
+      "Latitude": -36.86425018310547,
+      "Longitude": 144.31036376953125,
+      "FullAddress": "P O BOX 3234\r\nMOORABBIN EAST VIC 3189\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "27098663",
+        "FullNumber": "61 4 27098663"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6026559750471",
+      "CRN": "60265597504716",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3ec72d13-0ca1-4562-93f0-163f1bbd4d05",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "BROWN, BRENDA ",
+      "Name": "BROWN, BRENDA ",
+      "ABN": "52896162254",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "UNIT 4,",
+        "AddressLine2": "5 WATTLETREE ROAD",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "FERNTREE GULLY",
+        "OtherSuburb": null,
+        "PostCode": "3156",
+        "OtherPostCode": null,
+        "Latitude": -37.87791,
+        "Longitude": 145.277624,
+        "FullAddress": "UNIT 4,\r\n5 WATTLETREE ROAD\r\nFERNTREE GULLY VIC 3156\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "27098663",
+          "FullNumber": "61 4 27098663"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5407080279309",
+    "CRN": "54070802793098",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6eb9776b-adfa-43a2-b265-c97081a544c7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "APPRISE CONSULTING PTY LTD",
+    "Name": "APPRISE CONSULTING PTY LTD",
+    "ABN": "65136635339",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "P O BOX 3234",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOORABBIN EAST",
+      "OtherSuburb": null,
+      "PostCode": "3189",
+      "OtherPostCode": null,
+      "Latitude": -36.86425018310547,
+      "Longitude": 144.31036376953125,
+      "FullAddress": "P O BOX 3234\r\nMOORABBIN EAST VIC 3189\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "27098663",
+        "FullNumber": "61 4 27098663"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Brenda",
+    "SecondName": "Catherine",
+    "FamilyName": "Brown",
+    "PostNominal": null,
+    "FullName": "Ms Brenda Catherine Brown",
+    "GivenName": "Brenda Catherine"
+  },
+  "MARN": "0850453",
+  "IsNoFee": false,
+  "ContactId": "63a1a47d-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Ireland"
+  ],
+  "OtherNames": [
+    {
+      "Id": "79da22fc-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Brooks",
+      "FirstName": "Brenda",
+      "SecondName": "Catherine",
+      "Alias": null,
+      "GivenName": "Brenda Catherine"
+    },
+    {
+      "Id": "82da22fc-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Reid",
+      "FirstName": "Brenda",
+      "SecondName": "Catherine",
+      "Alias": null,
+      "GivenName": "Brenda Catherine"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

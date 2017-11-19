@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6660285887421",
+    "CRN": "66602858874216",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b7884878-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "New Elite Victoria Pty Ltd",
+    "Name": "New Elite Victoria Pty Ltd",
+    "ABN": "65124666342",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Adam Wong & Associates",
+      "AddressLine2": "Level 12, 45 William Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.81868,
+      "Longitude": 144.95931,
+      "FullAddress": "Adam Wong & Associates\r\nLevel 12, 45 William Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "96045000",
+        "FullNumber": "61 03 96045000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "96212080",
+        "FullNumber": "61 03 96212080"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6669542593358",
+      "CRN": "66695425933583",
+      "IsProfileLockedOut": null,
+      "BusinessId": "9c5ccc9f-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Sinolink Migration Services Pty Ltd",
+      "Name": "Sinolink Migration Services Pty Ltd",
+      "ABN": "60151800056",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 12",
+        "AddressLine2": "45 William Street",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.81854,
+        "Longitude": 144.95923,
+        "FullAddress": "Level 12\r\n45 William Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MELBOURNE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96045000",
+          "FullNumber": "61 3 96045000"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96212080",
+          "FullNumber": "61 3 96212080"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6660285887421",
+    "CRN": "66602858874216",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b7884878-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "New Elite Victoria Pty Ltd",
+    "Name": "New Elite Victoria Pty Ltd",
+    "ABN": "65124666342",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Adam Wong & Associates",
+      "AddressLine2": "Level 12, 45 William Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.81868,
+      "Longitude": 144.95931,
+      "FullAddress": "Adam Wong & Associates\r\nLevel 12, 45 William Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "96045000",
+        "FullNumber": "61 03 96045000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "96212080",
+        "FullNumber": "61 03 96212080"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Lok",
+    "SecondName": "Ting",
+    "FamilyName": "Wong",
+    "PostNominal": null,
+    "FullName": "Mr Lok Ting Wong",
+    "GivenName": "Lok Ting"
+  },
+  "MARN": "0534069",
+  "IsNoFee": false,
+  "ContactId": "ce97e86b-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "dca93fb4-0453-e311-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Adam  Wong",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Adam  Wong"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

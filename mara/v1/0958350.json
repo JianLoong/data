@@ -1,0 +1,468 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3450698457433",
+    "CRN": "34506984574332",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5d466331-531a-42ac-8464-e35bfdadb170",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LAYMENS LAWYERS PTY LTD",
+    "Name": "LAYMENS LAWYERS",
+    "ABN": "55162319520",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "12/6 Juniper Drive,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BREAKFAST POINT",
+      "OtherSuburb": null,
+      "PostCode": "2137",
+      "OtherPostCode": null,
+      "Latitude": -33.8430899,
+      "Longitude": 151.10945,
+      "FullAddress": "12/6 Juniper Drive,\r\nBREAKFAST POINT NSW 2137\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "04404555",
+        "FullNumber": "61 4 04404555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6663052556809",
+      "CRN": "66630525568092",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4f94fe17-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Hesperion Group Pty Ltd",
+      "Name": "Silvia P Levame & Associates (incorporating PROmigration Consultants)",
+      "ABN": "95113824669",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "59 Marian Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "ENMORE",
+        "OtherSuburb": null,
+        "PostCode": "2042",
+        "OtherPostCode": null,
+        "Latitude": -33.90072,
+        "Longitude": 151.17319,
+        "FullAddress": "59 Marian Street\r\nENMORE NSW 2042\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "ENMORE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "ENMORE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "95651516",
+          "FullNumber": "61 2 95651516"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "95907473",
+          "FullNumber": "61 2 95907473"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6656264030433",
+      "CRN": "66562640304337",
+      "IsProfileLockedOut": null,
+      "BusinessId": "fd435588-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "CG SOLICITORS PTY LTD",
+      "Name": "Coleman & Greig Solicitors",
+      "ABN": "73125176230",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 11,",
+        "AddressLine2": "100 George Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "PARRAMATTA",
+        "OtherSuburb": null,
+        "PostCode": "2150",
+        "OtherPostCode": null,
+        "Latitude": -33.8142,
+        "Longitude": 151.0065542,
+        "FullAddress": "Level 11,\r\n100 George Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "PARRAMATTA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "PARRAMATTA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98959200",
+          "FullNumber": "61 2 98959200"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98959290",
+          "FullNumber": "61 2 98959290"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6674001308689",
+      "CRN": "66740013086895",
+      "IsProfileLockedOut": null,
+      "BusinessId": "efb6f8a7-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Freedom Migration Pty Ltd",
+      "Name": "Freedom Migration Pty Ltd",
+      "ABN": "164 618 866",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 22,",
+        "AddressLine2": "69 Ann Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRISBANE CITY",
+        "OtherSuburb": null,
+        "PostCode": "4000",
+        "OtherPostCode": null,
+        "Latitude": -27.46908,
+        "Longitude": 153.02263,
+        "FullAddress": "Level 22,\r\n69 Ann Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BRISBANE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BRISBANE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "404708686",
+          "FullNumber": "61 4 404708686"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3450698457433",
+    "CRN": "34506984574332",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5d466331-531a-42ac-8464-e35bfdadb170",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LAYMENS LAWYERS PTY LTD",
+    "Name": "LAYMENS LAWYERS",
+    "ABN": "55162319520",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "12/6 Juniper Drive,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BREAKFAST POINT",
+      "OtherSuburb": null,
+      "PostCode": "2137",
+      "OtherPostCode": null,
+      "Latitude": -33.8430899,
+      "Longitude": 151.10945,
+      "FullAddress": "12/6 Juniper Drive,\r\nBREAKFAST POINT NSW 2137\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "04404555",
+        "FullNumber": "61 4 04404555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Benjamin",
+    "SecondName": "Joseph",
+    "FamilyName": "Hakim",
+    "PostNominal": null,
+    "FullName": "Mr Benjamin Joseph Hakim",
+    "GivenName": "Benjamin Joseph"
+  },
+  "MARN": "0958350",
+  "IsNoFee": false,
+  "ContactId": "62e26e02-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "e2e1fa31-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hakim",
+      "FirstName": "Ben",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Ben"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

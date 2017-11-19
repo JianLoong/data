@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5789314097860",
+    "CRN": "57893140978609",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1e02dc6f-b52b-493b-9ab4-21063a8c5863",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MCGOVERNMIGRATION PTY. LTD.",
+    "Name": "MCGOVERNMIGRATION PTY. LTD.",
+    "ABN": "54168484080",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2c May Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "NOLLAMARA",
+      "OtherSuburb": null,
+      "PostCode": "6061",
+      "OtherPostCode": null,
+      "Latitude": -31.8863,
+      "Longitude": 115.850832,
+      "FullAddress": "2c May Court\r\nNOLLAMARA WA 6061\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "61618854",
+        "FullNumber": "61 8 61618854"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6673682346100",
+      "CRN": "66736823461004",
+      "IsProfileLockedOut": null,
+      "BusinessId": "64fbb095-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Miss Caroline McGovern",
+      "Name": "Miss Caroline McGovern",
+      "ABN": "74323668403",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2C May Court",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "NOLLAMARA",
+        "OtherSuburb": null,
+        "PostCode": "6061",
+        "OtherPostCode": null,
+        "Latitude": -31.8863,
+        "Longitude": 115.85083,
+        "FullAddress": "2C May Court\r\nNOLLAMARA WA 6061\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "NOLLAMARA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "NOLLAMARA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "61618854",
+          "FullNumber": "61 8 61618854"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5789314097860",
+    "CRN": "57893140978609",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1e02dc6f-b52b-493b-9ab4-21063a8c5863",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MCGOVERNMIGRATION PTY. LTD.",
+    "Name": "MCGOVERNMIGRATION PTY. LTD.",
+    "ABN": "54168484080",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2c May Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "NOLLAMARA",
+      "OtherSuburb": null,
+      "PostCode": "6061",
+      "OtherPostCode": null,
+      "Latitude": -31.8863,
+      "Longitude": 115.850832,
+      "FullAddress": "2c May Court\r\nNOLLAMARA WA 6061\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "61618854",
+        "FullNumber": "61 8 61618854"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Caroline",
+    "SecondName": "Teresa",
+    "FamilyName": "McGovern",
+    "PostNominal": null,
+    "FullName": "Miss Caroline Teresa McGovern",
+    "GivenName": "Caroline Teresa"
+  },
+  "MARN": "1386596",
+  "IsNoFee": false,
+  "ContactId": "1edffa1c-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Ireland"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Partner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6668209285319",
+    "CRN": "66682092853191",
+    "IsProfileLockedOut": null,
+    "BusinessId": "399e404e-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "A.C POON & S.S RONG & S.K Wong & P.W Yu",
+    "Name": "A.C POON & S.S RONG & S.K Wong & P.W Yu",
+    "ABN": "39167938931",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 3 Gowan Plaza,",
+      "AddressLine2": "210 Kameruka Street (and Gowan Road)",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CALAMVALE",
+      "OtherSuburb": null,
+      "PostCode": "4116",
+      "OtherPostCode": null,
+      "Latitude": -27.6252789,
+      "Longitude": 153.0594259,
+      "FullAddress": "Shop 3 Gowan Plaza,\r\n210 Kameruka Street (and Gowan Road)\r\nCALAMVALE QLD 4116\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "3711 5595",
+        "FullNumber": "61 7 3711 5595"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "3711 7795",
+        "FullNumber": "61 7 3711 7795"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Partner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6660324912616",
+      "CRN": "66603249126168",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c2884878-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "S RONG & S.K Wong & P.W Yu",
+      "Name": "S Rong & S K Wong & P W Yu",
+      "ABN": "36638839146",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Shop 3,",
+        "AddressLine2": "210 Kameruka Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "CALAMVALE",
+        "OtherSuburb": null,
+        "PostCode": "4116",
+        "OtherPostCode": null,
+        "Latitude": -27.624653,
+        "Longitude": 153.059213,
+        "FullAddress": "Shop 3,\r\n210 Kameruka Street\r\nCALAMVALE QLD 4116\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "RUNCORN",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "RUNCORN"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "37115595",
+          "FullNumber": "61 7 37115595"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "37117795",
+          "FullNumber": "61 7 37117795"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Partner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6668209285319",
+    "CRN": "66682092853191",
+    "IsProfileLockedOut": null,
+    "BusinessId": "399e404e-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "A.C POON & S.S RONG & S.K Wong & P.W Yu",
+    "Name": "A.C POON & S.S RONG & S.K Wong & P.W Yu",
+    "ABN": "39167938931",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 3 Gowan Plaza,",
+      "AddressLine2": "210 Kameruka Street (and Gowan Road)",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CALAMVALE",
+      "OtherSuburb": null,
+      "PostCode": "4116",
+      "OtherPostCode": null,
+      "Latitude": -27.6252789,
+      "Longitude": 153.0594259,
+      "FullAddress": "Shop 3 Gowan Plaza,\r\n210 Kameruka Street (and Gowan Road)\r\nCALAMVALE QLD 4116\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "3711 5595",
+        "FullNumber": "61 7 3711 5595"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "3711 7795",
+        "FullNumber": "61 7 3711 7795"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Sunny",
+    "SecondName": "Ka Lai",
+    "FamilyName": "Wong",
+    "PostNominal": null,
+    "FullName": "Mr Sunny Ka Lai Wong",
+    "GivenName": "Sunny Ka Lai"
+  },
+  "MARN": "0001187",
+  "IsNoFee": false,
+  "ContactId": "163bd988-9f52-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

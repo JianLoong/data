@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671906869053",
+    "CRN": "66719068690537",
+    "IsProfileLockedOut": null,
+    "BusinessId": "085bf92a-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "DM WHITEHOUSE & DF EGAN & P KUZIS & KB PROCTER & RS REID & BEN SWAIN FAMILY TRUST & DENEHEY FAMILY TRUST & THE ANDREW GAGGIN FAMILY TRUST",
+    "Name": "Murdoch Clarke",
+    "ABN": "94401833778",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "10 Victoria Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "TAS",
+      "OtherState": null,
+      "Suburb": "HOBART",
+      "OtherSuburb": null,
+      "PostCode": "7000",
+      "OtherPostCode": null,
+      "Latitude": -42.88483,
+      "Longitude": 147.32619,
+      "FullAddress": "10 Victoria Street\r\nHOBART TAS 7000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "HOBART",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "HOBART"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "62359311",
+        "FullNumber": "61 3 62359311"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5257022388838",
+      "CRN": "52570223888382",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b682ed1c-5cb5-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "Refugee Legal Service (Tas) Inc.",
+      "Name": "Refugee Legal Service (Tas) Inc.",
+      "ABN": "27 527 067 308",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "West Moonah Community House,",
+        "AddressLine2": "130 Springfield Ave",
+        "AddressLine3": null,
+        "State": "TAS",
+        "OtherState": null,
+        "Suburb": "WEST MOONAH",
+        "OtherSuburb": null,
+        "PostCode": "7009",
+        "OtherPostCode": null,
+        "Latitude": -42.84937,
+        "Longitude": 147.28077,
+        "FullAddress": "West Moonah Community House,\r\n130 Springfield Ave\r\nWEST MOONAH TAS 7009\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "62732362",
+          "FullNumber": "61 3 62732362"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671906869053",
+    "CRN": "66719068690537",
+    "IsProfileLockedOut": null,
+    "BusinessId": "085bf92a-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "DM WHITEHOUSE & DF EGAN & P KUZIS & KB PROCTER & RS REID & BEN SWAIN FAMILY TRUST & DENEHEY FAMILY TRUST & THE ANDREW GAGGIN FAMILY TRUST",
+    "Name": "Murdoch Clarke",
+    "ABN": "94401833778",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "10 Victoria Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "TAS",
+      "OtherState": null,
+      "Suburb": "HOBART",
+      "OtherSuburb": null,
+      "PostCode": "7000",
+      "OtherPostCode": null,
+      "Latitude": -42.88483,
+      "Longitude": 147.32619,
+      "FullAddress": "10 Victoria Street\r\nHOBART TAS 7000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "HOBART",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "HOBART"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "62359311",
+        "FullNumber": "61 3 62359311"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Thomas",
+    "SecondName": "Christopher",
+    "FamilyName": "Carr",
+    "PostNominal": null,
+    "FullName": "Mr Thomas Christopher Carr",
+    "GivenName": "Thomas Christopher"
+  },
+  "MARN": "1571384",
+  "IsNoFee": false,
+  "ContactId": "6cfc4edc-a029-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

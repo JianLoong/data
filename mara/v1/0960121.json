@@ -1,0 +1,373 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2427041633052",
+    "CRN": "24270416330526",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d03bc30d-c317-4101-a0a1-22e1d0e80cb5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "YML MIGRATION PTY. LTD.",
+    "Name": "YML MIGRATION PTY. LTD.",
+    "ABN": "68600383837",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1304, Level 13,",
+      "AddressLine2": "227 Little Collins Street,",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.8143639,
+      "Longitude": 144.9666287,
+      "FullAddress": "Suite 1304, Level 13,\r\n227 Little Collins Street,\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96714554",
+        "FullNumber": "61 3 96714554"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99236738",
+        "FullNumber": "61 3 99236738"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9556578152285",
+      "CRN": "95565781522857",
+      "IsProfileLockedOut": null,
+      "BusinessId": "063a04a5-2f9a-42a9-8b26-c00837327396",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MARRETT, ZACHARIAH ",
+      "Name": "THOSHLegal",
+      "ABN": "74863941190",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "17 Park Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "KOGARAH",
+        "OtherSuburb": null,
+        "PostCode": "2217",
+        "OtherPostCode": null,
+        "Latitude": -33.0633399,
+        "Longitude": 151.5817,
+        "FullAddress": "17 Park Street\r\nKOGARAH NSW 2217\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "51560451",
+          "FullNumber": "61 4 51560451"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "80763342",
+          "FullNumber": "61 2 80763342"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4367355458501",
+      "CRN": "43673554585011",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b445a8ec-a471-45b2-809d-68e6679e91e3",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "Skill Select Consulting Management",
+      "ABN": null,
+      "Address": {
+        "Country": "United Arab Emirates",
+        "AddressLine1": "Suite 212, Zainal Mohebi Plaza,",
+        "AddressLine2": "Opposite Centre Point",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Dubai",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 25.2695198059082,
+        "Longitude": 55.3088302612305,
+        "FullAddress": "Suite 212, Zainal Mohebi Plaza,\r\nOpposite Centre Point\r\nDubai \r\nUnited Arab Emirates"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "971",
+          "AreaCode": "42",
+          "Number": "844414",
+          "FullNumber": "971 42 844414"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2427041633052",
+    "CRN": "24270416330526",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d03bc30d-c317-4101-a0a1-22e1d0e80cb5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "YML MIGRATION PTY. LTD.",
+    "Name": "YML MIGRATION PTY. LTD.",
+    "ABN": "68600383837",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1304, Level 13,",
+      "AddressLine2": "227 Little Collins Street,",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.8143639,
+      "Longitude": 144.9666287,
+      "FullAddress": "Suite 1304, Level 13,\r\n227 Little Collins Street,\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96714554",
+        "FullNumber": "61 3 96714554"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99236738",
+        "FullNumber": "61 3 99236738"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Prakash",
+    "SecondName": null,
+    "FamilyName": "Srinivasan",
+    "PostNominal": null,
+    "FullName": "Mr Prakash Srinivasan",
+    "GivenName": "Prakash"
+  },
+  "MARN": "0960121",
+  "IsNoFee": false,
+  "ContactId": "0489911a-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "India"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

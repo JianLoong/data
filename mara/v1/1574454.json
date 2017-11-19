@@ -1,0 +1,211 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6601691815635",
+    "CRN": "66016918156353",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6b20b906-cb46-e511-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "The Trustee for THE JJ & JE WORCESTER FAMILY TRUST",
+    "Name": "Worcester Pty Ltd",
+    "ABN": "25 376 103 922",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1",
+      "AddressLine2": "38 Cavill Avenue",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SURFERS PARADISE",
+      "OtherSuburb": null,
+      "PostCode": "4217",
+      "OtherPostCode": null,
+      "Latitude": -28.002019,
+      "Longitude": 153.427734,
+      "FullAddress": "Level 1\r\n38 Cavill Avenue\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55383688",
+        "FullNumber": "61 7 55383688"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55384216",
+        "FullNumber": "61 7 55384216"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6601691815635",
+    "CRN": "66016918156353",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6b20b906-cb46-e511-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "The Trustee for THE JJ & JE WORCESTER FAMILY TRUST",
+    "Name": "Worcester Pty Ltd",
+    "ABN": "25 376 103 922",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1",
+      "AddressLine2": "38 Cavill Avenue",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SURFERS PARADISE",
+      "OtherSuburb": null,
+      "PostCode": "4217",
+      "OtherPostCode": null,
+      "Latitude": -28.002019,
+      "Longitude": 153.427734,
+      "FullAddress": "Level 1\r\n38 Cavill Avenue\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55383688",
+        "FullNumber": "61 7 55383688"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55384216",
+        "FullNumber": "61 7 55384216"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Hong",
+    "SecondName": null,
+    "FamilyName": "He",
+    "PostNominal": null,
+    "FullName": "Mrs Hong He",
+    "GivenName": "Hong"
+  },
+  "MARN": "1574454",
+  "IsNoFee": false,
+  "ContactId": "f75b4cec-07ef-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "China"
+  ],
+  "OtherNames": [
+    {
+      "Id": "66ceba76-8644-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Nancy He",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Nancy He"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

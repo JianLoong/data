@@ -1,0 +1,299 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3306331454017",
+    "CRN": "33063314540173",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a7385001-f62d-48fe-8e51-d239e404b83c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PLUS61 EDUCATION AND MIGRATION PTY LTD",
+    "Name": "PLUS61 EDUCATION AND MIGRATION PTY LTD",
+    "ABN": "58600440417",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "3 Leaf Close",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MIDDLE PARK",
+      "OtherSuburb": null,
+      "PostCode": "4074",
+      "OtherPostCode": null,
+      "Latitude": -27.56031,
+      "Longitude": 152.92022,
+      "FullAddress": "3 Leaf Close\r\nMIDDLE PARK QLD 4074\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "405",
+        "Number": "989308",
+        "FullNumber": "61 405 989308"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6672025994963",
+      "CRN": "66720259949637",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6aed1131-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "DELOITTE TAX SERVICES PTY LTD",
+      "Name": "Deloitte Tax Services Pty Ltd",
+      "ABN": "41092223240",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "550 Bourke St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.81572,
+        "Longitude": 144.95729,
+        "FullAddress": "550 Bourke St\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96718731",
+          "FullNumber": "61 3 96718731"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96918493",
+          "FullNumber": "61 3 96918493"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3306331454017",
+    "CRN": "33063314540173",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a7385001-f62d-48fe-8e51-d239e404b83c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PLUS61 EDUCATION AND MIGRATION PTY LTD",
+    "Name": "PLUS61 EDUCATION AND MIGRATION PTY LTD",
+    "ABN": "58600440417",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "3 Leaf Close",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MIDDLE PARK",
+      "OtherSuburb": null,
+      "PostCode": "4074",
+      "OtherPostCode": null,
+      "Latitude": -27.56031,
+      "Longitude": 152.92022,
+      "FullAddress": "3 Leaf Close\r\nMIDDLE PARK QLD 4074\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "405",
+        "Number": "989308",
+        "FullNumber": "61 405 989308"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Fang",
+    "SecondName": null,
+    "FamilyName": "Jia",
+    "PostNominal": null,
+    "FullName": "Ms Fang Jia",
+    "GivenName": "Fang"
+  },
+  "MARN": "1463452",
+  "IsNoFee": false,
+  "ContactId": "816e3234-2eb9-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "China"
+  ],
+  "OtherNames": [
+    {
+      "Id": "96ac46ab-5f2a-46f2-a85c-a4524b0d2223",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Fang Ella Jia",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Fang Ella Jia"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2144057550770",
+    "CRN": "21440575507707",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4948ba29-141b-440c-814d-47ed9dad07b0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LESCHENAULTIA BLUE PTY LTD",
+    "Name": "LESCHENAULTIA BLUE PTY LTD",
+    "ABN": "65165125842",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "27 Boronia Crescent,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "CITY BEACH",
+      "OtherSuburb": null,
+      "PostCode": "6015",
+      "OtherPostCode": null,
+      "Latitude": -31.931918,
+      "Longitude": 115.764739,
+      "FullAddress": "27 Boronia Crescent,\r\nCITY BEACH WA 6015\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "92851175",
+        "FullNumber": "61 8 92851175"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6659230546501",
+      "CRN": "66592305465011",
+      "IsProfileLockedOut": null,
+      "BusinessId": "103cb634-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "KOALA OZ MIGRATION PTY LTD",
+      "Name": "KOALA OZ MIGRATION PTY LTD",
+      "ABN": "30122274686",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "27 Boronia Crescent",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "CITY BEACH",
+        "OtherSuburb": null,
+        "PostCode": "6015",
+        "OtherPostCode": null,
+        "Latitude": -31.93192,
+        "Longitude": 115.76474,
+        "FullAddress": "27 Boronia Crescent\r\nCITY BEACH WA 6015\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "CITY BEACH",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "CITY BEACH"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "92851175",
+          "FullNumber": "61 08 92851175"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "93858968",
+          "FullNumber": "61 08 93858968"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2144057550770",
+    "CRN": "21440575507707",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4948ba29-141b-440c-814d-47ed9dad07b0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LESCHENAULTIA BLUE PTY LTD",
+    "Name": "LESCHENAULTIA BLUE PTY LTD",
+    "ABN": "65165125842",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "27 Boronia Crescent,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "CITY BEACH",
+      "OtherSuburb": null,
+      "PostCode": "6015",
+      "OtherPostCode": null,
+      "Latitude": -31.931918,
+      "Longitude": 115.764739,
+      "FullAddress": "27 Boronia Crescent,\r\nCITY BEACH WA 6015\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "92851175",
+        "FullNumber": "61 8 92851175"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Deanne",
+    "SecondName": "Temple",
+    "FamilyName": "Scott",
+    "PostNominal": null,
+    "FullName": "Ms Deanne Temple Scott",
+    "GivenName": "Deanne Temple"
+  },
+  "MARN": "0006911",
+  "IsNoFee": false,
+  "ContactId": "c86e18c5-9f52-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

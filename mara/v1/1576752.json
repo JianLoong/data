@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1132145313345",
+    "CRN": "11321453133453",
+    "IsProfileLockedOut": null,
+    "BusinessId": "95cdb54c-4e39-4c53-ae2e-233bb034df12",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Offshore Services Pvt Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "India",
+      "AddressLine1": "934, 10th Floor",
+      "AddressLine2": "Westend Mall",
+      "AddressLine3": "Janakpuri West",
+      "State": null,
+      "OtherState": "Punjab",
+      "Suburb": "Other",
+      "OtherSuburb": "Delhi",
+      "PostCode": "Other",
+      "OtherPostCode": "110058",
+      "Latitude": 28.61235,
+      "Longitude": 77.09331,
+      "FullAddress": "934, 10th Floor\r\nWestend Mall\r\nJanakpuri West\r\nDelhi 110058\r\nIndia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "91",
+        "AreaCode": "11",
+        "Number": "40104797",
+        "FullNumber": "91 11 40104797"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2095096685636",
+      "CRN": "20950966856365",
+      "IsProfileLockedOut": null,
+      "BusinessId": "74f0ff5f-0a75-4be6-9cee-2e5f4e69545e",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "OFFSHORE PROFESSIONAL SERVICES PTY LTD",
+      "Name": "OFFSHORE PROFESSIONAL SERVICES PTY LTD",
+      "ABN": "68619784628",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 1 A",
+        "AddressLine2": "Level 2 ",
+        "AddressLine3": "802 Pacific Highway Gordon ",
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "GORDON",
+        "OtherSuburb": null,
+        "PostCode": "2072",
+        "OtherPostCode": null,
+        "Latitude": -33.75537,
+        "Longitude": 151.15187,
+        "FullAddress": "Suite 1 A\r\nLevel 2 \r\n802 Pacific Highway Gordon \r\nGORDON NSW 2072\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+61",
+          "AreaCode": "04",
+          "Number": "81339100",
+          "FullNumber": "+61 04 81339100"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1132145313345",
+    "CRN": "11321453133453",
+    "IsProfileLockedOut": null,
+    "BusinessId": "95cdb54c-4e39-4c53-ae2e-233bb034df12",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Offshore Services Pvt Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "India",
+      "AddressLine1": "934, 10th Floor",
+      "AddressLine2": "Westend Mall",
+      "AddressLine3": "Janakpuri West",
+      "State": null,
+      "OtherState": "Punjab",
+      "Suburb": "Other",
+      "OtherSuburb": "Delhi",
+      "PostCode": "Other",
+      "OtherPostCode": "110058",
+      "Latitude": 28.61235,
+      "Longitude": 77.09331,
+      "FullAddress": "934, 10th Floor\r\nWestend Mall\r\nJanakpuri West\r\nDelhi 110058\r\nIndia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "91",
+        "AreaCode": "11",
+        "Number": "40104797",
+        "FullNumber": "91 11 40104797"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Gurjeet",
+    "SecondName": null,
+    "FamilyName": "Singh",
+    "PostNominal": null,
+    "FullName": "Mr Gurjeet Singh",
+    "GivenName": "Gurjeet"
+  },
+  "MARN": "1576752",
+  "IsNoFee": false,
+  "ContactId": "2604179e-6c58-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

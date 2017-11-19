@@ -1,0 +1,468 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5340364170845",
+    "CRN": "53403641708454",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b7f8f6dc-b68f-e411-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DEVARAPALLI, VENKATESWARA RAO",
+    "Name": "Swan Migration",
+    "ABN": "36 617 938 025",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 27 St Martins Tower,",
+      "AddressLine2": "44  St Georges Terrace",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.9552137,
+      "Longitude": 115.8593427,
+      "FullAddress": "Level 27 St Martins Tower,\r\n44  St Georges Terrace\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "94990708",
+        "FullNumber": "61 8 94990708"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6666796536681",
+      "CRN": "66667965366813",
+      "IsProfileLockedOut": null,
+      "BusinessId": "77e9b9fc-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "DEVARAPALLI, VENKATESWARA RAO",
+      "Name": "Swan Migration",
+      "ABN": "36617938025",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "23 Kirkby Circuit",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "WELLARD",
+        "OtherSuburb": null,
+        "PostCode": "6170",
+        "OtherPostCode": null,
+        "Latitude": -32.05232238769531,
+        "Longitude": 115.80047607421875,
+        "FullAddress": "23 Kirkby Circuit\r\nWELLARD WA 6170\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "-",
+          "AreaCode": "-",
+          "Number": "-",
+          "FullNumber": "- - -"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6673194931016",
+      "CRN": "66731949310167",
+      "IsProfileLockedOut": null,
+      "BusinessId": "80148776-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "MOREVISAS PTY LTD",
+      "Name": "MOREVISAS PTY LTD",
+      "ABN": "85163919917",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "23",
+        "AddressLine2": "Kirkby Circuit",
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "WELLARD",
+        "OtherSuburb": null,
+        "PostCode": "6170",
+        "OtherPostCode": null,
+        "Latitude": -33.81538,
+        "Longitude": 151.00234,
+        "FullAddress": "23\r\nKirkby Circuit\r\nWELLARD WA 6170\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "PARRAMATTA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "PARRAMATTA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "94990708",
+          "FullNumber": "61 08 94990708"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6672899151514",
+      "CRN": "66728991515146",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d2356364-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Opulentus Overseas Careers Pty Ltd",
+      "Name": "Opulentus Overseas Careers Pty Ltd.",
+      "ABN": "17163939446",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 1 Suite 37",
+        "AddressLine2": "48-50 George Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "PARRAMATTA",
+        "OtherSuburb": null,
+        "PostCode": "2150",
+        "OtherPostCode": null,
+        "Latitude": -33.813529,
+        "Longitude": 151.004898,
+        "FullAddress": "Level 1 Suite 37\r\n48-50 George Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "94990708",
+          "FullNumber": "61 8 94990708"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5340364170845",
+    "CRN": "53403641708454",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b7f8f6dc-b68f-e411-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DEVARAPALLI, VENKATESWARA RAO",
+    "Name": "Swan Migration",
+    "ABN": "36 617 938 025",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 27 St Martins Tower,",
+      "AddressLine2": "44  St Georges Terrace",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.9552137,
+      "Longitude": 115.8593427,
+      "FullAddress": "Level 27 St Martins Tower,\r\n44  St Georges Terrace\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "94990708",
+        "FullNumber": "61 8 94990708"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Venkateswara",
+    "SecondName": "Rao",
+    "FamilyName": "Devarapalli",
+    "PostNominal": null,
+    "FullName": "Mr Venkateswara Rao Devarapalli",
+    "GivenName": "Venkateswara Rao"
+  },
+  "MARN": "1171988",
+  "IsNoFee": false,
+  "ContactId": "00c259ee-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "8169ab91-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Devarapalli",
+      "FirstName": "Venkat",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Venkat"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

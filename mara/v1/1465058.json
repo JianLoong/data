@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4010323138316",
+    "CRN": "40103231383163",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e5ed35f4-60eb-4da3-82cc-13ba8e8314e8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "REGENT INVESTMENT GROUP PTY. LTD.",
+    "Name": "MULBRIDGE LAWYERS",
+    "ABN": "74607940376",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "576 Sydney Road ",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BRUNSWICK",
+      "OtherSuburb": null,
+      "PostCode": "3056",
+      "OtherPostCode": null,
+      "Latitude": -37.76435,
+      "Longitude": 144.9627999,
+      "FullAddress": "576 Sydney Road \r\nBRUNSWICK VIC 3056\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "83832165",
+        "FullNumber": "61 3 83832165"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "25928555",
+        "FullNumber": "61 4 25928555"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4115083283340",
+      "CRN": "41150832833407",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3ed16bcb-432d-4dc5-acfa-e5bcbd20b378",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "REGENT INVESTMENT GROUP PTY. LTD.",
+      "Name": "RIG Migration",
+      "ABN": "74607940376",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 10B, Level 1",
+        "AddressLine2": "100 Furlong Road",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "CAIRNLEA",
+        "OtherSuburb": null,
+        "PostCode": "3023",
+        "OtherPostCode": null,
+        "Latitude": -37.76146,
+        "Longitude": 144.82278,
+        "FullAddress": "Suite 10B, Level 1\r\n100 Furlong Road\r\nCAIRNLEA VIC 3023\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "06046263",
+          "FullNumber": "61 4 06046263"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4010323138316",
+    "CRN": "40103231383163",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e5ed35f4-60eb-4da3-82cc-13ba8e8314e8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "REGENT INVESTMENT GROUP PTY. LTD.",
+    "Name": "MULBRIDGE LAWYERS",
+    "ABN": "74607940376",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "576 Sydney Road ",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BRUNSWICK",
+      "OtherSuburb": null,
+      "PostCode": "3056",
+      "OtherPostCode": null,
+      "Latitude": -37.76435,
+      "Longitude": 144.9627999,
+      "FullAddress": "576 Sydney Road \r\nBRUNSWICK VIC 3056\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "83832165",
+        "FullNumber": "61 3 83832165"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "25928555",
+        "FullNumber": "61 4 25928555"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Roger",
+    "SecondName": "Akosah",
+    "FamilyName": "Yeboah",
+    "PostNominal": null,
+    "FullName": "Mr Roger Akosah Yeboah",
+    "GivenName": "Roger Akosah"
+  },
+  "MARN": "1465058",
+  "IsNoFee": false,
+  "ContactId": "74ceff54-4b82-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

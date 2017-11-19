@@ -1,0 +1,468 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1883873947352",
+    "CRN": "18838739473523",
+    "IsProfileLockedOut": null,
+    "BusinessId": "34a65a27-460d-e411-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTIN HAWORTH & LEXON (AUSTRALIA) PTY LTD",
+    "Name": "AUSTIN HAWORTH & LEXON LEGAL (SYDNEY)",
+    "ABN": "52 137 525 476",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1204-1207",
+      "AddressLine2": "Level 1, 87-89 Liverpool Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87727,
+      "Longitude": 151.20669,
+      "FullAddress": "Suite 1204-1207\r\nLevel 1, 87-89 Liverpool Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92676060",
+        "FullNumber": "61 2 92676060"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92676969",
+        "FullNumber": "61 2 92676969"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8626097830557",
+      "CRN": "86260978305570",
+      "IsProfileLockedOut": null,
+      "BusinessId": "538d30df-5568-4acf-b675-0511a63dd3fe",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "AHL LEGAL (BURWOOD) PTY. LTD.",
+      "Name": "AHL LEGAL (BURWOOD) PTY. LTD.",
+      "ABN": "55615657102",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "GM TOWER",
+        "AddressLine2": "Suite 201-202， Level 2",
+        "AddressLine3": "11-15 Deane Street， Burwood NSW 2134",
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BURWOOD",
+        "OtherSuburb": null,
+        "PostCode": "2134",
+        "OtherPostCode": null,
+        "Latitude": -33.8766,
+        "Longitude": 151.10487,
+        "FullAddress": "GM TOWER\r\nSuite 201-202， Level 2\r\n11-15 Deane Street， Burwood NSW 2134\r\nBURWOOD NSW 2134\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "97456060",
+          "FullNumber": "61 2 97456060"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1915188050782",
+      "CRN": "19151880507825",
+      "IsProfileLockedOut": null,
+      "BusinessId": "aa228578-4d0d-e411-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "JAMES DANIEL SHEEN",
+      "Name": "AHL Legal (Shanghai)",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "Xin Tian Di （新天地）",
+        "AddressLine2": "Level 3",
+        "AddressLine3": "150 Liulin Road, Shanghai",
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": "Shanghai",
+        "PostCode": null,
+        "OtherPostCode": "200020",
+        "Latitude": 31.218069,
+        "Longitude": 121.462367,
+        "FullAddress": "Xin Tian Di （新天地）\r\nLevel 3\r\n150 Liulin Road, Shanghai\r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "21",
+          "Number": "60565707",
+          "FullNumber": "86 21 60565707"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9180492192286",
+      "CRN": "91804921922868",
+      "IsProfileLockedOut": null,
+      "BusinessId": "25f8d90d-a69f-4ebb-a4ec-bc1ab469b000",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "JAMES DANIEL SHEEN",
+      "Name": "AHL Legal",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "World Tower (Commercial)",
+        "AddressLine2": "Suite 1204-1207",
+        "AddressLine3": "87-89 LIVERPOOL STREET",
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.876632,
+        "Longitude": 151.207681,
+        "FullAddress": "World Tower (Commercial)\r\nSuite 1204-1207\r\n87-89 LIVERPOOL STREET\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92676060",
+          "FullNumber": "61 2 92676060"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1883873947352",
+    "CRN": "18838739473523",
+    "IsProfileLockedOut": null,
+    "BusinessId": "34a65a27-460d-e411-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTIN HAWORTH & LEXON (AUSTRALIA) PTY LTD",
+    "Name": "AUSTIN HAWORTH & LEXON LEGAL (SYDNEY)",
+    "ABN": "52 137 525 476",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1204-1207",
+      "AddressLine2": "Level 1, 87-89 Liverpool Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87727,
+      "Longitude": 151.20669,
+      "FullAddress": "Suite 1204-1207\r\nLevel 1, 87-89 Liverpool Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92676060",
+        "FullNumber": "61 2 92676060"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92676969",
+        "FullNumber": "61 2 92676969"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "James",
+    "SecondName": "Daniel",
+    "FamilyName": "Sheen",
+    "PostNominal": null,
+    "FullName": "Mr James Daniel Sheen",
+    "GivenName": "James Daniel"
+  },
+  "MARN": "0319262",
+  "IsNoFee": false,
+  "ContactId": "fc270cab-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "79a53ae4-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Shen",
+      "FirstName": "Daniel",
+      "SecondName": "Hanbing",
+      "Alias": null,
+      "GivenName": "Daniel Hanbing"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3463034616563",
+    "CRN": "34630346165630",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f8e87c2c-75d4-4144-a135-8cb36e1667b5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ABOVE QUALITY (AQ) PTY LTD",
+    "Name": "Above Quality Migration",
+    "ABN": "55162155964",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "18/39 Aerodrome Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CABOOLTURE",
+      "OtherSuburb": null,
+      "PostCode": "4510",
+      "OtherPostCode": null,
+      "Latitude": -27.08233,
+      "Longitude": 152.98174,
+      "FullAddress": "18/39 Aerodrome Road\r\nCABOOLTURE QLD 4510\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "0426261907",
+        "FullNumber": "61 04 0426261907"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1715013555170",
+      "CRN": "17150135551705",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c6eb6eb7-c69b-4ba6-9104-6239ff36ffbb",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "International Business",
+      "Name": "Maranon Travel & Tours Agency",
+      "ABN": null,
+      "Address": {
+        "Country": "Philippines",
+        "AddressLine1": "Bacolod",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Bacolod",
+        "Suburb": "Other",
+        "OtherSuburb": "Bacolod City",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 10.6663,
+        "Longitude": 122.94902,
+        "FullAddress": "Bacolod\r\nBacolod City \r\nPhilippines"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "04",
+          "Number": "0451529920",
+          "FullNumber": "61 04 0451529920"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3463034616563",
+    "CRN": "34630346165630",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f8e87c2c-75d4-4144-a135-8cb36e1667b5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ABOVE QUALITY (AQ) PTY LTD",
+    "Name": "Above Quality Migration",
+    "ABN": "55162155964",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "18/39 Aerodrome Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CABOOLTURE",
+      "OtherSuburb": null,
+      "PostCode": "4510",
+      "OtherPostCode": null,
+      "Latitude": -27.08233,
+      "Longitude": 152.98174,
+      "FullAddress": "18/39 Aerodrome Road\r\nCABOOLTURE QLD 4510\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "0426261907",
+        "FullNumber": "61 04 0426261907"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Reynaldo Jr",
+    "SecondName": "Manahan",
+    "FamilyName": "Aquino",
+    "PostNominal": null,
+    "FullName": "Mr Reynaldo Jr Manahan Aquino",
+    "GivenName": "Reynaldo Jr Manahan"
+  },
+  "MARN": "1279638",
+  "IsNoFee": false,
+  "ContactId": "bca7a68b-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

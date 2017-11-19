@@ -1,0 +1,200 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666016422552",
+    "CRN": "66660164225529",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e1640aca-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSSLAW PTY. LTD.",
+    "Name": "Australian Law Group",
+    "ABN": "89125972607",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 4",
+      "AddressLine2": "31 Sherwood Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "TOOWONG",
+      "OtherSuburb": null,
+      "PostCode": "4066",
+      "OtherPostCode": null,
+      "Latitude": -27.48517,
+      "Longitude": 152.991836,
+      "FullAddress": "Level 4\r\n31 Sherwood Road\r\nTOOWONG QLD 4066\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "TOOWONG",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "TOOWONG"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33712666",
+        "FullNumber": "61 07 33712666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33718676",
+        "FullNumber": "61 07 33718676"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666016422552",
+    "CRN": "66660164225529",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e1640aca-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSSLAW PTY. LTD.",
+    "Name": "Australian Law Group",
+    "ABN": "89125972607",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 4",
+      "AddressLine2": "31 Sherwood Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "TOOWONG",
+      "OtherSuburb": null,
+      "PostCode": "4066",
+      "OtherPostCode": null,
+      "Latitude": -27.48517,
+      "Longitude": 152.991836,
+      "FullAddress": "Level 4\r\n31 Sherwood Road\r\nTOOWONG QLD 4066\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "TOOWONG",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "TOOWONG"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33712666",
+        "FullNumber": "61 07 33712666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33718676",
+        "FullNumber": "61 07 33718676"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Cipriano",
+    "SecondName": "Michael",
+    "FamilyName": "Blanco",
+    "PostNominal": null,
+    "FullName": "Mr Cipriano Michael Blanco",
+    "GivenName": "Cipriano Michael"
+  },
+  "MARN": "0964183",
+  "IsNoFee": false,
+  "ContactId": "28977163-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Philippines"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

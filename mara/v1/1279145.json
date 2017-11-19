@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9724797308867",
+    "CRN": "97247973088678",
+    "IsProfileLockedOut": null,
+    "BusinessId": "32a5d7ce-4357-41aa-b55b-883e5a82eff4",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN LEGAL AND MIGRATION VISA SERVICES PTY. LTD.",
+    "Name": "AUSTRALIAN LEGAL AND MIGRATION VISA SERVICES PTY. LTD.",
+    "ABN": "41169130385",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "PO Box 577",
+      "AddressLine2": "Waterford West",
+      "AddressLine3": "Brisbane",
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WATERFORD WEST",
+      "OtherSuburb": null,
+      "PostCode": "4133",
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PO Box 577\r\nWaterford West\r\nBrisbane\r\nWATERFORD WEST QLD 4133\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "31331783",
+        "FullNumber": "61 07 31331783"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "31331783",
+        "FullNumber": "61 07 31331783"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9454222815738",
+      "CRN": "94542228157384",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a053b58b-84e4-43bc-b171-fa75dd6ef8de",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "AKS Lawyers ",
+      "Name": "AKS Lawyers",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "221 Hotz Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "LOGAN VILLAGE",
+        "OtherSuburb": null,
+        "PostCode": "4207",
+        "OtherPostCode": null,
+        "Latitude": -27.79014,
+        "Longitude": 153.08254,
+        "FullAddress": "221 Hotz Road\r\nLOGAN VILLAGE QLD 4207\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+61",
+          "AreaCode": "4",
+          "Number": "77370858",
+          "FullNumber": "+61 4 77370858"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9724797308867",
+    "CRN": "97247973088678",
+    "IsProfileLockedOut": null,
+    "BusinessId": "32a5d7ce-4357-41aa-b55b-883e5a82eff4",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN LEGAL AND MIGRATION VISA SERVICES PTY. LTD.",
+    "Name": "AUSTRALIAN LEGAL AND MIGRATION VISA SERVICES PTY. LTD.",
+    "ABN": "41169130385",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "PO Box 577",
+      "AddressLine2": "Waterford West",
+      "AddressLine3": "Brisbane",
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WATERFORD WEST",
+      "OtherSuburb": null,
+      "PostCode": "4133",
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PO Box 577\r\nWaterford West\r\nBrisbane\r\nWATERFORD WEST QLD 4133\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "31331783",
+        "FullNumber": "61 07 31331783"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "31331783",
+        "FullNumber": "61 07 31331783"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Amanda",
+    "SecondName": "Kathleen",
+    "FamilyName": "Scott",
+    "PostNominal": null,
+    "FullName": "Ms Amanda Kathleen Scott",
+    "GivenName": "Amanda Kathleen"
+  },
+  "MARN": "1279145",
+  "IsNoFee": false,
+  "ContactId": "478a8e85-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f3047fc7-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Brunskill",
+      "FirstName": "Amanda",
+      "SecondName": "Kathleen",
+      "Alias": null,
+      "GivenName": "Amanda Kathleen"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

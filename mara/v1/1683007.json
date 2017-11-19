@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3945799507040",
+    "CRN": "39457995070403",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c41becac-265c-4ea4-91a3-4bd12404754a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business",
+    "Name": "SGMC (Sunil Ghai Migration Consultant)",
+    "ABN": null,
+    "Address": {
+      "Country": "India",
+      "AddressLine1": "Chamber 338, Patiala House Courts,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "India Gate, Delhi",
+      "PostCode": "Other",
+      "OtherPostCode": "110001",
+      "Latitude": 28.6225490570068,
+      "Longitude": 77.2232818603516,
+      "FullAddress": "Chamber 338, Patiala House Courts,\r\nIndia Gate, Delhi 110001\r\nIndia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "91",
+        "AreaCode": "11",
+        "Number": "9811142338",
+        "FullNumber": "91 11 9811142338"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3933135403406",
+      "CRN": "39331354034064",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0b3d8833-c6ff-4fa3-a972-e03d7f9c0544",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "Visas Avenue Pvt. Ltd.",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "121,122,123, 1st Floor,38, Ansal Tower",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Nehru Place, New Delhi",
+        "PostCode": "Other",
+        "OtherPostCode": "110019",
+        "Latitude": 28.54869,
+        "Longitude": 77.25072,
+        "FullAddress": "121,122,123, 1st Floor,38, Ansal Tower\r\nNehru Place, New Delhi 110019\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "11",
+          "Number": "48447777",
+          "FullNumber": "91 11 48447777"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3945799507040",
+    "CRN": "39457995070403",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c41becac-265c-4ea4-91a3-4bd12404754a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business",
+    "Name": "SGMC (Sunil Ghai Migration Consultant)",
+    "ABN": null,
+    "Address": {
+      "Country": "India",
+      "AddressLine1": "Chamber 338, Patiala House Courts,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "India Gate, Delhi",
+      "PostCode": "Other",
+      "OtherPostCode": "110001",
+      "Latitude": 28.6225490570068,
+      "Longitude": 77.2232818603516,
+      "FullAddress": "Chamber 338, Patiala House Courts,\r\nIndia Gate, Delhi 110001\r\nIndia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "91",
+        "AreaCode": "11",
+        "Number": "9811142338",
+        "FullNumber": "91 11 9811142338"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Sunil",
+    "SecondName": null,
+    "FamilyName": "Ghai",
+    "PostNominal": null,
+    "FullName": "Mr Sunil Ghai",
+    "GivenName": "Sunil"
+  },
+  "MARN": "1683007",
+  "IsNoFee": false,
+  "ContactId": "0cf5610d-ac20-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

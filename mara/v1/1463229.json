@@ -1,0 +1,230 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9327526321368",
+    "CRN": "93275263213689",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1e2a7009-886c-4a39-927c-ee5c2525e1a6",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Government Department",
+    "EntityName": "Department of Education and Early Childhood Development",
+    "Name": "Department of Education and Early Childhood Development",
+    "ABN": "52705101522",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2 Treasury Place",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "EAST MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3002",
+      "OtherPostCode": null,
+      "Latitude": -37.813024,
+      "Longitude": 144.975991,
+      "FullAddress": "2 Treasury Place\r\nEAST MELBOURNE VIC 3002\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96372509",
+        "FullNumber": "61 3 96372509"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9327526321368",
+    "CRN": "93275263213689",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1e2a7009-886c-4a39-927c-ee5c2525e1a6",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Government Department",
+    "EntityName": "Department of Education and Early Childhood Development",
+    "Name": "Department of Education and Early Childhood Development",
+    "ABN": "52705101522",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2 Treasury Place",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "EAST MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3002",
+      "OtherPostCode": null,
+      "Latitude": -37.813024,
+      "Longitude": 144.975991,
+      "FullAddress": "2 Treasury Place\r\nEAST MELBOURNE VIC 3002\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96372509",
+        "FullNumber": "61 3 96372509"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Karen",
+    "SecondName": null,
+    "FamilyName": "Hermann",
+    "PostNominal": null,
+    "FullName": "Ms Karen Hermann",
+    "GivenName": "Karen"
+  },
+  "MARN": "1463229",
+  "IsNoFee": true,
+  "ContactId": "47a93e5f-258d-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "b9f9199a-3e7e-4477-b969-4076bc73bef0",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Karen Shapiro",
+      "GivenName": ""
+    },
+    {
+      "Id": "d89dcf66-047c-4dc7-85c3-51e26284c1f0",
+      "Type": "Former Name",
+      "FamilyName": "Shapiro",
+      "FirstName": "Karen",
+      "SecondName": "Lesley",
+      "Alias": null,
+      "GivenName": "Karen Lesley"
+    },
+    {
+      "Id": "83891013-8276-4357-b1b6-ecf9470a4e10",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Shapiro",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Karen Shapiro",
+    "Shapiro"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

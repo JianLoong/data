@@ -1,0 +1,383 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672485396276",
+    "CRN": "66724853962769",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6755bb4f-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Study Pro Pty Ltd",
+    "Name": "AVISA - Australian Visa immigration Skilled Agents",
+    "ABN": "49145951024",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": " Suite 308, 3rd Floor, 282 Victoria Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.7954999,
+      "Longitude": 151.1868,
+      "FullAddress": " Suite 308, 3rd Floor, 282 Victoria Avenue\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROCKDALE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROCKDALE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9411 6000",
+        "FullNumber": "61 2 9411 6000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": null,
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6658588910844",
+      "CRN": "66585889108443",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0ec62f10-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "SHAHI, MARYAM",
+      "Name": "Destiny Visa",
+      "ABN": "20532866844",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 7, 36 Carrington Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.86615,
+        "Longitude": 151.20659,
+        "FullAddress": "Level 7, 36 Carrington Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "SYDNEY"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "0433",
+          "Number": "692522",
+          "FullNumber": "61 0433 692522"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6654021230944",
+      "CRN": "66540212309440",
+      "IsProfileLockedOut": null,
+      "BusinessId": "226137ff-9552-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "REFUGEE ADVICE AND CASEWORK SERVICE (AUSTRALIA) INC",
+      "Name": "Refugee Advice and Casework Service (Australia) Inc",
+      "ABN": "46008173978",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1-3 Eurimbla Ave",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "RANDWICK",
+        "OtherSuburb": null,
+        "PostCode": "2031",
+        "OtherPostCode": null,
+        "Latitude": -33.916858,
+        "Longitude": 151.237716,
+        "FullAddress": "1-3 Eurimbla Ave\r\nRANDWICK NSW 2031\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "83557227",
+          "FullNumber": "61 2 83557227"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "80043348",
+          "FullNumber": "61 2 80043348"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672485396276",
+    "CRN": "66724853962769",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6755bb4f-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Study Pro Pty Ltd",
+    "Name": "AVISA - Australian Visa immigration Skilled Agents",
+    "ABN": "49145951024",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": " Suite 308, 3rd Floor, 282 Victoria Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.7954999,
+      "Longitude": 151.1868,
+      "FullAddress": " Suite 308, 3rd Floor, 282 Victoria Avenue\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROCKDALE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROCKDALE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9411 6000",
+        "FullNumber": "61 2 9411 6000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Katayoun",
+    "SecondName": null,
+    "FamilyName": "Zonnoorian",
+    "PostNominal": null,
+    "FullName": "Ms Katayoun Zonnoorian",
+    "GivenName": "Katayoun"
+  },
+  "MARN": "1172712",
+  "IsNoFee": false,
+  "ContactId": "23bb5dfa-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Iran, Islamic Republic of"
+  ],
+  "OtherNames": [
+    {
+      "Id": "ebd49d9d-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Zonnoorian",
+      "FirstName": "Kathy",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Kathy"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

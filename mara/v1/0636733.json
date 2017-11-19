@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661309704095",
+    "CRN": "66613097040957",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d9e0c1b0-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "TRUE BLUE MIGRATION SERVICES PTY LTD",
+    "Name": "TRUE BLUE MIGRATION SERVICES PTY LTD",
+    "ABN": "51124993157",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 26-27, 5 Everage Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOONEE PONDS",
+      "OtherSuburb": null,
+      "PostCode": "3039",
+      "OtherPostCode": null,
+      "Latitude": -37.76585,
+      "Longitude": 144.9219,
+      "FullAddress": "Suite 26-27, 5 Everage Street\r\nMOONEE PONDS VIC 3039\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROCKINGHAM",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROCKINGHAM"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "81998166",
+        "FullNumber": "61 03 81998166"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "62678070",
+        "FullNumber": "61 08 62678070"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6658531263193",
+      "CRN": "66585312631933",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ffc52f10-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "TRUE BLUE MIGRATION SERVICES PTY LTD",
+      "Name": "True Blue Migration Services",
+      "ABN": "51124993157",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 9 & 10, 3 Arkwright Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "ROCKINGHAM",
+        "OtherSuburb": null,
+        "PostCode": "6168",
+        "OtherPostCode": null,
+        "Latitude": -32.2812690734863,
+        "Longitude": 115.757431030273,
+        "FullAddress": "Suite 9 & 10, 3 Arkwright Road\r\nROCKINGHAM WA 6168\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "ROCKINGHAM DC",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "ROCKINGHAM DC"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "64616051",
+          "FullNumber": "61 8 64616051"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "62678070",
+          "FullNumber": "61 8 62678070"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661309704095",
+    "CRN": "66613097040957",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d9e0c1b0-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "TRUE BLUE MIGRATION SERVICES PTY LTD",
+    "Name": "TRUE BLUE MIGRATION SERVICES PTY LTD",
+    "ABN": "51124993157",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 26-27, 5 Everage Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOONEE PONDS",
+      "OtherSuburb": null,
+      "PostCode": "3039",
+      "OtherPostCode": null,
+      "Latitude": -37.76585,
+      "Longitude": 144.9219,
+      "FullAddress": "Suite 26-27, 5 Everage Street\r\nMOONEE PONDS VIC 3039\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROCKINGHAM",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROCKINGHAM"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "81998166",
+        "FullNumber": "61 03 81998166"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "62678070",
+        "FullNumber": "61 08 62678070"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Maryanne",
+    "SecondName": "Joy",
+    "FamilyName": "Gruar",
+    "PostNominal": null,
+    "FullName": "Mrs Maryanne Joy Gruar",
+    "GivenName": "Maryanne Joy"
+  },
+  "MARN": "0636733",
+  "IsNoFee": false,
+  "ContactId": "3732e959-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3c194dc6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hay",
+      "FirstName": "Maryanne",
+      "SecondName": "Joy",
+      "Alias": null,
+      "GivenName": "Maryanne Joy"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

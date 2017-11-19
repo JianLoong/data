@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654675858363",
+    "CRN": "66546758583639",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1fee112a-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MIGRATION DOWNUNDER PTY LTD",
+    "Name": "Migration Downunder Pty Ltd",
+    "ABN": "64104142903",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1003, Level 10,",
+      "AddressLine2": "815 Pacific Highway",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.79578,
+      "Longitude": 151.17847,
+      "FullAddress": "Suite 1003, Level 10,\r\n815 Pacific Highway\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CHATSWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "94195411",
+        "FullNumber": "61 02 94195411"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661426819746",
+      "CRN": "66614268197460",
+      "IsProfileLockedOut": null,
+      "BusinessId": "bc8a11b7-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "ESIC East Sea Immigration Consultancy Co. Pty. Ltd.",
+      "Name": "ESIC East Sea Immigration Consultancy Co. Pty. Ltd.",
+      "ABN": "26133169552",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "523/8 Merriwa Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "GORDON",
+        "OtherSuburb": null,
+        "PostCode": "2072",
+        "OtherPostCode": null,
+        "Latitude": -33.752998,
+        "Longitude": 151.149459,
+        "FullAddress": "523/8 Merriwa Street\r\nGORDON NSW 2072\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MERRYLANDS",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MERRYLANDS"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "34288407",
+          "FullNumber": "61 4 34288407"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654675858363",
+    "CRN": "66546758583639",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1fee112a-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MIGRATION DOWNUNDER PTY LTD",
+    "Name": "Migration Downunder Pty Ltd",
+    "ABN": "64104142903",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1003, Level 10,",
+      "AddressLine2": "815 Pacific Highway",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.79578,
+      "Longitude": 151.17847,
+      "FullAddress": "Suite 1003, Level 10,\r\n815 Pacific Highway\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CHATSWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "94195411",
+        "FullNumber": "61 02 94195411"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Wei",
+    "SecondName": null,
+    "FamilyName": "Wang",
+    "PostNominal": null,
+    "FullName": "Ms Wei Wang",
+    "GivenName": "Wei"
+  },
+  "MARN": "0852751",
+  "IsNoFee": false,
+  "ContactId": "ddadcfa1-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "6fbc57cc-ed5f-e411-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Alice Wang",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Alice Wang"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

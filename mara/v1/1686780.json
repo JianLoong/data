@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1536421974982",
+    "CRN": "15364219749829",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ed0f676a-ae97-4aac-bf0e-84709e5f4cc9",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AGAPE HENRY & CO PTY LTD",
+    "Name": "AGAPE HENRY & CO PTY LTD",
+    "ABN": "98611605200",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 32, 320 Pitt Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87556,
+      "Longitude": 151.2082299,
+      "FullAddress": "Level 32, 320 Pitt Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "1300529669",
+        "FullNumber": "61 2 1300529669"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "72002700",
+        "FullNumber": "61 2 72002700"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4168794377030",
+      "CRN": "41687943770306",
+      "IsProfileLockedOut": null,
+      "BusinessId": "af4a60cb-b7ee-410f-8283-e8d755f74aa9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "NORTHSTAR MIGRATION AND LEGAL SERVICES PTY. LTD.",
+      "Name": "NORTHSTAR MIGRATION AND LEGAL SERVICES PTY. LTD.",
+      "ABN": "72613110937",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2 San Marino Drive",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "PRESTONS",
+        "OtherSuburb": null,
+        "PostCode": "2170",
+        "OtherPostCode": null,
+        "Latitude": -33.94535,
+        "Longitude": 150.87195,
+        "FullAddress": "2 San Marino Drive\r\nPRESTONS NSW 2170\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "16641886",
+          "FullNumber": "61 4 16641886"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1536421974982",
+    "CRN": "15364219749829",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ed0f676a-ae97-4aac-bf0e-84709e5f4cc9",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AGAPE HENRY & CO PTY LTD",
+    "Name": "AGAPE HENRY & CO PTY LTD",
+    "ABN": "98611605200",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 32, 320 Pitt Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87556,
+      "Longitude": 151.2082299,
+      "FullAddress": "Level 32, 320 Pitt Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "1300529669",
+        "FullNumber": "61 2 1300529669"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "72002700",
+        "FullNumber": "61 2 72002700"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Karen",
+    "SecondName": "Michelle ",
+    "FamilyName": "Gayle Olympio",
+    "PostNominal": null,
+    "FullName": "Mrs Karen Michelle  Gayle Olympio",
+    "GivenName": "Karen Michelle "
+  },
+  "MARN": "1686780",
+  "IsNoFee": false,
+  "ContactId": "4979ee4a-e936-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

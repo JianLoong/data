@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654955145637",
+    "CRN": "66549551456376",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c0128f36-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN EDUCATION & MIGRATION SERVICES PTY LTD",
+    "Name": "Australian Education & Migration Services Pty Ltd",
+    "ABN": "54089600162",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 5,",
+      "AddressLine2": "105 St Georges Terrace",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.955231,
+      "Longitude": 115.856819,
+      "FullAddress": "Level 5,\r\n105 St Georges Terrace\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PERTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93225555",
+        "FullNumber": "61 8 93225555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93225556",
+        "FullNumber": "61 8 93225556"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7058043785018",
+      "CRN": "70580437850183",
+      "IsProfileLockedOut": null,
+      "BusinessId": "52b1c8c1-b069-4cff-a808-75f898e17144",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "ZHONG, BAOLIN ",
+      "Name": "ZHONG, BAOLIN ",
+      "ABN": "55494125431",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "109 Brenchley Drive",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "ATWELL",
+        "OtherSuburb": null,
+        "PostCode": "6164",
+        "OtherPostCode": null,
+        "Latitude": -32.13836,
+        "Longitude": 115.86353,
+        "FullAddress": "109 Brenchley Drive\r\nATWELL WA 6164\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "24061539",
+          "FullNumber": "61 4 24061539"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654955145637",
+    "CRN": "66549551456376",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c0128f36-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN EDUCATION & MIGRATION SERVICES PTY LTD",
+    "Name": "Australian Education & Migration Services Pty Ltd",
+    "ABN": "54089600162",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 5,",
+      "AddressLine2": "105 St Georges Terrace",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.955231,
+      "Longitude": 115.856819,
+      "FullAddress": "Level 5,\r\n105 St Georges Terrace\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PERTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93225555",
+        "FullNumber": "61 8 93225555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93225556",
+        "FullNumber": "61 8 93225556"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Baolin",
+    "SecondName": null,
+    "FamilyName": "Zhong",
+    "PostNominal": null,
+    "FullName": "Mr Baolin Zhong",
+    "GivenName": "Baolin"
+  },
+  "MARN": "1463476",
+  "IsNoFee": false,
+  "ContactId": "8f208239-e3bf-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

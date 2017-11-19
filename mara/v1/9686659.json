@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8827773070851",
+    "CRN": "88277730708510",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a03d5fcb-ecd3-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIA H&J PTY LTD",
+    "Name": "AUSTRALIA H&J PTY LTD",
+    "ABN": "39 168 215 012",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 7,",
+      "AddressLine2": "99 Queen Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.816256,
+      "Longitude": 144.960929,
+      "FullAddress": "Level 7,\r\n99 Queen Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96708870",
+        "FullNumber": "61 3 96708870"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6259436461863",
+      "CRN": "62594364618636",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d3d4aa03-abfc-4566-899e-dfd1f6deda82",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "AUSTRALIA H&J PTY LTD",
+      "Name": "China Office of Australia H & J Pty Ltd",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "Room 2108 Jingde Building, 319 Chang De Road,",
+        "AddressLine2": "Shanghai",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Jing An",
+        "PostCode": "Other",
+        "OtherPostCode": "200040",
+        "Latitude": 31.22674,
+        "Longitude": 121.44694,
+        "FullAddress": "Room 2108 Jingde Building, 319 Chang De Road,\r\nShanghai\r\nJing An 200040\r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "21",
+          "Number": "62679065",
+          "FullNumber": "86 21 62679065"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "86",
+          "AreaCode": "21",
+          "Number": "62182813",
+          "FullNumber": "86 21 62182813"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8827773070851",
+    "CRN": "88277730708510",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a03d5fcb-ecd3-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIA H&J PTY LTD",
+    "Name": "AUSTRALIA H&J PTY LTD",
+    "ABN": "39 168 215 012",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 7,",
+      "AddressLine2": "99 Queen Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.816256,
+      "Longitude": 144.960929,
+      "FullAddress": "Level 7,\r\n99 Queen Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96708870",
+        "FullNumber": "61 3 96708870"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Jimmy",
+    "SecondName": "Xiaohua",
+    "FamilyName": "Ji",
+    "PostNominal": null,
+    "FullName": "Mr Jimmy Xiaohua Ji",
+    "GivenName": "Jimmy Xiaohua"
+  },
+  "MARN": "9686659",
+  "IsNoFee": false,
+  "ContactId": "c922f02c-a652-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

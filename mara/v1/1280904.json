@@ -1,0 +1,373 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5454802904961",
+    "CRN": "54548029049614",
+    "IsProfileLockedOut": null,
+    "BusinessId": "96c069a4-c7fe-4776-a53b-3890534c3d2e",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DANG, VINH QUANG",
+    "Name": "IMA MIGRATION SERVICES",
+    "ABN": "92368541442",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "88 Marshall Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "ST ALBANS",
+      "OtherSuburb": null,
+      "PostCode": "3021",
+      "OtherPostCode": null,
+      "Latitude": -37.741439,
+      "Longitude": 144.82387,
+      "FullAddress": "88 Marshall Avenue\r\nST ALBANS VIC 3021\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99498932",
+        "FullNumber": "61 3 99498932"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6671626541584",
+      "CRN": "66716265415846",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4333dc18-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "DANG, VINH QUANG",
+      "Name": "VINH QUANG DANG",
+      "ABN": "92368541442",
+      "Address": {
+        "Country": "Viet Nam",
+        "AddressLine1": "Level 34, Bitexco Financial Tower",
+        "AddressLine2": "2 Hai Trieu Street",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "District 1",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 10.7619400024414,
+        "Longitude": 106.594718933105,
+        "FullAddress": "Level 34, Bitexco Financial Tower\r\n2 Hai Trieu Street\r\nDistrict 1 \r\nViet Nam"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "84",
+          "AreaCode": "8",
+          "Number": "38223380",
+          "FullNumber": "84 8 38223380"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "84",
+          "AreaCode": "8",
+          "Number": "38223821",
+          "FullNumber": "84 8 38223821"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3597340497506",
+      "CRN": "35973404975063",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ece847a3-242d-447a-9576-4a49bd779a50",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Khai Phu Investments and Migration Agency",
+      "Name": "Khai Phu Investments and Migration Agency",
+      "ABN": null,
+      "Address": {
+        "Country": "Viet Nam",
+        "AddressLine1": "Level 12, 127 Lo Duc Street",
+        "AddressLine2": "Dong Mac",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Hai Ba Trung District",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 21.01297,
+        "Longitude": 105.85824,
+        "FullAddress": "Level 12, 127 Lo Duc Street\r\nDong Mac\r\nHai Ba Trung District \r\nViet Nam"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "84",
+          "AreaCode": "4",
+          "Number": "73029990",
+          "FullNumber": "84 4 73029990"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5454802904961",
+    "CRN": "54548029049614",
+    "IsProfileLockedOut": null,
+    "BusinessId": "96c069a4-c7fe-4776-a53b-3890534c3d2e",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DANG, VINH QUANG",
+    "Name": "IMA MIGRATION SERVICES",
+    "ABN": "92368541442",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "88 Marshall Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "ST ALBANS",
+      "OtherSuburb": null,
+      "PostCode": "3021",
+      "OtherPostCode": null,
+      "Latitude": -37.741439,
+      "Longitude": 144.82387,
+      "FullAddress": "88 Marshall Avenue\r\nST ALBANS VIC 3021\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99498932",
+        "FullNumber": "61 3 99498932"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Vinh",
+    "SecondName": "Quang",
+    "FamilyName": "Dang",
+    "PostNominal": null,
+    "FullName": "Mr Vinh Quang Dang",
+    "GivenName": "Vinh Quang"
+  },
+  "MARN": "1280904",
+  "IsNoFee": false,
+  "ContactId": "0c3e1daa-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Viet Nam"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

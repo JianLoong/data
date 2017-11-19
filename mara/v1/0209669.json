@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6474259876390",
+    "CRN": "64742598763902",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bf1b9088-01a8-e711-9414-000d3ad152db",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ACACIA IMMIGRATION AUSTRALIA PTY LTD",
+    "Name": "ACACIA IMMIGRATION AUSTRALIA",
+    "ABN": "30 088 999 142",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "C/ Newland Chase,  Level 3",
+      "AddressLine2": "100 Dorcas Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SOUTH MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3205",
+      "OtherPostCode": null,
+      "Latitude": -36.8642845153809,
+      "Longitude": 144.310394287109,
+      "FullAddress": "C/ Newland Chase,  Level 3\r\n100 Dorcas Street\r\nSOUTH MELBOURNE VIC 3205\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "9230 0888",
+        "FullNumber": "61 02 9230 0888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6656501712155",
+      "CRN": "66565017121550",
+      "IsProfileLockedOut": null,
+      "BusinessId": "92cd8e94-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "FLORAMO, GRACE",
+      "Name": "Floramo Lawyers",
+      "ABN": "98309148828",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "PO Box 820",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "RESERVOIR",
+        "OtherSuburb": null,
+        "PostCode": "3073",
+        "OtherPostCode": null,
+        "Latitude": -37.71234130859375,
+        "Longitude": 145.0055694580078,
+        "FullAddress": "PO Box 820\r\nRESERVOIR VIC 3073\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "RESERVOIR",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "RESERVOIR"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "25711141",
+          "FullNumber": "61 4 25711141"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6474259876390",
+    "CRN": "64742598763902",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bf1b9088-01a8-e711-9414-000d3ad152db",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ACACIA IMMIGRATION AUSTRALIA PTY LTD",
+    "Name": "ACACIA IMMIGRATION AUSTRALIA",
+    "ABN": "30 088 999 142",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "C/ Newland Chase,  Level 3",
+      "AddressLine2": "100 Dorcas Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SOUTH MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3205",
+      "OtherPostCode": null,
+      "Latitude": -36.8642845153809,
+      "Longitude": 144.310394287109,
+      "FullAddress": "C/ Newland Chase,  Level 3\r\n100 Dorcas Street\r\nSOUTH MELBOURNE VIC 3205\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "9230 0888",
+        "FullNumber": "61 02 9230 0888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Grace",
+    "SecondName": null,
+    "FamilyName": "Floramo",
+    "PostNominal": null,
+    "FullName": "Ms Grace Floramo",
+    "GivenName": "Grace"
+  },
+  "MARN": "0209669",
+  "IsNoFee": false,
+  "ContactId": "d1e0ad37-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "5ba3bbb2-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Crocitti",
+      "FirstName": "Grace",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Grace"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

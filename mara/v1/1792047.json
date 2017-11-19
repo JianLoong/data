@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1941389742613",
+    "CRN": "19413897426130",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7a384e76-c8db-4a18-90e6-72f18339357a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MATSUURA, YURI ",
+    "Name": "MATSUURA, YURI ",
+    "ABN": "96533807725",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "83",
+      "AddressLine2": "Lambor Drive",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MUDGEERABA",
+      "OtherSuburb": null,
+      "PostCode": "4213",
+      "OtherPostCode": null,
+      "Latitude": -28.08689,
+      "Longitude": 153.37396,
+      "FullAddress": "83\r\nLambor Drive\r\nMUDGEERABA QLD 4213\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "15544337",
+        "FullNumber": "61 4 15544337"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6472665745797",
+      "CRN": "64726657457972",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b4f4c112-799c-4fb3-9a4c-bc59c37a3187",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SALERNO LAW PTY LTD",
+      "Name": "SALERNO LAW PTY LTD",
+      "ABN": "53619220272",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 18, Level 2 240 Varsity Parade Varsity Lakes QLD 4227",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "VARSITY LAKES",
+        "OtherSuburb": null,
+        "PostCode": "4227",
+        "OtherPostCode": null,
+        "Latitude": -28.07769,
+        "Longitude": 153.41553,
+        "FullAddress": "Suite 18, Level 2 240 Varsity Parade Varsity Lakes QLD 4227\r\nVARSITY LAKES QLD 4227\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "15544337",
+          "FullNumber": "61 4 15544337"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8566411441785",
+      "CRN": "85664114417859",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1a109dfa-cd6b-45d0-956c-6e207b10ebd4",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SWIFT LEGAL SOLUTIONS PTY. LTD.",
+      "Name": "Swift Legal",
+      "ABN": "60163729897",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "76 Pembridge Circuit",
+        "AddressLine2": "Urraween ",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "HERVEY BAY",
+        "OtherSuburb": null,
+        "PostCode": "4655",
+        "OtherPostCode": null,
+        "Latitude": -25.29403,
+        "Longitude": 152.81978,
+        "FullAddress": "76 Pembridge Circuit\r\nUrraween \r\nHERVEY BAY QLD 4655\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "41",
+          "Number": "5544337",
+          "FullNumber": "61 41 5544337"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1941389742613",
+    "CRN": "19413897426130",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7a384e76-c8db-4a18-90e6-72f18339357a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MATSUURA, YURI ",
+    "Name": "MATSUURA, YURI ",
+    "ABN": "96533807725",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "83",
+      "AddressLine2": "Lambor Drive",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MUDGEERABA",
+      "OtherSuburb": null,
+      "PostCode": "4213",
+      "OtherPostCode": null,
+      "Latitude": -28.08689,
+      "Longitude": 153.37396,
+      "FullAddress": "83\r\nLambor Drive\r\nMUDGEERABA QLD 4213\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "15544337",
+        "FullNumber": "61 4 15544337"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Yuri",
+    "SecondName": null,
+    "FamilyName": "Matsuura",
+    "PostNominal": null,
+    "FullName": "Ms Yuri Matsuura",
+    "GivenName": "Yuri"
+  },
+  "MARN": "1792047",
+  "IsNoFee": false,
+  "ContactId": "906eb392-9451-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Japan"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

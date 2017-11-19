@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6157061423801",
+    "CRN": "61570614238015",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9d9f5a21-21bc-4eca-abad-d63a940986f4",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SIA LEGAL SERVICES PTY LTD",
+    "Name": "SIA LEGAL SERVICES PTY LTD",
+    "ABN": "66609400759",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 3, Level 5, 398 Lonsdale St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.81254,
+      "Longitude": 144.9606,
+      "FullAddress": "Suite 3, Level 5, 398 Lonsdale St\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "90133886",
+        "FullNumber": "61 3 90133886"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5951274401378",
+      "CRN": "59512744013785",
+      "IsProfileLockedOut": null,
+      "BusinessId": "de9d26b3-46b0-4996-a403-de6abb3dde77",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Luoyang ANAO Education Consultancy Services Co. Ltd",
+      "Name": "Settle in Australia (ANAO) Education & Migration",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "Unit 2414, Building 1, New Century Square",
+        "AddressLine2": "28 Imperial City Ave",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Xigong District, Luoyang, Henan",
+        "PostCode": "Other",
+        "OtherPostCode": "471000",
+        "Latitude": 34.67129,
+        "Longitude": 112.46632,
+        "FullAddress": "Unit 2414, Building 1, New Century Square\r\n28 Imperial City Ave\r\nXigong District, Luoyang, Henan 471000\r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "379",
+          "Number": "65159533",
+          "FullNumber": "86 379 65159533"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6157061423801",
+    "CRN": "61570614238015",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9d9f5a21-21bc-4eca-abad-d63a940986f4",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SIA LEGAL SERVICES PTY LTD",
+    "Name": "SIA LEGAL SERVICES PTY LTD",
+    "ABN": "66609400759",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 3, Level 5, 398 Lonsdale St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.81254,
+      "Longitude": 144.9606,
+      "FullAddress": "Suite 3, Level 5, 398 Lonsdale St\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "90133886",
+        "FullNumber": "61 3 90133886"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "He",
+    "SecondName": null,
+    "FamilyName": "Zhao",
+    "PostNominal": null,
+    "FullName": "Mr He Zhao",
+    "GivenName": "He"
+  },
+  "MARN": "1573891",
+  "IsNoFee": false,
+  "ContactId": "721b4ad5-b023-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "China"
+  ],
+  "OtherNames": [
+    {
+      "Id": "30dcbe59-942a-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "He Zenith Zhao",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "He Zenith Zhao"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

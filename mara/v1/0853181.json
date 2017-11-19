@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661627926575",
+    "CRN": "66616279265755",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cbae13c3-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "OZ Consultancy Services Pty. Ltd.",
+    "Name": "Oz Consultancy Services Pty. Ltd.",
+    "ABN": "83123394712",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 205, Level 2,",
+      "AddressLine2": "7 Jeffcott Street,",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "WEST MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3003",
+      "OtherPostCode": null,
+      "Latitude": -37.81162,
+      "Longitude": 144.95325,
+      "FullAddress": "Suite 205, Level 2,\r\n7 Jeffcott Street,\r\nWEST MELBOURNE VIC 3003\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93299392",
+        "FullNumber": "61 3 93299392"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6662636371267",
+      "CRN": "66626363712676",
+      "IsProfileLockedOut": null,
+      "BusinessId": "675abaff-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business data not available",
+      "Name": "Oz Consultancy Services",
+      "ABN": null,
+      "Address": {
+        "Country": "Pakistan",
+        "AddressLine1": "Gulshan-e-Iqbal, Main University Road",
+        "AddressLine2": "Suite 303, Crown Square, Block 13-A,",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Karachi",
+        "PostCode": "Other",
+        "OtherPostCode": "74700",
+        "Latitude": 24.9267101287842,
+        "Longitude": 67.0343704223633,
+        "FullAddress": "Gulshan-e-Iqbal, Main University Road\r\nSuite 303, Crown Square, Block 13-A,\r\nKarachi 74700\r\nPakistan"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "92",
+          "AreaCode": "21",
+          "Number": "34830178",
+          "FullNumber": "92 21 34830178"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661627926575",
+    "CRN": "66616279265755",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cbae13c3-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "OZ Consultancy Services Pty. Ltd.",
+    "Name": "Oz Consultancy Services Pty. Ltd.",
+    "ABN": "83123394712",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 205, Level 2,",
+      "AddressLine2": "7 Jeffcott Street,",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "WEST MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3003",
+      "OtherPostCode": null,
+      "Latitude": -37.81162,
+      "Longitude": 144.95325,
+      "FullAddress": "Suite 205, Level 2,\r\n7 Jeffcott Street,\r\nWEST MELBOURNE VIC 3003\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93299392",
+        "FullNumber": "61 3 93299392"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Riyaz",
+    "SecondName": null,
+    "FamilyName": "Jindani",
+    "PostNominal": null,
+    "FullName": "Mr Riyaz Jindani",
+    "GivenName": "Riyaz"
+  },
+  "MARN": "0853181",
+  "IsNoFee": false,
+  "ContactId": "9bb8dda7-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Pakistan"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

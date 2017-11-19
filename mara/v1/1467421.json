@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4905873182969",
+    "CRN": "49058731829693",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3e786ddc-321a-4611-8b3c-1a3e89c80374",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "NZ OZ Immigration Limited",
+    "Name": "NZ OZ Immigration Limited",
+    "ABN": null,
+    "Address": {
+      "Country": "New Zealand",
+      "AddressLine1": "Level 1 Goddards Centre",
+      "AddressLine2": "21 Davenport Road ",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Tauranga",
+      "PostCode": "Other",
+      "OtherPostCode": "3110",
+      "Latitude": -37.6827507019043,
+      "Longitude": 176.168838500977,
+      "FullAddress": "Level 1 Goddards Centre\r\n21 Davenport Road \r\nTauranga 3110\r\nNew Zealand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "64",
+        "AreaCode": "27",
+        "Number": "3652020",
+        "FullNumber": "64 27 3652020"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7085907626196",
+      "CRN": "70859076261968",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3ff4ed3a-550c-41a4-a34a-b8662a7b566e",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "DR.C CERAMICS (NEW ZEALAND) LIMITED",
+      "Name": "RN Australia NZ Migration Agents",
+      "ABN": null,
+      "Address": {
+        "Country": "New Zealand",
+        "AddressLine1": "3 Norfork Place",
+        "AddressLine2": "Pukete",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Hamilton",
+        "PostCode": "Other",
+        "OtherPostCode": "3200",
+        "Latitude": -37.742634,
+        "Longitude": 175.2394168,
+        "FullAddress": "3 Norfork Place\r\nPukete\r\nHamilton 3200\r\nNew Zealand"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "64",
+          "AreaCode": "7",
+          "Number": "8553384",
+          "FullNumber": "64 7 8553384"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4905873182969",
+    "CRN": "49058731829693",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3e786ddc-321a-4611-8b3c-1a3e89c80374",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "NZ OZ Immigration Limited",
+    "Name": "NZ OZ Immigration Limited",
+    "ABN": null,
+    "Address": {
+      "Country": "New Zealand",
+      "AddressLine1": "Level 1 Goddards Centre",
+      "AddressLine2": "21 Davenport Road ",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Tauranga",
+      "PostCode": "Other",
+      "OtherPostCode": "3110",
+      "Latitude": -37.6827507019043,
+      "Longitude": 176.168838500977,
+      "FullAddress": "Level 1 Goddards Centre\r\n21 Davenport Road \r\nTauranga 3110\r\nNew Zealand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "64",
+        "AreaCode": "27",
+        "Number": "3652020",
+        "FullNumber": "64 27 3652020"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Rupika",
+    "SecondName": null,
+    "FamilyName": "Nandan",
+    "PostNominal": null,
+    "FullName": "Ms Rupika Nandan",
+    "GivenName": "Rupika"
+  },
+  "MARN": "1467421",
+  "IsNoFee": false,
+  "ContactId": "676e4032-9048-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

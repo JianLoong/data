@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658164684200",
+    "CRN": "66581646842006",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d4813cf7-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "TODE, JENNIFER",
+    "Name": "Jennifer Tode",
+    "ABN": "73929857284",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "15 Weathers Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "GOWRIE",
+      "OtherSuburb": null,
+      "PostCode": "2904",
+      "OtherPostCode": null,
+      "Latitude": -35.409338,
+      "Longitude": 149.113546,
+      "FullAddress": "15 Weathers Street\r\nGOWRIE ACT 2904\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GOWRIE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GOWRIE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "62913690",
+        "FullNumber": "61 02 62913690"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "62913690",
+        "FullNumber": "61 02 62913690"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6667582011591",
+      "CRN": "66675820115916",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c0e37229-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "COMPANION HOUSE ASSISTING SURVIVORS OF TORTURE AND TRAUMA INCORPORATED",
+      "Name": "Companion House Assisting Survivors of Torture and Trauma Incorporated",
+      "ABN": "98349936816",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "41 Templeton St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "ACT",
+        "OtherState": null,
+        "Suburb": "COOK",
+        "OtherSuburb": null,
+        "PostCode": "2614",
+        "OtherPostCode": null,
+        "Latitude": -35.25849,
+        "Longitude": 149.06119,
+        "FullAddress": "41 Templeton St\r\nCOOK ACT 2614\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "COOK",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "COOK"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "62514550",
+          "FullNumber": "61 02 62514550"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "62518550",
+          "FullNumber": "61 02 62518550"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658164684200",
+    "CRN": "66581646842006",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d4813cf7-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "TODE, JENNIFER",
+    "Name": "Jennifer Tode",
+    "ABN": "73929857284",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "15 Weathers Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "GOWRIE",
+      "OtherSuburb": null,
+      "PostCode": "2904",
+      "OtherPostCode": null,
+      "Latitude": -35.409338,
+      "Longitude": 149.113546,
+      "FullAddress": "15 Weathers Street\r\nGOWRIE ACT 2904\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GOWRIE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GOWRIE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "62913690",
+        "FullNumber": "61 02 62913690"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "62913690",
+        "FullNumber": "61 02 62913690"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Jennifer",
+    "SecondName": "Mary",
+    "FamilyName": "Tode",
+    "PostNominal": null,
+    "FullName": "Mrs Jennifer Mary Tode",
+    "GivenName": "Jennifer Mary"
+  },
+  "MARN": "0635889",
+  "IsNoFee": false,
+  "ContactId": "cdad3e96-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Ireland"
+  ],
+  "OtherNames": [
+    {
+      "Id": "69a34cc0-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Grenville",
+      "FirstName": "Jennifer",
+      "SecondName": "Mary",
+      "Alias": null,
+      "GivenName": "Jennifer Mary"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

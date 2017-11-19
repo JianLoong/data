@@ -1,0 +1,306 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6659353912953",
+    "CRN": "66593539129534",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c40fcc40-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "LANG, NABEEL",
+    "Name": "Nabeel Lang",
+    "ABN": "67063991238",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "31 Cvitan Bend",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "MADELEY",
+      "OtherSuburb": null,
+      "PostCode": "6065",
+      "OtherPostCode": null,
+      "Latitude": -31.80581,
+      "Longitude": 115.82378,
+      "FullAddress": "31 Cvitan Bend\r\nMADELEY WA 6065\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MADELEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MADELEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "94091176",
+        "FullNumber": "61 08 94091176"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1390529562924",
+      "CRN": "13905295629243",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6bc63761-acff-e611-9404-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "MULTICULTURAL SERVICES CENTRE OF WESTERN AUSTRALIA INCORPORATED",
+      "Name": "MULTICULTURAL SERVICES CENTRE OF WESTERN AUSTRALIA INCORPORATED",
+      "ABN": "18 563 729 871",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "20 View Street,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "NORTH PERTH",
+        "OtherSuburb": null,
+        "PostCode": "6006",
+        "OtherPostCode": null,
+        "Latitude": -31.93145,
+        "Longitude": 115.85665,
+        "FullAddress": "20 View Street,\r\nNORTH PERTH WA 6006\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "93282699",
+          "FullNumber": "61 08 93282699"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "92277638",
+          "FullNumber": "61 08 92277638"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6659353912953",
+    "CRN": "66593539129534",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c40fcc40-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "LANG, NABEEL",
+    "Name": "Nabeel Lang",
+    "ABN": "67063991238",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "31 Cvitan Bend",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "MADELEY",
+      "OtherSuburb": null,
+      "PostCode": "6065",
+      "OtherPostCode": null,
+      "Latitude": -31.80581,
+      "Longitude": 115.82378,
+      "FullAddress": "31 Cvitan Bend\r\nMADELEY WA 6065\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MADELEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MADELEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "94091176",
+        "FullNumber": "61 08 94091176"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Nabeel",
+    "SecondName": null,
+    "FamilyName": "Lang",
+    "PostNominal": null,
+    "FullName": "Mr Nabeel Lang",
+    "GivenName": "Nabeel"
+  },
+  "MARN": "0601921",
+  "IsNoFee": false,
+  "ContactId": "fbfd167e-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Zimbabwe"
+  ],
+  "OtherNames": [
+    {
+      "Id": "a4194dc6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Lang",
+      "FirstName": "Neil",
+      "SecondName": "Vincent",
+      "Alias": null,
+      "GivenName": "Neil Vincent"
+    },
+    {
+      "Id": "5ad0ba73-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Lang",
+      "FirstName": "Neil",
+      "SecondName": "Vincent",
+      "Alias": null,
+      "GivenName": "Neil Vincent"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

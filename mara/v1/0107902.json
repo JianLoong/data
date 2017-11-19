@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6659467018055",
+    "CRN": "66594670180558",
+    "IsProfileLockedOut": null,
+    "BusinessId": "19a10147-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSVISAS PTY LTD",
+    "Name": "AUSVISAS PTY LTD",
+    "ABN": "74120516725",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 239, AFME,",
+      "AddressLine2": "2 Bull Creek Drive",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "BULL CREEK",
+      "OtherSuburb": null,
+      "PostCode": "6149",
+      "OtherPostCode": null,
+      "Latitude": -32.048,
+      "Longitude": 115.85609,
+      "FullAddress": "Unit 239, AFME,\r\n2 Bull Creek Drive\r\nBULL CREEK WA 6149\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PERTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93114439",
+        "FullNumber": "61 8 93114439"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1116732661099",
+      "CRN": "11167326610994",
+      "IsProfileLockedOut": null,
+      "BusinessId": "aaa27fcb-d764-e611-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "VISA SOLUTIONS AUSTRALIA PTY LTD",
+      "Name": "Visa Solutions Australia",
+      "ABN": "56 603 831 527",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 2, 5 Davidson Terrace",
+        "AddressLine2": "Joondalup",
+        "AddressLine3": "Western Australia",
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "JOONDALUP",
+        "OtherSuburb": null,
+        "PostCode": "6027",
+        "OtherPostCode": null,
+        "Latitude": -31.74073,
+        "Longitude": 115.77293,
+        "FullAddress": "Level 2, 5 Davidson Terrace\r\nJoondalup\r\nWestern Australia\r\nJOONDALUP WA 6027\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "93282664",
+          "FullNumber": "61 08 93282664"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7484129221484",
+      "CRN": "74841292214841",
+      "IsProfileLockedOut": null,
+      "BusinessId": "10f800b6-2201-48f5-ac20-3746fbffd0b2",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "A.V. IMMIGRATION AND CAREERS CONSULTANCY PVT.LTD",
+      "Name": "Apex Visas",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "A - 6, 5th Avenue, Dhole Patil Road,",
+        "AddressLine2": "Next To Quality Hotel, Opp-Reliance Web World.",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Pune",
+        "PostCode": "Other",
+        "OtherPostCode": "411001",
+        "Latitude": 18.5263773,
+        "Longitude": 73.8830701,
+        "FullAddress": "A - 6, 5th Avenue, Dhole Patil Road,\r\nNext To Quality Hotel, Opp-Reliance Web World.\r\nPune 411001\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "20",
+          "Number": "4150 4101 -112",
+          "FullNumber": "91 20 4150 4101 -112"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "91",
+          "AreaCode": "20",
+          "Number": "4150 4106",
+          "FullNumber": "91 20 4150 4106"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6659467018055",
+    "CRN": "66594670180558",
+    "IsProfileLockedOut": null,
+    "BusinessId": "19a10147-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSVISAS PTY LTD",
+    "Name": "AUSVISAS PTY LTD",
+    "ABN": "74120516725",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 239, AFME,",
+      "AddressLine2": "2 Bull Creek Drive",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "BULL CREEK",
+      "OtherSuburb": null,
+      "PostCode": "6149",
+      "OtherPostCode": null,
+      "Latitude": -32.048,
+      "Longitude": 115.85609,
+      "FullAddress": "Unit 239, AFME,\r\n2 Bull Creek Drive\r\nBULL CREEK WA 6149\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PERTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93114439",
+        "FullNumber": "61 8 93114439"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Jeremy",
+    "SecondName": "William",
+    "FamilyName": "Hooper",
+    "PostNominal": null,
+    "FullName": "Mr Jeremy William Hooper",
+    "GivenName": "Jeremy William"
+  },
+  "MARN": "0107902",
+  "IsNoFee": false,
+  "ContactId": "696a901f-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

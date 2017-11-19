@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658785097012",
+    "CRN": "66587850970122",
+    "IsProfileLockedOut": null,
+    "BusinessId": "60db711c-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "AYLEN, BENJAMIN",
+    "Name": "Ben Aylen",
+    "ABN": "38816975197",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1 ",
+      "AddressLine2": "345 King William Street",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.9324,
+      "Longitude": 138.59977,
+      "FullAddress": "Level 1 \r\n345 King William Street\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "HILTON",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "HILTON"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "03905099",
+        "FullNumber": "61 4 03905099"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6655427528713",
+      "CRN": "66554275287130",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6ab10155-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "AUSTRALIAN REFUGEE ASSOCIATION INC",
+      "Name": "Australian Refugee Association Inc",
+      "ABN": "78904324535",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "304 Henley Beach Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "UNDERDALE",
+        "OtherSuburb": null,
+        "PostCode": "5032",
+        "OtherPostCode": null,
+        "Latitude": -34.92392,
+        "Longitude": 138.54733,
+        "FullAddress": "304 Henley Beach Road\r\nUNDERDALE SA 5032\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "UNDERDALE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "UNDERDALE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "83542951",
+          "FullNumber": "61 8 83542951"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "83542953",
+          "FullNumber": "61 8 83542953"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658785097012",
+    "CRN": "66587850970122",
+    "IsProfileLockedOut": null,
+    "BusinessId": "60db711c-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "AYLEN, BENJAMIN",
+    "Name": "Ben Aylen",
+    "ABN": "38816975197",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1 ",
+      "AddressLine2": "345 King William Street",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.9324,
+      "Longitude": 138.59977,
+      "FullAddress": "Level 1 \r\n345 King William Street\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "HILTON",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "HILTON"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "03905099",
+        "FullNumber": "61 4 03905099"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Benjamin",
+    "SecondName": null,
+    "FamilyName": "Aylen",
+    "PostNominal": null,
+    "FullName": "Mr Benjamin Aylen",
+    "GivenName": "Benjamin"
+  },
+  "MARN": "0639670",
+  "IsNoFee": false,
+  "ContactId": "b23571c0-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

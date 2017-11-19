@@ -1,0 +1,481 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9978425434865",
+    "CRN": "99784254348651",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c7b18bb6-83ad-47f1-a13f-297835a952ac",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "JACK TA PTY. LTD.",
+    "Name": "JACK TA & ASSOCIATES",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Joan Rosanove Chambers",
+      "AddressLine2": "Suite 2, Level 1, 550 Lonsdale Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.81337,
+      "Longitude": 144.95587,
+      "FullAddress": "Joan Rosanove Chambers\r\nSuite 2, Level 1, 550 Lonsdale Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95742886",
+        "FullNumber": "61 3 95742886"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3101758651709",
+      "CRN": "31017586517097",
+      "IsProfileLockedOut": null,
+      "BusinessId": "00cd68bb-3bbf-4ca6-9e81-3a55a7e5d2f9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Trust",
+      "EntityName": "The Trustee for Oscar Trust",
+      "Name": "TA QUANG HUY & CONG SU",
+      "ABN": "74 922 778 795",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "7/4 St. JAMES AVENUE",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "SPRINGVALE",
+        "OtherSuburb": null,
+        "PostCode": "3171",
+        "OtherPostCode": null,
+        "Latitude": -37.95445,
+        "Longitude": 145.15124,
+        "FullAddress": "7/4 St. JAMES AVENUE\r\nSPRINGVALE VIC 3171\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "9574 2886",
+          "FullNumber": "61 3 9574 2886"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3105825857019",
+      "CRN": "31058258570190",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0319c67c-cb8a-4ec8-82a2-775d95e7d668",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "TA QUANG HUY & CONG SU - VIET NAM",
+      "ABN": null,
+      "Address": {
+        "Country": "Viet Nam",
+        "AddressLine1": "PDD TOWER",
+        "AddressLine2": "LEVEL 5",
+        "AddressLine3": "162 PASTEUR",
+        "State": null,
+        "OtherState": "HO CHI MINH CITY",
+        "Suburb": "Other",
+        "OtherSuburb": "BEN NGHE WARD",
+        "PostCode": "Other",
+        "OtherPostCode": "DISTRICT 1",
+        "Latitude": 10.77728,
+        "Longitude": 106.69945,
+        "FullAddress": "PDD TOWER\r\nLEVEL 5\r\n162 PASTEUR\r\nBEN NGHE WARD DISTRICT 1\r\nViet Nam"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "84",
+          "AreaCode": "0",
+          "Number": "946 328 328",
+          "FullNumber": "84 0 946 328 328"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3103494465757",
+      "CRN": "31034944657573",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d9a55c88-dae8-4a8b-80ef-809fefca5782",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Trust",
+      "EntityName": "The Trustee for Oscar Trust",
+      "Name": "TA QUANG HUY & CONG SU",
+      "ABN": "74 922 778 795",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1A/1-3 PRINCESS STREET",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "ST ALBANS",
+        "OtherSuburb": null,
+        "PostCode": "3021",
+        "OtherPostCode": null,
+        "Latitude": -37.74521,
+        "Longitude": 144.8009,
+        "FullAddress": "1A/1-3 PRINCESS STREET\r\nST ALBANS VIC 3021\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "9574 2886",
+          "FullNumber": "61 3 9574 2886"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9978425434865",
+    "CRN": "99784254348651",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c7b18bb6-83ad-47f1-a13f-297835a952ac",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "JACK TA PTY. LTD.",
+    "Name": "JACK TA & ASSOCIATES",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Joan Rosanove Chambers",
+      "AddressLine2": "Suite 2, Level 1, 550 Lonsdale Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3000",
+      "OtherPostCode": null,
+      "Latitude": -37.81337,
+      "Longitude": 144.95587,
+      "FullAddress": "Joan Rosanove Chambers\r\nSuite 2, Level 1, 550 Lonsdale Street\r\nMELBOURNE VIC 3000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95742886",
+        "FullNumber": "61 3 95742886"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Bao Nhu Van",
+    "SecondName": null,
+    "FamilyName": "Truong",
+    "PostNominal": null,
+    "FullName": "Mr Bao Nhu Van Truong",
+    "GivenName": "Bao Nhu Van"
+  },
+  "MARN": "1677990",
+  "IsNoFee": false,
+  "ContactId": "074945d7-9d8d-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Viet Nam"
+  ],
+  "OtherNames": [
+    {
+      "Id": "fd232f2c-0e7a-4554-a10a-4c69815a9fea",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "BAO VAN NHU TRUONG",
+      "GivenName": ""
+    },
+    {
+      "Id": "8d7a40aa-cba9-4398-8934-c4ce12e39b47",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "VAN NHU BAO TRUONG",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "BAO VAN NHU TRUONG",
+    "VAN NHU BAO TRUONG"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

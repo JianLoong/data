@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655670881202",
+    "CRN": "66556708812029",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c76ef61-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CHOO, JENNY Y",
+    "Name": "Jenny Choo",
+    "ABN": "24472086606",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 9, 249 Stud Road",
+      "AddressLine2": "Wantirna South Vic 3152",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "WANTIRNA SOUTH",
+      "OtherSuburb": null,
+      "PostCode": "3152",
+      "OtherPostCode": null,
+      "Latitude": -37.8609099,
+      "Longitude": 145.23988,
+      "FullAddress": "Suite 9, 249 Stud Road\r\nWantirna South Vic 3152\r\nWANTIRNA SOUTH VIC 3152\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "KNOXFIELD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "KNOXFIELD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "98003839",
+        "FullNumber": "61 03 98003839"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "98003919",
+        "FullNumber": "61 03 98003919"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5644708200380",
+      "CRN": "56447082003801",
+      "IsProfileLockedOut": null,
+      "BusinessId": "96a4950c-f668-e611-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "CHOO, JENNY Y",
+      "Name": "Knox Legal",
+      "ABN": "24 472 086 606",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 9, 249 Stud Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "WANTIRNA SOUTH",
+        "OtherSuburb": null,
+        "PostCode": "3152",
+        "OtherPostCode": null,
+        "Latitude": -37.8609099,
+        "Longitude": 145.23988,
+        "FullAddress": "Suite 9, 249 Stud Road\r\nWANTIRNA SOUTH VIC 3152\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "9800 3839",
+          "FullNumber": "61 3 9800 3839"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "9800 3919",
+          "FullNumber": "61 3 9800 3919"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655670881202",
+    "CRN": "66556708812029",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c76ef61-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CHOO, JENNY Y",
+    "Name": "Jenny Choo",
+    "ABN": "24472086606",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 9, 249 Stud Road",
+      "AddressLine2": "Wantirna South Vic 3152",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "WANTIRNA SOUTH",
+      "OtherSuburb": null,
+      "PostCode": "3152",
+      "OtherPostCode": null,
+      "Latitude": -37.8609099,
+      "Longitude": 145.23988,
+      "FullAddress": "Suite 9, 249 Stud Road\r\nWantirna South Vic 3152\r\nWANTIRNA SOUTH VIC 3152\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "KNOXFIELD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "KNOXFIELD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "98003839",
+        "FullNumber": "61 03 98003839"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "98003919",
+        "FullNumber": "61 03 98003919"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Jenny",
+    "SecondName": "Yen Ling",
+    "FamilyName": "Choo",
+    "PostNominal": null,
+    "FullName": "Mrs Jenny Yen Ling Choo",
+    "GivenName": "Jenny Yen Ling"
+  },
+  "MARN": "0209203",
+  "IsNoFee": false,
+  "ContactId": "ce89b131-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "a7abb7ac-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Wong",
+      "FirstName": "Jenny",
+      "SecondName": "Yen Ling",
+      "Alias": null,
+      "GivenName": "Jenny Yen Ling"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

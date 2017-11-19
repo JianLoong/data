@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0481324417962",
+    "CRN": "04813244179629",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bf5b4290-e9fd-43da-8823-65f564a24bac",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "FARUQUE, SYED MAHMUD",
+    "Name": "IMMIAID ANZ",
+    "ABN": "35744766012",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "20A Alexander Crescent",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "MACQUARIE FIELDS",
+      "OtherSuburb": null,
+      "PostCode": "2564",
+      "OtherPostCode": null,
+      "Latitude": -33.98542,
+      "Longitude": 150.87954,
+      "FullAddress": "20A Alexander Crescent\r\nMACQUARIE FIELDS NSW 2564\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "96055962",
+        "FullNumber": "61 2 96055962"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6689669953207",
+      "CRN": "66896699532077",
+      "IsProfileLockedOut": null,
+      "BusinessId": "20d60e9e-7cc3-e711-9417-000d3ad152db",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "IMMIAID ANZ LTD",
+      "Name": "IMMIAID ANZ",
+      "ABN": null,
+      "Address": {
+        "Country": "Bangladesh",
+        "AddressLine1": "House - 116, Eastern Road, Lane - 6, New DOHS,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Dhaka - 1206",
+        "Suburb": "Other",
+        "OtherSuburb": "Mohakhali",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 40.118550029662,
+        "Longitude": -75.5430493655396,
+        "FullAddress": "House - 116, Eastern Road, Lane - 6, New DOHS,\r\nMohakhali \r\nBangladesh"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "88",
+          "AreaCode": "01",
+          "Number": "798664411",
+          "FullNumber": "88 01 798664411"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0481324417962",
+    "CRN": "04813244179629",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bf5b4290-e9fd-43da-8823-65f564a24bac",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "FARUQUE, SYED MAHMUD",
+    "Name": "IMMIAID ANZ",
+    "ABN": "35744766012",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "20A Alexander Crescent",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "MACQUARIE FIELDS",
+      "OtherSuburb": null,
+      "PostCode": "2564",
+      "OtherPostCode": null,
+      "Latitude": -33.98542,
+      "Longitude": 150.87954,
+      "FullAddress": "20A Alexander Crescent\r\nMACQUARIE FIELDS NSW 2564\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "96055962",
+        "FullNumber": "61 2 96055962"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Syed",
+    "SecondName": "Mahmud",
+    "FamilyName": "Faruque",
+    "PostNominal": null,
+    "FullName": "Mr Syed Mahmud Faruque",
+    "GivenName": "Syed Mahmud"
+  },
+  "MARN": "1796496",
+  "IsNoFee": false,
+  "ContactId": "15960a17-036c-e711-9412-000d3ad152db",
+  "CitizenshipCountries": [
+    "Bangladesh"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

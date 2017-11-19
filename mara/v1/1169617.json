@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0955974420897",
+    "CRN": "09559744208975",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d662179f-6f53-424d-8334-17363999fa6d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AURA BUSINESS SOLUTIONS PTY LTD",
+    "Name": "AURA BUSINESS SOLUTIONS PTY LTD",
+    "ABN": "69612678038",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level-2, Suite 2, 48 Macquarie Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": "2150",
+      "OtherPostCode": null,
+      "Latitude": -33.81498,
+      "Longitude": 151.00379,
+      "FullAddress": "Level-2, Suite 2, 48 Macquarie Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "33986780",
+        "FullNumber": "61 04 33986780"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0545126401070",
+      "CRN": "05451264010707",
+      "IsProfileLockedOut": null,
+      "BusinessId": "207d90fd-e5b8-4786-a74f-5b51f02cfce8",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "AGRAWAL, SONAL ",
+      "Name": "Aura Migration Services",
+      "ABN": "74504531591",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 2, Suite 1",
+        "AddressLine2": "48 Macquarie Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "PARRAMATTA",
+        "OtherSuburb": null,
+        "PostCode": "2150",
+        "OtherPostCode": null,
+        "Latitude": -34.57548,
+        "Longitude": 150.7673,
+        "FullAddress": "Level 2, Suite 1\r\n48 Macquarie Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "33986780",
+          "FullNumber": "61 4 33986780"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0955974420897",
+    "CRN": "09559744208975",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d662179f-6f53-424d-8334-17363999fa6d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AURA BUSINESS SOLUTIONS PTY LTD",
+    "Name": "AURA BUSINESS SOLUTIONS PTY LTD",
+    "ABN": "69612678038",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level-2, Suite 2, 48 Macquarie Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": "2150",
+      "OtherPostCode": null,
+      "Latitude": -33.81498,
+      "Longitude": 151.00379,
+      "FullAddress": "Level-2, Suite 2, 48 Macquarie Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "33986780",
+        "FullNumber": "61 04 33986780"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Sonal",
+    "SecondName": null,
+    "FamilyName": "Agrawal",
+    "PostNominal": null,
+    "FullName": "Mrs Sonal Agrawal",
+    "GivenName": "Sonal"
+  },
+  "MARN": "1169617",
+  "IsNoFee": false,
+  "ContactId": "d7b6ebc9-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "India"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3c8bad85-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Paranjpe",
+      "FirstName": "Sonal",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Sonal"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,199 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653711859636",
+    "CRN": "66537118596362",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1824f5ec-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "K P M G",
+    "Name": "KPMG",
+    "ABN": "51194660183",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "235 St Georges Terrace,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.953853,
+      "Longitude": 115.850986,
+      "FullAddress": "235 St Georges Terrace,\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PERTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "92637171",
+        "FullNumber": "61 8 92637171"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "92637129",
+        "FullNumber": "61 8 92637129"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653711859636",
+    "CRN": "66537118596362",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1824f5ec-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "K P M G",
+    "Name": "KPMG",
+    "ABN": "51194660183",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "235 St Georges Terrace,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.953853,
+      "Longitude": 115.850986,
+      "FullAddress": "235 St Georges Terrace,\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PERTH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "92637171",
+        "FullNumber": "61 8 92637171"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "92637129",
+        "FullNumber": "61 8 92637129"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Rachel",
+    "SecondName": "Catherine",
+    "FamilyName": "Williamson",
+    "PostNominal": null,
+    "FullName": "Ms Rachel Catherine Williamson",
+    "GivenName": "Rachel Catherine"
+  },
+  "MARN": "0742401",
+  "IsNoFee": false,
+  "ContactId": "d8621bf7-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

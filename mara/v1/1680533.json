@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1553557102424",
+    "CRN": "15535571024240",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d91d950c-ccfe-4662-b056-820731790038",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Asia Migration Center",
+    "Name": "Asia Migration Center",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Unit 2107, Sterling Centre",
+      "AddressLine2": "11 Cheung Yue Street",
+      "AddressLine3": "Lai Chi Kok",
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Cheung Sha Wan, Kowloon",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.33725,
+      "Longitude": 114.15006,
+      "FullAddress": "Unit 2107, Sterling Centre\r\n11 Cheung Yue Street\r\nLai Chi Kok\r\nCheung Sha Wan, Kowloon \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "00",
+        "AreaCode": "852",
+        "Number": "21551838",
+        "FullNumber": "00 852 21551838"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "00",
+        "AreaCode": "852",
+        "Number": "21540555",
+        "FullNumber": "00 852 21540555"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1928391620650",
+      "CRN": "19283916206505",
+      "IsProfileLockedOut": null,
+      "BusinessId": "cdef43f7-abaa-4b56-bf8f-56ef05d7bc57",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "ORBPLUS GROUP PTY LIMITED",
+      "Name": "ORBPLUS GROUP PTY LIMITED",
+      "ABN": "35605860062",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 5",
+        "AddressLine2": "28 Robinson Avenue",
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "PERTH",
+        "OtherSuburb": null,
+        "PostCode": "6000",
+        "OtherPostCode": null,
+        "Latitude": -31.94373,
+        "Longitude": 115.86365,
+        "FullAddress": "Unit 5\r\n28 Robinson Avenue\r\nPERTH WA 6000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "94679818",
+          "FullNumber": "61 8 94679818"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1553557102424",
+    "CRN": "15535571024240",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d91d950c-ccfe-4662-b056-820731790038",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Asia Migration Center",
+    "Name": "Asia Migration Center",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Unit 2107, Sterling Centre",
+      "AddressLine2": "11 Cheung Yue Street",
+      "AddressLine3": "Lai Chi Kok",
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Cheung Sha Wan, Kowloon",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.33725,
+      "Longitude": 114.15006,
+      "FullAddress": "Unit 2107, Sterling Centre\r\n11 Cheung Yue Street\r\nLai Chi Kok\r\nCheung Sha Wan, Kowloon \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "00",
+        "AreaCode": "852",
+        "Number": "21551838",
+        "FullNumber": "00 852 21551838"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "00",
+        "AreaCode": "852",
+        "Number": "21540555",
+        "FullNumber": "00 852 21540555"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Florence",
+    "SecondName": null,
+    "FamilyName": "Man",
+    "PostNominal": null,
+    "FullName": "Ms Florence Man",
+    "GivenName": "Florence"
+  },
+  "MARN": "1680533",
+  "IsNoFee": false,
+  "ContactId": "68cca8e7-abbd-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Hong Kong"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c5d4a37f-42d8-4753-b982-fa40260e77e1",
+      "Type": "Former Name",
+      "FamilyName": "MAN",
+      "FirstName": "CHING",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "CHING"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

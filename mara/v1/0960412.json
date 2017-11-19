@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6737466275892",
+    "CRN": "67374662758926",
+    "IsProfileLockedOut": null,
+    "BusinessId": "284f3d52-2b06-4f52-a9e4-e7a078d2340d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EDUCATION EMBASSY PTY. LTD.",
+    "Name": "EDUCATION EMBASSY PTY. LTD.",
+    "ABN": "66601473278",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Office 4A,",
+      "AddressLine2": "2092 Logan Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "UPPER MOUNT GRAVATT",
+      "OtherSuburb": null,
+      "PostCode": "4122",
+      "OtherPostCode": null,
+      "Latitude": -27.56039,
+      "Longitude": 153.08299,
+      "FullAddress": "Office 4A,\r\n2092 Logan Road\r\nUPPER MOUNT GRAVATT QLD 4122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31629257",
+        "FullNumber": "61 7 31629257"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Partner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6663294739206",
+      "CRN": "66632947392063",
+      "IsProfileLockedOut": null,
+      "BusinessId": "86ba122a-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "L.Y KIM & B PARK",
+      "Name": "L.Y KIM & B PARK",
+      "ABN": "47386993547",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 12 / 29 Selborne Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "MOUNT GRAVATT EAST",
+        "OtherSuburb": null,
+        "PostCode": "4122",
+        "OtherPostCode": null,
+        "Latitude": -27.53587,
+        "Longitude": 153.08055,
+        "FullAddress": "Unit 12 / 29 Selborne Street\r\nMOUNT GRAVATT EAST QLD 4122\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "UPPER MOUNT GRAVATT",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "UPPER MOUNT GRAVATT"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "01830560",
+          "FullNumber": "61 4 01830560"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6737466275892",
+    "CRN": "67374662758926",
+    "IsProfileLockedOut": null,
+    "BusinessId": "284f3d52-2b06-4f52-a9e4-e7a078d2340d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EDUCATION EMBASSY PTY. LTD.",
+    "Name": "EDUCATION EMBASSY PTY. LTD.",
+    "ABN": "66601473278",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Office 4A,",
+      "AddressLine2": "2092 Logan Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "UPPER MOUNT GRAVATT",
+      "OtherSuburb": null,
+      "PostCode": "4122",
+      "OtherPostCode": null,
+      "Latitude": -27.56039,
+      "Longitude": 153.08299,
+      "FullAddress": "Office 4A,\r\n2092 Logan Road\r\nUPPER MOUNT GRAVATT QLD 4122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31629257",
+        "FullNumber": "61 7 31629257"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Brian Kiseok",
+    "SecondName": null,
+    "FamilyName": "Park",
+    "PostNominal": null,
+    "FullName": "Mr Brian Kiseok Park",
+    "GivenName": "Brian Kiseok"
+  },
+  "MARN": "0960412",
+  "IsNoFee": false,
+  "ContactId": "7806ab26-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "d5d4ee3d-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Park",
+      "FirstName": "Ki",
+      "SecondName": "Seok",
+      "Alias": null,
+      "GivenName": "Ki Seok"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

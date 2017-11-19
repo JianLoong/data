@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666144719708",
+    "CRN": "66661447197083",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ab8729d6-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business data not available",
+    "Name": "Immigration Solutions",
+    "ABN": null,
+    "Address": {
+      "Country": "India",
+      "AddressLine1": "1/53 Heera Panna Mall, Near Oshiwara Police STN",
+      "AddressLine2": "ANDHERI (WEST),",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "MAHARASHTRA",
+      "Suburb": "Other",
+      "OtherSuburb": "MUMBAI",
+      "PostCode": "Other",
+      "OtherPostCode": "400102",
+      "Latitude": 19.1441212,
+      "Longitude": 72.8338234,
+      "FullAddress": "1/53 Heera Panna Mall, Near Oshiwara Police STN\r\nANDHERI (WEST),\r\nMUMBAI 400102\r\nIndia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "91",
+        "AreaCode": "22",
+        "Number": "40107035",
+        "FullNumber": "91 22 40107035"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "91",
+        "AreaCode": "22",
+        "Number": "26396569",
+        "FullNumber": "91 22 26396569"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6526447010277",
+      "CRN": "65264470102775",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ce7e5ad7-a897-45c4-b9e3-922d72826380",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Patel, Amyn",
+      "Name": "A&M Immigration Solutions",
+      "ABN": "35 572 382 756",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 33 Australia Square",
+        "AddressLine2": "264 George St",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.86495,
+        "Longitude": 151.20796,
+        "FullAddress": "Level 33 Australia Square\r\n264 George St\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92581183",
+          "FullNumber": "61 2 92581183"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92581111",
+          "FullNumber": "61 2 92581111"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666144719708",
+    "CRN": "66661447197083",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ab8729d6-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business data not available",
+    "Name": "Immigration Solutions",
+    "ABN": null,
+    "Address": {
+      "Country": "India",
+      "AddressLine1": "1/53 Heera Panna Mall, Near Oshiwara Police STN",
+      "AddressLine2": "ANDHERI (WEST),",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "MAHARASHTRA",
+      "Suburb": "Other",
+      "OtherSuburb": "MUMBAI",
+      "PostCode": "Other",
+      "OtherPostCode": "400102",
+      "Latitude": 19.1441212,
+      "Longitude": 72.8338234,
+      "FullAddress": "1/53 Heera Panna Mall, Near Oshiwara Police STN\r\nANDHERI (WEST),\r\nMUMBAI 400102\r\nIndia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "91",
+        "AreaCode": "22",
+        "Number": "40107035",
+        "FullNumber": "91 22 40107035"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "91",
+        "AreaCode": "22",
+        "Number": "26396569",
+        "FullNumber": "91 22 26396569"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Amyn",
+    "SecondName": null,
+    "FamilyName": "Patel",
+    "PostNominal": null,
+    "FullName": "Mr Amyn Patel",
+    "GivenName": "Amyn"
+  },
+  "MARN": "1170267",
+  "IsNoFee": false,
+  "ContactId": "457a09d6-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "India"
+  ],
+  "OtherNames": [
+    {
+      "Id": "9da5b38b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Patel",
+      "FirstName": "Amyn",
+      "SecondName": "Abuali",
+      "Alias": null,
+      "GivenName": "Amyn Abuali"
+    },
+    {
+      "Id": "a1a5b38b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Patel",
+      "FirstName": "Amyn",
+      "SecondName": "A",
+      "Alias": null,
+      "GivenName": "Amyn A"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

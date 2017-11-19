@@ -1,0 +1,201 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666004300920",
+    "CRN": "66660043009205",
+    "IsProfileLockedOut": null,
+    "BusinessId": "dd640aca-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "LEE, KI DONG",
+    "Name": "KDL Legal",
+    "ABN": "47692119877",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 2f, Level 2,",
+      "AddressLine2": "9-13 Redmyre Road",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "STRATHFIELD",
+      "OtherSuburb": null,
+      "PostCode": "2135",
+      "OtherPostCode": null,
+      "Latitude": -33.873071,
+      "Longitude": 151.092442,
+      "FullAddress": "Suite 2f, Level 2,\r\n9-13 Redmyre Road\r\nSTRATHFIELD NSW 2135\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "LIDCOMBE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "LIDCOMBE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "97462992",
+        "FullNumber": "61 02 97462992"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "80721523",
+        "FullNumber": "61 02 80721523"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666004300920",
+    "CRN": "66660043009205",
+    "IsProfileLockedOut": null,
+    "BusinessId": "dd640aca-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "LEE, KI DONG",
+    "Name": "KDL Legal",
+    "ABN": "47692119877",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 2f, Level 2,",
+      "AddressLine2": "9-13 Redmyre Road",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "STRATHFIELD",
+      "OtherSuburb": null,
+      "PostCode": "2135",
+      "OtherPostCode": null,
+      "Latitude": -33.873071,
+      "Longitude": 151.092442,
+      "FullAddress": "Suite 2f, Level 2,\r\n9-13 Redmyre Road\r\nSTRATHFIELD NSW 2135\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "LIDCOMBE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "LIDCOMBE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "97462992",
+        "FullNumber": "61 02 97462992"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "80721523",
+        "FullNumber": "61 02 80721523"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ki",
+    "SecondName": "Dong",
+    "FamilyName": "Lee",
+    "PostNominal": null,
+    "FullName": "Mr Ki Dong Lee",
+    "GivenName": "Ki Dong"
+  },
+  "MARN": "0961215",
+  "IsNoFee": false,
+  "ContactId": "d7e0d032-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Korea, Republic of",
+    "New Zealand"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

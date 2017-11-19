@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8989886058003",
+    "CRN": "89898860580030",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f2185d44-4ce0-4951-9eb7-1392d988a5be",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "OLIVEIRA, FERNANDO QUENTAL",
+    "Name": "Aim Migration Services Australia",
+    "ABN": "68599372445",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "76/215 Cottesloe Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MERMAID WATERS",
+      "OtherSuburb": null,
+      "PostCode": "4218",
+      "OtherPostCode": null,
+      "Latitude": -28.06043,
+      "Longitude": 153.420227,
+      "FullAddress": "76/215 Cottesloe Drive\r\nMERMAID WATERS QLD 4218\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "68952393",
+        "FullNumber": "61 4 68952393"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1381885221894",
+      "CRN": "13818852218940",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6f289d31-00c0-e611-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Government Department",
+      "EntityName": "Gold Coast 2018 Commonwealth Games Corporation",
+      "Name": "Gold Coast 2018 Commonwealth Games Corporation",
+      "ABN": "47 959 083 668",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Block A",
+        "AddressLine2": "Cnr Heeb Street and Benowa Road",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "ASHMORE",
+        "OtherSuburb": null,
+        "PostCode": "4214",
+        "OtherPostCode": null,
+        "Latitude": -27.99655,
+        "Longitude": 153.39274,
+        "FullAddress": "Block A\r\nCnr Heeb Street and Benowa Road\r\nASHMORE QLD 4214\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "56404213",
+          "FullNumber": "61 4 56404213"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6669443030052",
+      "CRN": "66694430300520",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a2e3b099-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "FOWDAR, RUBY KALAIARASI",
+      "Name": "Australian Immigration Agency",
+      "ABN": "46424326879",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 25, ",
+        "AddressLine2": "108 St Georges Terrace",
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "PERTH",
+        "OtherSuburb": null,
+        "PostCode": "6000",
+        "OtherPostCode": null,
+        "Latitude": 47.4112930297852,
+        "Longitude": -120.556266784668,
+        "FullAddress": "Level 25, \r\n108 St Georges Terrace\r\nPERTH WA 6000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BRISBANE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BRISBANE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "65578797",
+          "FullNumber": "61 08 65578797"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8989886058003",
+    "CRN": "89898860580030",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f2185d44-4ce0-4951-9eb7-1392d988a5be",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "OLIVEIRA, FERNANDO QUENTAL",
+    "Name": "Aim Migration Services Australia",
+    "ABN": "68599372445",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "76/215 Cottesloe Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MERMAID WATERS",
+      "OtherSuburb": null,
+      "PostCode": "4218",
+      "OtherPostCode": null,
+      "Latitude": -28.06043,
+      "Longitude": 153.420227,
+      "FullAddress": "76/215 Cottesloe Drive\r\nMERMAID WATERS QLD 4218\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "68952393",
+        "FullNumber": "61 4 68952393"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Fernando",
+    "SecondName": null,
+    "FamilyName": "Quental Oliveira",
+    "PostNominal": null,
+    "FullName": "Mr Fernando Quental Oliveira",
+    "GivenName": "Fernando"
+  },
+  "MARN": "1465130",
+  "IsNoFee": false,
+  "ContactId": "3bb70fd5-9610-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Brazil"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

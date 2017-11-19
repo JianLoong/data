@@ -1,0 +1,309 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4755978911895",
+    "CRN": "47559789118958",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fe05fc70-bfa5-4182-8b8d-3ec4323996a7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "TEJ IMMIGRATION PTY LTD",
+    "Name": "TJ7 LEARNING",
+    "ABN": "56609012660",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "14 Johnson St",
+      "AddressLine2": "Oakleigh",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "OAKLEIGH",
+      "OtherSuburb": null,
+      "PostCode": "3166",
+      "OtherPostCode": null,
+      "Latitude": -37.9009799,
+      "Longitude": 145.08766,
+      "FullAddress": "14 Johnson St\r\nOakleigh\r\nOAKLEIGH VIC 3166\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95681367",
+        "FullNumber": "61 3 95681367"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2046142145940",
+      "CRN": "20461421459402",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d6155d49-acfe-4e26-a0d2-af908cb9ed81",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "ARORA, TAJINDER SINGH",
+      "Name": "Tej Singh",
+      "ABN": "58612810953",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "6 Buckingham Close",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "NARRE WARREN",
+        "OtherSuburb": null,
+        "PostCode": "3805",
+        "OtherPostCode": null,
+        "Latitude": -38.00586,
+        "Longitude": 145.319951,
+        "FullAddress": "6 Buckingham Close\r\nNARRE WARREN VIC 3805\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "95634860",
+          "FullNumber": "61 3 95634860"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4755978911895",
+    "CRN": "47559789118958",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fe05fc70-bfa5-4182-8b8d-3ec4323996a7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "TEJ IMMIGRATION PTY LTD",
+    "Name": "TJ7 LEARNING",
+    "ABN": "56609012660",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "14 Johnson St",
+      "AddressLine2": "Oakleigh",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "OAKLEIGH",
+      "OtherSuburb": null,
+      "PostCode": "3166",
+      "OtherPostCode": null,
+      "Latitude": -37.9009799,
+      "Longitude": 145.08766,
+      "FullAddress": "14 Johnson St\r\nOakleigh\r\nOAKLEIGH VIC 3166\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95681367",
+        "FullNumber": "61 3 95681367"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Tajinder Singh",
+    "SecondName": null,
+    "FamilyName": "Arora",
+    "PostNominal": null,
+    "FullName": "Mr Tajinder Singh Arora",
+    "GivenName": "Tajinder Singh"
+  },
+  "MARN": "1463483",
+  "IsNoFee": false,
+  "ContactId": "c2155514-becd-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "India"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f0e29b62-c7e7-e311-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Tajinder Arora",
+      "GivenName": ""
+    },
+    {
+      "Id": "3eabac02-587d-433c-ba00-e81b5986369b",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Tej Singh",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Tajinder Arora",
+    "Tej Singh"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

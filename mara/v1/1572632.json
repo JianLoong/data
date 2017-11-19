@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6656832376294",
+    "CRN": "66568323762948",
+    "IsProfileLockedOut": null,
+    "BusinessId": "84635aa7-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Migration Solutions Pty Ltd",
+    "Name": "Migration Solutions Pty Ltd",
+    "ABN": "39086722607",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 9",
+      "AddressLine2": "185 Victoria Square",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.92753,
+      "Longitude": 138.59866,
+      "FullAddress": "Level 9\r\n185 Victoria Square\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ADELAIDE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82109800",
+        "FullNumber": "61 8 82109800"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82109899",
+        "FullNumber": "61 8 82109899"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7215726869374",
+      "CRN": "72157268693740",
+      "IsProfileLockedOut": null,
+      "BusinessId": "899fa66b-425b-4073-ba69-0aca8e1ebff9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "REILLY, MATTHEW JAMES",
+      "Name": "REILLY, MATTHEW JAMES",
+      "ABN": "57574502825",
+      "Address": {
+        "Country": "United Kingdom",
+        "AddressLine1": "46 Knighton Park",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Sydenham",
+        "PostCode": "Other",
+        "OtherPostCode": "SE26 5RL",
+        "Latitude": 51.423639,
+        "Longitude": -0.046052,
+        "FullAddress": "46 Knighton Park\r\nSydenham SE26 5RL\r\nUnited Kingdom"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "44",
+          "AreaCode": "7",
+          "Number": "749395046",
+          "FullNumber": "44 7 749395046"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6656832376294",
+    "CRN": "66568323762948",
+    "IsProfileLockedOut": null,
+    "BusinessId": "84635aa7-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Migration Solutions Pty Ltd",
+    "Name": "Migration Solutions Pty Ltd",
+    "ABN": "39086722607",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 9",
+      "AddressLine2": "185 Victoria Square",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.92753,
+      "Longitude": 138.59866,
+      "FullAddress": "Level 9\r\n185 Victoria Square\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ADELAIDE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82109800",
+        "FullNumber": "61 8 82109800"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82109899",
+        "FullNumber": "61 8 82109899"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Matthew",
+    "SecondName": "James",
+    "FamilyName": "Reilly",
+    "PostNominal": null,
+    "FullName": "Mr Matthew James Reilly",
+    "GivenName": "Matthew James"
+  },
+  "MARN": "1572632",
+  "IsNoFee": false,
+  "ContactId": "8dcddda5-4cfd-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

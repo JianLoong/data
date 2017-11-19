@@ -1,0 +1,382 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4085710694778",
+    "CRN": "40857106947783",
+    "IsProfileLockedOut": null,
+    "BusinessId": "57a45c46-1ce9-44dc-b198-20cbd2283430",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "TYLER, SAMANTHA MELINA JAYNE",
+    "Name": "SUPPORTING AUSTRALIAN MIGRATION",
+    "ABN": "41372597336",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "49 St Augustines drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "AUGUSTINE HEIGHTS",
+      "OtherSuburb": null,
+      "PostCode": "4300",
+      "OtherPostCode": null,
+      "Latitude": -27.66214,
+      "Longitude": 152.88637,
+      "FullAddress": "49 St Augustines drive\r\nAUGUSTINE HEIGHTS QLD 4300\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "08721853",
+        "FullNumber": "61 4 08721853"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6667496430135",
+      "CRN": "66674964301351",
+      "IsProfileLockedOut": null,
+      "BusinessId": "73826823-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Exclusive Migration Pty Ltd",
+      "Name": "Exclusive Migration Pty Ltd",
+      "ABN": "22150652510",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 10",
+        "AddressLine2": "239 George Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRISBANE CITY",
+        "OtherSuburb": null,
+        "PostCode": "4000",
+        "OtherPostCode": null,
+        "Latitude": -27.47016,
+        "Longitude": 153.02332,
+        "FullAddress": "Level 10\r\n239 George Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "SHAILER PARK",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "SHAILER PARK"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "31885665",
+          "FullNumber": "61 7 31885665"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6672006102272",
+      "CRN": "66720061022729",
+      "IsProfileLockedOut": null,
+      "BusinessId": "65ed1131-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Carre Migration Australia Pty Ltd",
+      "Name": "Carre Migration Australia Pty Ltd",
+      "ABN": "28162530814",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 13, 50 Cavill Avenue",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "SURFERS PARADISE",
+        "OtherSuburb": null,
+        "PostCode": "4217",
+        "OtherPostCode": null,
+        "Latitude": -28.00205,
+        "Longitude": 153.426727,
+        "FullAddress": "Level 13, 50 Cavill Avenue\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "VARSITY LAKES",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "VARSITY LAKES"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "1300",
+          "Number": "322 461",
+          "FullNumber": "61 1300 322 461"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "56076017",
+          "FullNumber": "61 7 56076017"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4085710694778",
+    "CRN": "40857106947783",
+    "IsProfileLockedOut": null,
+    "BusinessId": "57a45c46-1ce9-44dc-b198-20cbd2283430",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "TYLER, SAMANTHA MELINA JAYNE",
+    "Name": "SUPPORTING AUSTRALIAN MIGRATION",
+    "ABN": "41372597336",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "49 St Augustines drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "AUGUSTINE HEIGHTS",
+      "OtherSuburb": null,
+      "PostCode": "4300",
+      "OtherPostCode": null,
+      "Latitude": -27.66214,
+      "Longitude": 152.88637,
+      "FullAddress": "49 St Augustines drive\r\nAUGUSTINE HEIGHTS QLD 4300\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "08721853",
+        "FullNumber": "61 4 08721853"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Samantha",
+    "SecondName": "Melina Jayne",
+    "FamilyName": "Tyler",
+    "PostNominal": null,
+    "FullName": "Mrs Samantha Melina Jayne Tyler",
+    "GivenName": "Samantha Melina Jayne"
+  },
+  "MARN": "1387495",
+  "IsNoFee": false,
+  "ContactId": "419c2e29-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "03947ef1-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Rose",
+      "FirstName": "Samantha",
+      "SecondName": "Melina Jayne",
+      "Alias": null,
+      "GivenName": "Samantha Melina Jayne"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

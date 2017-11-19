@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653492020308",
+    "CRN": "66534920203088",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9c35d9e0-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Neil E Hitchcock & Associates Pty Ltd",
+    "Name": "Hitchcock & Associates",
+    "ABN": "77003299214",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1905, Level 19, Tower A, Zenith Centre",
+      "AddressLine2": "821 Pacific Highway",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.79477,
+      "Longitude": 151.17941,
+      "FullAddress": "Suite 1905, Level 19, Tower A, Zenith Centre\r\n821 Pacific Highway\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CHATSWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "84408330",
+        "FullNumber": "61 2 84408330"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "84408333",
+        "FullNumber": "61 2 84408333"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2330343379674",
+      "CRN": "23303433796746",
+      "IsProfileLockedOut": null,
+      "BusinessId": "cf817045-dbc8-476a-ad84-80ddd9f07932",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "CHANG, JAE HEUM",
+      "Name": "CHANG, JAE HEUM",
+      "ABN": "31736559089",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "16 Rangers Rd",
+        "AddressLine2": "Unit 10",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "CREMORNE",
+        "OtherSuburb": null,
+        "PostCode": "2090",
+        "OtherPostCode": null,
+        "Latitude": -33.8324799,
+        "Longitude": 151.22519,
+        "FullAddress": "16 Rangers Rd\r\nUnit 10\r\nCREMORNE NSW 2090\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "50062200",
+          "FullNumber": "61 4 50062200"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653492020308",
+    "CRN": "66534920203088",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9c35d9e0-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Neil E Hitchcock & Associates Pty Ltd",
+    "Name": "Hitchcock & Associates",
+    "ABN": "77003299214",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1905, Level 19, Tower A, Zenith Centre",
+      "AddressLine2": "821 Pacific Highway",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2067",
+      "OtherPostCode": null,
+      "Latitude": -33.79477,
+      "Longitude": 151.17941,
+      "FullAddress": "Suite 1905, Level 19, Tower A, Zenith Centre\r\n821 Pacific Highway\r\nCHATSWOOD NSW 2067\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CHATSWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CHATSWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "84408330",
+        "FullNumber": "61 2 84408330"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "84408333",
+        "FullNumber": "61 2 84408333"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Jae Heum",
+    "SecondName": null,
+    "FamilyName": "Chang",
+    "PostNominal": null,
+    "FullName": "Mr Jae Heum Chang",
+    "GivenName": "Jae Heum"
+  },
+  "MARN": "1793939",
+  "IsNoFee": false,
+  "ContactId": "e48d5fa3-d29f-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f8740640-1a37-4c0e-8734-917db5c5d30a",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "CHANG, JAE HEUM DANNY",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "CHANG, JAE HEUM DANNY"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

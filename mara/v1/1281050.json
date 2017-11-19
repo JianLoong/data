@@ -1,0 +1,315 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6660053186451",
+    "CRN": "66600531864514",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2e5bcf65-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "No Borders Group Pty Ltd",
+    "Name": "No Borders Migration Advocates",
+    "ABN": "48114711349",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 4",
+      "AddressLine2": "20 Park Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MILTON",
+      "OtherSuburb": null,
+      "PostCode": "4064",
+      "OtherPostCode": null,
+      "Latitude": -27.4705821,
+      "Longitude": 153.004902,
+      "FullAddress": "Level 4\r\n20 Park Road\r\nMILTON QLD 4064\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MILTON",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MILTON"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38764000",
+        "FullNumber": "61 7 38764000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38765788",
+        "FullNumber": "61 7 38765788"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2944961380622",
+      "CRN": "29449613806228",
+      "IsProfileLockedOut": null,
+      "BusinessId": "693f5206-c620-4c61-8cb9-5564e48384a7",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "ABALOS, MARK JEFFREY",
+      "Name": "ABALOS, MARK JEFFREY",
+      "ABN": "28728900262",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Rawson Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "ROCKDALE",
+        "OtherSuburb": null,
+        "PostCode": "2216",
+        "OtherPostCode": null,
+        "Latitude": -33.95411,
+        "Longitude": 151.13413,
+        "FullAddress": "Rawson Street\r\nROCKDALE NSW 2216\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "68653813",
+          "FullNumber": "61 4 68653813"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6660053186451",
+    "CRN": "66600531864514",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2e5bcf65-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "No Borders Group Pty Ltd",
+    "Name": "No Borders Migration Advocates",
+    "ABN": "48114711349",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 4",
+      "AddressLine2": "20 Park Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MILTON",
+      "OtherSuburb": null,
+      "PostCode": "4064",
+      "OtherPostCode": null,
+      "Latitude": -27.4705821,
+      "Longitude": 153.004902,
+      "FullAddress": "Level 4\r\n20 Park Road\r\nMILTON QLD 4064\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MILTON",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MILTON"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38764000",
+        "FullNumber": "61 7 38764000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38765788",
+        "FullNumber": "61 7 38765788"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Mark",
+    "SecondName": "Jeffrey",
+    "FamilyName": "Abalos",
+    "PostNominal": null,
+    "FullName": "Mr Mark Jeffrey Abalos",
+    "GivenName": "Mark Jeffrey"
+  },
+  "MARN": "1281050",
+  "IsNoFee": false,
+  "ContactId": "5a7f1ab0-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Philippines"
+  ],
+  "OtherNames": [
+    {
+      "Id": "892c76d3-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Abalos",
+      "FirstName": "Mark",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Mark"
+    },
+    {
+      "Id": "8d2c76d3-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Abalos",
+      "FirstName": "MJ",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "MJ"
+    },
+    {
+      "Id": "a32c76d3-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Abalos",
+      "FirstName": "Mark Jeffrey",
+      "SecondName": "Meneses",
+      "Alias": null,
+      "GivenName": "Mark Jeffrey Meneses"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

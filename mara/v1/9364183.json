@@ -1,0 +1,199 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6669511059125",
+    "CRN": "66695110591255",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b5e3b099-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Allvisa Agencies Pty. Ltd.",
+    "Name": "Allvisa Agencies Pty. Ltd.",
+    "ABN": "71135380228",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "17 Barber Road,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "FERNY HILLS",
+      "OtherSuburb": null,
+      "PostCode": "4055",
+      "OtherPostCode": null,
+      "Latitude": -27.391514,
+      "Longitude": 152.938928,
+      "FullAddress": "17 Barber Road,\r\nFERNY HILLS QLD 4055\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "KENMORE HILLS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "KENMORE HILLS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "31625376",
+        "FullNumber": "61 07 31625376"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33512935",
+        "FullNumber": "61 07 33512935"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6669511059125",
+    "CRN": "66695110591255",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b5e3b099-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Allvisa Agencies Pty. Ltd.",
+    "Name": "Allvisa Agencies Pty. Ltd.",
+    "ABN": "71135380228",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "17 Barber Road,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "FERNY HILLS",
+      "OtherSuburb": null,
+      "PostCode": "4055",
+      "OtherPostCode": null,
+      "Latitude": -27.391514,
+      "Longitude": 152.938928,
+      "FullAddress": "17 Barber Road,\r\nFERNY HILLS QLD 4055\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "KENMORE HILLS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "KENMORE HILLS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "31625376",
+        "FullNumber": "61 07 31625376"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "33512935",
+        "FullNumber": "61 07 33512935"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Bruce",
+    "SecondName": "David",
+    "FamilyName": "Williams",
+    "PostNominal": null,
+    "FullName": "Mr Bruce David Williams",
+    "GivenName": "Bruce David"
+  },
+  "MARN": "9364183",
+  "IsNoFee": false,
+  "ContactId": "7c5fc28f-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

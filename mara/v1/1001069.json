@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5229946539143",
+    "CRN": "52299465391437",
+    "IsProfileLockedOut": null,
+    "BusinessId": "69fe7dd1-0e08-42dd-bf40-a2c7815523e8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "PCL IMMIGRATION SERVICES LIMITED",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "10/F Chu Kong Shipping Tower",
+      "AddressLine2": "140 -143 Connaught Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Kowloon",
+      "Suburb": "Other",
+      "OtherSuburb": "Sheung Wang",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.322114944458,
+      "Longitude": 114.19303894043,
+      "FullAddress": "10/F Chu Kong Shipping Tower\r\n140 -143 Connaught Road\r\nSheung Wang \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "2868",
+        "Number": "9200",
+        "FullNumber": "852 2868 9200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6810930780703",
+      "CRN": "68109307807032",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0b033294-aeca-415d-afed-c78df656d153",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "Lets Go Global",
+      "ABN": null,
+      "Address": {
+        "Country": "United Kingdom",
+        "AddressLine1": "7 Clerkenwell Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "England",
+        "Suburb": "Other",
+        "OtherSuburb": "London",
+        "PostCode": "Other",
+        "OtherPostCode": "EC1",
+        "Latitude": 51.52359,
+        "Longitude": -0.10712,
+        "FullAddress": "7 Clerkenwell Street\r\nLondon EC1\r\nUnited Kingdom"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "44",
+          "AreaCode": "203",
+          "Number": "2905060",
+          "FullNumber": "44 203 2905060"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5229946539143",
+    "CRN": "52299465391437",
+    "IsProfileLockedOut": null,
+    "BusinessId": "69fe7dd1-0e08-42dd-bf40-a2c7815523e8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "PCL IMMIGRATION SERVICES LIMITED",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "10/F Chu Kong Shipping Tower",
+      "AddressLine2": "140 -143 Connaught Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Kowloon",
+      "Suburb": "Other",
+      "OtherSuburb": "Sheung Wang",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.322114944458,
+      "Longitude": 114.19303894043,
+      "FullAddress": "10/F Chu Kong Shipping Tower\r\n140 -143 Connaught Road\r\nSheung Wang \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "2868",
+        "Number": "9200",
+        "FullNumber": "852 2868 9200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "David",
+    "SecondName": null,
+    "FamilyName": "Brooking",
+    "PostNominal": null,
+    "FullName": "Mr David Brooking",
+    "GivenName": "David"
+  },
+  "MARN": "1001069",
+  "IsNoFee": false,
+  "ContactId": "14d1726f-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,299 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6665124333445",
+    "CRN": "66651243334459",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3a3f1a98-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Simply Migration Pty Ltd",
+    "Name": "Simply Migration Pty Ltd",
+    "ABN": "39157028797",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1/155 Waymouth St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.92637,
+      "Longitude": 138.5940699,
+      "FullAddress": "1/155 Waymouth St\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "RIDLEYTON",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "RIDLEYTON"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "47759096",
+        "FullNumber": "61 04 47759096"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661213051209",
+      "CRN": "66612130512091",
+      "IsProfileLockedOut": null,
+      "BusinessId": "dbcba5aa-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "My Migration Agent Proprietary Limited",
+      "Name": "My Migration Agent Proprietary Ltd",
+      "ABN": "63132251588",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 818, Aurora Building",
+        "AddressLine2": "147 Pirie St",
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "ADELAIDE",
+        "OtherSuburb": null,
+        "PostCode": "5000",
+        "OtherPostCode": null,
+        "Latitude": -34.920896,
+        "Longitude": 138.642032,
+        "FullAddress": "Suite 818, Aurora Building\r\n147 Pirie St\r\nADELAIDE SA 5000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "NORWOOD",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "NORWOOD"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "83324102",
+          "FullNumber": "61 8 83324102"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "83325818",
+          "FullNumber": "61 8 83325818"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6665124333445",
+    "CRN": "66651243334459",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3a3f1a98-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Simply Migration Pty Ltd",
+    "Name": "Simply Migration Pty Ltd",
+    "ABN": "39157028797",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1/155 Waymouth St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.92637,
+      "Longitude": 138.5940699,
+      "FullAddress": "1/155 Waymouth St\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "RIDLEYTON",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "RIDLEYTON"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "47759096",
+        "FullNumber": "61 04 47759096"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Edvania Nia",
+    "SecondName": "Moya",
+    "FamilyName": "Lopes",
+    "PostNominal": null,
+    "FullName": "Ms Edvania Nia Moya Lopes",
+    "GivenName": "Edvania Nia Moya"
+  },
+  "MARN": "0638199",
+  "IsNoFee": false,
+  "ContactId": "fb814bae-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Brazil"
+  ],
+  "OtherNames": [
+    {
+      "Id": "38088c5a-2d29-e611-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Edvania Moya Lopes",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Edvania Moya Lopes"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

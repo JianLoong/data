@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662597566073",
+    "CRN": "66625975660739",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5c5abaff-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business data not available",
+    "Name": "John Hu Migration Consulting",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Flat C&D, 3/F Lucky Plaza,",
+      "AddressLine2": "315 Lockhart Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Wanchai",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.2790107,
+      "Longitude": 114.1780827,
+      "FullAddress": "Flat C&D, 3/F Lucky Plaza,\r\n315 Lockhart Road\r\nWanchai \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "-",
+        "Number": "35681436",
+        "FullNumber": "852 - 35681436"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "852",
+        "AreaCode": "-",
+        "Number": "35681439",
+        "FullNumber": "852 - 35681439"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8793495084608",
+      "CRN": "87934950846082",
+      "IsProfileLockedOut": null,
+      "BusinessId": "47c884a4-eb04-4c4d-9429-e8cf7548d6ac",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "XIPHIAS Immigration Private Ltd.",
+      "Name": "XIPHIAS Immigration Private Ltd.",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "8th Floor, B.M.T.C / T.T.M.C Building,",
+        "AddressLine2": "6th Block, Koramangala,",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Bangalore",
+        "Suburb": "Other",
+        "OtherSuburb": "Koramangala",
+        "PostCode": "Other",
+        "OtherPostCode": "560095",
+        "Latitude": 12.94052,
+        "Longitude": 77.62409,
+        "FullAddress": "8th Floor, B.M.T.C / T.T.M.C Building,\r\n6th Block, Koramangala,\r\nKoramangala 560095\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "80",
+          "Number": "67601000",
+          "FullNumber": "91 80 67601000"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662597566073",
+    "CRN": "66625975660739",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5c5abaff-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business data not available",
+    "Name": "John Hu Migration Consulting",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Flat C&D, 3/F Lucky Plaza,",
+      "AddressLine2": "315 Lockhart Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Wanchai",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.2790107,
+      "Longitude": 114.1780827,
+      "FullAddress": "Flat C&D, 3/F Lucky Plaza,\r\n315 Lockhart Road\r\nWanchai \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "-",
+        "Number": "35681436",
+        "FullNumber": "852 - 35681436"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "852",
+        "AreaCode": "-",
+        "Number": "35681439",
+        "FullNumber": "852 - 35681439"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "John",
+    "SecondName": "Bosco",
+    "FamilyName": "Hu",
+    "PostNominal": null,
+    "FullName": "Mr John Bosco Hu",
+    "GivenName": "John Bosco"
+  },
+  "MARN": "0746141",
+  "IsNoFee": false,
+  "ContactId": "c1e29d2d-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

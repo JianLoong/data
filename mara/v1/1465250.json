@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5656886249640",
+    "CRN": "56568862496402",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1e1d1d53-faa3-4155-9380-fe45c0fe326d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FINCOR SERVICES AUSTRALIA PTY LTD",
+    "Name": "FINCOR SERVICES AUSTRALIA PTY LTD",
+    "ABN": "67165413838",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1",
+      "AddressLine2": "291 Wickham Road",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOORABBIN",
+      "OtherSuburb": null,
+      "PostCode": "3189",
+      "OtherPostCode": null,
+      "Latitude": -37.94691,
+      "Longitude": 145.05786,
+      "FullAddress": "Level 1\r\n291 Wickham Road\r\nMOORABBIN VIC 3189\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "0401752021",
+        "FullNumber": "61 03 0401752021"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1287148924571",
+      "CRN": "12871489245714",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8757436c-00b3-405a-adba-934ce5b9c239",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "FERREIRA, NATASHA BERNADETT",
+      "Name": "Fincor Bookkeeping Sevices Australia",
+      "ABN": "81617790256",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "6 Marcus Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "TEMPLESTOWE LOWER",
+        "OtherSuburb": null,
+        "PostCode": "3107",
+        "OtherPostCode": null,
+        "Latitude": -37.771424,
+        "Longitude": 145.104171,
+        "FullAddress": "6 Marcus Road\r\nTEMPLESTOWE LOWER VIC 3107\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "0401752021",
+          "FullNumber": "61 3 0401752021"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5656886249640",
+    "CRN": "56568862496402",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1e1d1d53-faa3-4155-9380-fe45c0fe326d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FINCOR SERVICES AUSTRALIA PTY LTD",
+    "Name": "FINCOR SERVICES AUSTRALIA PTY LTD",
+    "ABN": "67165413838",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1",
+      "AddressLine2": "291 Wickham Road",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MOORABBIN",
+      "OtherSuburb": null,
+      "PostCode": "3189",
+      "OtherPostCode": null,
+      "Latitude": -37.94691,
+      "Longitude": 145.05786,
+      "FullAddress": "Level 1\r\n291 Wickham Road\r\nMOORABBIN VIC 3189\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "03",
+        "Number": "0401752021",
+        "FullNumber": "61 03 0401752021"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Natasha",
+    "SecondName": "Bernadett",
+    "FamilyName": "Ferreira",
+    "PostNominal": null,
+    "FullName": "Mrs Natasha Bernadett Ferreira",
+    "GivenName": "Natasha Bernadett"
+  },
+  "MARN": "1465250",
+  "IsNoFee": false,
+  "ContactId": "9b6cca5a-b80c-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "South Africa"
+  ],
+  "OtherNames": [
+    {
+      "Id": "da035bec-08fc-4f3e-b001-6a441b322edb",
+      "Type": "Former Name",
+      "FamilyName": "Michael",
+      "FirstName": "NATASHA",
+      "SecondName": "FERREIRA",
+      "Alias": null,
+      "GivenName": "NATASHA FERREIRA"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

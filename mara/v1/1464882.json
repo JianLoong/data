@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0163159514125",
+    "CRN": "01631595141259",
+    "IsProfileLockedOut": null,
+    "BusinessId": "60176851-6c6a-432b-9dd5-d2576c72caf8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CHELIKKATTIL VISWANADHA KURUP, BINDU ",
+    "Name": "BK LAWYERS & CONVEYANCERS",
+    "ABN": "25802157058",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "11 Vanderbilt Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SOUTH MORANG",
+      "OtherSuburb": null,
+      "PostCode": "3752",
+      "OtherPostCode": null,
+      "Latitude": -37.6193541,
+      "Longitude": 145.0679824,
+      "FullAddress": "11 Vanderbilt Avenue\r\nSOUTH MORANG VIC 3752\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94369116",
+        "FullNumber": "61 3 94369116"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94369196",
+        "FullNumber": "61 3 94369196"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8494061517952",
+      "CRN": "84940615179526",
+      "IsProfileLockedOut": null,
+      "BusinessId": "61a5d501-3402-4f3b-a159-1f66e801911c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "CanApprove Consultancy Services Pty Ltd",
+      "Name": "CanApprove Consultancy Services Pty Ltd",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "Haya Tower, 6th Floor,",
+        "AddressLine2": "West Fort, Achutha Menon Road",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Thrissur",
+        "PostCode": "Other",
+        "OtherPostCode": "680004",
+        "Latitude": 10.5226002,
+        "Longitude": 76.2023163,
+        "FullAddress": "Haya Tower, 6th Floor,\r\nWest Fort, Achutha Menon Road\r\nThrissur 680004\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "487",
+          "Number": "3100112",
+          "FullNumber": "91 487 3100112"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0163159514125",
+    "CRN": "01631595141259",
+    "IsProfileLockedOut": null,
+    "BusinessId": "60176851-6c6a-432b-9dd5-d2576c72caf8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CHELIKKATTIL VISWANADHA KURUP, BINDU ",
+    "Name": "BK LAWYERS & CONVEYANCERS",
+    "ABN": "25802157058",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "11 Vanderbilt Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SOUTH MORANG",
+      "OtherSuburb": null,
+      "PostCode": "3752",
+      "OtherPostCode": null,
+      "Latitude": -37.6193541,
+      "Longitude": 145.0679824,
+      "FullAddress": "11 Vanderbilt Avenue\r\nSOUTH MORANG VIC 3752\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94369116",
+        "FullNumber": "61 3 94369116"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94369196",
+        "FullNumber": "61 3 94369196"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Bindu",
+    "SecondName": null,
+    "FamilyName": "Chelikkattil Viswanadha Kurup",
+    "PostNominal": null,
+    "FullName": "Mrs Bindu Chelikkattil Viswanadha Kurup",
+    "GivenName": "Bindu"
+  },
+  "MARN": "1464882",
+  "IsNoFee": false,
+  "ContactId": "18cae656-9a02-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "India"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

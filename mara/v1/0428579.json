@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661362191110",
+    "CRN": "66613621911107",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ad8a11b7-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "VisAustralia(International) Pty Ltd",
+    "Name": "VisAustralia(International) Pty Ltd",
+    "ABN": "11110267528",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1, 145 London Circuit",
+      "AddressLine2": "Canberra City",
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "CITY",
+      "OtherSuburb": null,
+      "PostCode": "2601",
+      "OtherPostCode": null,
+      "Latitude": -35.27963,
+      "Longitude": 149.1308,
+      "FullAddress": "Level 1, 145 London Circuit\r\nCanberra City\r\nCITY ACT 2601\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "NARRABUNDAH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "NARRABUNDAH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "6247 7577",
+        "FullNumber": "61 02 6247 7577"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6665380207584",
+      "CRN": "66653802075848",
+      "IsProfileLockedOut": null,
+      "BusinessId": "54bb76a4-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Nicholas John Hughan Houston",
+      "Name": "Nicholas John Hughan Houston",
+      "ABN": null,
+      "Address": {
+        "Country": "Mexico",
+        "AddressLine1": "Aniceto Ortega 817,",
+        "AddressLine2": "Colonia Del Valle",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Distrito Federal",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 19.38173,
+        "Longitude": -99.16499,
+        "FullAddress": "Aniceto Ortega 817,\r\nColonia Del Valle\r\nDistrito Federal \r\nMexico"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "52",
+          "AreaCode": "55",
+          "Number": "1800 801 0677",
+          "FullNumber": "52 55 1800 801 0677"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661362191110",
+    "CRN": "66613621911107",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ad8a11b7-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "VisAustralia(International) Pty Ltd",
+    "Name": "VisAustralia(International) Pty Ltd",
+    "ABN": "11110267528",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1, 145 London Circuit",
+      "AddressLine2": "Canberra City",
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "CITY",
+      "OtherSuburb": null,
+      "PostCode": "2601",
+      "OtherPostCode": null,
+      "Latitude": -35.27963,
+      "Longitude": 149.1308,
+      "FullAddress": "Level 1, 145 London Circuit\r\nCanberra City\r\nCITY ACT 2601\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "NARRABUNDAH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "NARRABUNDAH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "6247 7577",
+        "FullNumber": "61 02 6247 7577"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Nicholas",
+    "SecondName": "John Hughan",
+    "FamilyName": "Houston",
+    "PostNominal": null,
+    "FullName": "Mr Nicholas John Hughan Houston",
+    "GivenName": "Nicholas John Hughan"
+  },
+  "MARN": "0428579",
+  "IsNoFee": false,
+  "ContactId": "42d88c17-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

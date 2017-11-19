@@ -1,0 +1,382 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6665739295553",
+    "CRN": "66657392955533",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1001eebd-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "The Great Learning Tree Pty Ltd",
+    "Name": "The Great Learning Tree Pty Ltd",
+    "ABN": "28145031563",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 6",
+      "AddressLine2": "24-26 Morwick Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "STRATHFIELD",
+      "OtherSuburb": null,
+      "PostCode": "2135",
+      "OtherPostCode": null,
+      "Latitude": -33.87522,
+      "Longitude": 151.09538,
+      "FullAddress": "Unit 6\r\n24-26 Morwick Street\r\nSTRATHFIELD NSW 2135\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "STRATHFIELD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "STRATHFIELD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "2",
+        "Number": "97453106",
+        "FullNumber": "+61 2 97453106"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "+61",
+        "AreaCode": "2",
+        "Number": "80796144",
+        "FullNumber": "+61 2 80796144"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6673169697652",
+      "CRN": "66731696976526",
+      "IsProfileLockedOut": null,
+      "BusinessId": "79148776-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MADAHAR, RAMNEEK",
+      "Name": "MADAHAR, RAMNEEK",
+      "ABN": "76625543840",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 6",
+        "AddressLine2": "24-26 Morwick Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "STRATHFIELD",
+        "OtherSuburb": null,
+        "PostCode": "2135",
+        "OtherPostCode": null,
+        "Latitude": -33.875222,
+        "Longitude": 151.095382,
+        "FullAddress": "Unit 6\r\n24-26 Morwick Street\r\nSTRATHFIELD NSW 2135\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "STRATHFIELD",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "STRATHFIELD"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+61",
+          "AreaCode": "2",
+          "Number": "97453106",
+          "FullNumber": "+61 2 97453106"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "+61",
+          "AreaCode": "2",
+          "Number": "80796144",
+          "FullNumber": "+61 2 80796144"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8053251062643",
+      "CRN": "80532510626439",
+      "IsProfileLockedOut": null,
+      "BusinessId": "064b9ca7-6f27-406f-a0e2-f914ed6b152c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "The Great Learning Tree (India) Pvt. Ltd",
+      "Name": "The Great Learning Tree ",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "32, Ansal Chamber 1",
+        "AddressLine2": "3 Bhikaji Cama Place",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "110085",
+        "Suburb": "Other",
+        "OtherSuburb": "RK Puram",
+        "PostCode": "Other",
+        "OtherPostCode": "1100066",
+        "Latitude": 28.5656204223633,
+        "Longitude": 77.1772613525391,
+        "FullAddress": "32, Ansal Chamber 1\r\n3 Bhikaji Cama Place\r\nRK Puram 1100066\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+91",
+          "AreaCode": "0",
+          "Number": "9599216738",
+          "FullNumber": "+91 0 9599216738"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6665739295553",
+    "CRN": "66657392955533",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1001eebd-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "The Great Learning Tree Pty Ltd",
+    "Name": "The Great Learning Tree Pty Ltd",
+    "ABN": "28145031563",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 6",
+      "AddressLine2": "24-26 Morwick Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "STRATHFIELD",
+      "OtherSuburb": null,
+      "PostCode": "2135",
+      "OtherPostCode": null,
+      "Latitude": -33.87522,
+      "Longitude": 151.09538,
+      "FullAddress": "Unit 6\r\n24-26 Morwick Street\r\nSTRATHFIELD NSW 2135\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "STRATHFIELD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "STRATHFIELD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "2",
+        "Number": "97453106",
+        "FullNumber": "+61 2 97453106"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "+61",
+        "AreaCode": "2",
+        "Number": "80796144",
+        "FullNumber": "+61 2 80796144"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ramneek",
+    "SecondName": null,
+    "FamilyName": "Madahar",
+    "PostNominal": null,
+    "FullName": "Mr Ramneek Madahar",
+    "GivenName": "Ramneek"
+  },
+  "MARN": "0428459",
+  "IsNoFee": false,
+  "ContactId": "2fd88c17-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "b4d34f8a-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Nick",
+      "FirstName": "Bobby",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Bobby"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,230 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666501127263",
+    "CRN": "66665011272631",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1c1c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EMERGICO PTY LTD",
+    "Name": "Emergico Pty Ltd",
+    "ABN": "85132034596",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Colwill Place,",
+      "AddressLine2": "188B Albion Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "4030",
+      "OtherPostCode": null,
+      "Latitude": -27.429523,
+      "Longitude": 153.033231,
+      "FullAddress": "Colwill Place,\r\n188B Albion Road\r\nWINDSOR QLD 4030\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WINDSOR"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38610726",
+        "FullNumber": "61 7 38610726"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31236240",
+        "FullNumber": "61 7 31236240"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666501127263",
+    "CRN": "66665011272631",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1c1c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EMERGICO PTY LTD",
+    "Name": "Emergico Pty Ltd",
+    "ABN": "85132034596",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Colwill Place,",
+      "AddressLine2": "188B Albion Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "4030",
+      "OtherPostCode": null,
+      "Latitude": -27.429523,
+      "Longitude": 153.033231,
+      "FullAddress": "Colwill Place,\r\n188B Albion Road\r\nWINDSOR QLD 4030\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WINDSOR"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38610726",
+        "FullNumber": "61 7 38610726"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31236240",
+        "FullNumber": "61 7 31236240"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Lucie",
+    "SecondName": null,
+    "FamilyName": "Kreuzova Kohn",
+    "PostNominal": null,
+    "FullName": "Mrs Lucie Kreuzova Kohn",
+    "GivenName": "Lucie"
+  },
+  "MARN": "1687463",
+  "IsNoFee": false,
+  "ContactId": "97f7aa47-4c81-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Czech Republic"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c60bd4de-0cbf-437d-b9df-2c20a50498f4",
+      "Type": "Former Name",
+      "FamilyName": "Kreuzova",
+      "FirstName": "Lucie",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Lucie"
+    },
+    {
+      "Id": "0e03f403-41ca-4cb8-802d-4bbca4af18ac",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Lucie Kohn",
+      "GivenName": ""
+    },
+    {
+      "Id": "8d2fe21b-863b-4d7a-93f6-5982dbbe1e2d",
+      "Type": "Former Name",
+      "FamilyName": "Kohn",
+      "FirstName": "Lucie",
+      "SecondName": "Kreuzova",
+      "Alias": null,
+      "GivenName": "Lucie Kreuzova"
+    }
+  ],
+  "Aliases": [
+    "Lucie Kohn"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

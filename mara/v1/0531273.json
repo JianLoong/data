@@ -1,0 +1,314 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4745112543235",
+    "CRN": "47451125432354",
+    "IsProfileLockedOut": null,
+    "BusinessId": "27fe8358-13c9-4b4d-bafb-8619a88f8661",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DURMIC ENTERPRISES PTY LTD",
+    "Name": "IVISAS",
+    "ABN": "48166578123",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "c/o Ground Floor",
+      "AddressLine2": "20 Clive st",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "WEST PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6005",
+      "OtherPostCode": null,
+      "Latitude": -31.94684,
+      "Longitude": 115.84226,
+      "FullAddress": "c/o Ground Floor\r\n20 Clive st\r\nWEST PERTH WA 6005\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "13118259",
+        "FullNumber": "61 4 13118259"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8633222496823",
+      "CRN": "86332224968231",
+      "IsProfileLockedOut": null,
+      "BusinessId": "e52d8acb-fc8d-4a69-9bfb-28b7203cf65a",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "MANWELL PTY LTD",
+      "Name": "Immigracious",
+      "ABN": "96166828682",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Ground Floor",
+        "AddressLine2": "20 Clive Street",
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "WEST PERTH",
+        "OtherSuburb": null,
+        "PostCode": "6005",
+        "OtherPostCode": null,
+        "Latitude": -31.94684,
+        "Longitude": 115.84226,
+        "FullAddress": "Ground Floor\r\n20 Clive Street\r\nWEST PERTH WA 6005\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "62634406",
+          "FullNumber": "61 8 62634406"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4745112543235",
+    "CRN": "47451125432354",
+    "IsProfileLockedOut": null,
+    "BusinessId": "27fe8358-13c9-4b4d-bafb-8619a88f8661",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DURMIC ENTERPRISES PTY LTD",
+    "Name": "IVISAS",
+    "ABN": "48166578123",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "c/o Ground Floor",
+      "AddressLine2": "20 Clive st",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "WEST PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6005",
+      "OtherPostCode": null,
+      "Latitude": -31.94684,
+      "Longitude": 115.84226,
+      "FullAddress": "c/o Ground Floor\r\n20 Clive st\r\nWEST PERTH WA 6005\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "13118259",
+        "FullNumber": "61 4 13118259"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": null,
+    "FirstName": "Bonnie",
+    "SecondName": "Sarah",
+    "FamilyName": "Durmic",
+    "PostNominal": null,
+    "FullName": "Bonnie Sarah Durmic",
+    "GivenName": "Bonnie Sarah"
+  },
+  "MARN": "0531273",
+  "IsNoFee": false,
+  "ContactId": "532be247-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "0c6344a2-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hill",
+      "FirstName": "Bonnie",
+      "SecondName": "Sarah",
+      "Alias": null,
+      "GivenName": "Bonnie Sarah"
+    },
+    {
+      "Id": "106344a2-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Robertson",
+      "FirstName": "Bonnie",
+      "SecondName": "Sarah",
+      "Alias": null,
+      "GivenName": "Bonnie Sarah"
+    },
+    {
+      "Id": "c38b2bf6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Robertson Hill",
+      "FirstName": "Bonnie",
+      "SecondName": "Sarah",
+      "Alias": null,
+      "GivenName": "Bonnie Sarah"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

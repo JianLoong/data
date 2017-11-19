@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666894959866",
+    "CRN": "66668949598667",
+    "IsProfileLockedOut": null,
+    "BusinessId": "93b9da02-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Sophy Migration Agency Pty Ltd",
+    "Name": "World Workers Migration and Recruitment Services",
+    "ABN": "49132008461",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "128 Franklin Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.92709,
+      "Longitude": 138.59434,
+      "FullAddress": "128 Franklin Street\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ADELAIDE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82127133",
+        "FullNumber": "61 8 82127133"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82120073",
+        "FullNumber": "61 8 82120073"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6658722048611",
+      "CRN": "66587220486113",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7ba45c16-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "NGET, SOPHY",
+      "Name": "World Workers Migration Agent",
+      "ABN": "81705546180",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "128 Franklin Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "ADELAIDE",
+        "OtherSuburb": null,
+        "PostCode": "5000",
+        "OtherPostCode": null,
+        "Latitude": -34.92709,
+        "Longitude": 138.59434,
+        "FullAddress": "128 Franklin Street\r\nADELAIDE SA 5000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "ADELAIDE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "ADELAIDE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "82127133",
+          "FullNumber": "61 08 82127133"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "82120073",
+          "FullNumber": "61 08 82120073"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666894959866",
+    "CRN": "66668949598667",
+    "IsProfileLockedOut": null,
+    "BusinessId": "93b9da02-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Sophy Migration Agency Pty Ltd",
+    "Name": "World Workers Migration and Recruitment Services",
+    "ABN": "49132008461",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "128 Franklin Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.92709,
+      "Longitude": 138.59434,
+      "FullAddress": "128 Franklin Street\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ADELAIDE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82127133",
+        "FullNumber": "61 8 82127133"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "82120073",
+        "FullNumber": "61 8 82120073"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Sophy",
+    "SecondName": null,
+    "FamilyName": "Nget",
+    "PostNominal": null,
+    "FullName": "Ms Sophy Nget",
+    "GivenName": "Sophy"
+  },
+  "MARN": "0639543",
+  "IsNoFee": false,
+  "ContactId": "9a3571c0-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

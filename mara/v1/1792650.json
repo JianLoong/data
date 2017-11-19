@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1295327313479",
+    "CRN": "12953273134796",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f9347fb2-d0bd-4f84-81a0-7ea7e403d53c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business",
+    "Name": "BIC CONSULTING",
+    "ABN": null,
+    "Address": {
+      "Country": "Korea, Republic of",
+      "AddressLine1": "2nd Floor 57, Nonhyeon-ro 79-gil",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Gangnam-gu",
+      "PostCode": "Other",
+      "OtherPostCode": "06245",
+      "Latitude": 37.497806,
+      "Longitude": 127.038161,
+      "FullAddress": "2nd Floor 57, Nonhyeon-ro 79-gil\r\nGangnam-gu 06245\r\nKorea, Republic of"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "82",
+        "AreaCode": "2",
+        "Number": "69523310",
+        "FullNumber": "82 2 69523310"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1379452206688",
+      "CRN": "13794522066880",
+      "IsProfileLockedOut": null,
+      "BusinessId": "eeb5cc3f-1083-489d-97c0-fff28b6e8572",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "KIM, HAKBOEM ",
+      "Name": "KIM, HAKBOEM ",
+      "ABN": "62127814561",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "8 Ridgeline Crt",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "KURABY",
+        "OtherSuburb": null,
+        "PostCode": "4112",
+        "OtherPostCode": null,
+        "Latitude": -27.59738,
+        "Longitude": 153.10153,
+        "FullAddress": "8 Ridgeline Crt\r\nKURABY QLD 4112\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "82",
+          "AreaCode": "2",
+          "Number": "69523310",
+          "FullNumber": "82 2 69523310"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1295327313479",
+    "CRN": "12953273134796",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f9347fb2-d0bd-4f84-81a0-7ea7e403d53c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "International Business",
+    "Name": "BIC CONSULTING",
+    "ABN": null,
+    "Address": {
+      "Country": "Korea, Republic of",
+      "AddressLine1": "2nd Floor 57, Nonhyeon-ro 79-gil",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Gangnam-gu",
+      "PostCode": "Other",
+      "OtherPostCode": "06245",
+      "Latitude": 37.497806,
+      "Longitude": 127.038161,
+      "FullAddress": "2nd Floor 57, Nonhyeon-ro 79-gil\r\nGangnam-gu 06245\r\nKorea, Republic of"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "82",
+        "AreaCode": "2",
+        "Number": "69523310",
+        "FullNumber": "82 2 69523310"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Hakbeom",
+    "SecondName": null,
+    "FamilyName": "Kim",
+    "PostNominal": null,
+    "FullName": "Mr Hakbeom Kim",
+    "GivenName": "Hakbeom"
+  },
+  "MARN": "1792650",
+  "IsNoFee": false,
+  "ContactId": "139a90bb-b24c-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Korea, Republic of"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

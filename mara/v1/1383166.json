@@ -1,0 +1,209 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671923601334",
+    "CRN": "66719236013340",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0d5bf92a-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Walsh & Blair Lawyers Pty LTd",
+    "Name": "Walsh & Blair Lawyers Pty LTd",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "221 Tarcutta Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WAGGA WAGGA",
+      "OtherSuburb": null,
+      "PostCode": "2650",
+      "OtherPostCode": null,
+      "Latitude": -35.10635,
+      "Longitude": 147.37152,
+      "FullAddress": "221 Tarcutta Street\r\nWAGGA WAGGA NSW 2650\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WAGGA WAGGA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WAGGA WAGGA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "69268268",
+        "FullNumber": "61 02 69268268"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "69268222",
+        "FullNumber": "61 02 69268222"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671923601334",
+    "CRN": "66719236013340",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0d5bf92a-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Walsh & Blair Lawyers Pty LTd",
+    "Name": "Walsh & Blair Lawyers Pty LTd",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "221 Tarcutta Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WAGGA WAGGA",
+      "OtherSuburb": null,
+      "PostCode": "2650",
+      "OtherPostCode": null,
+      "Latitude": -35.10635,
+      "Longitude": 147.37152,
+      "FullAddress": "221 Tarcutta Street\r\nWAGGA WAGGA NSW 2650\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WAGGA WAGGA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WAGGA WAGGA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "69268268",
+        "FullNumber": "61 02 69268268"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "69268222",
+        "FullNumber": "61 02 69268222"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Casey",
+    "SecondName": "Valda",
+    "FamilyName": "O'Mahony",
+    "PostNominal": null,
+    "FullName": "Ms Casey Valda O'Mahony",
+    "GivenName": "Casey Valda"
+  },
+  "MARN": "1383166",
+  "IsNoFee": false,
+  "ContactId": "80cc68d4-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "61f06dd9-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Szymanski",
+      "FirstName": "Casey",
+      "SecondName": "Valda",
+      "Alias": null,
+      "GivenName": "Casey Valda"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

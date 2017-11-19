@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5403262656327",
+    "CRN": "54032626563276",
+    "IsProfileLockedOut": null,
+    "BusinessId": "01feafd6-69d0-4379-b824-c73baf1bd5fb",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MANTZOROS, GEORGE ",
+    "Name": "MANTZOROS AND PARTNERS",
+    "ABN": "11039425884",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 5, 102 Reservoir Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "MODBURY",
+      "OtherSuburb": null,
+      "PostCode": "5092",
+      "OtherPostCode": null,
+      "Latitude": -34.83384,
+      "Longitude": 138.68779,
+      "FullAddress": "Suite 5, 102 Reservoir Road\r\nMODBURY SA 5092\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "83963143",
+        "FullNumber": "61 08 83963143"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "83962992",
+        "FullNumber": "61 08 83962992"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4884433671483",
+      "CRN": "48844336714839",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7dc9b82b-182b-4ee9-9093-4cc46a93e4a1",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MANTZOROS, GEORGE ",
+      "Name": "MANTZOROS, GEORGE ",
+      "ABN": "11039425884",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 5 102 Reservoir Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "MODBURY",
+        "OtherSuburb": null,
+        "PostCode": "5092",
+        "OtherPostCode": null,
+        "Latitude": -34.83386,
+        "Longitude": 138.68752,
+        "FullAddress": "Suite 5 102 Reservoir Road\r\nMODBURY SA 5092\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "08",
+          "AreaCode": "8",
+          "Number": "3963143",
+          "FullNumber": "08 8 3963143"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5403262656327",
+    "CRN": "54032626563276",
+    "IsProfileLockedOut": null,
+    "BusinessId": "01feafd6-69d0-4379-b824-c73baf1bd5fb",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MANTZOROS, GEORGE ",
+    "Name": "MANTZOROS AND PARTNERS",
+    "ABN": "11039425884",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 5, 102 Reservoir Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "MODBURY",
+      "OtherSuburb": null,
+      "PostCode": "5092",
+      "OtherPostCode": null,
+      "Latitude": -34.83384,
+      "Longitude": 138.68779,
+      "FullAddress": "Suite 5, 102 Reservoir Road\r\nMODBURY SA 5092\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "83963143",
+        "FullNumber": "61 08 83963143"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "83962992",
+        "FullNumber": "61 08 83962992"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Doja",
+    "SecondName": null,
+    "FamilyName": "El Banna",
+    "PostNominal": null,
+    "FullName": "Ms Doja El Banna",
+    "GivenName": "Doja"
+  },
+  "MARN": "1795117",
+  "IsNoFee": false,
+  "ContactId": "2912c799-1039-e711-9404-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Lebanon"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

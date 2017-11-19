@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Partner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5039204483607",
+    "CRN": "50392044836079",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d7dfb5b4-5f9b-4e23-bcda-37c7bfa8c4d1",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "Immigration Specialists Australia Pty Ltd",
+    "Name": "Immigration Specialists Australia Pty Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1",
+      "AddressLine2": "Renowden Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "CHELTENHAM",
+      "OtherSuburb": null,
+      "PostCode": "3192",
+      "OtherPostCode": null,
+      "Latitude": -37.9684,
+      "Longitude": 145.08445,
+      "FullAddress": "1\r\nRenowden Street\r\nCHELTENHAM VIC 3192\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "447",
+        "Number": "339766",
+        "FullNumber": "61 447 339766"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3342489340613",
+      "CRN": "33424893406137",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c59d78a5-71dc-4dce-be12-cf4928ef42d9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "SPASOV, MILUN ",
+      "Name": "SPASOV, MILUN ",
+      "ABN": "27244114684",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1 Renowden St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "CHELTENHAM",
+        "OtherSuburb": null,
+        "PostCode": "3192",
+        "OtherPostCode": null,
+        "Latitude": -37.9684,
+        "Longitude": 145.08445,
+        "FullAddress": "1 Renowden St\r\nCHELTENHAM VIC 3192\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "35010479",
+          "FullNumber": "61 4 35010479"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Partner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5039204483607",
+    "CRN": "50392044836079",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d7dfb5b4-5f9b-4e23-bcda-37c7bfa8c4d1",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "Immigration Specialists Australia Pty Ltd",
+    "Name": "Immigration Specialists Australia Pty Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1",
+      "AddressLine2": "Renowden Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "CHELTENHAM",
+      "OtherSuburb": null,
+      "PostCode": "3192",
+      "OtherPostCode": null,
+      "Latitude": -37.9684,
+      "Longitude": 145.08445,
+      "FullAddress": "1\r\nRenowden Street\r\nCHELTENHAM VIC 3192\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "447",
+        "Number": "339766",
+        "FullNumber": "61 447 339766"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Milun",
+    "SecondName": null,
+    "FamilyName": "Spasov",
+    "PostNominal": null,
+    "FullName": "Mr Milun Spasov",
+    "GivenName": "Milun"
+  },
+  "MARN": "1461534",
+  "IsNoFee": false,
+  "ContactId": "393983a3-7185-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "New Zealand"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

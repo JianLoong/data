@@ -1,0 +1,409 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7684962039214",
+    "CRN": "76849620392147",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f5bc9499-b9af-4614-9634-bad14ca611a1",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "WINWAY MIGRATION PTY LTD",
+    "Name": "WINWAY MIGRATION PTY LTD",
+    "ABN": "90609278195",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "9",
+      "AddressLine2": "Roma Court",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "TAYLORS HILL",
+      "OtherSuburb": null,
+      "PostCode": "3037",
+      "OtherPostCode": null,
+      "Latitude": -37.7033533,
+      "Longitude": 144.871736,
+      "FullAddress": "9\r\nRoma Court\r\nTAYLORS HILL VIC 3037\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0",
+        "Number": "421135666",
+        "FullNumber": "61 0 421135666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93907875",
+        "FullNumber": "61 3 93907875"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0234235398291",
+      "CRN": "02342353982910",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b2d00f8f-147c-46ce-bc68-7f92c0ded68b",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "HENDAVITHARANA, IRESHA ",
+      "Name": "Winway Migration Services",
+      "ABN": "77481981810",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "9",
+        "AddressLine2": "Roma Court",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "TAYLORS HILL",
+        "OtherSuburb": null,
+        "PostCode": "3037",
+        "OtherPostCode": null,
+        "Latitude": -37.72106,
+        "Longitude": 144.74488,
+        "FullAddress": "9\r\nRoma Court\r\nTAYLORS HILL VIC 3037\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "21135666",
+          "FullNumber": "61 4 21135666"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "21135666",
+          "FullNumber": "61 4 21135666"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2812092706776",
+      "CRN": "28120927067762",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5975dd80-a6b1-47d4-932f-33c89cd3ea23",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "REFUGEE & IMMIGRATION LEGAL CENTRE INC",
+      "Name": "Refugee Legal",
+      "ABN": "94806293897",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 6, 20 Otter Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "COLLINGWOOD",
+        "OtherSuburb": null,
+        "PostCode": "3066",
+        "OtherPostCode": null,
+        "Latitude": -37.80064,
+        "Longitude": 144.9855,
+        "FullAddress": "Level 6, 20 Otter Street\r\nCOLLINGWOOD VIC 3066\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "03",
+          "Number": "94130101",
+          "FullNumber": "61 03 94130101"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7684962039214",
+    "CRN": "76849620392147",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f5bc9499-b9af-4614-9634-bad14ca611a1",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "WINWAY MIGRATION PTY LTD",
+    "Name": "WINWAY MIGRATION PTY LTD",
+    "ABN": "90609278195",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "9",
+      "AddressLine2": "Roma Court",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "TAYLORS HILL",
+      "OtherSuburb": null,
+      "PostCode": "3037",
+      "OtherPostCode": null,
+      "Latitude": -37.7033533,
+      "Longitude": 144.871736,
+      "FullAddress": "9\r\nRoma Court\r\nTAYLORS HILL VIC 3037\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0",
+        "Number": "421135666",
+        "FullNumber": "61 0 421135666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93907875",
+        "FullNumber": "61 3 93907875"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Iresha",
+    "SecondName": "Piushani",
+    "FamilyName": "Hendavitharana",
+    "PostNominal": null,
+    "FullName": "Mrs Iresha Piushani Hendavitharana",
+    "GivenName": "Iresha Piushani"
+  },
+  "MARN": "0801516",
+  "IsNoFee": false,
+  "ContactId": "8168c751-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "61b2101a-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Iresha",
+      "FirstName": "Hendavitharana",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Hendavitharana"
+    },
+    {
+      "Id": "30ae0920-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Melewwethanthirige",
+      "FirstName": "Iresha",
+      "SecondName": "Piushani",
+      "Alias": null,
+      "GivenName": "Iresha Piushani"
+    },
+    {
+      "Id": "6170c26d-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Iresha",
+      "FirstName": "Hendavitharana",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Hendavitharana"
+    },
+    {
+      "Id": "6c70c26d-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Melewwethanthirige",
+      "FirstName": "Iresha",
+      "SecondName": "Piushani",
+      "Alias": null,
+      "GivenName": "Iresha Piushani"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

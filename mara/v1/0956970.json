@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6668938592698",
+    "CRN": "66689385926986",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ae5af178-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business data not available",
+    "Name": "New Era Visa Consultants (T/A MyVisa Manager)",
+    "ABN": null,
+    "Address": {
+      "Country": "New Zealand",
+      "AddressLine1": "Flat 1/2 Pretoria Street (Ranolf Street Entrance)",
+      "AddressLine2": "Victoria",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Rotorua",
+      "PostCode": "Other",
+      "OtherPostCode": "3010",
+      "Latitude": -38.14318,
+      "Longitude": 176.24675,
+      "FullAddress": "Flat 1/2 Pretoria Street (Ranolf Street Entrance)\r\nVictoria\r\nRotorua 3010\r\nNew Zealand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "64",
+        "AreaCode": "7",
+        "Number": "5624491",
+        "FullNumber": "64 7 5624491"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4665431809941",
+      "CRN": "46654318099413",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b41926e1-4c76-4259-bf03-0cdc31734986",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "New Era Visa Consultants (T/A MyVisa Manager)",
+      "Name": "MyVisa Manager",
+      "ABN": null,
+      "Address": {
+        "Country": "New Zealand",
+        "AddressLine1": "10 Halifax Avenue",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Auckland",
+        "Suburb": "Other",
+        "OtherSuburb": "Epsom",
+        "PostCode": "Other",
+        "OtherPostCode": "1051",
+        "Latitude": -36.8842861,
+        "Longitude": 174.7771691,
+        "FullAddress": "10 Halifax Avenue\r\nEpsom 1051\r\nNew Zealand"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "64",
+          "AreaCode": "9",
+          "Number": "5205304",
+          "FullNumber": "64 9 5205304"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6668938592698",
+    "CRN": "66689385926986",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ae5af178-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business data not available",
+    "Name": "New Era Visa Consultants (T/A MyVisa Manager)",
+    "ABN": null,
+    "Address": {
+      "Country": "New Zealand",
+      "AddressLine1": "Flat 1/2 Pretoria Street (Ranolf Street Entrance)",
+      "AddressLine2": "Victoria",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Rotorua",
+      "PostCode": "Other",
+      "OtherPostCode": "3010",
+      "Latitude": -38.14318,
+      "Longitude": 176.24675,
+      "FullAddress": "Flat 1/2 Pretoria Street (Ranolf Street Entrance)\r\nVictoria\r\nRotorua 3010\r\nNew Zealand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "64",
+        "AreaCode": "7",
+        "Number": "5624491",
+        "FullNumber": "64 7 5624491"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Shehzad",
+    "SecondName": "Ali",
+    "FamilyName": "Raja",
+    "PostNominal": null,
+    "FullName": "Mr Shehzad Ali Raja",
+    "GivenName": "Shehzad Ali"
+  },
+  "MARN": "0956970",
+  "IsNoFee": false,
+  "ContactId": "a5974ff0-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Pakistan",
+    "New Zealand"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

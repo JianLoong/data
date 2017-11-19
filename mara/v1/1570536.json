@@ -1,0 +1,309 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8291634746117",
+    "CRN": "82916347461175",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c6b3f52-0e8f-4abd-9ca6-ebd7bacd4658",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LLC Mir Avstralii",
+    "Name": "LLC Mir Avstralii (World of Australia)",
+    "ABN": null,
+    "Address": {
+      "Country": "Russian Federation",
+      "AddressLine1": "Level 4,",
+      "AddressLine2": "22 Nevskiy prospekt",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Saint-Petersburg",
+      "PostCode": "Other",
+      "OtherPostCode": "191186",
+      "Latitude": 59.9358969,
+      "Longitude": 30.3231007,
+      "FullAddress": "Level 4,\r\n22 Nevskiy prospekt\r\nSaint-Petersburg 191186\r\nRussian Federation"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "7",
+        "AreaCode": "812",
+        "Number": "9845480",
+        "FullNumber": "7 812 9845480"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8908936652699",
+      "CRN": "89089366526997",
+      "IsProfileLockedOut": null,
+      "BusinessId": "daf6ea6c-4774-4d06-8434-9bc72ca00af3",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SYDNEY MIGRATION GROUP PTY LTD",
+      "Name": "SYDNEY MIGRATION GROUP PTY LTD",
+      "ABN": "23147510530",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 1, Level 27",
+        "AddressLine2": "Governor Macquarie Tower",
+        "AddressLine3": "1 Farrer Place",
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.86428,
+        "Longitude": 151.21134,
+        "FullAddress": "Suite 1, Level 27\r\nGovernor Macquarie Tower\r\n1 Farrer Place\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "80037111",
+          "FullNumber": "61 2 80037111"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8291634746117",
+    "CRN": "82916347461175",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c6b3f52-0e8f-4abd-9ca6-ebd7bacd4658",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LLC Mir Avstralii",
+    "Name": "LLC Mir Avstralii (World of Australia)",
+    "ABN": null,
+    "Address": {
+      "Country": "Russian Federation",
+      "AddressLine1": "Level 4,",
+      "AddressLine2": "22 Nevskiy prospekt",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Saint-Petersburg",
+      "PostCode": "Other",
+      "OtherPostCode": "191186",
+      "Latitude": 59.9358969,
+      "Longitude": 30.3231007,
+      "FullAddress": "Level 4,\r\n22 Nevskiy prospekt\r\nSaint-Petersburg 191186\r\nRussian Federation"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "7",
+        "AreaCode": "812",
+        "Number": "9845480",
+        "FullNumber": "7 812 9845480"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Maxim",
+    "SecondName": null,
+    "FamilyName": "Emeline",
+    "PostNominal": null,
+    "FullName": "Mr Maxim Emeline",
+    "GivenName": "Maxim"
+  },
+  "MARN": "1570536",
+  "IsNoFee": false,
+  "ContactId": "4de96428-bfb6-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Russian Federation"
+  ],
+  "OtherNames": [
+    {
+      "Id": "7cab22c9-81bc-e411-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Maxim Olegovich Emeline",
+      "GivenName": ""
+    },
+    {
+      "Id": "4c1ec8dc-c03e-481b-a1c7-aef1f058b5be",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Maxim Max Emeline",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Maxim Olegovich Emeline",
+    "Maxim Max Emeline"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

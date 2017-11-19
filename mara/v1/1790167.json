@@ -1,0 +1,306 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6965834638620",
+    "CRN": "69658346386203",
+    "IsProfileLockedOut": null,
+    "BusinessId": "20ac4c22-8bf7-42b1-a314-f9e294b19ac1",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ISA GROUP (PERDAMAN) PTY LTD",
+    "Name": "ISA GROUP (PERDAMAN) PTY LTD",
+    "ABN": "15615139396",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 17, 58 Mounts Bay Road",
+      "AddressLine2": "Alluvion Building",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.95498,
+      "Longitude": 115.85335,
+      "FullAddress": "Level 17, 58 Mounts Bay Road\r\nAlluvion Building\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93468888",
+        "FullNumber": "61 8 93468888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93468899",
+        "FullNumber": "61 8 93468899"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8901800161900",
+      "CRN": "89018001619001",
+      "IsProfileLockedOut": null,
+      "BusinessId": "028546d6-ea2a-e711-9404-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Trust",
+      "EntityName": "The Trustee for Chapter 2 Australia Trust",
+      "Name": "The Trustee for Chapter 2 Australia Trust",
+      "ABN": "79 416 553 307",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "230 Nicholson Rd",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "SUBIACO",
+        "OtherSuburb": null,
+        "PostCode": "6008",
+        "OtherPostCode": null,
+        "Latitude": -31.95605,
+        "Longitude": 115.81342,
+        "FullAddress": "230 Nicholson Rd\r\nSUBIACO WA 6008\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "13 566 503",
+          "FullNumber": "61 4 13 566 503"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6965834638620",
+    "CRN": "69658346386203",
+    "IsProfileLockedOut": null,
+    "BusinessId": "20ac4c22-8bf7-42b1-a314-f9e294b19ac1",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ISA GROUP (PERDAMAN) PTY LTD",
+    "Name": "ISA GROUP (PERDAMAN) PTY LTD",
+    "ABN": "15615139396",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 17, 58 Mounts Bay Road",
+      "AddressLine2": "Alluvion Building",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6000",
+      "OtherPostCode": null,
+      "Latitude": -31.95498,
+      "Longitude": 115.85335,
+      "FullAddress": "Level 17, 58 Mounts Bay Road\r\nAlluvion Building\r\nPERTH WA 6000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93468888",
+        "FullNumber": "61 8 93468888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93468899",
+        "FullNumber": "61 8 93468899"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Ulrike",
+    "SecondName": null,
+    "FamilyName": "Fritsch",
+    "PostNominal": null,
+    "FullName": "Ms Ulrike Fritsch",
+    "GivenName": "Ulrike"
+  },
+  "MARN": "1790167",
+  "IsNoFee": false,
+  "ContactId": "8a707238-a3c5-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Germany"
+  ],
+  "OtherNames": [
+    {
+      "Id": "2bb6f341-47be-4b76-9c7f-09d4bd9fae3e",
+      "Type": "Former Name",
+      "FamilyName": "Watson",
+      "FirstName": "Ulrike",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Ulrike"
+    },
+    {
+      "Id": "49f17da5-e608-49a6-a3fb-7ca2509d38cd",
+      "Type": "Former Name",
+      "FamilyName": "Walter",
+      "FirstName": "Ulrike",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Ulrike"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

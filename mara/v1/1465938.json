@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5080159529870",
+    "CRN": "50801595298707",
+    "IsProfileLockedOut": null,
+    "BusinessId": "852d332d-77b0-4b5a-b615-611c5fe72155",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "EDUCATION EMBASSY PTY. LTD",
+    "Name": "Education Embassy",
+    "ABN": "66 601 473 278",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Southport  Commerical Tower 1                                        ",
+      "AddressLine2": "Suite 1601, 56 Scarborough Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SOUTHPORT",
+      "OtherSuburb": null,
+      "PostCode": "4215",
+      "OtherPostCode": null,
+      "Latitude": -27.96975,
+      "Longitude": 153.41439,
+      "FullAddress": "Southport  Commerical Tower 1                                        \r\nSuite 1601, 56 Scarborough Street\r\nSOUTHPORT QLD 4215\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55918937",
+        "FullNumber": "61 7 55918937"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6737466275892",
+      "CRN": "67374662758926",
+      "IsProfileLockedOut": null,
+      "BusinessId": "284f3d52-2b06-4f52-a9e4-e7a078d2340d",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "EDUCATION EMBASSY PTY. LTD.",
+      "Name": "EDUCATION EMBASSY PTY. LTD.",
+      "ABN": "66601473278",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Office 4A,",
+        "AddressLine2": "2092 Logan Road",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "UPPER MOUNT GRAVATT",
+        "OtherSuburb": null,
+        "PostCode": "4122",
+        "OtherPostCode": null,
+        "Latitude": -27.56039,
+        "Longitude": 153.08299,
+        "FullAddress": "Office 4A,\r\n2092 Logan Road\r\nUPPER MOUNT GRAVATT QLD 4122\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "31629257",
+          "FullNumber": "61 7 31629257"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5080159529870",
+    "CRN": "50801595298707",
+    "IsProfileLockedOut": null,
+    "BusinessId": "852d332d-77b0-4b5a-b615-611c5fe72155",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "EDUCATION EMBASSY PTY. LTD",
+    "Name": "Education Embassy",
+    "ABN": "66 601 473 278",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Southport  Commerical Tower 1                                        ",
+      "AddressLine2": "Suite 1601, 56 Scarborough Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SOUTHPORT",
+      "OtherSuburb": null,
+      "PostCode": "4215",
+      "OtherPostCode": null,
+      "Latitude": -27.96975,
+      "Longitude": 153.41439,
+      "FullAddress": "Southport  Commerical Tower 1                                        \r\nSuite 1601, 56 Scarborough Street\r\nSOUTHPORT QLD 4215\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55918937",
+        "FullNumber": "61 7 55918937"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Pragya",
+    "SecondName": null,
+    "FamilyName": "Gautam",
+    "PostNominal": null,
+    "FullName": "Ms Pragya Gautam",
+    "GivenName": "Pragya"
+  },
+  "MARN": "1465938",
+  "IsNoFee": false,
+  "ContactId": "0a0d75b9-6727-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Nepal"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

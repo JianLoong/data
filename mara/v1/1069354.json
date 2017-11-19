@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671649464672",
+    "CRN": "66716494646722",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4b33dc18-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ALLSKILLS RECRUITMENT AND MIGRATION SERVICES PTY LTD",
+    "Name": "ALLSKILLS RECRUITMENT AND MIGRATION SERVICES PTY LTD",
+    "ABN": "79161569259",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "29 Highlander Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "CRAIGIEBURN",
+      "OtherSuburb": null,
+      "PostCode": "3064",
+      "OtherPostCode": null,
+      "Latitude": -37.58967,
+      "Longitude": 144.89472,
+      "FullAddress": "29 Highlander Drive\r\nCRAIGIEBURN VIC 3064\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROXBURGH PARK",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROXBURGH PARK"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "12321187",
+        "FullNumber": "61 4 12321187"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93054341",
+        "FullNumber": "61 3 93054341"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6665852620676",
+      "CRN": "66658526206764",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f97cfec3-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Felix Carao",
+      "Name": "Felix Carao",
+      "ABN": "32389630964",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Shop 2, Air Raid Arcade",
+        "AddressLine2": "35 Cavenagh St.",
+        "AddressLine3": null,
+        "State": "NT",
+        "OtherState": null,
+        "Suburb": "DARWIN",
+        "OtherSuburb": null,
+        "PostCode": "0800",
+        "OtherPostCode": null,
+        "Latitude": -12.460076,
+        "Longitude": 130.840654,
+        "FullAddress": "Shop 2, Air Raid Arcade\r\n35 Cavenagh St.\r\nDARWIN NT 0800\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "ROXBURGH PARK",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "ROXBURGH PARK"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "12321187",
+          "FullNumber": "61 4 12321187"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "93054341",
+          "FullNumber": "61 3 93054341"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671649464672",
+    "CRN": "66716494646722",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4b33dc18-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ALLSKILLS RECRUITMENT AND MIGRATION SERVICES PTY LTD",
+    "Name": "ALLSKILLS RECRUITMENT AND MIGRATION SERVICES PTY LTD",
+    "ABN": "79161569259",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "29 Highlander Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "CRAIGIEBURN",
+      "OtherSuburb": null,
+      "PostCode": "3064",
+      "OtherPostCode": null,
+      "Latitude": -37.58967,
+      "Longitude": 144.89472,
+      "FullAddress": "29 Highlander Drive\r\nCRAIGIEBURN VIC 3064\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ROXBURGH PARK",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ROXBURGH PARK"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "12321187",
+        "FullNumber": "61 4 12321187"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93054341",
+        "FullNumber": "61 3 93054341"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Felix",
+    "SecondName": "Cervantes",
+    "FamilyName": "Carao",
+    "PostNominal": null,
+    "FullName": "Mr Felix Cervantes Carao",
+    "GivenName": "Felix Cervantes"
+  },
+  "MARN": "1069354",
+  "IsNoFee": false,
+  "ContactId": "a215edbd-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

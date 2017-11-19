@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1120912093425",
+    "CRN": "11209120934258",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cd900fbc-b60b-4040-8655-e476052a6e8a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Sharon Li-Shin Wong",
+    "Name": "Bespoke Visa Solutions",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "22 Ingalara Avenue",
+      "AddressLine2": "Wahroonga",
+      "AddressLine3": "83 388 243 604",
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WAHROONGA",
+      "OtherSuburb": null,
+      "PostCode": "2076",
+      "OtherPostCode": null,
+      "Latitude": -33.70948,
+      "Longitude": 151.11247,
+      "FullAddress": "22 Ingalara Avenue\r\nWahroonga\r\n83 388 243 604\r\nWAHROONGA NSW 2076\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "23135498",
+        "FullNumber": "61 4 23135498"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661732940633",
+      "CRN": "66617329406336",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ad5d15cf-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "FRAGOMEN (AUSTRALIA) PTY LIMITED",
+      "Name": "Fragomen (Australia) Pty Limited",
+      "ABN": "47104453947",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 19",
+        "AddressLine2": "201 Elizabeth Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.8737898,
+        "Longitude": 151.209626,
+        "FullAddress": "Level 19\r\n201 Elizabeth Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "82248555",
+          "FullNumber": "61 2 82248555"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "82248500",
+          "FullNumber": "61 2 82248500"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1120912093425",
+    "CRN": "11209120934258",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cd900fbc-b60b-4040-8655-e476052a6e8a",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Sharon Li-Shin Wong",
+    "Name": "Bespoke Visa Solutions",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "22 Ingalara Avenue",
+      "AddressLine2": "Wahroonga",
+      "AddressLine3": "83 388 243 604",
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WAHROONGA",
+      "OtherSuburb": null,
+      "PostCode": "2076",
+      "OtherPostCode": null,
+      "Latitude": -33.70948,
+      "Longitude": 151.11247,
+      "FullAddress": "22 Ingalara Avenue\r\nWahroonga\r\n83 388 243 604\r\nWAHROONGA NSW 2076\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "23135498",
+        "FullNumber": "61 4 23135498"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Sharon",
+    "SecondName": "Li-Shin",
+    "FamilyName": "Wong",
+    "PostNominal": null,
+    "FullName": "Ms Sharon Li-Shin Wong",
+    "GivenName": "Sharon Li-Shin"
+  },
+  "MARN": "0637214",
+  "IsNoFee": false,
+  "ContactId": "f6ab49a2-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "66194dc6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Wong",
+      "FirstName": "Sharon",
+      "SecondName": "Li-Shin",
+      "Alias": null,
+      "GivenName": "Sharon Li-Shin"
+    },
+    {
+      "Id": "34afe549-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Soh",
+      "FirstName": "Sharon",
+      "SecondName": "Li-Shin",
+      "Alias": null,
+      "GivenName": "Sharon Li-Shin"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

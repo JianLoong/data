@@ -1,0 +1,403 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6292329098935",
+    "CRN": "62923290989356",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f042f741-8fd1-4e07-ab93-f1d8bc7094ae",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DOBSON INTERNATIONAL PTY LTD",
+    "Name": "DOBSON INTERNATIONAL PTY LTD",
+    "ABN": "91618672585",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "7 Rosewood Place",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "FOREST LAKE",
+      "OtherSuburb": null,
+      "PostCode": "4078",
+      "OtherPostCode": null,
+      "Latitude": -27.62053,
+      "Longitude": 152.97122,
+      "FullAddress": "7 Rosewood Place\r\nFOREST LAKE QLD 4078\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32798837",
+        "FullNumber": "61 7 32798837"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3585167863529",
+      "CRN": "35851678635291",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b911ee9b-427e-4fa9-8ad5-2d114c440dd5",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "FIDEL GROUP PTY LTD",
+      "Name": "FIDEL GROUP PTY LTD",
+      "ABN": "82094731254",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 8, 66 Perrin Drive",
+        "AddressLine2": "Bidg D",
+        "AddressLine3": "Underwood, QLD 4119",
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "UNDERWOOD",
+        "OtherSuburb": null,
+        "PostCode": "4119",
+        "OtherPostCode": null,
+        "Latitude": -27.6179198,
+        "Longitude": 153.1114692,
+        "FullAddress": "Unit 8, 66 Perrin Drive\r\nBidg D\r\nUnderwood, QLD 4119\r\nUNDERWOOD QLD 4119\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "32994801",
+          "FullNumber": "61 7 32994801"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9821138077663",
+      "CRN": "98211380776634",
+      "IsProfileLockedOut": null,
+      "BusinessId": "00e14aba-6f2e-e511-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "BUSINESS & FINANCIAL SOLUTIONS (AUSTRALIA) PTY. LTD.",
+      "Name": "BUSINESS & FINANCIAL SOLUTIONS (AUSTRALIA) PTY. LTD.",
+      "ABN": "32 079 092 818",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "665 Stanley St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "WOOLLOONGABBA",
+        "OtherSuburb": null,
+        "PostCode": "4102",
+        "OtherPostCode": null,
+        "Latitude": -27.48580741882324,
+        "Longitude": 153.03103637695312,
+        "FullAddress": "665 Stanley St\r\nWOOLLOONGABBA QLD 4102\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "38958277",
+          "FullNumber": "61 7 38958277"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "38913459",
+          "FullNumber": "61 7 38913459"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6292329098935",
+    "CRN": "62923290989356",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f042f741-8fd1-4e07-ab93-f1d8bc7094ae",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DOBSON INTERNATIONAL PTY LTD",
+    "Name": "DOBSON INTERNATIONAL PTY LTD",
+    "ABN": "91618672585",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "7 Rosewood Place",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "FOREST LAKE",
+      "OtherSuburb": null,
+      "PostCode": "4078",
+      "OtherPostCode": null,
+      "Latitude": -27.62053,
+      "Longitude": 152.97122,
+      "FullAddress": "7 Rosewood Place\r\nFOREST LAKE QLD 4078\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32798837",
+        "FullNumber": "61 7 32798837"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Angela",
+    "SecondName": null,
+    "FamilyName": "Dobson",
+    "PostNominal": null,
+    "FullName": "Mrs Angela Dobson",
+    "GivenName": "Angela"
+  },
+  "MARN": "1463438",
+  "IsNoFee": false,
+  "ContactId": "a6e92c11-59c0-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "e85faed8-0c27-4bc2-b490-2f9969566daa",
+      "Type": "Former Name",
+      "FamilyName": "Liu",
+      "FirstName": "Tianyu",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Tianyu"
+    },
+    {
+      "Id": "9008b0fb-22be-4dc5-8fb3-7ecf6b806ecb",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Tian Yu Dobson",
+      "GivenName": ""
+    },
+    {
+      "Id": "638b6fe5-1f0e-491a-b0fc-7f6b591587db",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Angela Dobson",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Tian Yu Dobson",
+    "Angela Dobson"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

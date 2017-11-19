@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3532191344785",
+    "CRN": "35321913447854",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4a106de9-020a-42d5-8e30-159ff119b5c5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MAIONE, CLEMENTINA ",
+    "Name": "Maione Lawyers",
+    "ABN": "53207592835",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "239 Magill Road",
+      "AddressLine2": "Maylands SA 5069",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "MAYLANDS",
+      "OtherSuburb": null,
+      "PostCode": "5069",
+      "OtherPostCode": null,
+      "Latitude": -34.9145899,
+      "Longitude": 138.63881,
+      "FullAddress": "239 Magill Road\r\nMaylands SA 5069\r\nMAYLANDS SA 5069\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83666525",
+        "FullNumber": "61 8 83666525"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9819387674227",
+      "CRN": "98193876742274",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2993afce-2670-4d40-88ab-ad91c150a3df",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SMS Legal Group Pty Ltd",
+      "Name": "Salandra Maione Lawyers",
+      "ABN": "40122980689",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "239 Magill Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "MAYLANDS",
+        "OtherSuburb": null,
+        "PostCode": "5069",
+        "OtherPostCode": null,
+        "Latitude": -34.9145899,
+        "Longitude": 138.63881,
+        "FullAddress": "239 Magill Road\r\nMAYLANDS SA 5069\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "83666525",
+          "FullNumber": "61 08 83666525"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": "clementina@maionelawyers.com.au",
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3532191344785",
+    "CRN": "35321913447854",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4a106de9-020a-42d5-8e30-159ff119b5c5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MAIONE, CLEMENTINA ",
+    "Name": "Maione Lawyers",
+    "ABN": "53207592835",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "239 Magill Road",
+      "AddressLine2": "Maylands SA 5069",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "MAYLANDS",
+      "OtherSuburb": null,
+      "PostCode": "5069",
+      "OtherPostCode": null,
+      "Latitude": -34.9145899,
+      "Longitude": 138.63881,
+      "FullAddress": "239 Magill Road\r\nMaylands SA 5069\r\nMAYLANDS SA 5069\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83666525",
+        "FullNumber": "61 8 83666525"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Clementina",
+    "SecondName": null,
+    "FamilyName": "Maione",
+    "PostNominal": null,
+    "FullName": "Ms Clementina Maione",
+    "GivenName": "Clementina"
+  },
+  "MARN": "1463983",
+  "IsNoFee": false,
+  "ContactId": "0f6a8184-edd3-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Italy"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

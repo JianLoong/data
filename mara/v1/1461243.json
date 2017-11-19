@@ -1,0 +1,307 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5494791842510",
+    "CRN": "54947918425109",
+    "IsProfileLockedOut": null,
+    "BusinessId": "11cd36d3-03f7-4620-8ff1-43b9da11cc90",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Global Migration Solutions",
+    "Name": "Global Migration Solutions",
+    "ABN": null,
+    "Address": {
+      "Country": "Malaysia",
+      "AddressLine1": "C-L30-08, KL Trillion,",
+      "AddressLine2": "No.338 Jalan Tun Razak",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Kuala Lumpur",
+      "PostCode": "Other",
+      "OtherPostCode": "50400",
+      "Latitude": 3.13371,
+      "Longitude": 101.71833,
+      "FullAddress": "C-L30-08, KL Trillion,\r\nNo.338 Jalan Tun Razak\r\nKuala Lumpur 50400\r\nMalaysia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "60",
+        "AreaCode": "3",
+        "Number": "27145833",
+        "FullNumber": "60 3 27145833"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "60",
+        "AreaCode": "3",
+        "Number": "27145832",
+        "FullNumber": "60 3 27145832"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9369111359889",
+      "CRN": "93691113598897",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1f59be3d-f0a9-401c-9237-0ce5651f68da",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "24H Vietnam Visa Services Co Ltd",
+      "ABN": null,
+      "Address": {
+        "Country": "Viet Nam",
+        "AddressLine1": "13 Thai Van Lung Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Ho Chi Minh ",
+        "Suburb": "Other",
+        "OtherSuburb": "Ho Chi Ming City",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 10.7792652,
+        "Longitude": 106.7044236,
+        "FullAddress": "13 Thai Van Lung Street\r\nHo Chi Ming City \r\nViet Nam"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "84",
+          "AreaCode": "0",
+          "Number": "902813188",
+          "FullNumber": "84 0 902813188"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5494791842510",
+    "CRN": "54947918425109",
+    "IsProfileLockedOut": null,
+    "BusinessId": "11cd36d3-03f7-4620-8ff1-43b9da11cc90",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Global Migration Solutions",
+    "Name": "Global Migration Solutions",
+    "ABN": null,
+    "Address": {
+      "Country": "Malaysia",
+      "AddressLine1": "C-L30-08, KL Trillion,",
+      "AddressLine2": "No.338 Jalan Tun Razak",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Kuala Lumpur",
+      "PostCode": "Other",
+      "OtherPostCode": "50400",
+      "Latitude": 3.13371,
+      "Longitude": 101.71833,
+      "FullAddress": "C-L30-08, KL Trillion,\r\nNo.338 Jalan Tun Razak\r\nKuala Lumpur 50400\r\nMalaysia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "60",
+        "AreaCode": "3",
+        "Number": "27145833",
+        "FullNumber": "60 3 27145833"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "60",
+        "AreaCode": "3",
+        "Number": "27145832",
+        "FullNumber": "60 3 27145832"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Swee ",
+    "SecondName": "Hong",
+    "FamilyName": "Ang",
+    "PostNominal": null,
+    "FullName": "Mr Swee  Hong Ang",
+    "GivenName": "Swee  Hong"
+  },
+  "MARN": "1461243",
+  "IsNoFee": false,
+  "ContactId": "dc148387-777e-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Malaysia",
+    "Malaysia",
+    "Malaysia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "6d3f77e5-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ang",
+      "FirstName": "Desmond",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Desmond"
+    },
+    {
+      "Id": "6f3f77e5-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ang",
+      "FirstName": "Desmond",
+      "SecondName": "Ang Swee Hong",
+      "Alias": null,
+      "GivenName": "Desmond Ang Swee Hong"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

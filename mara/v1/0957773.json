@@ -1,0 +1,468 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662705850528",
+    "CRN": "66627058505286",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a0dec605-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Harmony Immigration Australia Pty Ltd",
+    "Name": "Diverse Immigration Australia",
+    "ABN": "66134166895",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2 Grimwood St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GRANVILLE",
+      "OtherSuburb": null,
+      "PostCode": "2142",
+      "OtherPostCode": null,
+      "Latitude": -33.8309,
+      "Longitude": 151.00259,
+      "FullAddress": "2 Grimwood St\r\nGRANVILLE NSW 2142\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PENRITH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PENRITH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "1300",
+        "Number": "176793",
+        "FullNumber": "61 1300 176793"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "98850362",
+        "FullNumber": "61 2 98850362"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6673800941923",
+      "CRN": "66738009419231",
+      "IsProfileLockedOut": null,
+      "BusinessId": "76a3ee9b-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Harmony Immigration Australia Pty Ltd",
+      "Name": "Diverse Immigration Australia",
+      "ABN": "66134166895",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Penrith Serviced Offices",
+        "AddressLine2": "Level 1-331 High Street",
+        "AddressLine3": "Penrith NSW",
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "PENRITH",
+        "OtherSuburb": null,
+        "PostCode": "2750",
+        "OtherPostCode": null,
+        "Latitude": -33.75244140625,
+        "Longitude": 150.678527832031,
+        "FullAddress": "Penrith Serviced Offices\r\nLevel 1-331 High Street\r\nPenrith NSW\r\nPENRITH NSW 2750\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "GRANVILLE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "GRANVILLE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "1300",
+          "Number": "176793",
+          "FullNumber": "61 1300 176793"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98850362",
+          "FullNumber": "61 2 98850362"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4823289182287",
+      "CRN": "48232891822878",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b7ea0fd2-5a4e-45db-b21e-307f6661b916",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Harmony Immigration Australia Pty Ltd",
+      "Name": "Australian Visa News",
+      "ABN": "66 134 166 895",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2 Grimwood Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "GRANVILLE",
+        "OtherSuburb": null,
+        "PostCode": "2142",
+        "OtherPostCode": null,
+        "Latitude": -33.8309,
+        "Longitude": 151.00259,
+        "FullAddress": "2 Grimwood Street\r\nGRANVILLE NSW 2142\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "35953009",
+          "FullNumber": "61 4 35953009"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98850362",
+          "FullNumber": "61 2 98850362"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5319893229716",
+      "CRN": "53198932297166",
+      "IsProfileLockedOut": null,
+      "BusinessId": "feeebc0e-f2cc-4897-935f-9a8bf13a6156",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "AUSTRALIAN VISA FINDER PTY. LTD.",
+      "Name": "Circuit Legal",
+      "ABN": "40616467040",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2 Grimwood Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "GRANVILLE",
+        "OtherSuburb": null,
+        "PostCode": "2142",
+        "OtherPostCode": null,
+        "Latitude": -33.8309,
+        "Longitude": 151.00259,
+        "FullAddress": "2 Grimwood Street\r\nGRANVILLE NSW 2142\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "0435953009",
+          "FullNumber": "61 2 0435953009"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98850362",
+          "FullNumber": "61 2 98850362"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662705850528",
+    "CRN": "66627058505286",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a0dec605-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Harmony Immigration Australia Pty Ltd",
+    "Name": "Diverse Immigration Australia",
+    "ABN": "66134166895",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2 Grimwood St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GRANVILLE",
+      "OtherSuburb": null,
+      "PostCode": "2142",
+      "OtherPostCode": null,
+      "Latitude": -33.8309,
+      "Longitude": 151.00259,
+      "FullAddress": "2 Grimwood St\r\nGRANVILLE NSW 2142\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PENRITH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PENRITH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "1300",
+        "Number": "176793",
+        "FullNumber": "61 1300 176793"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "98850362",
+        "FullNumber": "61 2 98850362"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Michele",
+    "SecondName": "Ann",
+    "FamilyName": "Clayton",
+    "PostNominal": null,
+    "FullName": "Ms Michele Ann Clayton",
+    "GivenName": "Michele Ann"
+  },
+  "MARN": "0957773",
+  "IsNoFee": false,
+  "ContactId": "fe8250f6-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "a7d9fe2b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Parker",
+      "FirstName": "Michele",
+      "SecondName": "Ann",
+      "Alias": null,
+      "GivenName": "Michele Ann"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

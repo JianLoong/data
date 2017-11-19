@@ -1,0 +1,200 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7076736462758",
+    "CRN": "70767364627584",
+    "IsProfileLockedOut": null,
+    "BusinessId": "be4f7f53-3b93-46dd-9b80-3daa6baffaf4",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Emergico Ltd ",
+    "Name": "Emergico Ltd ",
+    "ABN": null,
+    "Address": {
+      "Country": "United Kingdom",
+      "AddressLine1": "282 Leigh Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Leigh On Sea",
+      "PostCode": "Other",
+      "OtherPostCode": "SS9 1BW",
+      "Latitude": 51.542761,
+      "Longitude": 0.661672,
+      "FullAddress": "282 Leigh Road\r\nLeigh On Sea SS9 1BW\r\nUnited Kingdom"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "44",
+        "AreaCode": "079",
+        "Number": "82036555",
+        "FullNumber": "44 079 82036555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "7076736462758",
+    "CRN": "70767364627584",
+    "IsProfileLockedOut": null,
+    "BusinessId": "be4f7f53-3b93-46dd-9b80-3daa6baffaf4",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Emergico Ltd ",
+    "Name": "Emergico Ltd ",
+    "ABN": null,
+    "Address": {
+      "Country": "United Kingdom",
+      "AddressLine1": "282 Leigh Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Leigh On Sea",
+      "PostCode": "Other",
+      "OtherPostCode": "SS9 1BW",
+      "Latitude": 51.542761,
+      "Longitude": 0.661672,
+      "FullAddress": "282 Leigh Road\r\nLeigh On Sea SS9 1BW\r\nUnited Kingdom"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "44",
+        "AreaCode": "079",
+        "Number": "82036555",
+        "FullNumber": "44 079 82036555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Maria",
+    "SecondName": "Rose",
+    "FamilyName": "Solecki",
+    "PostNominal": null,
+    "FullName": "Ms Maria Rose Solecki",
+    "GivenName": "Maria Rose"
+  },
+  "MARN": "1467178",
+  "IsNoFee": false,
+  "ContactId": "412d4904-5d44-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655351988628",
+    "CRN": "66553519886283",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8d9ad34e-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ACACIA IMMIGRATION AUSTRALIA PTY LTD",
+    "Name": "Acacia Immigration Australia Pty Ltd",
+    "ABN": "30088999142",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 2002B, Level 20",
+      "AddressLine2": "323 Castlereagh St",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "HAYMARKET",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87991,
+      "Longitude": 151.20803,
+      "FullAddress": "Suite 2002B, Level 20\r\n323 Castlereagh St\r\nHAYMARKET NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SYDNEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92300888",
+        "FullNumber": "61 2 92300888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92300788",
+        "FullNumber": "61 2 92300788"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0488128084929",
+      "CRN": "04881280849299",
+      "IsProfileLockedOut": null,
+      "BusinessId": "301778db-dcf6-43e3-909c-22d1c343202a",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "NEWLAND CHASE PTY LTD",
+      "Name": "Newland Chase Pty Ltd",
+      "ABN": "78 602 834 953",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 2002, Level 20, 323 Castlereagh Street",
+        "AddressLine2": "Haymarket Sydney 2000",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.87991,
+        "Longitude": 151.20803,
+        "FullAddress": "Suite 2002, Level 20, 323 Castlereagh Street\r\nHaymarket Sydney 2000\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "94993011",
+          "FullNumber": "61 2 94993011"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655351988628",
+    "CRN": "66553519886283",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8d9ad34e-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ACACIA IMMIGRATION AUSTRALIA PTY LTD",
+    "Name": "Acacia Immigration Australia Pty Ltd",
+    "ABN": "30088999142",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 2002B, Level 20",
+      "AddressLine2": "323 Castlereagh St",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "HAYMARKET",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87991,
+      "Longitude": 151.20803,
+      "FullAddress": "Suite 2002B, Level 20\r\n323 Castlereagh St\r\nHAYMARKET NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SYDNEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92300888",
+        "FullNumber": "61 2 92300888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92300788",
+        "FullNumber": "61 2 92300788"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Josephine",
+    "SecondName": null,
+    "FamilyName": "Marr",
+    "PostNominal": null,
+    "FullName": "Ms Josephine Marr",
+    "GivenName": "Josephine"
+  },
+  "MARN": "1172798",
+  "IsNoFee": false,
+  "ContactId": "a6bd9093-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "New Zealand"
+  ],
+  "OtherNames": [
+    {
+      "Id": "fcd49d9d-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Marr",
+      "FirstName": "Josephine",
+      "SecondName": "Meteria",
+      "Alias": null,
+      "GivenName": "Josephine Meteria"
+    },
+    {
+      "Id": "01d59d9d-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Marr",
+      "FirstName": "Josie",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Josie"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

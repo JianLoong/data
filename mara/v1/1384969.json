@@ -1,0 +1,200 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666501127263",
+    "CRN": "66665011272631",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1c1c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EMERGICO PTY LTD",
+    "Name": "Emergico Pty Ltd",
+    "ABN": "85132034596",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Colwill Place,",
+      "AddressLine2": "188B Albion Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "4030",
+      "OtherPostCode": null,
+      "Latitude": -27.429523,
+      "Longitude": 153.033231,
+      "FullAddress": "Colwill Place,\r\n188B Albion Road\r\nWINDSOR QLD 4030\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WINDSOR"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38610726",
+        "FullNumber": "61 7 38610726"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31236240",
+        "FullNumber": "61 7 31236240"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666501127263",
+    "CRN": "66665011272631",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1c1c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EMERGICO PTY LTD",
+    "Name": "Emergico Pty Ltd",
+    "ABN": "85132034596",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Colwill Place,",
+      "AddressLine2": "188B Albion Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "4030",
+      "OtherPostCode": null,
+      "Latitude": -27.429523,
+      "Longitude": 153.033231,
+      "FullAddress": "Colwill Place,\r\n188B Albion Road\r\nWINDSOR QLD 4030\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WINDSOR"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38610726",
+        "FullNumber": "61 7 38610726"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31236240",
+        "FullNumber": "61 7 31236240"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Rebecca",
+    "SecondName": "Lorraine",
+    "FamilyName": "Pattinson",
+    "PostNominal": null,
+    "FullName": "Ms Rebecca Lorraine Pattinson",
+    "GivenName": "Rebecca Lorraine"
+  },
+  "MARN": "1384969",
+  "IsNoFee": false,
+  "ContactId": "4157bff8-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

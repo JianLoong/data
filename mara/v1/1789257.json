@@ -1,0 +1,199 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6659661674113",
+    "CRN": "66596616741135",
+    "IsProfileLockedOut": null,
+    "BusinessId": "74d01a53-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Snedden Hall & Gallop Pty Ltd",
+    "Name": "Snedden Hall & Gallop Pty Ltd",
+    "ABN": "67123354129",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "43-49 Geils Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "DEAKIN",
+      "OtherSuburb": null,
+      "PostCode": "2600",
+      "OtherPostCode": null,
+      "Latitude": -35.31551,
+      "Longitude": 149.09712,
+      "FullAddress": "43-49 Geils Court\r\nDEAKIN ACT 2600\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62858000",
+        "FullNumber": "61 2 62858000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62858088",
+        "FullNumber": "61 2 62858088"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6659661674113",
+    "CRN": "66596616741135",
+    "IsProfileLockedOut": null,
+    "BusinessId": "74d01a53-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Snedden Hall & Gallop Pty Ltd",
+    "Name": "Snedden Hall & Gallop Pty Ltd",
+    "ABN": "67123354129",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "43-49 Geils Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "DEAKIN",
+      "OtherSuburb": null,
+      "PostCode": "2600",
+      "OtherPostCode": null,
+      "Latitude": -35.31551,
+      "Longitude": 149.09712,
+      "FullAddress": "43-49 Geils Court\r\nDEAKIN ACT 2600\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62858000",
+        "FullNumber": "61 2 62858000"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62858088",
+        "FullNumber": "61 2 62858088"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Dominic",
+    "SecondName": "St John",
+    "FamilyName": "Cookman",
+    "PostNominal": null,
+    "FullName": "Mr Dominic St John Cookman",
+    "GivenName": "Dominic St John"
+  },
+  "MARN": "1789257",
+  "IsNoFee": false,
+  "ContactId": "77f5ff32-dbaa-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

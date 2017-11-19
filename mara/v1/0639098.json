@@ -1,0 +1,306 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655427528713",
+    "CRN": "66554275287130",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6ab10155-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Association",
+    "EntityName": "AUSTRALIAN REFUGEE ASSOCIATION INC",
+    "Name": "Australian Refugee Association Inc",
+    "ABN": "78904324535",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "304 Henley Beach Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "UNDERDALE",
+      "OtherSuburb": null,
+      "PostCode": "5032",
+      "OtherPostCode": null,
+      "Latitude": -34.92392,
+      "Longitude": 138.54733,
+      "FullAddress": "304 Henley Beach Road\r\nUNDERDALE SA 5032\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "UNDERDALE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "UNDERDALE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83542951",
+        "FullNumber": "61 8 83542951"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83542953",
+        "FullNumber": "61 8 83542953"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6660952166372",
+      "CRN": "66609521663720",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ed5f8d9e-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Tamara Van Mil-Koops",
+      "Name": "JustMigrate",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "66 Wattlebury Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "LOWER MITCHAM",
+        "OtherSuburb": null,
+        "PostCode": "5062",
+        "OtherPostCode": null,
+        "Latitude": -34.97878,
+        "Longitude": 138.60234,
+        "FullAddress": "66 Wattlebury Road\r\nLOWER MITCHAM SA 5062\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "LOWER MITCHAM",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "LOWER MITCHAM"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "82778117",
+          "FullNumber": "61 08 82778117"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "82778117",
+          "FullNumber": "61 08 82778117"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655427528713",
+    "CRN": "66554275287130",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6ab10155-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Association",
+    "EntityName": "AUSTRALIAN REFUGEE ASSOCIATION INC",
+    "Name": "Australian Refugee Association Inc",
+    "ABN": "78904324535",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "304 Henley Beach Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "UNDERDALE",
+      "OtherSuburb": null,
+      "PostCode": "5032",
+      "OtherPostCode": null,
+      "Latitude": -34.92392,
+      "Longitude": 138.54733,
+      "FullAddress": "304 Henley Beach Road\r\nUNDERDALE SA 5032\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "UNDERDALE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "UNDERDALE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83542951",
+        "FullNumber": "61 8 83542951"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83542953",
+        "FullNumber": "61 8 83542953"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Tamara",
+    "SecondName": "Lambertha",
+    "FamilyName": "van Mil-Koops",
+    "PostNominal": null,
+    "FullName": "Mrs Tamara Lambertha van Mil-Koops",
+    "GivenName": "Tamara Lambertha"
+  },
+  "MARN": "0639098",
+  "IsNoFee": false,
+  "ContactId": "70e24cba-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Netherlands"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c72349d2-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Van Mil",
+      "FirstName": "Tamara",
+      "SecondName": "Lambertha",
+      "Alias": null,
+      "GivenName": "Tamara Lambertha"
+    },
+    {
+      "Id": "ca2349d2-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Koops",
+      "FirstName": "Tamara",
+      "SecondName": "Lambertha",
+      "Alias": null,
+      "GivenName": "Tamara Lambertha"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

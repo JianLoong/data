@@ -1,0 +1,382 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1800083940279",
+    "CRN": "18000839402797",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0e96e9ca-ff4c-49ff-88d2-a8a7f3c6a5b9",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SAWANT, JAYSHREE KULDEEP",
+    "Name": "SAWANT, JAYSHREE KULDEEP",
+    "ABN": "40058488155",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "11",
+      "AddressLine2": "Bligh Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "NUNDAH",
+      "OtherSuburb": null,
+      "PostCode": "4012",
+      "OtherPostCode": null,
+      "Latitude": -27.39956,
+      "Longitude": 153.069,
+      "FullAddress": "11\r\nBligh Street\r\nNUNDAH QLD 4012\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "25130314",
+        "FullNumber": "61 4 25130314"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6665863082066",
+      "CRN": "66658630820665",
+      "IsProfileLockedOut": null,
+      "BusinessId": "fc7cfec3-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "DRYNAN, EMMA",
+      "Name": "FREEDOM MIGRATION",
+      "ABN": "23692348104",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 22",
+        "AddressLine2": "69 Ann Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRISBANE CITY",
+        "OtherSuburb": null,
+        "PostCode": "4000",
+        "OtherPostCode": null,
+        "Latitude": -27.4690807,
+        "Longitude": 153.0226276,
+        "FullAddress": "Level 22\r\n69 Ann Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BRISBANE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BRISBANE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "31125204",
+          "FullNumber": "61 7 31125204"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "31125101",
+          "FullNumber": "61 7 31125101"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661378893322",
+      "CRN": "66613788933221",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b28a11b7-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "REYPOUR, LEILA",
+      "Name": "VISA Aus",
+      "ABN": "92627312007",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 36, Riperian Plaza",
+        "AddressLine2": "71 Eagle Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRISBANE CITY",
+        "OtherSuburb": null,
+        "PostCode": "4000",
+        "OtherPostCode": null,
+        "Latitude": -27.4682,
+        "Longitude": 153.03042,
+        "FullAddress": "Level 36, Riperian Plaza\r\n71 Eagle Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "ORMEAU",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "ORMEAU"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+61",
+          "AreaCode": "7",
+          "Number": "3121 3112",
+          "FullNumber": "+61 7 3121 3112"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1800083940279",
+    "CRN": "18000839402797",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0e96e9ca-ff4c-49ff-88d2-a8a7f3c6a5b9",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SAWANT, JAYSHREE KULDEEP",
+    "Name": "SAWANT, JAYSHREE KULDEEP",
+    "ABN": "40058488155",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "11",
+      "AddressLine2": "Bligh Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "NUNDAH",
+      "OtherSuburb": null,
+      "PostCode": "4012",
+      "OtherPostCode": null,
+      "Latitude": -27.39956,
+      "Longitude": 153.069,
+      "FullAddress": "11\r\nBligh Street\r\nNUNDAH QLD 4012\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "25130314",
+        "FullNumber": "61 4 25130314"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Jayshree Kuldeep",
+    "SecondName": null,
+    "FamilyName": "Sawant",
+    "PostNominal": null,
+    "FullName": "Mrs Jayshree Kuldeep Sawant",
+    "GivenName": "Jayshree Kuldeep"
+  },
+  "MARN": "1461818",
+  "IsNoFee": false,
+  "ContactId": "17614178-a158-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "ccc8bb2a-d6d1-423f-b346-e02f8ff40169",
+      "Type": "Former Name",
+      "FamilyName": "Pawar",
+      "FirstName": "Jayshree",
+      "SecondName": "Shivajirao",
+      "Alias": null,
+      "GivenName": "Jayshree Shivajirao"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

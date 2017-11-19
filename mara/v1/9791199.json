@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657436797006",
+    "CRN": "66574367970066",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8cd5bccb-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SOUTH AUSTRALIAN IMMIGRATION SERVICES PTY LTD",
+    "Name": "South Australian Immigration Services Pty Ltd",
+    "ABN": "13008209541",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "89 Melbourne Street,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "NORTH ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5006",
+      "OtherPostCode": null,
+      "Latitude": -34.9066428,
+      "Longitude": 138.6081091,
+      "FullAddress": "89 Melbourne Street,\r\nNORTH ADELAIDE SA 5006\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "NORTH ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "NORTH ADELAIDE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83619100",
+        "FullNumber": "61 8 83619100"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83670822",
+        "FullNumber": "61 8 83670822"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6667095466625",
+      "CRN": "66670954666254",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6559f608-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "AUSTRALIAN MIGRATION AND BUSINESS SERVICES PTY LTD",
+      "Name": "Australian Migration and Business Services Pty Ltd",
+      "ABN": "66078504079",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "89 Melbourne Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "NORTH ADELAIDE",
+        "OtherSuburb": null,
+        "PostCode": "5006",
+        "OtherPostCode": null,
+        "Latitude": -34.906738,
+        "Longitude": 138.608215,
+        "FullAddress": "89 Melbourne Street\r\nNORTH ADELAIDE SA 5006\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "NORTH ADELAIDE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "NORTH ADELAIDE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "83619100",
+          "FullNumber": "61 08 83619100"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "83670822",
+          "FullNumber": "61 08 83670822"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657436797006",
+    "CRN": "66574367970066",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8cd5bccb-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SOUTH AUSTRALIAN IMMIGRATION SERVICES PTY LTD",
+    "Name": "South Australian Immigration Services Pty Ltd",
+    "ABN": "13008209541",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "89 Melbourne Street,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "NORTH ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5006",
+      "OtherPostCode": null,
+      "Latitude": -34.9066428,
+      "Longitude": 138.6081091,
+      "FullAddress": "89 Melbourne Street,\r\nNORTH ADELAIDE SA 5006\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "NORTH ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "NORTH ADELAIDE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83619100",
+        "FullNumber": "61 8 83619100"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "83670822",
+        "FullNumber": "61 8 83670822"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Christopher",
+    "SecondName": "David",
+    "FamilyName": "Parish",
+    "PostNominal": null,
+    "FullName": "Mr Christopher David Parish",
+    "GivenName": "Christopher David"
+  },
+  "MARN": "9791199",
+  "IsNoFee": false,
+  "ContactId": "c6794357-a652-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

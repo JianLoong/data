@@ -1,0 +1,307 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0554495294064",
+    "CRN": "05544952940641",
+    "IsProfileLockedOut": null,
+    "BusinessId": "081c541f-9418-44b0-9695-df26f17517a8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "RJTH PTY LTD",
+    "Name": "Johnsons Solicitors & Attorneys",
+    "ABN": "98612224978",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3 Kay House, 35 Scarborough Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SOUTHPORT",
+      "OtherSuburb": null,
+      "PostCode": "4215",
+      "OtherPostCode": null,
+      "Latitude": -34.08575,
+      "Longitude": 151.15252,
+      "FullAddress": "Level 3 Kay House, 35 Scarborough Street\r\nSOUTHPORT QLD 4215\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55711600",
+        "FullNumber": "61 7 55711600"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55911600",
+        "FullNumber": "61 7 55911600"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Partner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7470342937889",
+      "CRN": "74703429378899",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f5dd5a2a-731b-e411-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "Raymond Keith Johnson, Jeffrey Douglas Johnson",
+      "Name": "Johnsons",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 3, \"Kay House\"",
+        "AddressLine2": "35 Scarborough Street,",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "SOUTHPORT",
+        "OtherSuburb": null,
+        "PostCode": "4215",
+        "OtherPostCode": null,
+        "Latitude": -27.97084,
+        "Longitude": 153.41547,
+        "FullAddress": "Level 3, \"Kay House\"\r\n35 Scarborough Street,\r\nSOUTHPORT QLD 4215\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "55711600",
+          "FullNumber": "61 7 55711600"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "55911600",
+          "FullNumber": "61 7 55911600"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0554495294064",
+    "CRN": "05544952940641",
+    "IsProfileLockedOut": null,
+    "BusinessId": "081c541f-9418-44b0-9695-df26f17517a8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "RJTH PTY LTD",
+    "Name": "Johnsons Solicitors & Attorneys",
+    "ABN": "98612224978",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3 Kay House, 35 Scarborough Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SOUTHPORT",
+      "OtherSuburb": null,
+      "PostCode": "4215",
+      "OtherPostCode": null,
+      "Latitude": -34.08575,
+      "Longitude": 151.15252,
+      "FullAddress": "Level 3 Kay House, 35 Scarborough Street\r\nSOUTHPORT QLD 4215\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55711600",
+        "FullNumber": "61 7 55711600"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55911600",
+        "FullNumber": "61 7 55911600"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Timothy",
+    "SecondName": null,
+    "FamilyName": "Hsieh",
+    "PostNominal": null,
+    "FullName": "Mr Timothy Hsieh",
+    "GivenName": "Timothy"
+  },
+  "MARN": "1464844",
+  "IsNoFee": false,
+  "ContactId": "7da503fb-fff9-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "dc3cf281-0407-e411-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hsieh",
+      "FirstName": "Ting-Wei",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Ting-Wei"
+    },
+    {
+      "Id": "faeac9f6-1a21-e411-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Timothy Ting-Wei  Hsieh",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Timothy Ting-Wei  Hsieh"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

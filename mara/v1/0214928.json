@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658020604962",
+    "CRN": "66580206049622",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e39403f1-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "White Sands College Pty Ltd",
+    "Name": "Heron Assist",
+    "ABN": "38140071594",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "61 Leather St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BREAKWATER",
+      "OtherSuburb": null,
+      "PostCode": "3219",
+      "OtherPostCode": null,
+      "Latitude": -38.18596,
+      "Longitude": 144.3791699,
+      "FullAddress": "61 Leather St\r\nBREAKWATER VIC 3219\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GEELONG",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GEELONG"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "1300",
+        "AreaCode": "652",
+        "Number": "629",
+        "FullNumber": "1300 652 629"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6667894413297",
+      "CRN": "66678944132978",
+      "IsProfileLockedOut": null,
+      "BusinessId": "22529d3b-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "White Sands College Pty Ltd",
+      "Name": "Heron Assist",
+      "ABN": "38140071594",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "ICAE Building,",
+        "AddressLine2": "17 Chapman Road,",
+        "AddressLine3": null,
+        "State": "NT",
+        "OtherState": null,
+        "Suburb": "RAPID CREEK",
+        "OtherSuburb": null,
+        "PostCode": "0810",
+        "OtherPostCode": null,
+        "Latitude": -12.3828099,
+        "Longitude": 130.85522,
+        "FullAddress": "ICAE Building,\r\n17 Chapman Road,\r\nRAPID CREEK NT 0810\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MILLNER",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MILLNER"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "1300",
+          "AreaCode": "652",
+          "Number": "629",
+          "FullNumber": "1300 652 629"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6670606565431",
+      "CRN": "66706065654318",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4f5f78da-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Heron Australian Visa Assistance Company",
+      "Name": "Heron Australian Visa Assistance Company",
+      "ABN": null,
+      "Address": {
+        "Country": "Philippines",
+        "AddressLine1": "Unit 3J 3F AZOTEA De BEL AIR Condominium",
+        "AddressLine2": "5786 Polaris Street, Brgy. Poblacion",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Makati City",
+        "PostCode": "Other",
+        "OtherPostCode": "1210",
+        "Latitude": 14.57686,
+        "Longitude": 120.9805,
+        "FullAddress": "Unit 3J 3F AZOTEA De BEL AIR Condominium\r\n5786 Polaris Street, Brgy. Poblacion\r\nMakati City 1210\r\nPhilippines"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "63",
+          "AreaCode": "917",
+          "Number": "8013653",
+          "FullNumber": "63 917 8013653"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658020604962",
+    "CRN": "66580206049622",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e39403f1-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "White Sands College Pty Ltd",
+    "Name": "Heron Assist",
+    "ABN": "38140071594",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "61 Leather St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BREAKWATER",
+      "OtherSuburb": null,
+      "PostCode": "3219",
+      "OtherPostCode": null,
+      "Latitude": -38.18596,
+      "Longitude": 144.3791699,
+      "FullAddress": "61 Leather St\r\nBREAKWATER VIC 3219\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GEELONG",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GEELONG"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "1300",
+        "AreaCode": "652",
+        "Number": "629",
+        "FullNumber": "1300 652 629"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Chris",
+    "SecondName": null,
+    "FamilyName": "Heron",
+    "PostNominal": null,
+    "FullName": "Mr Chris Heron",
+    "GivenName": "Chris"
+  },
+  "MARN": "0214928",
+  "IsNoFee": false,
+  "ContactId": "c512a274-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

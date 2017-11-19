@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0178216730009",
+    "CRN": "01782167300093",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b48e2c74-0ce7-4845-8457-a72c877201d0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SHARMA, ASHUTOSH",
+    "Name": "A & N Migration Education and Recruitment Consultant",
+    "ABN": "27 477 691 523",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "91/2",
+      "AddressLine2": "Aberdeen Street ",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "NORTHBRIDGE",
+      "OtherSuburb": null,
+      "PostCode": "6003",
+      "OtherPostCode": null,
+      "Latitude": 47.4112930297852,
+      "Longitude": -120.556266784668,
+      "FullAddress": "91/2\r\nAberdeen Street \r\nNORTHBRIDGE WA 6003\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "4",
+        "Number": "26836753",
+        "FullNumber": "+61 4 26836753"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5846670702927",
+      "CRN": "58466707029279",
+      "IsProfileLockedOut": null,
+      "BusinessId": "87c6bcc7-0590-42b0-a845-8e4f55177e83",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "Aspire World Immigration Consultancy Services LLP",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "No. 208, Second Floor",
+        "AddressLine2": "Pragati Tower, Prasad Nagar, 26 Govind Lal Sikka Marg",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "New Delhi",
+        "Suburb": "Other",
+        "OtherSuburb": "Rajender Palace",
+        "PostCode": "Other",
+        "OtherPostCode": "110008",
+        "Latitude": 28.64295,
+        "Longitude": 77.17544,
+        "FullAddress": "No. 208, Second Floor\r\nPragati Tower, Prasad Nagar, 26 Govind Lal Sikka Marg\r\nRajender Palace 110008\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "11",
+          "Number": "47094723",
+          "FullNumber": "91 11 47094723"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8572420974550",
+      "CRN": "85724209745509",
+      "IsProfileLockedOut": null,
+      "BusinessId": "90bcda2a-3f7c-464f-acdc-6204503463f7",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "International Business",
+      "Name": "A & N Migration Education and Recruitment Consultant",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "206 Second Floor, Raksha Tower",
+        "AddressLine2": "Janki Nagar, Chuna Bhatti",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Bhopal, Madhya Pradesh",
+        "PostCode": "Other",
+        "OtherPostCode": "462017",
+        "Latitude": 23.21168,
+        "Longitude": 77.41947,
+        "FullAddress": "206 Second Floor, Raksha Tower\r\nJanki Nagar, Chuna Bhatti\r\nBhopal, Madhya Pradesh 462017\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+91",
+          "AreaCode": "755",
+          "Number": "4008825",
+          "FullNumber": "+91 755 4008825"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0178216730009",
+    "CRN": "01782167300093",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b48e2c74-0ce7-4845-8457-a72c877201d0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SHARMA, ASHUTOSH",
+    "Name": "A & N Migration Education and Recruitment Consultant",
+    "ABN": "27 477 691 523",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "91/2",
+      "AddressLine2": "Aberdeen Street ",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "NORTHBRIDGE",
+      "OtherSuburb": null,
+      "PostCode": "6003",
+      "OtherPostCode": null,
+      "Latitude": 47.4112930297852,
+      "Longitude": -120.556266784668,
+      "FullAddress": "91/2\r\nAberdeen Street \r\nNORTHBRIDGE WA 6003\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "4",
+        "Number": "26836753",
+        "FullNumber": "+61 4 26836753"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ashutosh",
+    "SecondName": null,
+    "FamilyName": "Sharma",
+    "PostNominal": null,
+    "FullName": "Mr Ashutosh Sharma",
+    "GivenName": "Ashutosh"
+  },
+  "MARN": "1682588",
+  "IsNoFee": false,
+  "ContactId": "97fa090b-4408-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "India"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

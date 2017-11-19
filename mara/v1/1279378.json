@@ -1,0 +1,307 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5305199018244",
+    "CRN": "53051990182444",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5ecbd314-5b61-42ed-8b39-0004cce8419b",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Referlegal Pty Ltd",
+    "Name": "Shimizu Kokusai Law Office",
+    "ABN": "47131975776",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 5, 262 Adelaide Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRISBANE CITY",
+      "OtherSuburb": null,
+      "PostCode": "4000",
+      "OtherPostCode": null,
+      "Latitude": -27.465869,
+      "Longitude": 153.028015,
+      "FullAddress": "Level 5, 262 Adelaide Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30402116",
+        "FullNumber": "61 7 30402116"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "33196131",
+        "FullNumber": "61 7 33196131"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6672976251807",
+      "CRN": "66729762518076",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3cc7726a-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "GO AUSTRALIA GROUP PTY LTD",
+      "Name": "Go Australia Visa Consultant",
+      "ABN": "34161711931",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite No.222, Level 2, Watermark Hotel Gold Coast",
+        "AddressLine2": "3032 Surfers Paradise Boulevard",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "SURFERS PARADISE",
+        "OtherSuburb": null,
+        "PostCode": "4217",
+        "OtherPostCode": null,
+        "Latitude": -28.0068172,
+        "Longitude": 153.4292744,
+        "FullAddress": "Suite No.222, Level 2, Watermark Hotel Gold Coast\r\n3032 Surfers Paradise Boulevard\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "VARSITY LAKES",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "VARSITY LAKES"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "55704542",
+          "FullNumber": "61 7 55704542"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "33196131",
+          "FullNumber": "61 7 33196131"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5305199018244",
+    "CRN": "53051990182444",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5ecbd314-5b61-42ed-8b39-0004cce8419b",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Referlegal Pty Ltd",
+    "Name": "Shimizu Kokusai Law Office",
+    "ABN": "47131975776",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 5, 262 Adelaide Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRISBANE CITY",
+      "OtherSuburb": null,
+      "PostCode": "4000",
+      "OtherPostCode": null,
+      "Latitude": -27.465869,
+      "Longitude": 153.028015,
+      "FullAddress": "Level 5, 262 Adelaide Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30402116",
+        "FullNumber": "61 7 30402116"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "33196131",
+        "FullNumber": "61 7 33196131"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Hiwa",
+    "SecondName": null,
+    "FamilyName": "Zandi",
+    "PostNominal": null,
+    "FullName": "Mr Hiwa Zandi",
+    "GivenName": "Hiwa"
+  },
+  "MARN": "1279378",
+  "IsNoFee": false,
+  "ContactId": "8ca7a68b-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "38057fc7-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Abdullah",
+      "FirstName": "Hiwa",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Hiwa"
+    },
+    {
+      "Id": "a0811aaf-5045-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "HIWA MOHAMMAD ABDULLAH",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "HIWA MOHAMMAD ABDULLAH"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

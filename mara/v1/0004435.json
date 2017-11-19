@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662541938636",
+    "CRN": "66625419386369",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0a3cbff9-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Teleo Immigration Specialists Pty Ltd",
+    "Name": "Teleo Immigration Specialists Pty Ltd",
+    "ABN": "35135241119",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Macarthur Point Building,",
+      "AddressLine2": "Suite 214, 25 Solent Circuit",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BAULKHAM HILLS",
+      "OtherSuburb": null,
+      "PostCode": "2153",
+      "OtherPostCode": null,
+      "Latitude": -33.7315355,
+      "Longitude": 150.9652064,
+      "FullAddress": "Macarthur Point Building,\r\nSuite 214, 25 Solent Circuit\r\nBAULKHAM HILLS NSW 2153\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PARRAMATTA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80803840",
+        "FullNumber": "61 2 80803840"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80803849",
+        "FullNumber": "61 2 80803849"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661293341924",
+      "CRN": "66612933419240",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d5e0c1b0-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Teleo Immigration Pty Ltd",
+      "Name": "Teleo Immigration Pty Ltd",
+      "ABN": "30131296850",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 214, 25 Solent Circuit",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BAULKHAM HILLS",
+        "OtherSuburb": null,
+        "PostCode": "2153",
+        "OtherPostCode": null,
+        "Latitude": -33.731639,
+        "Longitude": 150.965286,
+        "FullAddress": "Suite 214, 25 Solent Circuit\r\nBAULKHAM HILLS NSW 2153\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "PARRAMATTA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "PARRAMATTA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "80803840",
+          "FullNumber": "61 02 80803840"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "80803849",
+          "FullNumber": "61 02 80803849"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662541938636",
+    "CRN": "66625419386369",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0a3cbff9-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Teleo Immigration Specialists Pty Ltd",
+    "Name": "Teleo Immigration Specialists Pty Ltd",
+    "ABN": "35135241119",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Macarthur Point Building,",
+      "AddressLine2": "Suite 214, 25 Solent Circuit",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BAULKHAM HILLS",
+      "OtherSuburb": null,
+      "PostCode": "2153",
+      "OtherPostCode": null,
+      "Latitude": -33.7315355,
+      "Longitude": 150.9652064,
+      "FullAddress": "Macarthur Point Building,\r\nSuite 214, 25 Solent Circuit\r\nBAULKHAM HILLS NSW 2153\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PARRAMATTA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80803840",
+        "FullNumber": "61 2 80803840"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80803849",
+        "FullNumber": "61 2 80803849"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Dr",
+    "FirstName": "Etienne",
+    "SecondName": "de Villiers",
+    "FamilyName": "Hugo",
+    "PostNominal": null,
+    "FullName": "Dr Etienne de Villiers Hugo",
+    "GivenName": "Etienne de Villiers"
+  },
+  "MARN": "0004435",
+  "IsNoFee": false,
+  "ContactId": "35ddf4a6-9f52-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

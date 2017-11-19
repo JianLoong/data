@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6668189322674",
+    "CRN": "66681893226748",
+    "IsProfileLockedOut": null,
+    "BusinessId": "339e404e-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CAJIC, DAVORIN",
+    "Name": "AUSTRALIAN MIGRATION ONLINE (AMO)",
+    "ABN": "37461602543",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 208",
+      "AddressLine2": "29-31 Lexington Drive",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BELLA VISTA",
+      "OtherSuburb": null,
+      "PostCode": "2153",
+      "OtherPostCode": null,
+      "Latitude": -33.73331,
+      "Longitude": 150.946456,
+      "FullAddress": "Suite 208\r\n29-31 Lexington Drive\r\nBELLA VISTA NSW 2153\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "BELLA VISTA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "BELLA VISTA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "88828022",
+        "FullNumber": "61 02 88828022"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5334451291366",
+      "CRN": "53344512913663",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4ca951e4-a1af-4e72-9c93-afba8b870893",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "DRAYTON SHER LAWYERS PTY. LTD.",
+      "Name": "DRAYTON SHER LAWYERS PTY. LTD.",
+      "ABN": "58164485554",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 2,",
+        "AddressLine2": "Suite 205",
+        "AddressLine3": "55 Grafton Street",
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BONDI JUNCTION",
+        "OtherSuburb": null,
+        "PostCode": "2022",
+        "OtherPostCode": null,
+        "Latitude": -33.8904902,
+        "Longitude": 151.2461521,
+        "FullAddress": "Level 2,\r\nSuite 205\r\n55 Grafton Street\r\nBONDI JUNCTION NSW 2022\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "8644 6071",
+          "FullNumber": "61 2 8644 6071"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "8644 6050",
+          "FullNumber": "61 2 8644 6050"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6668189322674",
+    "CRN": "66681893226748",
+    "IsProfileLockedOut": null,
+    "BusinessId": "339e404e-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "CAJIC, DAVORIN",
+    "Name": "AUSTRALIAN MIGRATION ONLINE (AMO)",
+    "ABN": "37461602543",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 208",
+      "AddressLine2": "29-31 Lexington Drive",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BELLA VISTA",
+      "OtherSuburb": null,
+      "PostCode": "2153",
+      "OtherPostCode": null,
+      "Latitude": -33.73331,
+      "Longitude": 150.946456,
+      "FullAddress": "Suite 208\r\n29-31 Lexington Drive\r\nBELLA VISTA NSW 2153\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "BELLA VISTA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "BELLA VISTA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "88828022",
+        "FullNumber": "61 02 88828022"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Davorin",
+    "SecondName": null,
+    "FamilyName": "Cajic",
+    "PostNominal": null,
+    "FullName": "Mr Davorin Cajic",
+    "GivenName": "Davorin"
+  },
+  "MARN": "0531026",
+  "IsNoFee": false,
+  "ContactId": "a4b0da41-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

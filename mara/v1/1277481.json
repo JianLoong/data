@@ -1,0 +1,382 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671508545862",
+    "CRN": "66715085458626",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bfbfc712-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BARNARD, JOHANNA JACOBA",
+    "Name": "BARNARD, JOHANNA JACOBA",
+    "ABN": "44241198410",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "234 Gayndah Rd",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MARYBOROUGH",
+      "OtherSuburb": null,
+      "PostCode": "4650",
+      "OtherPostCode": null,
+      "Latitude": -25.5100786,
+      "Longitude": 152.6488634,
+      "FullAddress": "234 Gayndah Rd\r\nMARYBOROUGH QLD 4650\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MARYBOROUGH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MARYBOROUGH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "88115557",
+        "FullNumber": "61 4 88115557"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "41231080",
+        "FullNumber": "61 7 41231080"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6674060096576",
+      "CRN": "66740600965769",
+      "IsProfileLockedOut": null,
+      "BusinessId": "fbb6f8a7-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "BARNARD, JOHANNA JACOBA",
+      "Name": "Johanna J Barnard T/A Call Australia Home",
+      "ABN": "44241198410",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Riverwood",
+        "AddressLine2": "234 Gayndah Road",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "MARYBOROUGH WEST",
+        "OtherSuburb": null,
+        "PostCode": "4650",
+        "OtherPostCode": null,
+        "Latitude": -22.5756874084473,
+        "Longitude": 144.535263061523,
+        "FullAddress": "Riverwood\r\n234 Gayndah Road\r\nMARYBOROUGH WEST QLD 4650\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MARYBOROUGH",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MARYBOROUGH"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "88115557",
+          "FullNumber": "61 4 88115557"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "41231080",
+          "FullNumber": "61 7 41231080"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3318329074476",
+      "CRN": "33183290744763",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1844887e-ed36-4669-ade0-1861a7faef9f",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "CALL AUSTRALIA HOME MIGRATION PTY LTD",
+      "Name": "CALL AUSTRALIA HOME MIGRATION PTY LTD",
+      "ABN": "17165947820",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Riverwood",
+        "AddressLine2": "234 Gayndah Road",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "MARYBOROUGH",
+        "OtherSuburb": null,
+        "PostCode": "4650",
+        "OtherPostCode": null,
+        "Latitude": -25.5100786,
+        "Longitude": 152.6488634,
+        "FullAddress": "Riverwood\r\n234 Gayndah Road\r\nMARYBOROUGH QLD 4650\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "31563046",
+          "FullNumber": "61 4 31563046"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671508545862",
+    "CRN": "66715085458626",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bfbfc712-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BARNARD, JOHANNA JACOBA",
+    "Name": "BARNARD, JOHANNA JACOBA",
+    "ABN": "44241198410",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "234 Gayndah Rd",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MARYBOROUGH",
+      "OtherSuburb": null,
+      "PostCode": "4650",
+      "OtherPostCode": null,
+      "Latitude": -25.5100786,
+      "Longitude": 152.6488634,
+      "FullAddress": "234 Gayndah Rd\r\nMARYBOROUGH QLD 4650\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MARYBOROUGH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MARYBOROUGH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "88115557",
+        "FullNumber": "61 4 88115557"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "41231080",
+        "FullNumber": "61 7 41231080"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Johanna",
+    "SecondName": "Jacoba",
+    "FamilyName": "Barnard",
+    "PostNominal": null,
+    "FullName": "Ms Johanna Jacoba Barnard",
+    "GivenName": "Johanna Jacoba"
+  },
+  "MARN": "1277481",
+  "IsNoFee": false,
+  "ContactId": "a59d4a61-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "78ef88bb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Storm",
+      "FirstName": "Johanna",
+      "SecondName": "Jacoba",
+      "Alias": null,
+      "GivenName": "Johanna Jacoba"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

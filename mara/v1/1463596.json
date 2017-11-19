@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2265339300022",
+    "CRN": "22653393000224",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b1aa4017-4657-4caf-907a-2a53a84b5a34",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "FERNANDES, MONICA DA SILVA",
+    "Name": "FERNANDES, MONICA DA SILVA",
+    "ABN": "65629316759",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Mezzanine Level, Aspley Hypermarket",
+      "AddressLine2": "59 Albany Creek Rd",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ASPLEY",
+      "OtherSuburb": null,
+      "PostCode": "4034",
+      "OtherPostCode": null,
+      "Latitude": -27.36201,
+      "Longitude": 153.01414,
+      "FullAddress": "Mezzanine Level, Aspley Hypermarket\r\n59 Albany Creek Rd\r\nASPLEY QLD 4034\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0",
+        "Number": "419460674",
+        "FullNumber": "61 0 419460674"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9742495990007",
+      "CRN": "97424959900076",
+      "IsProfileLockedOut": null,
+      "BusinessId": "acf82dd3-a383-4d28-88af-3334979be6b2",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "GET REAL MIGRATION PTY LTD",
+      "Name": "GET REAL MIGRATION PTY LTD",
+      "ABN": "58617921945",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "18/302 South Pine Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRENDALE",
+        "OtherSuburb": null,
+        "PostCode": "4500",
+        "OtherPostCode": null,
+        "Latitude": -27.32834,
+        "Longitude": 152.96209,
+        "FullAddress": "18/302 South Pine Road\r\nBRENDALE QLD 4500\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "19460674",
+          "FullNumber": "61 4 19460674"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2265339300022",
+    "CRN": "22653393000224",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b1aa4017-4657-4caf-907a-2a53a84b5a34",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "FERNANDES, MONICA DA SILVA",
+    "Name": "FERNANDES, MONICA DA SILVA",
+    "ABN": "65629316759",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Mezzanine Level, Aspley Hypermarket",
+      "AddressLine2": "59 Albany Creek Rd",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ASPLEY",
+      "OtherSuburb": null,
+      "PostCode": "4034",
+      "OtherPostCode": null,
+      "Latitude": -27.36201,
+      "Longitude": 153.01414,
+      "FullAddress": "Mezzanine Level, Aspley Hypermarket\r\n59 Albany Creek Rd\r\nASPLEY QLD 4034\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0",
+        "Number": "419460674",
+        "FullNumber": "61 0 419460674"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Monica",
+    "SecondName": "Sofia",
+    "FamilyName": "Fernandes",
+    "PostNominal": null,
+    "FullName": "Mrs Monica Sofia Fernandes",
+    "GivenName": "Monica Sofia"
+  },
+  "MARN": "1463596",
+  "IsNoFee": false,
+  "ContactId": "5288bc82-f3cd-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Portugal"
+  ],
+  "OtherNames": [
+    {
+      "Id": "266819cc-bc2d-4847-b9f8-a84c09b8cc68",
+      "Type": "Former Name",
+      "FamilyName": "Da Silva Casaca",
+      "FirstName": "Monica",
+      "SecondName": "Sofia",
+      "Alias": null,
+      "GivenName": "Monica Sofia"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

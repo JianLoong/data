@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9988117035924",
+    "CRN": "99881170359245",
+    "IsProfileLockedOut": null,
+    "BusinessId": "01c15083-0b1b-4b2c-9ff5-c2adad034080",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Gal Ariel Hirshberg",
+    "Name": "ImmiWave Australia",
+    "ABN": null,
+    "Address": {
+      "Country": "Israel",
+      "AddressLine1": "House 103",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Hof Hacarmel",
+      "Suburb": "Other",
+      "OtherSuburb": "Nahsholim",
+      "PostCode": "Other",
+      "OtherPostCode": "3081500",
+      "Latitude": 32.6136703491211,
+      "Longitude": 34.9208984375,
+      "FullAddress": "House 103\r\nNahsholim 3081500\r\nIsrael"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "40",
+        "Number": "9926456",
+        "FullNumber": "61 40 9926456"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9993199509876",
+      "CRN": "99931995098768",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a8cae58a-d503-4d1b-bba6-3c32ec3d5690",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "HIRSHBERG, GAL ARIEL",
+      "Name": "ImmiWave Australia",
+      "ABN": "82196400640",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "21 Village Way",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "CURRUMBIN VALLEY",
+        "OtherSuburb": null,
+        "PostCode": "4223",
+        "OtherPostCode": null,
+        "Latitude": -27.32608,
+        "Longitude": 153.01641,
+        "FullAddress": "21 Village Way\r\nCURRUMBIN VALLEY QLD 4223\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "40",
+          "Number": "9926456",
+          "FullNumber": "61 40 9926456"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9988117035924",
+    "CRN": "99881170359245",
+    "IsProfileLockedOut": null,
+    "BusinessId": "01c15083-0b1b-4b2c-9ff5-c2adad034080",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Gal Ariel Hirshberg",
+    "Name": "ImmiWave Australia",
+    "ABN": null,
+    "Address": {
+      "Country": "Israel",
+      "AddressLine1": "House 103",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Hof Hacarmel",
+      "Suburb": "Other",
+      "OtherSuburb": "Nahsholim",
+      "PostCode": "Other",
+      "OtherPostCode": "3081500",
+      "Latitude": 32.6136703491211,
+      "Longitude": 34.9208984375,
+      "FullAddress": "House 103\r\nNahsholim 3081500\r\nIsrael"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "40",
+        "Number": "9926456",
+        "FullNumber": "61 40 9926456"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Gal",
+    "SecondName": "Ariel",
+    "FamilyName": "Hirshberg",
+    "PostNominal": null,
+    "FullName": "Mr Gal Ariel Hirshberg",
+    "GivenName": "Gal Ariel"
+  },
+  "MARN": "1467609",
+  "IsNoFee": false,
+  "ContactId": "d225e1fe-4454-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661471405758",
+    "CRN": "66614714057582",
+    "IsProfileLockedOut": null,
+    "BusinessId": "719018bd-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "NRG Innovation Pty Ltd",
+    "Name": "Skills Visa Plus",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "48 River Gallery",
+      "AddressLine2": "6 Merthyr Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "NEW FARM",
+      "OtherSuburb": null,
+      "PostCode": "4005",
+      "OtherPostCode": null,
+      "Latitude": -22.5756874084473,
+      "Longitude": 144.535263061523,
+      "FullAddress": "48 River Gallery\r\n6 Merthyr Road\r\nNEW FARM QLD 4005\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MACKAY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MACKAY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "49142500",
+        "FullNumber": "61 7 49142500"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "00000000",
+        "FullNumber": "61 7 00000000"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5358494691503",
+      "CRN": "53584946915033",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2e478d78-6a4d-e611-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Trust",
+      "EntityName": "The Trustee for The Calliope Investment Trust",
+      "Name": "Calliope Investments Pty Ltd",
+      "ABN": "44 554 491 349",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "18 Goldsmith Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "MACKAY",
+        "OtherSuburb": null,
+        "PostCode": "4740",
+        "OtherPostCode": null,
+        "Latitude": -21.1469,
+        "Longitude": 149.19357,
+        "FullAddress": "18 Goldsmith Street\r\nMACKAY QLD 4740\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "49142500",
+          "FullNumber": "61 7 49142500"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": null,
+          "FullNumber": "61 7"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661471405758",
+    "CRN": "66614714057582",
+    "IsProfileLockedOut": null,
+    "BusinessId": "719018bd-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "NRG Innovation Pty Ltd",
+    "Name": "Skills Visa Plus",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "48 River Gallery",
+      "AddressLine2": "6 Merthyr Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "NEW FARM",
+      "OtherSuburb": null,
+      "PostCode": "4005",
+      "OtherPostCode": null,
+      "Latitude": -22.5756874084473,
+      "Longitude": 144.535263061523,
+      "FullAddress": "48 River Gallery\r\n6 Merthyr Road\r\nNEW FARM QLD 4005\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MACKAY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MACKAY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "49142500",
+        "FullNumber": "61 7 49142500"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "00000000",
+        "FullNumber": "61 7 00000000"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "De-Anne",
+    "SecondName": "Margaret",
+    "FamilyName": "Kelly",
+    "PostNominal": null,
+    "FullName": "Ms De-Anne Margaret Kelly",
+    "GivenName": "De-Anne Margaret"
+  },
+  "MARN": "0852871",
+  "IsNoFee": false,
+  "ContactId": "f3adcfa1-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "84711c0e-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Park",
+      "FirstName": "De-Anne",
+      "SecondName": "Margaret",
+      "Alias": null,
+      "GivenName": "De-Anne Margaret"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

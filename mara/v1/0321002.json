@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655372231390",
+    "CRN": "66553722313908",
+    "IsProfileLockedOut": null,
+    "BusinessId": "939ad34e-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN BUSINESS AND EDUCATION INFORMATION SERVICES PTY LTD",
+    "Name": "Australian Business and Education Information Services Pty Ltd",
+    "ABN": "21098902955",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop G17A, G/Floor, Times Square Building",
+      "AddressLine2": "250 McDullough Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SUNNYBANK",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.57148,
+      "Longitude": 153.06138,
+      "FullAddress": "Shop G17A, G/Floor, Times Square Building\r\n250 McDullough Street\r\nSUNNYBANK QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32196666",
+        "FullNumber": "61 7 32196666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32196699",
+        "FullNumber": "61 7 32196699"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Partner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6668209285319",
+      "CRN": "66682092853191",
+      "IsProfileLockedOut": null,
+      "BusinessId": "399e404e-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "A.C POON & S.S RONG & S.K Wong & P.W Yu",
+      "Name": "A.C POON & S.S RONG & S.K Wong & P.W Yu",
+      "ABN": "39167938931",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Shop 3 Gowan Plaza,",
+        "AddressLine2": "210 Kameruka Street (and Gowan Road)",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "CALAMVALE",
+        "OtherSuburb": null,
+        "PostCode": "4116",
+        "OtherPostCode": null,
+        "Latitude": -27.6252789,
+        "Longitude": 153.0594259,
+        "FullAddress": "Shop 3 Gowan Plaza,\r\n210 Kameruka Street (and Gowan Road)\r\nCALAMVALE QLD 4116\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "3711 5595",
+          "FullNumber": "61 7 3711 5595"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "3711 7795",
+          "FullNumber": "61 7 3711 7795"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6655372231390",
+    "CRN": "66553722313908",
+    "IsProfileLockedOut": null,
+    "BusinessId": "939ad34e-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN BUSINESS AND EDUCATION INFORMATION SERVICES PTY LTD",
+    "Name": "Australian Business and Education Information Services Pty Ltd",
+    "ABN": "21098902955",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop G17A, G/Floor, Times Square Building",
+      "AddressLine2": "250 McDullough Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SUNNYBANK",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.57148,
+      "Longitude": 153.06138,
+      "FullAddress": "Shop G17A, G/Floor, Times Square Building\r\n250 McDullough Street\r\nSUNNYBANK QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32196666",
+        "FullNumber": "61 7 32196666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32196699",
+        "FullNumber": "61 7 32196699"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Alice",
+    "SecondName": "Chi Man",
+    "FamilyName": "Poon",
+    "PostNominal": null,
+    "FullName": "Ms Alice Chi Man Poon",
+    "GivenName": "Alice Chi Man"
+  },
+  "MARN": "0321002",
+  "IsNoFee": false,
+  "ContactId": "7e8933c3-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

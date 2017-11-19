@@ -1,0 +1,299 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5544381370251",
+    "CRN": "55443813702515",
+    "IsProfileLockedOut": null,
+    "BusinessId": "808012d5-3a2c-41d5-8806-ffe4570385e5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Law Offices of Dr. Amirshahi & Associates",
+    "Name": "Law Offices of Dr.Amirshahi & Associates",
+    "ABN": null,
+    "Address": {
+      "Country": "Iran, Islamic Republic of",
+      "AddressLine1": "Unit 10, 2 Kashanchi alley, Valiasr St., Tajrish",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Tehran",
+      "PostCode": "Other",
+      "OtherPostCode": "1961834984",
+      "Latitude": 35.6895408630371,
+      "Longitude": 51.4146842956543,
+      "FullAddress": "Unit 10, 2 Kashanchi alley, Valiasr St., Tajrish\r\nTehran 1961834984\r\nIran, Islamic Republic of"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+98",
+        "AreaCode": "21",
+        "Number": "22705217",
+        "FullNumber": "+98 21 22705217"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "+98",
+        "AreaCode": "21",
+        "Number": "22732793",
+        "FullNumber": "+98 21 22732793"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5544366348218",
+      "CRN": "55443663482184",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2abd7b79-d0e7-4b48-8ce5-c4fbde45fa46",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "AMIRSHAHI, MATIN ",
+      "Name": "AMIRSHAHI, MATIN ",
+      "ABN": "69120759508",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "18 Ayton Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "IVANHOE",
+        "OtherSuburb": null,
+        "PostCode": "3079",
+        "OtherPostCode": null,
+        "Latitude": -37.76006,
+        "Longitude": 145.0363099,
+        "FullAddress": "18 Ayton Street\r\nIVANHOE VIC 3079\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+61",
+          "AreaCode": "4",
+          "Number": "14 228 463",
+          "FullNumber": "+61 4 14 228 463"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5544381370251",
+    "CRN": "55443813702515",
+    "IsProfileLockedOut": null,
+    "BusinessId": "808012d5-3a2c-41d5-8806-ffe4570385e5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Law Offices of Dr. Amirshahi & Associates",
+    "Name": "Law Offices of Dr.Amirshahi & Associates",
+    "ABN": null,
+    "Address": {
+      "Country": "Iran, Islamic Republic of",
+      "AddressLine1": "Unit 10, 2 Kashanchi alley, Valiasr St., Tajrish",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Tehran",
+      "PostCode": "Other",
+      "OtherPostCode": "1961834984",
+      "Latitude": 35.6895408630371,
+      "Longitude": 51.4146842956543,
+      "FullAddress": "Unit 10, 2 Kashanchi alley, Valiasr St., Tajrish\r\nTehran 1961834984\r\nIran, Islamic Republic of"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+98",
+        "AreaCode": "21",
+        "Number": "22705217",
+        "FullNumber": "+98 21 22705217"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "+98",
+        "AreaCode": "21",
+        "Number": "22732793",
+        "FullNumber": "+98 21 22732793"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Matin",
+    "SecondName": null,
+    "FamilyName": "Amirshahi",
+    "PostNominal": null,
+    "FullName": "Mr Matin Amirshahi",
+    "GivenName": "Matin"
+  },
+  "MARN": "1685110",
+  "IsNoFee": false,
+  "ContactId": "6700c592-d941-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Iran, Islamic Republic of"
+  ],
+  "OtherNames": [
+    {
+      "Id": "62d264e6-144e-e611-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Seyyed Matin Amirshahi",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Seyyed Matin Amirshahi"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

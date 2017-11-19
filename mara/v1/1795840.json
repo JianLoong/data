@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4752600968665",
+    "CRN": "47526009686650",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6b16d3dc-68cf-4f05-a8fe-e7f9160899d2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DREAMS2REALITY IMMIGRATION SERVICES PTY LTD",
+    "Name": "DREAMS2REALITY IMMIGRATION SERVICES PTY LTD",
+    "ABN": "87621067203",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2/23",
+      "AddressLine2": "pye road",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "QUAKERS HILL",
+      "OtherSuburb": null,
+      "PostCode": "2763",
+      "OtherPostCode": null,
+      "Latitude": -33.73187,
+      "Longitude": 150.89254,
+      "FullAddress": "2/23\r\npye road\r\nQUAKERS HILL NSW 2763\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "50041674",
+        "FullNumber": "61 4 50041674"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8690689461484",
+      "CRN": "86906894614846",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a2129439-c5ff-452a-8871-abbe8620c940",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "CHAND, PREM ",
+      "Name": "VIA IMMIGRATION SERVICES",
+      "ABN": "39125903419",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "unit 2",
+        "AddressLine2": "23 pye road",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "QUAKERS HILL",
+        "OtherSuburb": null,
+        "PostCode": "2763",
+        "OtherPostCode": null,
+        "Latitude": -33.73187,
+        "Longitude": 150.89254,
+        "FullAddress": "unit 2\r\n23 pye road\r\nQUAKERS HILL NSW 2763\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "50041674",
+          "FullNumber": "61 4 50041674"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4752600968665",
+    "CRN": "47526009686650",
+    "IsProfileLockedOut": null,
+    "BusinessId": "6b16d3dc-68cf-4f05-a8fe-e7f9160899d2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DREAMS2REALITY IMMIGRATION SERVICES PTY LTD",
+    "Name": "DREAMS2REALITY IMMIGRATION SERVICES PTY LTD",
+    "ABN": "87621067203",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2/23",
+      "AddressLine2": "pye road",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "QUAKERS HILL",
+      "OtherSuburb": null,
+      "PostCode": "2763",
+      "OtherPostCode": null,
+      "Latitude": -33.73187,
+      "Longitude": 150.89254,
+      "FullAddress": "2/23\r\npye road\r\nQUAKERS HILL NSW 2763\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "50041674",
+        "FullNumber": "61 4 50041674"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Prem",
+    "SecondName": null,
+    "FamilyName": "Chand",
+    "PostNominal": null,
+    "FullName": "Mr Prem Chand",
+    "GivenName": "Prem"
+  },
+  "MARN": "1795840",
+  "IsNoFee": false,
+  "ContactId": "d0c386af-4761-e711-9412-000d3ad152db",
+  "CitizenshipCountries": [
+    "India"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

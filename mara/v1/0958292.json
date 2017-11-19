@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662798752926",
+    "CRN": "66627987529261",
+    "IsProfileLockedOut": null,
+    "BusinessId": "27c4e60b-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "AZIMI, MOHAMMAD",
+    "Name": "Shada Migration and Education Services",
+    "ABN": "82080580656",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 70 Civic Arcade",
+      "AddressLine2": "48-50 George Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": "2150",
+      "OtherPostCode": null,
+      "Latitude": -33.81353,
+      "Longitude": 151.0049,
+      "FullAddress": "Suite 70 Civic Arcade\r\n48-50 George Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PARRAMATTA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "90025511",
+        "FullNumber": "61 2 90025511"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82128968",
+        "FullNumber": "61 2 82128968"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0453114040835",
+      "CRN": "04531140408359",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1cbd33b1-db68-4a3f-8d7f-b7a5e23c7b04",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Shada Migration and International Recruitment Agency",
+      "Name": "Shada Migration and International Recruitment Agency",
+      "ABN": null,
+      "Address": {
+        "Country": "Iran, Islamic Republic of",
+        "AddressLine1": "Unit 18, 2nd Floor, No 1402, Parsin Business Complex",
+        "AddressLine2": "Gholhak Intersection",
+        "AddressLine3": "Shariati Street",
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Tehran",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 35.6895408630371,
+        "Longitude": 51.4146842956543,
+        "FullAddress": "Unit 18, 2nd Floor, No 1402, Parsin Business Complex\r\nGholhak Intersection\r\nShariati Street\r\nTehran \r\nIran, Islamic Republic of"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "98",
+          "AreaCode": "21",
+          "Number": "26409946",
+          "FullNumber": "98 21 26409946"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662798752926",
+    "CRN": "66627987529261",
+    "IsProfileLockedOut": null,
+    "BusinessId": "27c4e60b-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "AZIMI, MOHAMMAD",
+    "Name": "Shada Migration and Education Services",
+    "ABN": "82080580656",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 70 Civic Arcade",
+      "AddressLine2": "48-50 George Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": "2150",
+      "OtherPostCode": null,
+      "Latitude": -33.81353,
+      "Longitude": 151.0049,
+      "FullAddress": "Suite 70 Civic Arcade\r\n48-50 George Street\r\nPARRAMATTA NSW 2150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "PARRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "PARRAMATTA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "90025511",
+        "FullNumber": "61 2 90025511"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82128968",
+        "FullNumber": "61 2 82128968"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Mohammad",
+    "SecondName": "Reza",
+    "FamilyName": "Azimi",
+    "PostNominal": null,
+    "FullName": "Mr Mohammad Reza Azimi",
+    "GivenName": "Mohammad Reza"
+  },
+  "MARN": "0958292",
+  "IsNoFee": false,
+  "ContactId": "58e26e02-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "22dafe2b-0553-e311-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "babak  azimi",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "babak  azimi"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

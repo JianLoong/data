@@ -1,0 +1,373 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9026977996650",
+    "CRN": "90269779966504",
+    "IsProfileLockedOut": null,
+    "BusinessId": "08551e37-2a69-4542-96ec-fa953c2c987f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Working International Visas Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "New Zealand",
+      "AddressLine1": "Level 1, 56 Brown Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Auckland",
+      "Suburb": "Other",
+      "OtherSuburb": "Ponsonby",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": -36.8564381,
+      "Longitude": 174.7427643,
+      "FullAddress": "Level 1, 56 Brown Street\r\nPonsonby \r\nNew Zealand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "64",
+        "AreaCode": "09",
+        "Number": "3760945",
+        "FullNumber": "64 09 3760945"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6671894867434",
+      "CRN": "66718948674345",
+      "IsProfileLockedOut": null,
+      "BusinessId": "065bf92a-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "WORKING INTERNATIONAL LIMITED",
+      "Name": "WORKING INTERNATIONAL LIMITED",
+      "ABN": "12 165 489 332",
+      "Address": {
+        "Country": "New Zealand",
+        "AddressLine1": "Level 1",
+        "AddressLine2": "56 Brown Street",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Ponsonby, Auckland",
+        "PostCode": "Other",
+        "OtherPostCode": "1021",
+        "Latitude": -36.8564381,
+        "Longitude": 174.7427643,
+        "FullAddress": "Level 1\r\n56 Brown Street\r\nPonsonby, Auckland 1021\r\nNew Zealand"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "64",
+          "AreaCode": "9",
+          "Number": "3780945",
+          "FullNumber": "64 9 3780945"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6672062059733",
+      "CRN": "66720620597334",
+      "IsProfileLockedOut": null,
+      "BusinessId": "75ed1131-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business data not available",
+      "Name": "migration planners",
+      "ABN": null,
+      "Address": {
+        "Country": "New Zealand",
+        "AddressLine1": "163 Grand Drive",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Saint Johns",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": -36.8777041,
+        "Longitude": 174.8296383,
+        "FullAddress": "163 Grand Drive\r\nSaint Johns \r\nNew Zealand"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "64",
+          "AreaCode": "9",
+          "Number": "8893249",
+          "FullNumber": "64 9 8893249"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9026977996650",
+    "CRN": "90269779966504",
+    "IsProfileLockedOut": null,
+    "BusinessId": "08551e37-2a69-4542-96ec-fa953c2c987f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Working International Visas Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "New Zealand",
+      "AddressLine1": "Level 1, 56 Brown Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Auckland",
+      "Suburb": "Other",
+      "OtherSuburb": "Ponsonby",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": -36.8564381,
+      "Longitude": 174.7427643,
+      "FullAddress": "Level 1, 56 Brown Street\r\nPonsonby \r\nNew Zealand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "64",
+        "AreaCode": "09",
+        "Number": "3760945",
+        "FullNumber": "64 09 3760945"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Nassim",
+    "SecondName": null,
+    "FamilyName": "Lalehzari",
+    "PostNominal": null,
+    "FullName": "Ms Nassim Lalehzari",
+    "GivenName": "Nassim"
+  },
+  "MARN": "1382630",
+  "IsNoFee": false,
+  "ContactId": "5e24faa3-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United States"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

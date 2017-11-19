@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2683555442377",
+    "CRN": "26835554423776",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9809f0e4-0d03-4d65-a72f-1ba04c83817e",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DEMARCO, MELISSA MARIE",
+    "Name": "Demarco Law",
+    "ABN": "19681732938",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2/23 Glenaffric Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "THE GAP",
+      "OtherSuburb": null,
+      "PostCode": "4061",
+      "OtherPostCode": null,
+      "Latitude": -27.44607,
+      "Longitude": 152.95352,
+      "FullAddress": "2/23 Glenaffric Street\r\nTHE GAP QLD 4061\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30757982",
+        "FullNumber": "61 7 30757982"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9229264563694",
+      "CRN": "92292645636949",
+      "IsProfileLockedOut": null,
+      "BusinessId": "044fd0ca-289a-4f25-a34d-20179eb0d7b7",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Melissa Demarco",
+      "Name": "Melissa Demarco",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "PO Box 2045",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "KEPERRA",
+        "OtherSuburb": null,
+        "PostCode": "4054",
+        "OtherPostCode": null,
+        "Latitude": -22.575681686401367,
+        "Longitude": 144.53524780273438,
+        "FullAddress": "PO Box 2045\r\nKEPERRA QLD 4054\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "24515309",
+          "FullNumber": "61 4 24515309"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2683555442377",
+    "CRN": "26835554423776",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9809f0e4-0d03-4d65-a72f-1ba04c83817e",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DEMARCO, MELISSA MARIE",
+    "Name": "Demarco Law",
+    "ABN": "19681732938",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "2/23 Glenaffric Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "THE GAP",
+      "OtherSuburb": null,
+      "PostCode": "4061",
+      "OtherPostCode": null,
+      "Latitude": -27.44607,
+      "Longitude": 152.95352,
+      "FullAddress": "2/23 Glenaffric Street\r\nTHE GAP QLD 4061\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30757982",
+        "FullNumber": "61 7 30757982"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Melissa",
+    "SecondName": "Marie",
+    "FamilyName": "Demarco",
+    "PostNominal": null,
+    "FullName": "Mrs Melissa Marie Demarco",
+    "GivenName": "Melissa Marie"
+  },
+  "MARN": "1569948",
+  "IsNoFee": false,
+  "ContactId": "3b8b3e33-be9a-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Canada"
+  ],
+  "OtherNames": [
+    {
+      "Id": "6ee92d6e-9d02-491c-930c-7f18c8dd479d",
+      "Type": "Former Name",
+      "FamilyName": "Holstine",
+      "FirstName": "Melissa",
+      "SecondName": "Marie",
+      "Alias": null,
+      "GivenName": "Melissa Marie"
+    },
+    {
+      "Id": "4b0b336f-09b2-48ef-9e6d-b01033ff35b8",
+      "Type": "Former Name",
+      "FamilyName": "Poriz",
+      "FirstName": "Melissa",
+      "SecondName": "Marie",
+      "Alias": null,
+      "GivenName": "Melissa Marie"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

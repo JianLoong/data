@@ -1,0 +1,308 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653310986131",
+    "CRN": "66533109861310",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bb80a1d4-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Association",
+    "EntityName": "WHITTLESEA COMMUNITY CONNECTIONS INC",
+    "Name": "Whittlesea Community Connections Inc",
+    "ABN": "49881724827",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 111, Epping Plaza,",
+      "AddressLine2": "583 High Street,",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "EPPING",
+      "OtherSuburb": null,
+      "PostCode": "3076",
+      "OtherPostCode": null,
+      "Latitude": -37.65378,
+      "Longitude": 145.02207,
+      "FullAddress": "Shop 111, Epping Plaza,\r\n583 High Street,\r\nEPPING VIC 3076\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "EPPING",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "EPPING"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94016666",
+        "FullNumber": "61 3 94016666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94016677",
+        "FullNumber": "61 3 94016677"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8238458529910",
+      "CRN": "82384585299108",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7c452ab7-f3aa-e611-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "AUSTRALIAN SYRIAN CHARITY INCORPORATED",
+      "Name": "AUSTRALIAN SYRIAN CHARITY INCORPORATED",
+      "ABN": "4098 5574 897",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1 Wendel Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "BRUNSWICK",
+        "OtherSuburb": null,
+        "PostCode": "3056",
+        "OtherPostCode": null,
+        "Latitude": -37.76473,
+        "Longitude": 144.95493,
+        "FullAddress": "1 Wendel Street\r\nBRUNSWICK VIC 3056\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "0",
+          "Number": "403 676 452",
+          "FullNumber": "61 0 403 676 452"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653310986131",
+    "CRN": "66533109861310",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bb80a1d4-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Association",
+    "EntityName": "WHITTLESEA COMMUNITY CONNECTIONS INC",
+    "Name": "Whittlesea Community Connections Inc",
+    "ABN": "49881724827",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 111, Epping Plaza,",
+      "AddressLine2": "583 High Street,",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "EPPING",
+      "OtherSuburb": null,
+      "PostCode": "3076",
+      "OtherPostCode": null,
+      "Latitude": -37.65378,
+      "Longitude": 145.02207,
+      "FullAddress": "Shop 111, Epping Plaza,\r\n583 High Street,\r\nEPPING VIC 3076\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "EPPING",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "EPPING"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94016666",
+        "FullNumber": "61 3 94016666"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "94016677",
+        "FullNumber": "61 3 94016677"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Dalal",
+    "SecondName": "Daniel",
+    "FamilyName": "Sleiman",
+    "PostNominal": null,
+    "FullName": "Mrs Dalal Daniel Sleiman",
+    "GivenName": "Dalal Daniel"
+  },
+  "MARN": "1574923",
+  "IsNoFee": true,
+  "ContactId": "2e867ae1-fd3b-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "bb2c76d3-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Sleiman",
+      "FirstName": "Youno",
+      "SecondName": "Daniel",
+      "Alias": null,
+      "GivenName": "Youno Daniel"
+    },
+    {
+      "Id": "0580243b-7145-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Youno Daniel Sleiman",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Youno Daniel Sleiman"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

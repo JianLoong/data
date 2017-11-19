@@ -1,0 +1,333 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6667132321548",
+    "CRN": "66671323215480",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c067f90e-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "FEELEY, KATHRYN",
+    "Name": "Ozvis Associates",
+    "ABN": "88819577617",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "4/12 Condamine Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "TURNER",
+      "OtherSuburb": null,
+      "PostCode": "2612",
+      "OtherPostCode": null,
+      "Latitude": -35.265706,
+      "Longitude": 149.129247,
+      "FullAddress": "4/12 Condamine Street\r\nTURNER ACT 2612\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MANUKA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MANUKA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02791206",
+        "FullNumber": "61 4 02791206"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8537063616254",
+      "CRN": "85370636162543",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6387546d-354a-40aa-a66a-46ec6bc304c6",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "LONDON CHAMBERS PTY LTD",
+      "Name": "Legal on London",
+      "ABN": "15167340552",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "13 London Circuit",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "ACT",
+        "OtherState": null,
+        "Suburb": "CANBERRA",
+        "OtherSuburb": null,
+        "PostCode": "2601",
+        "OtherPostCode": null,
+        "Latitude": -35.280938,
+        "Longitude": 149.125563,
+        "FullAddress": "13 London Circuit\r\nCANBERRA ACT 2601\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "61812000",
+          "FullNumber": "61 2 61812000"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "80761543",
+          "FullNumber": "61 2 80761543"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6667132321548",
+    "CRN": "66671323215480",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c067f90e-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "FEELEY, KATHRYN",
+    "Name": "Ozvis Associates",
+    "ABN": "88819577617",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "4/12 Condamine Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "TURNER",
+      "OtherSuburb": null,
+      "PostCode": "2612",
+      "OtherPostCode": null,
+      "Latitude": -35.265706,
+      "Longitude": 149.129247,
+      "FullAddress": "4/12 Condamine Street\r\nTURNER ACT 2612\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MANUKA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MANUKA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02791206",
+        "FullNumber": "61 4 02791206"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Kathryn-Magnolia",
+    "SecondName": "Joan",
+    "FamilyName": "Feeley",
+    "PostNominal": null,
+    "FullName": "Ms Kathryn-Magnolia Joan Feeley",
+    "GivenName": "Kathryn-Magnolia Joan"
+  },
+  "MARN": "0601712",
+  "IsNoFee": false,
+  "ContactId": "d3fd167e-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3dc5cf8e-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Johnson-Feeley",
+      "FirstName": "Kathryn",
+      "SecondName": "Joan",
+      "Alias": null,
+      "GivenName": "Kathryn Joan"
+    },
+    {
+      "Id": "4c6446d8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Johnson-Feeley",
+      "FirstName": "Kathryn",
+      "SecondName": "Joan",
+      "Alias": null,
+      "GivenName": "Kathryn Joan"
+    },
+    {
+      "Id": "f9ad0920-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Feeley",
+      "FirstName": "Kathryn",
+      "SecondName": "Joan",
+      "Alias": null,
+      "GivenName": "Kathryn Joan"
+    },
+    {
+      "Id": "6fb3d15b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Johnson-Feeley",
+      "FirstName": "Kathryn",
+      "SecondName": "Joan",
+      "Alias": null,
+      "GivenName": "Kathryn Joan"
+    },
+    {
+      "Id": "78b3d15b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Feeley",
+      "FirstName": "Kathryn",
+      "SecondName": "Joan",
+      "Alias": null,
+      "GivenName": "Kathryn Joan"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

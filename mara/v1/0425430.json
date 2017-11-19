@@ -1,0 +1,227 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6656971914919",
+    "CRN": "66569719149190",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b68653b3-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "WU, YUAN",
+    "Name": "Yi Tong International",
+    "ABN": "64274727067",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1/27 Hercules Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "ASHFIELD",
+      "OtherSuburb": null,
+      "PostCode": "2131",
+      "OtherPostCode": null,
+      "Latitude": -33.88862,
+      "Longitude": 151.12489,
+      "FullAddress": "1/27 Hercules Street\r\nASHFIELD NSW 2131\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "04294628",
+        "FullNumber": "61 04 04294628"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6656971914919",
+    "CRN": "66569719149190",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b68653b3-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "WU, YUAN",
+    "Name": "Yi Tong International",
+    "ABN": "64274727067",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1/27 Hercules Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "ASHFIELD",
+      "OtherSuburb": null,
+      "PostCode": "2131",
+      "OtherPostCode": null,
+      "Latitude": -33.88862,
+      "Longitude": 151.12489,
+      "FullAddress": "1/27 Hercules Street\r\nASHFIELD NSW 2131\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "04294628",
+        "FullNumber": "61 04 04294628"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Yuan",
+    "SecondName": null,
+    "FamilyName": "Wu",
+    "PostNominal": null,
+    "FullName": "Ms Yuan Wu",
+    "GivenName": "Yuan"
+  },
+  "MARN": "0425430",
+  "IsNoFee": false,
+  "ContactId": "72d566f9-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "5844476c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": null,
+      "FirstName": "Annie",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Annie"
+    },
+    {
+      "Id": "5c44476c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Wu",
+      "FirstName": "Annie",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Annie"
+    },
+    {
+      "Id": "6044476c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": null,
+      "FirstName": "Annie",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Annie"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

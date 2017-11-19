@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4821488944227",
+    "CRN": "48214889442279",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1ab8e1c2-a08c-4ab7-88f5-179110074979",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AMS BRISBANE PTY LTD",
+    "Name": "AMS BRISBANE PTY LTD",
+    "ABN": "63610859188",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "38/223 Calam Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SUNNYBANK HILLS",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.6101958,
+      "Longitude": 153.0542573,
+      "FullAddress": "38/223 Calam Road\r\nSUNNYBANK HILLS QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "3191 4296",
+        "FullNumber": "61 07 3191 4296"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Executive Officer",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0931640433920",
+      "CRN": "09316404339207",
+      "IsProfileLockedOut": null,
+      "BusinessId": "69fb2e33-6825-43a0-8b78-b8a74250c4c9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "NEW CONNECTION GROUP PTY LTD",
+      "Name": "NEW CONNECTION GROUP PTY LTD",
+      "ABN": "49619972468",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "11 Callendar Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "SUNNYBANK HILLS",
+        "OtherSuburb": null,
+        "PostCode": "4109",
+        "OtherPostCode": null,
+        "Latitude": -27.58109,
+        "Longitude": 153.04259,
+        "FullAddress": "11 Callendar Street\r\nSUNNYBANK HILLS QLD 4109\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "31086688",
+          "FullNumber": "61 7 31086688"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4820507843230",
+      "CRN": "48205078432308",
+      "IsProfileLockedOut": null,
+      "BusinessId": "eb8be4f7-618f-4784-b3f9-6a76702c43a4",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "AMS BRISBANE PTY LTD",
+      "Name": "AMS BRISBANE PTY LTD",
+      "ABN": "63610859188",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "38/223 Calam Road",
+        "AddressLine2": "Sunnybank Hills",
+        "AddressLine3": "QLD 4109",
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "SUNNYBANK HILLS",
+        "OtherSuburb": null,
+        "PostCode": "4109",
+        "OtherPostCode": null,
+        "Latitude": -27.6101958,
+        "Longitude": 153.0542573,
+        "FullAddress": "38/223 Calam Road\r\nSunnybank Hills\r\nQLD 4109\r\nSUNNYBANK HILLS QLD 4109\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "07",
+          "Number": "3191 4296",
+          "FullNumber": "61 07 3191 4296"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4821488944227",
+    "CRN": "48214889442279",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1ab8e1c2-a08c-4ab7-88f5-179110074979",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AMS BRISBANE PTY LTD",
+    "Name": "AMS BRISBANE PTY LTD",
+    "ABN": "63610859188",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "38/223 Calam Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SUNNYBANK HILLS",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.6101958,
+      "Longitude": 153.0542573,
+      "FullAddress": "38/223 Calam Road\r\nSUNNYBANK HILLS QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "3191 4296",
+        "FullNumber": "61 07 3191 4296"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Dan",
+    "SecondName": null,
+    "FamilyName": "Chi",
+    "PostNominal": null,
+    "FullName": "Miss Dan Chi",
+    "GivenName": "Dan"
+  },
+  "MARN": "1795679",
+  "IsNoFee": false,
+  "ContactId": "877b0cb0-1a4f-e711-9404-005056ab0eca",
+  "CitizenshipCountries": [
+    "China"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

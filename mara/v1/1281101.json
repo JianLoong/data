@@ -1,0 +1,382 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666501127263",
+    "CRN": "66665011272631",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1c1c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EMERGICO PTY LTD",
+    "Name": "Emergico Pty Ltd",
+    "ABN": "85132034596",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Colwill Place,",
+      "AddressLine2": "188B Albion Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "4030",
+      "OtherPostCode": null,
+      "Latitude": -27.429523,
+      "Longitude": 153.033231,
+      "FullAddress": "Colwill Place,\r\n188B Albion Road\r\nWINDSOR QLD 4030\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WINDSOR"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38610726",
+        "FullNumber": "61 7 38610726"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31236240",
+        "FullNumber": "61 7 31236240"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8310891050489",
+      "CRN": "83108910504890",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7c257c30-b400-4f32-aaad-21fb847cc684",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "JEBSEN, DAN ",
+      "Name": "JEBSEN, DAN ",
+      "ABN": "69887202143",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "17 Moriah Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BOONDALL",
+        "OtherSuburb": null,
+        "PostCode": "4034",
+        "OtherPostCode": null,
+        "Latitude": -27.357059,
+        "Longitude": 153.06684,
+        "FullAddress": "17 Moriah Street\r\nBOONDALL QLD 4034\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "01763237",
+          "FullNumber": "61 4 01763237"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3340467876678",
+      "CRN": "33404678766787",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2651b228-70d6-40ba-97ea-501f6e8ca4c7",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "EMERGICO PTY LTD",
+      "Name": "Emergico Migration",
+      "ABN": "85132034596",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 6, Reserve Bank Building,",
+        "AddressLine2": "111 Macquarie St",
+        "AddressLine3": null,
+        "State": "TAS",
+        "OtherState": null,
+        "Suburb": "HOBART",
+        "OtherSuburb": null,
+        "PostCode": "7000",
+        "OtherPostCode": null,
+        "Latitude": -42.88312,
+        "Longitude": 147.329083,
+        "FullAddress": "Level 6, Reserve Bank Building,\r\n111 Macquarie St\r\nHOBART TAS 7000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "03",
+          "Number": "61089259",
+          "FullNumber": "61 03 61089259"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666501127263",
+    "CRN": "66665011272631",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1c1c97e8-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EMERGICO PTY LTD",
+    "Name": "Emergico Pty Ltd",
+    "ABN": "85132034596",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Colwill Place,",
+      "AddressLine2": "188B Albion Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "4030",
+      "OtherPostCode": null,
+      "Latitude": -27.429523,
+      "Longitude": 153.033231,
+      "FullAddress": "Colwill Place,\r\n188B Albion Road\r\nWINDSOR QLD 4030\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "WINDSOR"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38610726",
+        "FullNumber": "61 7 38610726"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31236240",
+        "FullNumber": "61 7 31236240"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Dan",
+    "SecondName": null,
+    "FamilyName": "Jebsen",
+    "PostNominal": null,
+    "FullName": "Ms Dan Jebsen",
+    "GivenName": "Dan"
+  },
+  "MARN": "1281101",
+  "IsNoFee": false,
+  "ContactId": "647f1ab0-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "962c76d3-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Li",
+      "FirstName": "Dan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Dan"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

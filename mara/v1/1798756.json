@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1698546063312",
+    "CRN": "16985460633128",
+    "IsProfileLockedOut": null,
+    "BusinessId": "25ed6925-e2db-432b-b819-d2007e12e60c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ZHOU, XIAOLI ",
+    "Name": "KHYUNG MIGRATION AND EDUCATION SERVICES",
+    "ABN": "91979915781",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 2, 46 Kings Canyon Street",
+      "AddressLine2": "Harrison",
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "HARRISON",
+      "OtherSuburb": null,
+      "PostCode": "2914",
+      "OtherPostCode": null,
+      "Latitude": -35.20529,
+      "Longitude": 149.14929,
+      "FullAddress": "Unit 2, 46 Kings Canyon Street\r\nHarrison\r\nHARRISON ACT 2914\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "49210757",
+        "FullNumber": "61 4 49210757"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9426995090472",
+      "CRN": "94269950904726",
+      "IsProfileLockedOut": null,
+      "BusinessId": "013646c9-d835-4d81-aa26-690b8c6f35df",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Xiaoli Zhou",
+      "Name": "Xiaoli Zhou",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 2, 46 Kings Canyon Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "ACT",
+        "OtherState": null,
+        "Suburb": "HARRISON",
+        "OtherSuburb": null,
+        "PostCode": "2914",
+        "OtherPostCode": null,
+        "Latitude": -35.20529,
+        "Longitude": 149.14929,
+        "FullAddress": "Unit 2, 46 Kings Canyon Street\r\nHARRISON ACT 2914\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "49210757",
+          "FullNumber": "61 4 49210757"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1698546063312",
+    "CRN": "16985460633128",
+    "IsProfileLockedOut": null,
+    "BusinessId": "25ed6925-e2db-432b-b819-d2007e12e60c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "ZHOU, XIAOLI ",
+    "Name": "KHYUNG MIGRATION AND EDUCATION SERVICES",
+    "ABN": "91979915781",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 2, 46 Kings Canyon Street",
+      "AddressLine2": "Harrison",
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "HARRISON",
+      "OtherSuburb": null,
+      "PostCode": "2914",
+      "OtherPostCode": null,
+      "Latitude": -35.20529,
+      "Longitude": 149.14929,
+      "FullAddress": "Unit 2, 46 Kings Canyon Street\r\nHarrison\r\nHARRISON ACT 2914\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "49210757",
+        "FullNumber": "61 4 49210757"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Dr",
+    "FirstName": "Xiaoli",
+    "SecondName": null,
+    "FamilyName": "Zhou",
+    "PostNominal": null,
+    "FullName": "Dr Xiaoli Zhou",
+    "GivenName": "Xiaoli"
+  },
+  "MARN": "1798756",
+  "IsNoFee": false,
+  "ContactId": "da1b23b1-95a1-e711-9414-000d3ad152db",
+  "CitizenshipCountries": [
+    "China"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

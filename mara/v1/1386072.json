@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4817178240939",
+    "CRN": "48171782409398",
+    "IsProfileLockedOut": null,
+    "BusinessId": "570ab8d8-499e-43cc-9eb4-de52e5cfb109",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "KBA GLOBAL PTY LTD",
+    "Name": "KBA Global",
+    "ABN": "18168449536",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "shop 3, 6 Sabine Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NT",
+      "OtherState": null,
+      "Suburb": "MILLNER",
+      "OtherSuburb": null,
+      "PostCode": "0810",
+      "OtherPostCode": null,
+      "Latitude": -12.39429,
+      "Longitude": 130.86229,
+      "FullAddress": "shop 3, 6 Sabine Road\r\nMILLNER NT 0810\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "89853050",
+        "FullNumber": "61 08 89853050"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7028514777537",
+      "CRN": "70285147775375",
+      "IsProfileLockedOut": null,
+      "BusinessId": "6147ea6e-a300-4c89-b2c6-11922e9256ed",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "KBA GLOBAL PTY LTD",
+      "Name": "KBA Global",
+      "ABN": "18168449536",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2/91 Aberdeen Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "NORTHBRIDGE",
+        "OtherSuburb": null,
+        "PostCode": "6003",
+        "OtherPostCode": null,
+        "Latitude": -31.94672,
+        "Longitude": 115.85868,
+        "FullAddress": "2/91 Aberdeen Street\r\nNORTHBRIDGE WA 6003\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "92288075",
+          "FullNumber": "61 8 92288075"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Partner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1984819976004",
+      "CRN": "19848199760045",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0757040f-30a9-4553-9a8e-c6e0de5028ce",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "KBA GLOBAL PTY LTD",
+      "Name": "KBA Global Pty Ltd",
+      "ABN": "18 168 449 536",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 6, 5 Kings Street ",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "ROCKDALE",
+        "OtherSuburb": null,
+        "PostCode": "2216",
+        "OtherPostCode": null,
+        "Latitude": -33.7173299,
+        "Longitude": 150.43151,
+        "FullAddress": "Suite 6, 5 Kings Street \r\nROCKDALE NSW 2216\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "0061",
+          "AreaCode": "04",
+          "Number": "26205556",
+          "FullNumber": "0061 04 26205556"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4817178240939",
+    "CRN": "48171782409398",
+    "IsProfileLockedOut": null,
+    "BusinessId": "570ab8d8-499e-43cc-9eb4-de52e5cfb109",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "KBA GLOBAL PTY LTD",
+    "Name": "KBA Global",
+    "ABN": "18168449536",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "shop 3, 6 Sabine Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NT",
+      "OtherState": null,
+      "Suburb": "MILLNER",
+      "OtherSuburb": null,
+      "PostCode": "0810",
+      "OtherPostCode": null,
+      "Latitude": -12.39429,
+      "Longitude": 130.86229,
+      "FullAddress": "shop 3, 6 Sabine Road\r\nMILLNER NT 0810\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "89853050",
+        "FullNumber": "61 08 89853050"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Shambhu",
+    "SecondName": null,
+    "FamilyName": "Kadel",
+    "PostNominal": null,
+    "FullName": "Mr Shambhu Kadel",
+    "GivenName": "Shambhu"
+  },
+  "MARN": "1386072",
+  "IsNoFee": false,
+  "ContactId": "0094f810-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,306 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0261044133688",
+    "CRN": "02610441336889",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d5dc5b34-e743-4744-bd24-6bd4ff1cb641",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ADAM AHMED & CO PTY LTD",
+    "Name": "Adam Ahmed & Co",
+    "ABN": "61614006316",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "11 Cowell St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GLADESVILLE",
+      "OtherSuburb": null,
+      "PostCode": "2111",
+      "OtherPostCode": null,
+      "Latitude": -33.83207,
+      "Longitude": 151.12858,
+      "FullAddress": "11 Cowell St\r\nGLADESVILLE NSW 2111\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "72008200",
+        "FullNumber": "61 2 72008200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "94750336",
+        "FullNumber": "61 2 94750336"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0324136843857",
+      "CRN": "03241368438572",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f3278521-21c6-4cfd-a930-49a43318fb96",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "AHMED, ADAM GULFAM",
+      "Name": "ADAM AHMED",
+      "ABN": "62877539664",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "11 Cowell St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "GLADESVILLE",
+        "OtherSuburb": null,
+        "PostCode": "2111",
+        "OtherPostCode": null,
+        "Latitude": -33.83207,
+        "Longitude": 151.12858,
+        "FullAddress": "11 Cowell St\r\nGLADESVILLE NSW 2111\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "13900524",
+          "FullNumber": "61 4 13900524"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "94750336",
+          "FullNumber": "61 2 94750336"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0261044133688",
+    "CRN": "02610441336889",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d5dc5b34-e743-4744-bd24-6bd4ff1cb641",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ADAM AHMED & CO PTY LTD",
+    "Name": "Adam Ahmed & Co",
+    "ABN": "61614006316",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "11 Cowell St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GLADESVILLE",
+      "OtherSuburb": null,
+      "PostCode": "2111",
+      "OtherPostCode": null,
+      "Latitude": -33.83207,
+      "Longitude": 151.12858,
+      "FullAddress": "11 Cowell St\r\nGLADESVILLE NSW 2111\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "72008200",
+        "FullNumber": "61 2 72008200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "94750336",
+        "FullNumber": "61 2 94750336"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Adam",
+    "SecondName": "Gulfam",
+    "FamilyName": "Ahmed",
+    "PostNominal": null,
+    "FullName": "Mr Adam Gulfam Ahmed",
+    "GivenName": "Adam Gulfam"
+  },
+  "MARN": "1798770",
+  "IsNoFee": false,
+  "ContactId": "cab01b59-5aa2-e711-9414-000d3ad152db",
+  "CitizenshipCountries": [
+    "Australia",
+    "Pakistan"
+  ],
+  "OtherNames": [
+    {
+      "Id": "0e3a7f8f-05d6-453a-b796-867481c10106",
+      "Type": "Former Name",
+      "FamilyName": "Ahmed",
+      "FirstName": "Gulfam",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Gulfam"
+    },
+    {
+      "Id": "8199393b-e808-4471-b308-b4f429a89491",
+      "Type": "Former Name",
+      "FamilyName": "Khan",
+      "FirstName": "Gulfam",
+      "SecondName": "Nabi",
+      "Alias": null,
+      "GivenName": "Gulfam Nabi"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

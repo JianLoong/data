@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2805514059930",
+    "CRN": "28055140599307",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8cf44ad2-eb26-48e1-9af0-80497b1a11a8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Shenzhen KeHong Consulting Co. Ltd",
+    "Name": "Shenzhen KeHong Consulting Co. Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "No.1025, Building A, Jia Bao Run",
+      "AddressLine2": "Xin Zhou 9th Street",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Shenzhen",
+      "Suburb": "Other",
+      "OtherSuburb": "Futian Distrcit",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.52535,
+      "Longitude": 114.0394,
+      "FullAddress": "No.1025, Building A, Jia Bao Run\r\nXin Zhou 9th Street\r\nFutian Distrcit \r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "01",
+        "Number": "63775587",
+        "FullNumber": "86 01 63775587"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1262272800931",
+      "CRN": "12622728009319",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8465fb9b-3de5-4de0-b7e1-8d8051267950",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "A J CONSULTING GROUP PTY. LTD.",
+      "Name": "A J CONSULTING GROUP PTY. LTD.",
+      "ABN": "95601765888",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level1, 502 Lower North East Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "CAMPBELLTOWN",
+        "OtherSuburb": null,
+        "PostCode": "5074",
+        "OtherPostCode": null,
+        "Latitude": -34.8889,
+        "Longitude": 138.65708,
+        "FullAddress": "Level1, 502 Lower North East Road\r\nCAMPBELLTOWN SA 5074\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "72305562",
+          "FullNumber": "61 8 72305562"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Consultant",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2805514059930",
+    "CRN": "28055140599307",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8cf44ad2-eb26-48e1-9af0-80497b1a11a8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Shenzhen KeHong Consulting Co. Ltd",
+    "Name": "Shenzhen KeHong Consulting Co. Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "No.1025, Building A, Jia Bao Run",
+      "AddressLine2": "Xin Zhou 9th Street",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Shenzhen",
+      "Suburb": "Other",
+      "OtherSuburb": "Futian Distrcit",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.52535,
+      "Longitude": 114.0394,
+      "FullAddress": "No.1025, Building A, Jia Bao Run\r\nXin Zhou 9th Street\r\nFutian Distrcit \r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "01",
+        "Number": "63775587",
+        "FullNumber": "86 01 63775587"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Wen",
+    "SecondName": null,
+    "FamilyName": "Gu",
+    "PostNominal": null,
+    "FullName": "Ms Wen Gu",
+    "GivenName": "Wen"
+  },
+  "MARN": "1680057",
+  "IsNoFee": false,
+  "ContactId": "0d9e1bd0-9d9b-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "China"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

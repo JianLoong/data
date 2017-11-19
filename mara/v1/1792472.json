@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6670601454719",
+    "CRN": "66706014547199",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4d5f78da-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "AUSLIFE TRUST",
+    "Name": "Auslife Migration Consultants",
+    "ABN": "89 306 142 829",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Room 101",
+      "AddressLine2": "635 Waverley Road",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "GLEN WAVERLEY",
+      "OtherSuburb": null,
+      "PostCode": "3150",
+      "OtherPostCode": null,
+      "Latitude": -37.88787,
+      "Longitude": 145.15643,
+      "FullAddress": "Room 101\r\n635 Waverley Road\r\nGLEN WAVERLEY VIC 3150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GLEN WAVERLEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GLEN WAVERLEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "33588377",
+        "FullNumber": "61 4 33588377"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6659648482307",
+      "CRN": "66596484823077",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2b00204d-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "NADARAJAH, THENAKARAN",
+      "Name": "Auslife Migration Consultants",
+      "ABN": "78598185953",
+      "Address": {
+        "Country": "Malaysia",
+        "AddressLine1": "14-2, Jalan 31/70A,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Desa Sri Hartamas,  Kuala Lumpur",
+        "PostCode": "Other",
+        "OtherPostCode": "50480",
+        "Latitude": 3.16289,
+        "Longitude": 101.64861,
+        "FullAddress": "14-2, Jalan 31/70A,\r\nDesa Sri Hartamas,  Kuala Lumpur 50480\r\nMalaysia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "60",
+          "AreaCode": "3",
+          "Number": "23002380",
+          "FullNumber": "60 3 23002380"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "60",
+          "AreaCode": "3",
+          "Number": "23002318",
+          "FullNumber": "60 3 23002318"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6670601454719",
+    "CRN": "66706014547199",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4d5f78da-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "AUSLIFE TRUST",
+    "Name": "Auslife Migration Consultants",
+    "ABN": "89 306 142 829",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Room 101",
+      "AddressLine2": "635 Waverley Road",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "GLEN WAVERLEY",
+      "OtherSuburb": null,
+      "PostCode": "3150",
+      "OtherPostCode": null,
+      "Latitude": -37.88787,
+      "Longitude": 145.15643,
+      "FullAddress": "Room 101\r\n635 Waverley Road\r\nGLEN WAVERLEY VIC 3150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GLEN WAVERLEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GLEN WAVERLEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "33588377",
+        "FullNumber": "61 4 33588377"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Mansheel",
+    "SecondName": null,
+    "FamilyName": "Kaur",
+    "PostNominal": null,
+    "FullName": "Ms Mansheel Kaur",
+    "GivenName": "Mansheel"
+  },
+  "MARN": "1792472",
+  "IsNoFee": false,
+  "ContactId": "42441ba1-9be3-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Malaysia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "8cbb5d9f-2d5f-41b2-89e5-012da13b0763",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "mansheel kaur harbhajan singh",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "mansheel kaur harbhajan singh"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

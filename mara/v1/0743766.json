@@ -1,0 +1,383 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6664939628758",
+    "CRN": "66649396287585",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f2cc178c-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+    "Name": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+    "ABN": "83144464059",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "4/14 Hamilton Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CANNONVALE",
+      "OtherSuburb": null,
+      "PostCode": "4802",
+      "OtherPostCode": null,
+      "Latitude": -20.29233,
+      "Longitude": 148.67889,
+      "FullAddress": "4/14 Hamilton Avenue\r\nCANNONVALE QLD 4802\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "AIRLIE BEACH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "AIRLIE BEACH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "49464680",
+        "FullNumber": "61 7 49464680"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "49482590",
+        "FullNumber": "61 7 49482590"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6231615974882",
+      "CRN": "62316159748829",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0b5db284-f007-4a1d-b42f-5241c5c04618",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+      "Name": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+      "ABN": "83 144 464 059",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Shop 5, Caloundra Business Centre,",
+        "AddressLine2": "51-55 Bulcock Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "CALOUNDRA",
+        "OtherSuburb": null,
+        "PostCode": "4551",
+        "OtherPostCode": null,
+        "Latitude": -26.80453,
+        "Longitude": 153.13226,
+        "FullAddress": "Shop 5, Caloundra Business Centre,\r\n51-55 Bulcock Street\r\nCALOUNDRA QLD 4551\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "53418803",
+          "FullNumber": "61 7 53418803"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "49482590",
+          "FullNumber": "61 7 49482590"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7223018409708",
+      "CRN": "72230184097084",
+      "IsProfileLockedOut": null,
+      "BusinessId": "248a72b9-8296-4050-97cf-4b577dc4e459",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+      "Name": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+      "ABN": "83 144 464 059",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 19,",
+        "AddressLine2": " 10 Eagle street ",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRISBANE CITY",
+        "OtherSuburb": null,
+        "PostCode": "4000",
+        "OtherPostCode": null,
+        "Latitude": -27.46944,
+        "Longitude": 153.03014,
+        "FullAddress": "Level 19,\r\n 10 Eagle street \r\nBRISBANE CITY QLD 4000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "3102 4946 ",
+          "FullNumber": "61 7 3102 4946 "
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6664939628758",
+    "CRN": "66649396287585",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f2cc178c-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+    "Name": "PACIFIC CENTER PLANET OF ADVENTURES PTY. LTD.",
+    "ABN": "83144464059",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "4/14 Hamilton Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CANNONVALE",
+      "OtherSuburb": null,
+      "PostCode": "4802",
+      "OtherPostCode": null,
+      "Latitude": -20.29233,
+      "Longitude": 148.67889,
+      "FullAddress": "4/14 Hamilton Avenue\r\nCANNONVALE QLD 4802\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "AIRLIE BEACH",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "AIRLIE BEACH"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "49464680",
+        "FullNumber": "61 7 49464680"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "49482590",
+        "FullNumber": "61 7 49482590"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Piotr",
+    "SecondName": "Dariusz",
+    "FamilyName": "Ferenc",
+    "PostNominal": null,
+    "FullName": "Mr Piotr Dariusz Ferenc",
+    "GivenName": "Piotr Dariusz"
+  },
+  "MARN": "0743766",
+  "IsNoFee": false,
+  "ContactId": "1b28680f-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Poland"
+  ],
+  "OtherNames": [
+    {
+      "Id": "38a53ae4-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Pisarzewski-Ferenc",
+      "FirstName": "Piotr",
+      "SecondName": "Dariusz",
+      "Alias": null,
+      "GivenName": "Piotr Dariusz"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

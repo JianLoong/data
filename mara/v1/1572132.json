@@ -1,0 +1,229 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3513593184611",
+    "CRN": "35135931846119",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0a6da324-d3e1-4c3b-a9f0-e8ba723e035f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Pavuk Legal Pty Limited",
+    "Name": "Pavuk Legal",
+    "ABN": "84126978621",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 704, Level 7",
+      "AddressLine2": "70 Castlereagh Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -32.56648,
+      "Longitude": 151.17456,
+      "FullAddress": "Suite 704, Level 7\r\n70 Castlereagh Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92513611",
+        "FullNumber": "61 2 92513611"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92332372",
+        "FullNumber": "61 2 92332372"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3513593184611",
+    "CRN": "35135931846119",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0a6da324-d3e1-4c3b-a9f0-e8ba723e035f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Pavuk Legal Pty Limited",
+    "Name": "Pavuk Legal",
+    "ABN": "84126978621",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 704, Level 7",
+      "AddressLine2": "70 Castlereagh Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -32.56648,
+      "Longitude": 151.17456,
+      "FullAddress": "Suite 704, Level 7\r\n70 Castlereagh Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92513611",
+        "FullNumber": "61 2 92513611"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92332372",
+        "FullNumber": "61 2 92332372"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Mahsa",
+    "SecondName": null,
+    "FamilyName": "Curci",
+    "PostNominal": null,
+    "FullName": "Ms Mahsa Curci",
+    "GivenName": "Mahsa"
+  },
+  "MARN": "1572132",
+  "IsNoFee": false,
+  "ContactId": "6434c739-47df-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3c4d6dc9-65ed-e411-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Mahsa Mansour Moayed",
+      "GivenName": ""
+    },
+    {
+      "Id": "2c2258b8-76ff-e411-9403-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Moayed",
+      "FirstName": "Mahsa",
+      "SecondName": "M",
+      "Alias": null,
+      "GivenName": "Mahsa M"
+    },
+    {
+      "Id": "511baa01-77ff-e411-9403-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Mansourmoayed",
+      "FirstName": "Mahsa",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Mahsa"
+    }
+  ],
+  "Aliases": [
+    "Mahsa Mansour Moayed"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,199 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662875103123",
+    "CRN": "66628751031233",
+    "IsProfileLockedOut": null,
+    "BusinessId": "962fff11-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Australia Here We Come Pty Ltd",
+    "Name": "Australia Here We Come Pty Ltd",
+    "ABN": "133 485 408",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 702",
+      "AddressLine2": "10 Yarra Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SOUTH YARRA",
+      "OtherSuburb": null,
+      "PostCode": "3141",
+      "OtherPostCode": null,
+      "Latitude": -37.83725,
+      "Longitude": 144.99301,
+      "FullAddress": "Suite 702\r\n10 Yarra Street\r\nSOUTH YARRA VIC 3141\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SOUTH YARRA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SOUTH YARRA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95735200",
+        "FullNumber": "61 3 95735200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95735299",
+        "FullNumber": "61 3 95735299"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662875103123",
+    "CRN": "66628751031233",
+    "IsProfileLockedOut": null,
+    "BusinessId": "962fff11-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Australia Here We Come Pty Ltd",
+    "Name": "Australia Here We Come Pty Ltd",
+    "ABN": "133 485 408",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 702",
+      "AddressLine2": "10 Yarra Street",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "SOUTH YARRA",
+      "OtherSuburb": null,
+      "PostCode": "3141",
+      "OtherPostCode": null,
+      "Latitude": -37.83725,
+      "Longitude": 144.99301,
+      "FullAddress": "Suite 702\r\n10 Yarra Street\r\nSOUTH YARRA VIC 3141\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SOUTH YARRA",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SOUTH YARRA"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95735200",
+        "FullNumber": "61 3 95735200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "95735299",
+        "FullNumber": "61 3 95735299"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Peter",
+    "SecondName": null,
+    "FamilyName": "Rowland",
+    "PostNominal": null,
+    "FullName": "Mr Peter Rowland",
+    "GivenName": "Peter"
+  },
+  "MARN": "1679825",
+  "IsNoFee": false,
+  "ContactId": "343a30ed-40b3-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "United Kingdom"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

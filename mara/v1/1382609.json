@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6660411524181",
+    "CRN": "66604115241817",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a9bd4b7e-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Migration Guru Pty Ltd",
+    "Name": "Migration Guru ",
+    "ABN": "92122984525",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 18 and 22",
+      "AddressLine2": "127 Creek Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRISBANE",
+      "OtherSuburb": null,
+      "PostCode": "4000",
+      "OtherPostCode": null,
+      "Latitude": -27.4657,
+      "Longitude": 153.02774,
+      "FullAddress": "Level 18 and 22\r\n127 Creek Street\r\nBRISBANE QLD 4000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "BRISBANE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "BRISBANE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32182738",
+        "FullNumber": "61 7 32182738"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30090006",
+        "FullNumber": "61 7 30090006"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4925822118912",
+      "CRN": "49258221189128",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d58e45db-4445-e511-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Migration Guru Pty Ltd",
+      "Name": "Migration Guru",
+      "ABN": "92 122 984 525",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 3, ",
+        "AddressLine2": "85 Macquarie Street",
+        "AddressLine3": null,
+        "State": "TAS",
+        "OtherState": null,
+        "Suburb": "HOBART",
+        "OtherSuburb": null,
+        "PostCode": "7000",
+        "OtherPostCode": null,
+        "Latitude": -41.10578,
+        "Longitude": 146.82539,
+        "FullAddress": "Level 3, \r\n85 Macquarie Street\r\nHOBART TAS 7000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "07",
+          "Number": "3036 3800",
+          "FullNumber": "61 07 3036 3800"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "07",
+          "Number": "3009 0006",
+          "FullNumber": "61 07 3009 0006"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6660411524181",
+    "CRN": "66604115241817",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a9bd4b7e-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Migration Guru Pty Ltd",
+    "Name": "Migration Guru ",
+    "ABN": "92122984525",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 18 and 22",
+      "AddressLine2": "127 Creek Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRISBANE",
+      "OtherSuburb": null,
+      "PostCode": "4000",
+      "OtherPostCode": null,
+      "Latitude": -27.4657,
+      "Longitude": 153.02774,
+      "FullAddress": "Level 18 and 22\r\n127 Creek Street\r\nBRISBANE QLD 4000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "BRISBANE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "BRISBANE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "32182738",
+        "FullNumber": "61 7 32182738"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30090006",
+        "FullNumber": "61 7 30090006"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Surenthren",
+    "SecondName": null,
+    "FamilyName": "Mathavan",
+    "PostNominal": null,
+    "FullName": "Mr Surenthren Mathavan",
+    "GivenName": "Surenthren"
+  },
+  "MARN": "1382609",
+  "IsNoFee": false,
+  "ContactId": "5824faa3-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Malaysia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

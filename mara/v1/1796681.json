@@ -1,0 +1,212 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1802873814643",
+    "CRN": "18028738146434",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a53e3267-95f9-4888-9ce3-b81e1a90f126",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "VB Migration",
+    "ABN": null,
+    "Address": {
+      "Country": "United Kingdom",
+      "AddressLine1": "CBC House",
+      "AddressLine2": "24 Canning Street",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "City of Edinburgh",
+      "Suburb": "Other",
+      "OtherSuburb": "Edinburgh",
+      "PostCode": "Other",
+      "OtherPostCode": "EH3 8EG",
+      "Latitude": 55.947613,
+      "Longitude": -3.210918,
+      "FullAddress": "CBC House\r\n24 Canning Street\r\nEdinburgh EH3 8EG\r\nUnited Kingdom"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "44",
+        "AreaCode": "131",
+        "Number": "6599853",
+        "FullNumber": "44 131 6599853"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "44",
+        "AreaCode": "131",
+        "Number": "6599850",
+        "FullNumber": "44 131 6599850"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1802873814643",
+    "CRN": "18028738146434",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a53e3267-95f9-4888-9ce3-b81e1a90f126",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "VB Migration",
+    "ABN": null,
+    "Address": {
+      "Country": "United Kingdom",
+      "AddressLine1": "CBC House",
+      "AddressLine2": "24 Canning Street",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "City of Edinburgh",
+      "Suburb": "Other",
+      "OtherSuburb": "Edinburgh",
+      "PostCode": "Other",
+      "OtherPostCode": "EH3 8EG",
+      "Latitude": 55.947613,
+      "Longitude": -3.210918,
+      "FullAddress": "CBC House\r\n24 Canning Street\r\nEdinburgh EH3 8EG\r\nUnited Kingdom"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "44",
+        "AreaCode": "131",
+        "Number": "6599853",
+        "FullNumber": "44 131 6599853"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "44",
+        "AreaCode": "131",
+        "Number": "6599850",
+        "FullNumber": "44 131 6599850"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Jennifer",
+    "SecondName": "Angela",
+    "FamilyName": "Fergusson",
+    "PostNominal": null,
+    "FullName": "Mrs Jennifer Angela Fergusson",
+    "GivenName": "Jennifer Angela"
+  },
+  "MARN": "1796681",
+  "IsNoFee": false,
+  "ContactId": "5e3d4b7c-bd3f-e711-9404-005056ab0eca",
+  "CitizenshipCountries": [
+    "United Kingdom",
+    "New Zealand"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f8f9984e-5135-48c1-addd-d73ce83c9809",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Jennifer Angela Orr",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Jennifer Angela Orr"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

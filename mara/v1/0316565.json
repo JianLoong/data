@@ -1,0 +1,384 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671624261286",
+    "CRN": "66716242612869",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4233dc18-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Albert Pang",
+    "Name": "Albert Pang",
+    "ABN": null,
+    "Address": {
+      "Country": "Malaysia",
+      "AddressLine1": "Rl 2052, 2nd Floor",
+      "AddressLine2": "The 19 USJ City Mall, Persiaran Kewajipan",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "SELANGOR",
+      "Suburb": "Other",
+      "OtherSuburb": "Subang Jaya",
+      "PostCode": "Other",
+      "OtherPostCode": "47630",
+      "Latitude": 3.02842,
+      "Longitude": 101.57988,
+      "FullAddress": "Rl 2052, 2nd Floor\r\nThe 19 USJ City Mall, Persiaran Kewajipan\r\nSubang Jaya 47630\r\nMalaysia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "60",
+        "AreaCode": "17",
+        "Number": "3389499",
+        "FullNumber": "60 17 3389499"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "60",
+        "AreaCode": "16",
+        "Number": "2839499",
+        "FullNumber": "60 16 2839499"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Executive Officer",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657257323024",
+      "CRN": "66572573230248",
+      "IsProfileLockedOut": null,
+      "BusinessId": "11efc2bf-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business data not available",
+      "Name": "Albert Pang Consultants Sdn.Bhd",
+      "ABN": null,
+      "Address": {
+        "Country": "Malaysia",
+        "AddressLine1": "Suite 18-13E, 13thFloor, Gurney Tower,",
+        "AddressLine2": "Persiaran Gurney",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Pulau Pinang",
+        "Suburb": "Other",
+        "OtherSuburb": "Georgetown",
+        "PostCode": "Other",
+        "OtherPostCode": "10250",
+        "Latitude": 5.36296415328979,
+        "Longitude": 100.459403991699,
+        "FullAddress": "Suite 18-13E, 13thFloor, Gurney Tower,\r\nPersiaran Gurney\r\nGeorgetown 10250\r\nMalaysia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "60",
+          "AreaCode": "16",
+          "Number": "2839499",
+          "FullNumber": "60 16 2839499"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "60",
+          "AreaCode": "16",
+          "Number": "6069499",
+          "FullNumber": "60 16 6069499"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1447694927704",
+      "CRN": "14476949277040",
+      "IsProfileLockedOut": null,
+      "BusinessId": "fa30ca53-f4e4-4145-a6bc-1a1284540ab6",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Albert Pang ",
+      "Name": "Albert Pang International",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "1st.Floor, Shing Tai Center,",
+        "AddressLine2": "268 Shing Tai Road, Pan Yu",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Guangzhou",
+        "PostCode": "Other",
+        "OtherPostCode": "511400",
+        "Latitude": 23.1133708953857,
+        "Longitude": 113.255233764648,
+        "FullAddress": "1st.Floor, Shing Tai Center,\r\n268 Shing Tai Road, Pan Yu\r\nGuangzhou 511400\r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "136",
+          "Number": "02288258",
+          "FullNumber": "86 136 02288258"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "86",
+          "AreaCode": "181",
+          "Number": "38778380",
+          "FullNumber": "86 181 38778380"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671624261286",
+    "CRN": "66716242612869",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4233dc18-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Albert Pang",
+    "Name": "Albert Pang",
+    "ABN": null,
+    "Address": {
+      "Country": "Malaysia",
+      "AddressLine1": "Rl 2052, 2nd Floor",
+      "AddressLine2": "The 19 USJ City Mall, Persiaran Kewajipan",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "SELANGOR",
+      "Suburb": "Other",
+      "OtherSuburb": "Subang Jaya",
+      "PostCode": "Other",
+      "OtherPostCode": "47630",
+      "Latitude": 3.02842,
+      "Longitude": 101.57988,
+      "FullAddress": "Rl 2052, 2nd Floor\r\nThe 19 USJ City Mall, Persiaran Kewajipan\r\nSubang Jaya 47630\r\nMalaysia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "60",
+        "AreaCode": "17",
+        "Number": "3389499",
+        "FullNumber": "60 17 3389499"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "60",
+        "AreaCode": "16",
+        "Number": "2839499",
+        "FullNumber": "60 16 2839499"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Albert",
+    "SecondName": null,
+    "FamilyName": "Pang",
+    "PostNominal": null,
+    "FullName": "Mr Albert Pang",
+    "GivenName": "Albert"
+  },
+  "MARN": "0316565",
+  "IsNoFee": false,
+  "ContactId": "a80ae08c-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Malaysia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "8fb45b4e-0453-e311-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Pang Yok Suan",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Pang Yok Suan"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

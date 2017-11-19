@@ -1,0 +1,392 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3695025087441",
+    "CRN": "36950250874416",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ec0cef40-b66e-4fa9-8cc8-0906ab6d14e8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "PSIHOGIOS, MARIA",
+    "Name": "MP MIGRATION LAW",
+    "ABN": "89 300 283 020",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "17A BLYTH STREET",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BRUNSWICK",
+      "OtherSuburb": null,
+      "PostCode": "3056",
+      "OtherPostCode": null,
+      "Latitude": -38.29539,
+      "Longitude": 144.39186,
+      "FullAddress": "17A BLYTH STREET\r\nBRUNSWICK VIC 3056\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "11612247",
+        "FullNumber": "61 4 11612247"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93810770",
+        "FullNumber": "61 3 93810770"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6662150036321",
+      "CRN": "66621500363216",
+      "IsProfileLockedOut": null,
+      "BusinessId": "afef67e7-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Australian Migration Options Pty Ltd",
+      "Name": "Australian Migration Options Pty Ltd",
+      "ABN": "56135054983",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 802",
+        "AddressLine2": "147 Pirie St",
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "ADELAIDE",
+        "OtherSuburb": null,
+        "PostCode": "5000",
+        "OtherPostCode": null,
+        "Latitude": -34.92565,
+        "Longitude": 138.60501,
+        "FullAddress": "Suite 802\r\n147 Pirie St\r\nADELAIDE SA 5000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "81823021",
+          "FullNumber": "61 8 81823021"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657749863732",
+      "CRN": "66577498637320",
+      "IsProfileLockedOut": null,
+      "BusinessId": "730f4afb-8968-40dd-a9bf-2d655bab78a4",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "INTERNATIONAL CROSSOVER PTY. LTD.",
+      "Name": "PLAYFAIR VISA AND MIGRATION",
+      "ABN": "47003604886",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 5, 37 Bligh St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.866033,
+        "Longitude": 151.209812,
+        "FullAddress": "Level 5, 37 Bligh St\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92338899",
+          "FullNumber": "61 2 92338899"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92246599",
+          "FullNumber": "61 2 92246599"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3695025087441",
+    "CRN": "36950250874416",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ec0cef40-b66e-4fa9-8cc8-0906ab6d14e8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "PSIHOGIOS, MARIA",
+    "Name": "MP MIGRATION LAW",
+    "ABN": "89 300 283 020",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "17A BLYTH STREET",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BRUNSWICK",
+      "OtherSuburb": null,
+      "PostCode": "3056",
+      "OtherPostCode": null,
+      "Latitude": -38.29539,
+      "Longitude": 144.39186,
+      "FullAddress": "17A BLYTH STREET\r\nBRUNSWICK VIC 3056\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "11612247",
+        "FullNumber": "61 4 11612247"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "93810770",
+        "FullNumber": "61 3 93810770"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Maria",
+    "SecondName": null,
+    "FamilyName": "Psihogios",
+    "PostNominal": null,
+    "FullName": "Ms Maria Psihogios",
+    "GivenName": "Maria"
+  },
+  "MARN": "0533033",
+  "IsNoFee": false,
+  "ContactId": "2689e55f-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Greece"
+  ],
+  "OtherNames": [
+    {
+      "Id": "ef5f46ae-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Psihogios",
+      "FirstName": "Maria",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Maria"
+    },
+    {
+      "Id": "d05a033a-bf78-e611-9403-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Psihogios-Billington",
+      "FirstName": "Maria",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Maria"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

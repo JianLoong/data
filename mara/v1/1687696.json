@@ -1,0 +1,209 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2349735972347",
+    "CRN": "23497359723471",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9ba34280-d0eb-4aaf-b574-d48b77c5dd06",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "WARREN GRAHAM AND MURPHY PTY LTD",
+    "Name": "WARREN GRAHAM AND MURPHY PTY LTD",
+    "ABN": "89126243061",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "119 Main St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BAIRNSDALE",
+      "OtherSuburb": null,
+      "PostCode": "3875",
+      "OtherPostCode": null,
+      "Latitude": -37.67579,
+      "Longitude": 144.43602,
+      "FullAddress": "119 Main St\r\nBAIRNSDALE VIC 3875\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "51522661",
+        "FullNumber": "61 2 51522661"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2349735972347",
+    "CRN": "23497359723471",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9ba34280-d0eb-4aaf-b574-d48b77c5dd06",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "WARREN GRAHAM AND MURPHY PTY LTD",
+    "Name": "WARREN GRAHAM AND MURPHY PTY LTD",
+    "ABN": "89126243061",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "119 Main St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BAIRNSDALE",
+      "OtherSuburb": null,
+      "PostCode": "3875",
+      "OtherPostCode": null,
+      "Latitude": -37.67579,
+      "Longitude": 144.43602,
+      "FullAddress": "119 Main St\r\nBAIRNSDALE VIC 3875\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "51522661",
+        "FullNumber": "61 2 51522661"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Susan",
+    "SecondName": "Elizabeth",
+    "FamilyName": "Murphy",
+    "PostNominal": null,
+    "FullName": "Mrs Susan Elizabeth Murphy",
+    "GivenName": "Susan Elizabeth"
+  },
+  "MARN": "1687696",
+  "IsNoFee": false,
+  "ContactId": "4538048c-3d81-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "8cba61c3-34c1-4e31-932f-fb2179399d76",
+      "Type": "Former Name",
+      "FamilyName": "Campbell",
+      "FirstName": "Susan",
+      "SecondName": "Elizabeth",
+      "Alias": null,
+      "GivenName": "Susan Elizabeth"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

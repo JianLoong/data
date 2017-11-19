@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6674171661502",
+    "CRN": "66741716615022",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c8ba39b4-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Beibei Liu",
+    "Name": "Beibei Liu",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Room 702, Wuxingnianhua Residential Building",
+      "AddressLine2": "138 Shigu Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Nanjing",
+      "PostCode": "Other",
+      "OtherPostCode": "210004",
+      "Latitude": 32.0497817993164,
+      "Longitude": 118.765983581543,
+      "FullAddress": "Room 702, Wuxingnianhua Residential Building\r\n138 Shigu Road\r\nNanjing 210004\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "25",
+        "Number": "51860431",
+        "FullNumber": "86 25 51860431"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "86",
+        "AreaCode": "25",
+        "Number": "51860430",
+        "FullNumber": "86 25 51860430"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6887949624348",
+      "CRN": "68879496243487",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5f71200e-0a13-44c5-9c2e-6604fd390d19",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Jiangsu Ahead Education Investment & Consultancy Co., Ltd",
+      "Name": "Jiangsu Ahead Education Investment & Consultancy Co., Ltd",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "Division E, Level 5, Deji Mansion,",
+        "AddressLine2": "188 Changjiang Road",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Nanjing",
+        "PostCode": "Other",
+        "OtherPostCode": "2100018",
+        "Latitude": 32.04463,
+        "Longitude": 118.79015,
+        "FullAddress": "Division E, Level 5, Deji Mansion,\r\n188 Changjiang Road\r\nNanjing 2100018\r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "25",
+          "Number": "51860431",
+          "FullNumber": "86 25 51860431"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "86",
+          "AreaCode": "25",
+          "Number": "51860430",
+          "FullNumber": "86 25 51860430"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6674171661502",
+    "CRN": "66741716615022",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c8ba39b4-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Beibei Liu",
+    "Name": "Beibei Liu",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Room 702, Wuxingnianhua Residential Building",
+      "AddressLine2": "138 Shigu Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Nanjing",
+      "PostCode": "Other",
+      "OtherPostCode": "210004",
+      "Latitude": 32.0497817993164,
+      "Longitude": 118.765983581543,
+      "FullAddress": "Room 702, Wuxingnianhua Residential Building\r\n138 Shigu Road\r\nNanjing 210004\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "25",
+        "Number": "51860431",
+        "FullNumber": "86 25 51860431"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "86",
+        "AreaCode": "25",
+        "Number": "51860430",
+        "FullNumber": "86 25 51860430"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Beibei",
+    "SecondName": null,
+    "FamilyName": "Liu",
+    "PostNominal": null,
+    "FullName": "Ms Beibei Liu",
+    "GivenName": "Beibei"
+  },
+  "MARN": "1387584",
+  "IsNoFee": false,
+  "ContactId": "b8e5272f-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,393 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6062624085307",
+    "CRN": "60626240853078",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1fe8c809-b294-45ea-a471-1ec2c456c43c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AMARJIT GROUP PTY LTD",
+    "Name": "Hawks Immigration",
+    "ABN": "58169055574",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "425 North East Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "HILLCREST",
+      "OtherSuburb": null,
+      "PostCode": "5086",
+      "OtherPostCode": null,
+      "Latitude": -34.865379,
+      "Longitude": 138.644287,
+      "FullAddress": "425 North East Road\r\nHILLCREST SA 5086\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "70731960",
+        "FullNumber": "61 8 70731960"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0314706486591",
+      "CRN": "03147064865912",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ffe22392-2265-4b54-bde7-e47a54cc59cb",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "Bullseye Consultants",
+      "Name": "Bullseye Consultants",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 9, 272 Hay Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "SUBIACO",
+        "OtherSuburb": null,
+        "PostCode": "6008",
+        "OtherPostCode": null,
+        "Latitude": -31.94682,
+        "Longitude": 115.82959,
+        "FullAddress": "Suite 9, 272 Hay Street\r\nSUBIACO WA 6008\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "0",
+          "Number": "433110126",
+          "FullNumber": "61 0 433110126"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7374172970308",
+      "CRN": "73741729703083",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5f0b9d70-8553-442a-b37d-e9d0a005cf32",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "The English Guru",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "Street no 7, Subhash Nagar",
+        "AddressLine2": "Banga Road",
+        "AddressLine3": "Phagwara",
+        "State": null,
+        "OtherState": "Punjab",
+        "Suburb": "Other",
+        "OtherSuburb": "Phagwara, Jalandhar",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 23.4060115814209,
+        "Longitude": 79.4580917358398,
+        "FullAddress": "Street no 7, Subhash Nagar\r\nBanga Road\r\nPhagwara\r\nPhagwara, Jalandhar \r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "0",
+          "Number": "9417271684",
+          "FullNumber": "91 0 9417271684"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6062624085307",
+    "CRN": "60626240853078",
+    "IsProfileLockedOut": null,
+    "BusinessId": "1fe8c809-b294-45ea-a471-1ec2c456c43c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AMARJIT GROUP PTY LTD",
+    "Name": "Hawks Immigration",
+    "ABN": "58169055574",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "425 North East Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "HILLCREST",
+      "OtherSuburb": null,
+      "PostCode": "5086",
+      "OtherPostCode": null,
+      "Latitude": -34.865379,
+      "Longitude": 138.644287,
+      "FullAddress": "425 North East Road\r\nHILLCREST SA 5086\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "70731960",
+        "FullNumber": "61 8 70731960"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Robindeep Singh",
+    "SecondName": null,
+    "FamilyName": "Karwal",
+    "PostNominal": null,
+    "FullName": "Mr Robindeep Singh Karwal",
+    "GivenName": "Robindeep Singh"
+  },
+  "MARN": "1574694",
+  "IsNoFee": false,
+  "ContactId": "885a37ae-d243-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "b05292ea-3745-e511-9403-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Singh",
+      "FirstName": "Robindeep",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Robindeep"
+    },
+    {
+      "Id": "9566eb35-4145-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Robin Deep Singh",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Robin Deep Singh"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

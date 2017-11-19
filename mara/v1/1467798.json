@@ -1,0 +1,309 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Partner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6745471908417",
+    "CRN": "67454719084170",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0261b62b-fbb5-43a4-9078-be76474ad00d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "J & V MIKHAIL",
+    "Name": "AustraMigrate",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "40 Birriwa CCT",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "MOUNT ANNAN",
+      "OtherSuburb": null,
+      "PostCode": "2567",
+      "OtherPostCode": null,
+      "Latitude": -34.0534899,
+      "Longitude": 150.76039,
+      "FullAddress": "40 Birriwa CCT\r\nMOUNT ANNAN NSW 2567\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80058386",
+        "FullNumber": "61 2 80058386"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6750690111605",
+      "CRN": "67506901116057",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2b82446a-7bb7-406c-9361-30e6cc3276b9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "AustraMigrate for Migration and Translation Services",
+      "Name": "AustraMigrate for Migration and Translation Services",
+      "ABN": null,
+      "Address": {
+        "Country": "Egypt",
+        "AddressLine1": "214 El-Higaz Road",
+        "AddressLine2": "Office #10",
+        "AddressLine3": "Qism El-Nozha",
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "El-Nozha",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 30.11747,
+        "Longitude": 31.35406,
+        "FullAddress": "214 El-Higaz Road\r\nOffice #10\r\nQism El-Nozha\r\nEl-Nozha \r\nEgypt"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "20",
+          "AreaCode": "12",
+          "Number": "08080228",
+          "FullNumber": "20 12 08080228"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Partner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6745471908417",
+    "CRN": "67454719084170",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0261b62b-fbb5-43a4-9078-be76474ad00d",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "J & V MIKHAIL",
+    "Name": "AustraMigrate",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "40 Birriwa CCT",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "MOUNT ANNAN",
+      "OtherSuburb": null,
+      "PostCode": "2567",
+      "OtherPostCode": null,
+      "Latitude": -34.0534899,
+      "Longitude": 150.76039,
+      "FullAddress": "40 Birriwa CCT\r\nMOUNT ANNAN NSW 2567\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80058386",
+        "FullNumber": "61 2 80058386"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Victor",
+    "SecondName": null,
+    "FamilyName": "Mikhail",
+    "PostNominal": null,
+    "FullName": "Mr Victor Mikhail",
+    "GivenName": "Victor"
+  },
+  "MARN": "1467798",
+  "IsNoFee": false,
+  "ContactId": "a53b5714-9043-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Egypt"
+  ],
+  "OtherNames": [
+    {
+      "Id": "b51f79bf-5edb-48a8-8be4-0ee1c6500304",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Victor Nabil Mikhail",
+      "GivenName": ""
+    },
+    {
+      "Id": "7b6ea464-dbbf-4310-9813-51ad0f12622e",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Victor Nabil Ezzy Mikhail",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Victor Nabil Mikhail",
+    "Victor Nabil Ezzy Mikhail"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

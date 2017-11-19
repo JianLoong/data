@@ -1,0 +1,314 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1935685896056",
+    "CRN": "19356858960564",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2e63c731-cdd6-4e61-ad8c-fdc4164aeb07",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PARISH PATIENCE BITEL PTY LTD",
+    "Name": "Parish Patience Bitel Immigration Lawyers",
+    "ABN": "99613933289",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3, 83 York Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.86941,
+      "Longitude": 151.20573,
+      "FullAddress": "Level 3, 83 York Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9286 8700 ",
+        "FullNumber": "61 2 9286 8700 "
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9283 3323",
+        "FullNumber": "61 2 9283 3323"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6660158440392",
+      "CRN": "66601584403922",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7e99fd6b-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MOHAMMED DAWOOD ALI HYDER ALI KHAN",
+      "Name": "Tamwood Associates",
+      "ABN": "83 635 321 478",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "44 RAILWAY PARADE",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "LAKEMBA",
+        "OtherSuburb": null,
+        "PostCode": "2195",
+        "OtherPostCode": null,
+        "Latitude": -33.8731099,
+        "Longitude": 151.171,
+        "FullAddress": "44 RAILWAY PARADE\r\nLAKEMBA NSW 2195\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "0424457180",
+          "FullNumber": "61 02 0424457180"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1935685896056",
+    "CRN": "19356858960564",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2e63c731-cdd6-4e61-ad8c-fdc4164aeb07",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PARISH PATIENCE BITEL PTY LTD",
+    "Name": "Parish Patience Bitel Immigration Lawyers",
+    "ABN": "99613933289",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3, 83 York Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.86941,
+      "Longitude": 151.20573,
+      "FullAddress": "Level 3, 83 York Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9286 8700 ",
+        "FullNumber": "61 2 9286 8700 "
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "9283 3323",
+        "FullNumber": "61 2 9283 3323"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Mohammed",
+    "SecondName": "Dawood Ali",
+    "FamilyName": "Hyder Ali Khan",
+    "PostNominal": null,
+    "FullName": "Mr Mohammed Dawood Ali Hyder Ali Khan",
+    "GivenName": "Mohammed Dawood Ali"
+  },
+  "MARN": "0741639",
+  "IsNoFee": false,
+  "ContactId": "8c06f2ea-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "776446d8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hyder",
+      "FirstName": "Mohammed",
+      "SecondName": "Dawood",
+      "Alias": null,
+      "GivenName": "Mohammed Dawood"
+    },
+    {
+      "Id": "7a6446d8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Mohammed",
+      "FirstName": "Dawood",
+      "SecondName": "Ali. H",
+      "Alias": null,
+      "GivenName": "Dawood Ali. H"
+    },
+    {
+      "Id": "7d6446d8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "MD Dawood Ali H",
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

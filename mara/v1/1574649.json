@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2609721410315",
+    "CRN": "26097214103155",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f3c01956-89a4-475c-b5da-4f447ca34389",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FORTUNE POINT PTY LTD",
+    "Name": "FORTUNE POINT PTY LTD",
+    "ABN": "75609422675",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "7 Charlie Yankos Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GLENWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2768",
+      "OtherPostCode": null,
+      "Latitude": -33.73627,
+      "Longitude": 150.9433,
+      "FullAddress": "7 Charlie Yankos Street\r\nGLENWOOD NSW 2768\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "24392193",
+        "FullNumber": "61 4 24392193"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6664572649782",
+      "CRN": "66645726497826",
+      "IsProfileLockedOut": null,
+      "BusinessId": "884cc673-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "SANDHU, PRABHJOT SINGH",
+      "Name": "IVISAPOINT",
+      "ABN": "19668960411",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 2, Level 2 CBD TOWER, CNR ALPHA AND PATRICK STREET,",
+        "AddressLine2": "28 Patrick Street,",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BLACKTOWN",
+        "OtherSuburb": null,
+        "PostCode": "2148",
+        "OtherPostCode": null,
+        "Latitude": -33.77169,
+        "Longitude": 150.9063,
+        "FullAddress": "Suite 2, Level 2 CBD TOWER, CNR ALPHA AND PATRICK STREET,\r\n28 Patrick Street,\r\nBLACKTOWN NSW 2148\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BLACKTOWN",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BLACKTOWN"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "86253505",
+          "FullNumber": "61 02 86253505"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "86253505",
+          "FullNumber": "61 02 86253505"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2609721410315",
+    "CRN": "26097214103155",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f3c01956-89a4-475c-b5da-4f447ca34389",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FORTUNE POINT PTY LTD",
+    "Name": "FORTUNE POINT PTY LTD",
+    "ABN": "75609422675",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "7 Charlie Yankos Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GLENWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2768",
+      "OtherPostCode": null,
+      "Latitude": -33.73627,
+      "Longitude": 150.9433,
+      "FullAddress": "7 Charlie Yankos Street\r\nGLENWOOD NSW 2768\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "24392193",
+        "FullNumber": "61 4 24392193"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Rustam",
+    "SecondName": null,
+    "FamilyName": "Sandhu",
+    "PostNominal": null,
+    "FullName": "Mr Rustam Sandhu",
+    "GivenName": "Rustam"
+  },
+  "MARN": "1574649",
+  "IsNoFee": false,
+  "ContactId": "71ebb8d9-ed3b-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3be9b0fa-43cb-40d7-b9db-53b356453e0a",
+      "Type": "Former Name",
+      "FamilyName": "SINGH",
+      "FirstName": "KANWAR HARDIL AZIZ",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "KANWAR HARDIL AZIZ"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

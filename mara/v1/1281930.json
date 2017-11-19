@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0722296851435",
+    "CRN": "07222968514358",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ee2207a6-82ed-4849-9c64-c8a04658f705",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Luxe Legal Group",
+    "Name": "Luxe Legal Group",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Unit 503, 5/F, Lippo Centre Tower 2",
+      "AddressLine2": "89 Queensway",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Admiralty",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.27946,
+      "Longitude": 114.16337,
+      "FullAddress": "Unit 503, 5/F, Lippo Centre Tower 2\r\n89 Queensway\r\nAdmiralty \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "85",
+        "AreaCode": "2",
+        "Number": "66224708",
+        "FullNumber": "85 2 66224708"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5470198444323",
+      "CRN": "54701984443233",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ac4f1833-216a-4504-84da-e494e28e4498",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "International Business",
+      "Name": "KCL & Partners",
+      "ABN": null,
+      "Address": {
+        "Country": "Hong Kong",
+        "AddressLine1": "Units 1602-06, 16/F",
+        "AddressLine2": "FWD Financial Centre,",
+        "AddressLine3": "308 Des Voeux Road Central,",
+        "State": null,
+        "OtherState": "HK Island",
+        "Suburb": "Other",
+        "OtherSuburb": "Sheung Wan",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 22.287769317627,
+        "Longitude": 114.146629333496,
+        "FullAddress": "Units 1602-06, 16/F\r\nFWD Financial Centre,\r\n308 Des Voeux Road Central,\r\nSheung Wan \r\nHong Kong"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "85",
+          "AreaCode": "2",
+          "Number": "25687118",
+          "FullNumber": "85 2 25687118"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "85",
+          "AreaCode": "2",
+          "Number": "25687678",
+          "FullNumber": "85 2 25687678"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0722296851435",
+    "CRN": "07222968514358",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ee2207a6-82ed-4849-9c64-c8a04658f705",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Luxe Legal Group",
+    "Name": "Luxe Legal Group",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "Unit 503, 5/F, Lippo Centre Tower 2",
+      "AddressLine2": "89 Queensway",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Admiralty",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.27946,
+      "Longitude": 114.16337,
+      "FullAddress": "Unit 503, 5/F, Lippo Centre Tower 2\r\n89 Queensway\r\nAdmiralty \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "85",
+        "AreaCode": "2",
+        "Number": "66224708",
+        "FullNumber": "85 2 66224708"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Wai Man",
+    "SecondName": null,
+    "FamilyName": "Yip",
+    "PostNominal": null,
+    "FullName": "Mr Wai Man Yip",
+    "GivenName": "Wai Man"
+  },
+  "MARN": "1281930",
+  "IsNoFee": false,
+  "ContactId": "c4a52ec2-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

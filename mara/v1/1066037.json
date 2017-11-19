@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6664440232101",
+    "CRN": "66644402321013",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cf67af6d-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "TIA Legal Group Pty Ltd",
+    "Name": "TIA Legal Group Pty Ltd",
+    "ABN": "24141909006",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Parkrise Building, Office 2,",
+      "AddressLine2": "Ground Floor, 3 Alison Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SURFERS PARADISE",
+      "OtherSuburb": null,
+      "PostCode": "4217",
+      "OtherPostCode": null,
+      "Latitude": -28.00361,
+      "Longitude": 153.42814,
+      "FullAddress": "Parkrise Building, Office 2,\r\nGround Floor, 3 Alison Street\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SURFERS PARADISE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SURFERS PARADISE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55315578",
+        "FullNumber": "61 7 55315578"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55610463",
+        "FullNumber": "61 7 55610463"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6668968466772",
+      "CRN": "66689684667728",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b55af178-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Migration Pty Ltd",
+      "Name": "This is Australia",
+      "ABN": "75148213076",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Parkrise Building, Office 2",
+        "AddressLine2": "Ground Floor, 3 Alison Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "SURFERS PARADISE",
+        "OtherSuburb": null,
+        "PostCode": "4217",
+        "OtherPostCode": null,
+        "Latitude": -28.00361,
+        "Longitude": 153.42814,
+        "FullAddress": "Parkrise Building, Office 2\r\nGround Floor, 3 Alison Street\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "SURFERS PARADISE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "SURFERS PARADISE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "55920755",
+          "FullNumber": "61 7 55920755"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "5561 0463",
+          "FullNumber": "61 7 5561 0463"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6664440232101",
+    "CRN": "66644402321013",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cf67af6d-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "TIA Legal Group Pty Ltd",
+    "Name": "TIA Legal Group Pty Ltd",
+    "ABN": "24141909006",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Parkrise Building, Office 2,",
+      "AddressLine2": "Ground Floor, 3 Alison Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SURFERS PARADISE",
+      "OtherSuburb": null,
+      "PostCode": "4217",
+      "OtherPostCode": null,
+      "Latitude": -28.00361,
+      "Longitude": 153.42814,
+      "FullAddress": "Parkrise Building, Office 2,\r\nGround Floor, 3 Alison Street\r\nSURFERS PARADISE QLD 4217\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SURFERS PARADISE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SURFERS PARADISE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55315578",
+        "FullNumber": "61 7 55315578"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "55610463",
+        "FullNumber": "61 7 55610463"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Anthony",
+    "SecondName": null,
+    "FamilyName": "Perich",
+    "PostNominal": null,
+    "FullName": "Mr Anthony Perich",
+    "GivenName": "Anthony"
+  },
+  "MARN": "1066037",
+  "IsNoFee": false,
+  "ContactId": "16bb6181-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

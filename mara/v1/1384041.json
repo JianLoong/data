@@ -1,0 +1,314 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4171915944509",
+    "CRN": "41719159445097",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5aaa608d-1acf-4241-94c9-ce42586ef51f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "A.C.N. 618 514 613 PTY. LTD.",
+    "Name": "My Law Practice",
+    "ABN": "15618514613",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1",
+      "AddressLine2": "30-32 East Esplanade",
+      "AddressLine3": "St Albans",
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "ST ALBANS",
+      "OtherSuburb": null,
+      "PostCode": "3021",
+      "OtherPostCode": null,
+      "Latitude": -37.74129,
+      "Longitude": 144.79878,
+      "FullAddress": "Level 1\r\n30-32 East Esplanade\r\nSt Albans\r\nST ALBANS VIC 3021\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "85476931",
+        "FullNumber": "61 3 85476931"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6672316253715",
+      "CRN": "66723162537155",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3a6c8043-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "SAVU, TUI",
+      "Name": "Savu Esq",
+      "ABN": "24975479213",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "11 Flying Fox Avenue",
+        "AddressLine2": "Djugun",
+        "AddressLine3": "Broome WA 6725",
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "BROOME",
+        "OtherSuburb": null,
+        "PostCode": "6725",
+        "OtherPostCode": null,
+        "Latitude": -17.94323,
+        "Longitude": 122.23075,
+        "FullAddress": "11 Flying Fox Avenue\r\nDjugun\r\nBroome WA 6725\r\nBROOME WA 6725\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BROOME",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BROOME"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "91923366",
+          "FullNumber": "61 08 91923366"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4171915944509",
+    "CRN": "41719159445097",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5aaa608d-1acf-4241-94c9-ce42586ef51f",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "A.C.N. 618 514 613 PTY. LTD.",
+    "Name": "My Law Practice",
+    "ABN": "15618514613",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1",
+      "AddressLine2": "30-32 East Esplanade",
+      "AddressLine3": "St Albans",
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "ST ALBANS",
+      "OtherSuburb": null,
+      "PostCode": "3021",
+      "OtherPostCode": null,
+      "Latitude": -37.74129,
+      "Longitude": 144.79878,
+      "FullAddress": "Level 1\r\n30-32 East Esplanade\r\nSt Albans\r\nST ALBANS VIC 3021\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "85476931",
+        "FullNumber": "61 3 85476931"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Tui",
+    "SecondName": null,
+    "FamilyName": "Savu",
+    "PostNominal": null,
+    "FullName": "Mr Tui Savu",
+    "GivenName": "Tui"
+  },
+  "MARN": "1384041",
+  "IsNoFee": false,
+  "ContactId": "656d84e6-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3166c59a-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Savu",
+      "FirstName": "Tui",
+      "SecondName": "Daku Cabeyalawa",
+      "Alias": null,
+      "GivenName": "Tui Daku Cabeyalawa"
+    },
+    {
+      "Id": "4dd0ba73-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Savu",
+      "FirstName": "Tui",
+      "SecondName": "Daku Cabeyalawa",
+      "Alias": null,
+      "GivenName": "Tui Daku Cabeyalawa"
+    },
+    {
+      "Id": "8b696cdf-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Savu",
+      "FirstName": "Tui",
+      "SecondName": "Daku Cabeyalawa",
+      "Alias": null,
+      "GivenName": "Tui Daku Cabeyalawa"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,209 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661219852112",
+    "CRN": "66612198521127",
+    "IsProfileLockedOut": null,
+    "BusinessId": "dccba5aa-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "WORLEYPARSONS SERVICES PTY LIMITED",
+    "Name": "WORLEYPARSONS SERVICES PTY LIMITED",
+    "ABN": "61001279812",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 15",
+      "AddressLine2": "141 Walker Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "NORTH SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2060",
+      "OtherPostCode": null,
+      "Latitude": -33.83825,
+      "Longitude": 151.20933,
+      "FullAddress": "Level 15\r\n141 Walker Street\r\nNORTH SYDNEY NSW 2060\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "NORTH SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "NORTH SYDNEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "89236793",
+        "FullNumber": "61 2 89236793"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "89236877",
+        "FullNumber": "61 2 89236877"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661219852112",
+    "CRN": "66612198521127",
+    "IsProfileLockedOut": null,
+    "BusinessId": "dccba5aa-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "WORLEYPARSONS SERVICES PTY LIMITED",
+    "Name": "WORLEYPARSONS SERVICES PTY LIMITED",
+    "ABN": "61001279812",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 15",
+      "AddressLine2": "141 Walker Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "NORTH SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2060",
+      "OtherPostCode": null,
+      "Latitude": -33.83825,
+      "Longitude": 151.20933,
+      "FullAddress": "Level 15\r\n141 Walker Street\r\nNORTH SYDNEY NSW 2060\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "NORTH SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "NORTH SYDNEY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "89236793",
+        "FullNumber": "61 2 89236793"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "89236877",
+        "FullNumber": "61 2 89236877"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Karen",
+    "SecondName": "Michelle",
+    "FamilyName": "Mathiesen",
+    "PostNominal": null,
+    "FullName": "Mrs Karen Michelle Mathiesen",
+    "GivenName": "Karen Michelle"
+  },
+  "MARN": "0316990",
+  "IsNoFee": false,
+  "ContactId": "25ec0193-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "a7b45b4e-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ingersoll",
+      "FirstName": "Karen",
+      "SecondName": "Michelle",
+      "Alias": null,
+      "GivenName": "Karen Michelle"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

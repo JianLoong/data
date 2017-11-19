@@ -1,0 +1,209 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666803127569",
+    "CRN": "66668031275691",
+    "IsProfileLockedOut": null,
+    "BusinessId": "79e9b9fc-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SOJONG LAWYERS PTY. LTD.",
+    "Name": "Sojong Lawyers Pty. Ltd.",
+    "ABN": "78118721869",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 16, 10 East Parade",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "EASTWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2122",
+      "OtherPostCode": null,
+      "Latitude": -33.79205,
+      "Longitude": 151.08304,
+      "FullAddress": "Suite 16, 10 East Parade\r\nEASTWOOD NSW 2122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "EASTWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "EASTWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98047200",
+        "FullNumber": "61 02 98047200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98048600",
+        "FullNumber": "61 02 98048600"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666803127569",
+    "CRN": "66668031275691",
+    "IsProfileLockedOut": null,
+    "BusinessId": "79e9b9fc-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SOJONG LAWYERS PTY. LTD.",
+    "Name": "Sojong Lawyers Pty. Ltd.",
+    "ABN": "78118721869",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 16, 10 East Parade",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "EASTWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2122",
+      "OtherPostCode": null,
+      "Latitude": -33.79205,
+      "Longitude": 151.08304,
+      "FullAddress": "Suite 16, 10 East Parade\r\nEASTWOOD NSW 2122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "EASTWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "EASTWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98047200",
+        "FullNumber": "61 02 98047200"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98048600",
+        "FullNumber": "61 02 98048600"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Dong",
+    "SecondName": "Chul",
+    "FamilyName": "Jeong",
+    "PostNominal": null,
+    "FullName": "Mr Dong Chul Jeong",
+    "GivenName": "Dong Chul"
+  },
+  "MARN": "9803196",
+  "IsNoFee": false,
+  "ContactId": "b3e468a5-a652-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "93a25a48-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Jeong",
+      "FirstName": "Dong Chul",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Dong Chul"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

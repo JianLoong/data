@@ -1,0 +1,373 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2560204421488",
+    "CRN": "25602044214882",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b8fa52e8-950c-4ae5-88fa-fdfc5ceeded0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "R&K Immigration Group-IRAN Office",
+    "ABN": null,
+    "Address": {
+      "Country": "Iran, Islamic Republic of",
+      "AddressLine1": "Unit 3,Second Floor,Meshki Tower(Kar O Tejarat Iran Tower)",
+      "AddressLine2": "After Esfandiar , Afriqa St.(Jordan) ",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Tehran",
+      "Suburb": "Other",
+      "OtherSuburb": "Tehran",
+      "PostCode": "Other",
+      "OtherPostCode": "1966944833",
+      "Latitude": 35.6895408630371,
+      "Longitude": 51.4146842956543,
+      "FullAddress": "Unit 3,Second Floor,Meshki Tower(Kar O Tejarat Iran Tower)\r\nAfter Esfandiar , Afriqa St.(Jordan) \r\nTehran 1966944833\r\nIran, Islamic Republic of"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+98",
+        "AreaCode": "21",
+        "Number": "26212320",
+        "FullNumber": "+98 21 26212320"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0097596166657",
+      "CRN": "00975961666575",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a8bcaaeb-44c9-e511-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Sydney Migration International Pty Ltd",
+      "Name": "Sydney Migration International Pty Ltd",
+      "ABN": "38 142 851 536",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 9, Suite 4",
+        "AddressLine2": "3 Spring Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.86427,
+        "Longitude": 151.20928,
+        "FullAddress": "Level 9, Suite 4\r\n3 Spring Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "80050487",
+          "FullNumber": "61 2 80050487"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "84168005",
+          "FullNumber": "61 2 84168005"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8036934874826",
+      "CRN": "80369348748269",
+      "IsProfileLockedOut": null,
+      "BusinessId": "e8cfd7a7-0af6-4fae-bdb3-16a1c84c7162",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "R&K IMMIGRATION GROUP PTY. LTD.",
+      "Name": "R&K IMMIGRATION GROUP PTY. LTD.",
+      "ABN": "61615068749",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "133 Alexander St.",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "CROWS NEST",
+        "OtherSuburb": null,
+        "PostCode": "2065",
+        "OtherPostCode": null,
+        "Latitude": -33.8242199,
+        "Longitude": 151.20303,
+        "FullAddress": "133 Alexander St.\r\nCROWS NEST NSW 2065\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "0061",
+          "AreaCode": "4",
+          "Number": "70212994",
+          "FullNumber": "0061 4 70212994"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2560204421488",
+    "CRN": "25602044214882",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b8fa52e8-950c-4ae5-88fa-fdfc5ceeded0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "R&K Immigration Group-IRAN Office",
+    "ABN": null,
+    "Address": {
+      "Country": "Iran, Islamic Republic of",
+      "AddressLine1": "Unit 3,Second Floor,Meshki Tower(Kar O Tejarat Iran Tower)",
+      "AddressLine2": "After Esfandiar , Afriqa St.(Jordan) ",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Tehran",
+      "Suburb": "Other",
+      "OtherSuburb": "Tehran",
+      "PostCode": "Other",
+      "OtherPostCode": "1966944833",
+      "Latitude": 35.6895408630371,
+      "Longitude": 51.4146842956543,
+      "FullAddress": "Unit 3,Second Floor,Meshki Tower(Kar O Tejarat Iran Tower)\r\nAfter Esfandiar , Afriqa St.(Jordan) \r\nTehran 1966944833\r\nIran, Islamic Republic of"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+98",
+        "AreaCode": "21",
+        "Number": "26212320",
+        "FullNumber": "+98 21 26212320"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ali",
+    "SecondName": null,
+    "FamilyName": "Shahami",
+    "PostNominal": null,
+    "FullName": "Mr Ali Shahami",
+    "GivenName": "Ali"
+  },
+  "MARN": "1688026",
+  "IsNoFee": false,
+  "ContactId": "8e7258b2-a57b-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Iran, Islamic Republic of"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

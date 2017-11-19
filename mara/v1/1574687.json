@@ -1,0 +1,384 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1711780803800",
+    "CRN": "17117808038007",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2661d49a-bdff-47f9-bc7f-81175050c203",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN MIGRATION AND CONSULTING SERVICES PTY LTD",
+    "Name": "AUSTRALIAN MIGRATION AND CONSULTING SERVICES PTY LTD",
+    "ABN": "84164793471",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3, Suite 1",
+      "AddressLine2": "1111 Hay Street",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "WEST PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6005",
+      "OtherPostCode": null,
+      "Latitude": -31.95029,
+      "Longitude": 115.84575,
+      "FullAddress": "Level 3, Suite 1\r\n1111 Hay Street\r\nWEST PERTH WA 6005\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "61100233",
+        "FullNumber": "61 8 61100233"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "94864662",
+        "FullNumber": "61 8 94864662"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9524271956252",
+      "CRN": "95242719562525",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3d0bb3bb-dc6e-4f61-a65b-563bbb486227",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Australian Migration Consultancy Services Limited",
+      "Name": "Australian Migration Consultancy Services Limited",
+      "ABN": null,
+      "Address": {
+        "Country": "New Zealand",
+        "AddressLine1": "31 Oakwood Drive",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Rangiora",
+        "PostCode": "Other",
+        "OtherPostCode": "7400",
+        "Latitude": -43.3023499,
+        "Longitude": 172.5739,
+        "FullAddress": "31 Oakwood Drive\r\nRangiora 7400\r\nNew Zealand"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "0",
+          "AreaCode": "0",
+          "Number": "no number provided",
+          "FullNumber": "0 0 no number provided"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2089199940912",
+      "CRN": "20891999409129",
+      "IsProfileLockedOut": null,
+      "BusinessId": "e47bdcb3-268b-4e13-9091-997c539c5500",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "GAN, CHOON GHEE SARA",
+      "Name": "New Page Migration",
+      "ABN": "65 610 603 718",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "10A Ruffian Loop",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "WILLETTON",
+        "OtherSuburb": null,
+        "PostCode": "6155",
+        "OtherPostCode": null,
+        "Latitude": -32.05682,
+        "Longitude": 115.88648,
+        "FullAddress": "10A Ruffian Loop\r\nWILLETTON WA 6155\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "30865119",
+          "FullNumber": "61 4 30865119"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1711780803800",
+    "CRN": "17117808038007",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2661d49a-bdff-47f9-bc7f-81175050c203",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN MIGRATION AND CONSULTING SERVICES PTY LTD",
+    "Name": "AUSTRALIAN MIGRATION AND CONSULTING SERVICES PTY LTD",
+    "ABN": "84164793471",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3, Suite 1",
+      "AddressLine2": "1111 Hay Street",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "WEST PERTH",
+      "OtherSuburb": null,
+      "PostCode": "6005",
+      "OtherPostCode": null,
+      "Latitude": -31.95029,
+      "Longitude": 115.84575,
+      "FullAddress": "Level 3, Suite 1\r\n1111 Hay Street\r\nWEST PERTH WA 6005\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "61100233",
+        "FullNumber": "61 8 61100233"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "94864662",
+        "FullNumber": "61 8 94864662"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Choon Ghee",
+    "SecondName": null,
+    "FamilyName": "Gan",
+    "PostNominal": null,
+    "FullName": "Ms Choon Ghee Gan",
+    "GivenName": "Choon Ghee"
+  },
+  "MARN": "1574687",
+  "IsNoFee": false,
+  "ContactId": "4427bfd4-4142-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f6323486-4345-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Sara Gan",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Sara Gan"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

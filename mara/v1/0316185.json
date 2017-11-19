@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8181143816317",
+    "CRN": "81811438163177",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c13fbb61-e346-e611-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "The Trustee for YML MIGRATION UNIT TRUST",
+    "Name": "YML Group Migration Pty Ltd",
+    "ABN": "42 986 136 971",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 2204, Level 22",
+      "AddressLine2": "520 Oxford Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BONDI JUNCTION",
+      "OtherSuburb": null,
+      "PostCode": "2022",
+      "OtherPostCode": null,
+      "Latitude": -33.8914199,
+      "Longitude": 151.25082,
+      "FullAddress": "Suite 2204, Level 22\r\n520 Oxford Street\r\nBONDI JUNCTION NSW 2022\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "83834400",
+        "FullNumber": "61 2 83834400"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "93899091",
+        "FullNumber": "61 2 93899091"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7310231338976",
+      "CRN": "73102313389763",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0997f664-30c5-4793-8b67-74a44a1ed61f",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "GALIT HENN MIGRATION SERVICES PTY LTD",
+      "Name": "GALIT HENN MIGRATION SERVICES PTY LTD",
+      "ABN": "74606419185",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 2202, Level 22, Tower 1,",
+        "AddressLine2": "520 Oxford Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BONDI JUNCTION",
+        "OtherSuburb": null,
+        "PostCode": "2022",
+        "OtherPostCode": null,
+        "Latitude": -33.89141,
+        "Longitude": 151.25085,
+        "FullAddress": "Suite 2202, Level 22, Tower 1,\r\n520 Oxford Street\r\nBONDI JUNCTION NSW 2022\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "83834400",
+          "FullNumber": "61 02 83834400"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "93899091",
+          "FullNumber": "61 02 93899091"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8181143816317",
+    "CRN": "81811438163177",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c13fbb61-e346-e611-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Trust",
+    "EntityName": "The Trustee for YML MIGRATION UNIT TRUST",
+    "Name": "YML Group Migration Pty Ltd",
+    "ABN": "42 986 136 971",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 2204, Level 22",
+      "AddressLine2": "520 Oxford Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BONDI JUNCTION",
+      "OtherSuburb": null,
+      "PostCode": "2022",
+      "OtherPostCode": null,
+      "Latitude": -33.8914199,
+      "Longitude": 151.25082,
+      "FullAddress": "Suite 2204, Level 22\r\n520 Oxford Street\r\nBONDI JUNCTION NSW 2022\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "83834400",
+        "FullNumber": "61 2 83834400"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "93899091",
+        "FullNumber": "61 2 93899091"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Galit",
+    "SecondName": null,
+    "FamilyName": "Masika",
+    "PostNominal": null,
+    "FullName": "Ms Galit Masika",
+    "GivenName": "Galit"
+  },
+  "MARN": "0316185",
+  "IsNoFee": false,
+  "ContactId": "710ae08c-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

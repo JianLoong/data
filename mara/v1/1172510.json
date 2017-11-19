@@ -1,0 +1,315 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4551412932298",
+    "CRN": "45514129322986",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8b0dfab4-3342-4da5-b981-0132dc06fdfe",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ALBANO MIGRATION PTY LTD",
+    "Name": "ALBANO MIGRATION PTY LTD",
+    "ABN": "82608285472",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "68/11 Glenvale Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "PARKLEA",
+      "OtherSuburb": null,
+      "PostCode": "2768",
+      "OtherPostCode": null,
+      "Latitude": -33.8362,
+      "Longitude": 151.233459,
+      "FullAddress": "68/11 Glenvale Avenue\r\nPARKLEA NSW 2768\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "86785126",
+        "FullNumber": "61 2 86785126"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6673295824579",
+      "CRN": "66732958245798",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0e86897c-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "ALBANO, BERNIE",
+      "Name": "Albano Migration",
+      "ABN": "58949076486",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "68/11 Glenvale Avenue",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "PARKLEA",
+        "OtherSuburb": null,
+        "PostCode": "2768",
+        "OtherPostCode": null,
+        "Latitude": -33.72543,
+        "Longitude": 150.91821,
+        "FullAddress": "68/11 Glenvale Avenue\r\nPARKLEA NSW 2768\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "PARKLEA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "PARKLEA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "20440306",
+          "FullNumber": "61 4 20440306"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4551412932298",
+    "CRN": "45514129322986",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8b0dfab4-3342-4da5-b981-0132dc06fdfe",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ALBANO MIGRATION PTY LTD",
+    "Name": "ALBANO MIGRATION PTY LTD",
+    "ABN": "82608285472",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "68/11 Glenvale Avenue",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "PARKLEA",
+      "OtherSuburb": null,
+      "PostCode": "2768",
+      "OtherPostCode": null,
+      "Latitude": -33.8362,
+      "Longitude": 151.233459,
+      "FullAddress": "68/11 Glenvale Avenue\r\nPARKLEA NSW 2768\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "86785126",
+        "FullNumber": "61 2 86785126"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Bernie",
+    "SecondName": "Khristianne Gethryn",
+    "FamilyName": "Albano",
+    "PostNominal": null,
+    "FullName": "Mr Bernie Khristianne Gethryn Albano",
+    "GivenName": "Bernie Khristianne Gethryn"
+  },
+  "MARN": "1172510",
+  "IsNoFee": false,
+  "ContactId": "fcba5dfa-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Philippines"
+  ],
+  "OtherNames": [
+    {
+      "Id": "8ea1a397-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Albano",
+      "FirstName": "Bernie",
+      "SecondName": "Khristianne Gethryn Sambrano",
+      "Alias": null,
+      "GivenName": "Bernie Khristianne Gethryn Sambrano"
+    },
+    {
+      "Id": "92a1a397-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Albano",
+      "FirstName": "Bernie",
+      "SecondName": "Khristianne",
+      "Alias": null,
+      "GivenName": "Bernie Khristianne"
+    },
+    {
+      "Id": "96a1a397-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Albano",
+      "FirstName": "Berenie",
+      "SecondName": "Khris",
+      "Alias": null,
+      "GivenName": "Berenie Khris"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

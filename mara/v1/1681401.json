@@ -1,0 +1,210 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2548694146278",
+    "CRN": "25486941462782",
+    "IsProfileLockedOut": null,
+    "BusinessId": "015651ea-88fb-4481-a08c-58e7179d6de5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ASCOT SOLICITORS PTY. LTD.",
+    "Name": "Ascot Solicitor Pty Ltd",
+    "ABN": "45152472305",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "827B Ballarat Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "DEER PARK",
+      "OtherSuburb": null,
+      "PostCode": "3023",
+      "OtherPostCode": null,
+      "Latitude": -37.77017,
+      "Longitude": 144.7721,
+      "FullAddress": "827B Ballarat Road\r\nDEER PARK VIC 3023\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "83901711",
+        "FullNumber": "61 3 83901711"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2548694146278",
+    "CRN": "25486941462782",
+    "IsProfileLockedOut": null,
+    "BusinessId": "015651ea-88fb-4481-a08c-58e7179d6de5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ASCOT SOLICITORS PTY. LTD.",
+    "Name": "Ascot Solicitor Pty Ltd",
+    "ABN": "45152472305",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "827B Ballarat Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "DEER PARK",
+      "OtherSuburb": null,
+      "PostCode": "3023",
+      "OtherPostCode": null,
+      "Latitude": -37.77017,
+      "Longitude": 144.7721,
+      "FullAddress": "827B Ballarat Road\r\nDEER PARK VIC 3023\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "83901711",
+        "FullNumber": "61 3 83901711"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Amra",
+    "SecondName": null,
+    "FamilyName": "Demirovic",
+    "PostNominal": null,
+    "FullName": "Mrs Amra Demirovic",
+    "GivenName": "Amra"
+  },
+  "MARN": "1681401",
+  "IsNoFee": false,
+  "ContactId": "bc82db40-dfef-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United States"
+  ],
+  "OtherNames": [
+    {
+      "Id": "592082e4-ae40-417c-b6a1-afa69b7ede82",
+      "Type": "Former Name",
+      "FamilyName": "Dizdarevic",
+      "FirstName": "Amra",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Amra"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

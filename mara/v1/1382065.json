@@ -1,0 +1,199 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671445317405",
+    "CRN": "66714453174054",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8c32b60c-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BRIDGE, MARK",
+    "Name": "Australia Immigration Group",
+    "ABN": "55882121506",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "27",
+      "AddressLine2": "Headrick Street",
+      "AddressLine3": "Manunda",
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MANUNDA",
+      "OtherSuburb": null,
+      "PostCode": "4870",
+      "OtherPostCode": null,
+      "Latitude": -16.91884,
+      "Longitude": 145.74931,
+      "FullAddress": "27\r\nHeadrick Street\r\nManunda\r\nMANUNDA QLD 4870\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CAIRNS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "47852403",
+        "FullNumber": "61 4 47852403"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671445317405",
+    "CRN": "66714453174054",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8c32b60c-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BRIDGE, MARK",
+    "Name": "Australia Immigration Group",
+    "ABN": "55882121506",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "27",
+      "AddressLine2": "Headrick Street",
+      "AddressLine3": "Manunda",
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MANUNDA",
+      "OtherSuburb": null,
+      "PostCode": "4870",
+      "OtherPostCode": null,
+      "Latitude": -16.91884,
+      "Longitude": 145.74931,
+      "FullAddress": "27\r\nHeadrick Street\r\nManunda\r\nMANUNDA QLD 4870\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CAIRNS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "47852403",
+        "FullNumber": "61 4 47852403"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Mark",
+    "SecondName": "Anthony",
+    "FamilyName": "Bridge",
+    "PostNominal": null,
+    "FullName": "Mr Mark Anthony Bridge",
+    "GivenName": "Mark Anthony"
+  },
+  "MARN": "1382065",
+  "IsNoFee": false,
+  "ContactId": "dca52ec2-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

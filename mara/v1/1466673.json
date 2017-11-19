@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0237664570709",
+    "CRN": "02376645707092",
+    "IsProfileLockedOut": null,
+    "BusinessId": "282b0458-b35a-4aac-979a-3894342283ae",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "China Service Center for Friendship and Cooperation with Foreign Countries - AU & NZ Dept.",
+    "Name": "China Service Center for Friendship and Cooperation with Foreign Countries - AU & NZ Dept.",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Room 1416, Suite A, Ritan International Trade Center,",
+      "AddressLine2": "Ritan North Road,",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Chaoyang",
+      "PostCode": "Other",
+      "OtherPostCode": "100020",
+      "Latitude": 39.91768,
+      "Longitude": 116.44589,
+      "FullAddress": "Room 1416, Suite A, Ritan International Trade Center,\r\nRitan North Road,\r\nChaoyang 100020\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "10",
+        "Number": "65581971",
+        "FullNumber": "86 10 65581971"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5123478633322",
+      "CRN": "51234786333221",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f9d0670b-19c6-4ae3-80b8-b7671313db29",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "International Business",
+      "Name": "Goshawk Law - Beijing office",
+      "ABN": null,
+      "Address": {
+        "Country": "China",
+        "AddressLine1": "Room 1416, Suite A, Ritan International Trade Center",
+        "AddressLine2": "Ritan North Road",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Beijing",
+        "Suburb": "Other",
+        "OtherSuburb": "Chaoyang District",
+        "PostCode": "Other",
+        "OtherPostCode": "100020",
+        "Latitude": 39.9190559387207,
+        "Longitude": 116.460792541504,
+        "FullAddress": "Room 1416, Suite A, Ritan International Trade Center\r\nRitan North Road\r\nChaoyang District 100020\r\nChina"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "10",
+          "Number": "65581971",
+          "FullNumber": "86 10 65581971"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0237664570709",
+    "CRN": "02376645707092",
+    "IsProfileLockedOut": null,
+    "BusinessId": "282b0458-b35a-4aac-979a-3894342283ae",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "China Service Center for Friendship and Cooperation with Foreign Countries - AU & NZ Dept.",
+    "Name": "China Service Center for Friendship and Cooperation with Foreign Countries - AU & NZ Dept.",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Room 1416, Suite A, Ritan International Trade Center,",
+      "AddressLine2": "Ritan North Road,",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Chaoyang",
+      "PostCode": "Other",
+      "OtherPostCode": "100020",
+      "Latitude": 39.91768,
+      "Longitude": 116.44589,
+      "FullAddress": "Room 1416, Suite A, Ritan International Trade Center,\r\nRitan North Road,\r\nChaoyang 100020\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "10",
+        "Number": "65581971",
+        "FullNumber": "86 10 65581971"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Yuan",
+    "SecondName": null,
+    "FamilyName": "Dong",
+    "PostNominal": null,
+    "FullName": "Ms Yuan Dong",
+    "GivenName": "Yuan"
+  },
+  "MARN": "1466673",
+  "IsNoFee": false,
+  "ContactId": "6da031ac-fbf2-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "New Zealand"
+  ],
+  "OtherNames": [
+    {
+      "Id": "240a1abf-3dc7-45ed-a1c4-ff8e76778afa",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Wendy Dong",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Wendy Dong"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

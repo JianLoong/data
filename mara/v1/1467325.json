@@ -1,0 +1,298 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0405055762962",
+    "CRN": "04050557629620",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0282e258-3240-4bfc-be2f-1b46331ba1b7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Intergate Emigration (PTY) Ltd",
+    "Name": "Intergate Emigration",
+    "ABN": null,
+    "Address": {
+      "Country": "South Africa",
+      "AddressLine1": "199 Loop Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Cape Town",
+      "PostCode": "Other",
+      "OtherPostCode": "8001",
+      "Latitude": -33.9259524,
+      "Longitude": 18.4143906,
+      "FullAddress": "199 Loop Street\r\nCape Town 8001\r\nSouth Africa"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "0027",
+        "AreaCode": "21",
+        "Number": "4242460",
+        "FullNumber": "0027 21 4242460"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6160091095540",
+      "CRN": "61600910955401",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3e978b93-f6e8-4f56-b0cc-e5db0cd5374a",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Katrin Maja O'Flynn (Maehl)",
+      "Name": "Katrin Maja O'Flynn ( Maehl)",
+      "ABN": null,
+      "Address": {
+        "Country": "Germany",
+        "AddressLine1": "Zickzackweg 16A",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Othmarschen",
+        "PostCode": "Other",
+        "OtherPostCode": "22605",
+        "Latitude": 53.55344,
+        "Longitude": 9.88682,
+        "FullAddress": "Zickzackweg 16A\r\nOthmarschen 22605\r\nGermany"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "49",
+          "AreaCode": "40",
+          "Number": "88915973",
+          "FullNumber": "49 40 88915973"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0405055762962",
+    "CRN": "04050557629620",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0282e258-3240-4bfc-be2f-1b46331ba1b7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Intergate Emigration (PTY) Ltd",
+    "Name": "Intergate Emigration",
+    "ABN": null,
+    "Address": {
+      "Country": "South Africa",
+      "AddressLine1": "199 Loop Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Cape Town",
+      "PostCode": "Other",
+      "OtherPostCode": "8001",
+      "Latitude": -33.9259524,
+      "Longitude": 18.4143906,
+      "FullAddress": "199 Loop Street\r\nCape Town 8001\r\nSouth Africa"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "0027",
+        "AreaCode": "21",
+        "Number": "4242460",
+        "FullNumber": "0027 21 4242460"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Katrin ",
+    "SecondName": "Maja",
+    "FamilyName": "O'Flynn",
+    "PostNominal": null,
+    "FullName": "Mrs Katrin  Maja O'Flynn",
+    "GivenName": "Katrin  Maja"
+  },
+  "MARN": "1467325",
+  "IsNoFee": false,
+  "ContactId": "809e6cc2-df39-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Germany"
+  ],
+  "OtherNames": [
+    {
+      "Id": "779dc281-daa6-e611-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Katrin Maja O'Flynn Maehl",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Katrin Maja O'Flynn Maehl"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

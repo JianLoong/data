@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6673127772045",
+    "CRN": "66731277720459",
+    "IsProfileLockedOut": null,
+    "BusinessId": "46208170-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Mandy Fung",
+    "Name": "Mandy Fung",
+    "ABN": null,
+    "Address": {
+      "Country": "Malaysia",
+      "AddressLine1": "Suite 170 MBE Desa Sri Hartamas",
+      "AddressLine2": "30G Jalan 25/70A",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "KUALA LUMPUR",
+      "Suburb": "Other",
+      "OtherSuburb": "Kuala Lumpur",
+      "PostCode": "Other",
+      "OtherPostCode": "50480",
+      "Latitude": 3.1623313,
+      "Longitude": 101.6500129,
+      "FullAddress": "Suite 170 MBE Desa Sri Hartamas\r\n30G Jalan 25/70A\r\nKuala Lumpur 50480\r\nMalaysia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "60",
+        "AreaCode": "17",
+        "Number": "3732922",
+        "FullNumber": "60 17 3732922"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657974288784",
+      "CRN": "66579742887849",
+      "IsProfileLockedOut": null,
+      "BusinessId": "12a9d3ea-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Irene Tay",
+      "Name": "Irene Tay",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "12/ 113 Houston Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "KINGSFORD",
+        "OtherSuburb": null,
+        "PostCode": "2032",
+        "OtherPostCode": null,
+        "Latitude": -33.924086,
+        "Longitude": 151.225829,
+        "FullAddress": "12/ 113 Houston Road\r\nKINGSFORD NSW 2032\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "04",
+          "Number": "06347374",
+          "FullNumber": "61 04 06347374"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6673127772045",
+    "CRN": "66731277720459",
+    "IsProfileLockedOut": null,
+    "BusinessId": "46208170-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Mandy Fung",
+    "Name": "Mandy Fung",
+    "ABN": null,
+    "Address": {
+      "Country": "Malaysia",
+      "AddressLine1": "Suite 170 MBE Desa Sri Hartamas",
+      "AddressLine2": "30G Jalan 25/70A",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "KUALA LUMPUR",
+      "Suburb": "Other",
+      "OtherSuburb": "Kuala Lumpur",
+      "PostCode": "Other",
+      "OtherPostCode": "50480",
+      "Latitude": 3.1623313,
+      "Longitude": 101.6500129,
+      "FullAddress": "Suite 170 MBE Desa Sri Hartamas\r\n30G Jalan 25/70A\r\nKuala Lumpur 50480\r\nMalaysia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "60",
+        "AreaCode": "17",
+        "Number": "3732922",
+        "FullNumber": "60 17 3732922"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Mandy",
+    "SecondName": "Sau Mun",
+    "FamilyName": "Fung",
+    "PostNominal": null,
+    "FullName": "Ms Mandy Sau Mun Fung",
+    "GivenName": "Mandy Sau Mun"
+  },
+  "MARN": "0742158",
+  "IsNoFee": false,
+  "ContactId": "ae4503f1-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Malaysia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "d91e42de-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Fung",
+      "FirstName": "Sau Mun",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Sau Mun"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

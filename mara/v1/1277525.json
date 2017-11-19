@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6669073270678",
+    "CRN": "66690732706788",
+    "IsProfileLockedOut": null,
+    "BusinessId": "90ad157f-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DIRECTION CHANGERS PTY LTD",
+    "Name": "Direction Changers Pty Ltd",
+    "ABN": "19150821408",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "PO Box 143",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "STANHOPE GARDENS",
+      "OtherSuburb": null,
+      "PostCode": "2768",
+      "OtherPostCode": null,
+      "Latitude": -33.7178916931152,
+      "Longitude": 150.920989990234,
+      "FullAddress": "PO Box 143\r\nSTANHOPE GARDENS NSW 2768\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "STANHOPE GARDENS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "STANHOPE GARDENS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "88244954",
+        "FullNumber": "61 2 88244954"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "47442654",
+        "FullNumber": "61 2 47442654"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6662903706941",
+      "CRN": "66629037069416",
+      "IsProfileLockedOut": null,
+      "BusinessId": "9e2fff11-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Migration Plus Network Pty Ltd",
+      "Name": "Migration Plus Network Pty Ltd",
+      "ABN": "45136723987",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 12 Cairns Corporate Tower",
+        "AddressLine2": "15 Lake Street",
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "CAIRNS",
+        "OtherSuburb": null,
+        "PostCode": "4870",
+        "OtherPostCode": null,
+        "Latitude": -16.92529,
+        "Longitude": 145.7779,
+        "FullAddress": "Level 12 Cairns Corporate Tower\r\n15 Lake Street\r\nCAIRNS QLD 4870\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "CAIRNS",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "CAIRNS"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "40412620",
+          "FullNumber": "61 7 40412620"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "40415011",
+          "FullNumber": "61 7 40415011"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6669073270678",
+    "CRN": "66690732706788",
+    "IsProfileLockedOut": null,
+    "BusinessId": "90ad157f-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "DIRECTION CHANGERS PTY LTD",
+    "Name": "Direction Changers Pty Ltd",
+    "ABN": "19150821408",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "PO Box 143",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "STANHOPE GARDENS",
+      "OtherSuburb": null,
+      "PostCode": "2768",
+      "OtherPostCode": null,
+      "Latitude": -33.7178916931152,
+      "Longitude": 150.920989990234,
+      "FullAddress": "PO Box 143\r\nSTANHOPE GARDENS NSW 2768\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "STANHOPE GARDENS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "STANHOPE GARDENS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "88244954",
+        "FullNumber": "61 2 88244954"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "47442654",
+        "FullNumber": "61 2 47442654"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Anneli",
+    "SecondName": null,
+    "FamilyName": "Korhonen",
+    "PostNominal": null,
+    "FullName": "Ms Anneli Korhonen",
+    "GivenName": "Anneli"
+  },
+  "MARN": "1277525",
+  "IsNoFee": false,
+  "ContactId": "ad9d4a61-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "86ef88bb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Koskinen",
+      "FirstName": "Anneli",
+      "SecondName": "Kaarina",
+      "Alias": null,
+      "GivenName": "Anneli Kaarina"
+    },
+    {
+      "Id": "03f088bb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Tornblom",
+      "FirstName": "Anneli",
+      "SecondName": "Kaarina",
+      "Alias": null,
+      "GivenName": "Anneli Kaarina"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

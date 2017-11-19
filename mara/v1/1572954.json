@@ -1,0 +1,299 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0171999122960",
+    "CRN": "01719991229606",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f206671c-7f3f-466f-b49e-ecc043959d2c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "GEEMGATE PTY. LTD.",
+    "Name": "GLOBAL EDUCATION, EMPLOYMENT AND MIGRATION GATE",
+    "ABN": "97606935200",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 3",
+      "AddressLine2": "126 Merrylands Road",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "MERRYLANDS",
+      "OtherSuburb": null,
+      "PostCode": "2160",
+      "OtherPostCode": null,
+      "Latitude": -33.83731,
+      "Longitude": 150.99233,
+      "FullAddress": "Shop 3\r\n126 Merrylands Road\r\nMERRYLANDS NSW 2160\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "86280795",
+        "FullNumber": "61 2 86280795"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "86280795",
+        "FullNumber": "61 2 86280795"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7939427347612",
+      "CRN": "79394273476125",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8556279a-f059-4135-bfe3-11748093ebf4",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Abdolvahab Baghbanian",
+      "Name": "Abdolvahab Baghbanian",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 19",
+        "AddressLine2": "5-13 Virginia Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "ROSEHILL",
+        "OtherSuburb": null,
+        "PostCode": "2142",
+        "OtherPostCode": null,
+        "Latitude": -33.82463,
+        "Longitude": 151.019805,
+        "FullAddress": "Unit 19\r\n5-13 Virginia Street\r\nROSEHILL NSW 2142\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "86280795",
+          "FullNumber": "61 2 86280795"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0171999122960",
+    "CRN": "01719991229606",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f206671c-7f3f-466f-b49e-ecc043959d2c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "GEEMGATE PTY. LTD.",
+    "Name": "GLOBAL EDUCATION, EMPLOYMENT AND MIGRATION GATE",
+    "ABN": "97606935200",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 3",
+      "AddressLine2": "126 Merrylands Road",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "MERRYLANDS",
+      "OtherSuburb": null,
+      "PostCode": "2160",
+      "OtherPostCode": null,
+      "Latitude": -33.83731,
+      "Longitude": 150.99233,
+      "FullAddress": "Shop 3\r\n126 Merrylands Road\r\nMERRYLANDS NSW 2160\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "86280795",
+        "FullNumber": "61 2 86280795"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "86280795",
+        "FullNumber": "61 2 86280795"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Dr",
+    "FirstName": "Abdolvahab",
+    "SecondName": null,
+    "FamilyName": "Baghbanian",
+    "PostNominal": null,
+    "FullName": "Dr Abdolvahab Baghbanian",
+    "GivenName": "Abdolvahab"
+  },
+  "MARN": "1572954",
+  "IsNoFee": false,
+  "ContactId": "879d3b83-5505-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Iran, Islamic Republic of"
+  ],
+  "OtherNames": [
+    {
+      "Id": "97840f9e-bb09-e511-9403-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Abdolvahab Mohammadhassan Baghbanian",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Abdolvahab Mohammadhassan Baghbanian"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

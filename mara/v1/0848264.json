@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661378893322",
+    "CRN": "66613788933221",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b28a11b7-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "REYPOUR, LEILA",
+    "Name": "VISA Aus",
+    "ABN": "92627312007",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 36, Riperian Plaza",
+      "AddressLine2": "71 Eagle Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRISBANE CITY",
+      "OtherSuburb": null,
+      "PostCode": "4000",
+      "OtherPostCode": null,
+      "Latitude": -27.4682,
+      "Longitude": 153.03042,
+      "FullAddress": "Level 36, Riperian Plaza\r\n71 Eagle Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ORMEAU",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ORMEAU"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "7",
+        "Number": "3121 3112",
+        "FullNumber": "+61 7 3121 3112"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5313806253414",
+      "CRN": "53138062534147",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1f26f0ad-997b-4c7c-80b1-92ce68393662",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "International Business",
+      "Name": "VISA Aus Tehran",
+      "ABN": null,
+      "Address": {
+        "Country": "Iran, Islamic Republic of",
+        "AddressLine1": "Level 8, 114 Park Building,",
+        "AddressLine2": "Kaj Abadi Street, Valiasr",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Tehran",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 35.6895408630371,
+        "Longitude": 51.4146842956543,
+        "FullAddress": "Level 8, 114 Park Building,\r\nKaj Abadi Street, Valiasr\r\nTehran \r\nIran, Islamic Republic of"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+98",
+          "AreaCode": "21",
+          "Number": "7598 1037",
+          "FullNumber": "+98 21 7598 1037"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5318758811222",
+      "CRN": "53187588112222",
+      "IsProfileLockedOut": null,
+      "BusinessId": "06d0229b-c214-46f2-92dc-7da09aae9d71",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "International Business",
+      "Name": "VISA Aus Dubai",
+      "ABN": null,
+      "Address": {
+        "Country": "United Arab Emirates",
+        "AddressLine1": "Level 41, Emirates Towers",
+        "AddressLine2": "Sheikh Zayed Road",
+        "AddressLine3": " UAE  PO Box 31303  ",
+        "State": null,
+        "OtherState": "United Arab Emirates",
+        "Suburb": "Other",
+        "OtherSuburb": "Dubai",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 25.12765,
+        "Longitude": 55.2082,
+        "FullAddress": "Level 41, Emirates Towers\r\nSheikh Zayed Road\r\n UAE  PO Box 31303  \r\nDubai \r\nUnited Arab Emirates"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+971",
+          "AreaCode": "4",
+          "Number": "319 7412",
+          "FullNumber": "+971 4 319 7412"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661378893322",
+    "CRN": "66613788933221",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b28a11b7-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "REYPOUR, LEILA",
+    "Name": "VISA Aus",
+    "ABN": "92627312007",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 36, Riperian Plaza",
+      "AddressLine2": "71 Eagle Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRISBANE CITY",
+      "OtherSuburb": null,
+      "PostCode": "4000",
+      "OtherPostCode": null,
+      "Latitude": -27.4682,
+      "Longitude": 153.03042,
+      "FullAddress": "Level 36, Riperian Plaza\r\n71 Eagle Street\r\nBRISBANE CITY QLD 4000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "ORMEAU",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "ORMEAU"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "7",
+        "Number": "3121 3112",
+        "FullNumber": "+61 7 3121 3112"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Leila",
+    "SecondName": null,
+    "FamilyName": "Reypour",
+    "PostNominal": null,
+    "FullName": "Mrs Leila Reypour",
+    "GivenName": "Leila"
+  },
+  "MARN": "0848264",
+  "IsNoFee": false,
+  "ContactId": "69f4c65d-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

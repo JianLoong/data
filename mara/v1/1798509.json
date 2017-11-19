@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0194463343779",
+    "CRN": "01944633437790",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f7e9a6fe-b0cd-4feb-a572-f63eb4c4de7c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SHETTY, ABHIJITH SUDHAKAR",
+    "Name": "SHETTY, ABHIJITH SUDHAKAR",
+    "ABN": "81655665462",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "95 Granadilla Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MACGREGOR",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.56797,
+      "Longitude": 153.07089,
+      "FullAddress": "95 Granadilla Street\r\nMACGREGOR QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02553010",
+        "FullNumber": "61 4 02553010"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9480075366315",
+      "CRN": "94800753663156",
+      "IsProfileLockedOut": null,
+      "BusinessId": "638558fc-e42a-4713-8011-12318d954405",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "MilkyWay",
+      "ABN": null,
+      "Address": {
+        "Country": "Saudi Arabia",
+        "AddressLine1": "105, 2nd Floor, Al-Khaleej Center, ",
+        "AddressLine2": "Street 64, Behind Jarir Book Store,",
+        "AddressLine3": "Al-Olaya",
+        "State": null,
+        "OtherState": "Riyadh",
+        "Suburb": "Other",
+        "OtherSuburb": "Al-Olaya",
+        "PostCode": "Other",
+        "OtherPostCode": "11567",
+        "Latitude": 23.9947261810303,
+        "Longitude": 44.4013557434082,
+        "FullAddress": "105, 2nd Floor, Al-Khaleej Center, \r\nStreet 64, Behind Jarir Book Store,\r\nAl-Olaya\r\nAl-Olaya 11567\r\nSaudi Arabia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "966",
+          "AreaCode": "11",
+          "Number": "4646626",
+          "FullNumber": "966 11 4646626"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "966",
+          "AreaCode": "54",
+          "Number": "4128197",
+          "FullNumber": "966 54 4128197"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0194463343779",
+    "CRN": "01944633437790",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f7e9a6fe-b0cd-4feb-a572-f63eb4c4de7c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SHETTY, ABHIJITH SUDHAKAR",
+    "Name": "SHETTY, ABHIJITH SUDHAKAR",
+    "ABN": "81655665462",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "95 Granadilla Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "MACGREGOR",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.56797,
+      "Longitude": 153.07089,
+      "FullAddress": "95 Granadilla Street\r\nMACGREGOR QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02553010",
+        "FullNumber": "61 4 02553010"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Abhijith",
+    "SecondName": "Sudhakar",
+    "FamilyName": "Shetty",
+    "PostNominal": null,
+    "FullName": "Mr Abhijith Sudhakar Shetty",
+    "GivenName": "Abhijith Sudhakar"
+  },
+  "MARN": "1798509",
+  "IsNoFee": false,
+  "ContactId": "cf1bb61d-3899-e711-9414-000d3ad152db",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

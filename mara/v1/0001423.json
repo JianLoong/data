@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8388414374259",
+    "CRN": "83884143742590",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3a79d0b7-4894-46fe-9eb1-8a2f4cd0cbc8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "WALLIS, JOHN AUBREY",
+    "Name": "ARMSTRONG ROSS",
+    "ABN": "87139253876",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1/ 1693a Burwood Highway",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BELGRAVE",
+      "OtherSuburb": null,
+      "PostCode": "3160",
+      "OtherPostCode": null,
+      "Latitude": -37.9084558,
+      "Longitude": 145.3550052,
+      "FullAddress": "1/ 1693a Burwood Highway\r\nBELGRAVE VIC 3160\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "97547100",
+        "FullNumber": "61 3 97547100"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "97525033",
+        "FullNumber": "61 3 97525033"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9535454356462",
+      "CRN": "95354543564627",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0d348fa2-92c7-43d2-8953-2d66d29e7b24",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "EASTERN BRIDGE PTY LTD",
+      "Name": "EASTERN BRIDGE PTY LTD",
+      "ABN": "47125563304",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 3,  level 1",
+        "AddressLine2": "333 Whitehorse Road",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "BALWYN",
+        "OtherSuburb": null,
+        "PostCode": "3103",
+        "OtherPostCode": null,
+        "Latitude": -37.81256,
+        "Longitude": 145.0804,
+        "FullAddress": "Suite 3,  level 1\r\n333 Whitehorse Road\r\nBALWYN VIC 3103\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "03",
+          "Number": "90065800",
+          "FullNumber": "61 03 90065800"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8388414374259",
+    "CRN": "83884143742590",
+    "IsProfileLockedOut": null,
+    "BusinessId": "3a79d0b7-4894-46fe-9eb1-8a2f4cd0cbc8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "WALLIS, JOHN AUBREY",
+    "Name": "ARMSTRONG ROSS",
+    "ABN": "87139253876",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1/ 1693a Burwood Highway",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "BELGRAVE",
+      "OtherSuburb": null,
+      "PostCode": "3160",
+      "OtherPostCode": null,
+      "Latitude": -37.9084558,
+      "Longitude": 145.3550052,
+      "FullAddress": "1/ 1693a Burwood Highway\r\nBELGRAVE VIC 3160\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "97547100",
+        "FullNumber": "61 3 97547100"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "97525033",
+        "FullNumber": "61 3 97525033"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "John",
+    "SecondName": "Aubrey",
+    "FamilyName": "Wallis",
+    "PostNominal": null,
+    "FullName": "Mr John Aubrey Wallis",
+    "GivenName": "John Aubrey"
+  },
+  "MARN": "0001423",
+  "IsNoFee": false,
+  "ContactId": "313bd988-9f52-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "616188e2-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Young",
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

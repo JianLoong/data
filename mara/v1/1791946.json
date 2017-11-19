@@ -1,0 +1,318 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5465634483299",
+    "CRN": "54656344832998",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d438c73e-f04f-468f-9c8c-b1e9f3643e8c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "NGUYEN, THI NGOC ANH",
+    "Name": "NGUYEN, THI NGOC ANH",
+    "ABN": "89185792150",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "48 WENDEN ROAD",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MILL PARK",
+      "OtherSuburb": null,
+      "PostCode": "3082",
+      "OtherPostCode": null,
+      "Latitude": -37.66791,
+      "Longitude": 145.05871,
+      "FullAddress": "48 WENDEN ROAD\r\nMILL PARK VIC 3082\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "52491603",
+        "FullNumber": "61 4 52491603"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5560651090216",
+      "CRN": "55606510902163",
+      "IsProfileLockedOut": null,
+      "BusinessId": "40656b4f-9c02-409a-a921-eeb34080203d",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "IEMC GLOBAL PTY LTD",
+      "Name": "IEMC GLOBAL PTY LTD",
+      "ABN": "46600155691",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 707, Builiding 343 Little Collins street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.81523,
+        "Longitude": 144.96355,
+        "FullAddress": "Suite 707, Builiding 343 Little Collins street\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "96003057",
+          "FullNumber": "61 3 96003057"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5465634483299",
+    "CRN": "54656344832998",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d438c73e-f04f-468f-9c8c-b1e9f3643e8c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "NGUYEN, THI NGOC ANH",
+    "Name": "NGUYEN, THI NGOC ANH",
+    "ABN": "89185792150",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "48 WENDEN ROAD",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MILL PARK",
+      "OtherSuburb": null,
+      "PostCode": "3082",
+      "OtherPostCode": null,
+      "Latitude": -37.66791,
+      "Longitude": 145.05871,
+      "FullAddress": "48 WENDEN ROAD\r\nMILL PARK VIC 3082\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "52491603",
+        "FullNumber": "61 4 52491603"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Thi Ngoc Anh",
+    "SecondName": null,
+    "FamilyName": "Nguyen",
+    "PostNominal": null,
+    "FullName": "Mrs Thi Ngoc Anh Nguyen",
+    "GivenName": "Thi Ngoc Anh"
+  },
+  "MARN": "1791946",
+  "IsNoFee": false,
+  "ContactId": "54d17a24-42fa-e611-9404-005056ab0eca",
+  "CitizenshipCountries": [
+    "Viet Nam"
+  ],
+  "OtherNames": [
+    {
+      "Id": "7db3db2d-ec77-4c54-ae77-5b6bcc62ec4b",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "NGUYEN, ANH THI NGOC",
+      "GivenName": ""
+    },
+    {
+      "Id": "01780e67-504b-4e0a-aa13-794d2e28a808",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "NGUYEN THI, NGOC ANH",
+      "GivenName": ""
+    },
+    {
+      "Id": "18ca63dc-260a-462a-b1ea-9960207680d7",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "NGUYEN, ANNIE",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "NGUYEN, ANH THI NGOC",
+    "NGUYEN THI, NGOC ANH",
+    "NGUYEN, ANNIE"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

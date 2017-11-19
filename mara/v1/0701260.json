@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661558147274",
+    "CRN": "66615581472743",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b8ae13c3-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BONGIORNO, DAVID A",
+    "Name": "David Bongiorno & Associates",
+    "ABN": "61925136566",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2",
+      "AddressLine2": "431 St Kilda Rd",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3004",
+      "OtherPostCode": null,
+      "Latitude": -37.83864,
+      "Longitude": 144.97687,
+      "FullAddress": "Level 2\r\n431 St Kilda Rd\r\nMELBOURNE VIC 3004\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "98633188",
+        "FullNumber": "61 3 98633188"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "98202518",
+        "FullNumber": "61 3 98202518"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7274846013489",
+      "CRN": "72748460134890",
+      "IsProfileLockedOut": null,
+      "BusinessId": "af5fbabd-9a2e-4393-94a9-a66f94d6a99d",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MASUR, DANIELLE",
+      "Name": "Migrate to Australia",
+      "ABN": "92026044869",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "5 Younger Ave",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "CAULFIELD SOUTH",
+        "OtherSuburb": null,
+        "PostCode": "3162",
+        "OtherPostCode": null,
+        "Latitude": -37.899914,
+        "Longitude": 145.015712,
+        "FullAddress": "5 Younger Ave\r\nCAULFIELD SOUTH VIC 3162\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "21632199",
+          "FullNumber": "61 4 21632199"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661558147274",
+    "CRN": "66615581472743",
+    "IsProfileLockedOut": null,
+    "BusinessId": "b8ae13c3-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "BONGIORNO, DAVID A",
+    "Name": "David Bongiorno & Associates",
+    "ABN": "61925136566",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2",
+      "AddressLine2": "431 St Kilda Rd",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": "3004",
+      "OtherPostCode": null,
+      "Latitude": -37.83864,
+      "Longitude": 144.97687,
+      "FullAddress": "Level 2\r\n431 St Kilda Rd\r\nMELBOURNE VIC 3004\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "MELBOURNE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "MELBOURNE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "98633188",
+        "FullNumber": "61 3 98633188"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "98202518",
+        "FullNumber": "61 3 98202518"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Danielle",
+    "SecondName": "Elissa",
+    "FamilyName": "Masur",
+    "PostNominal": null,
+    "FullName": "Ms Danielle Elissa Masur",
+    "GivenName": "Danielle Elissa"
+  },
+  "MARN": "0701260",
+  "IsNoFee": false,
+  "ContactId": "07adbdde-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "4ab2101a-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Masur",
+      "FirstName": "Danielle",
+      "SecondName": "Elissa",
+      "Alias": null,
+      "GivenName": "Danielle Elissa"
+    },
+    {
+      "Id": "4db2d15b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Harris",
+      "FirstName": "Danielle",
+      "SecondName": "Elissa",
+      "Alias": null,
+      "GivenName": "Danielle Elissa"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

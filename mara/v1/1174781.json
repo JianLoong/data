@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671039403199",
+    "CRN": "66710394031992",
+    "IsProfileLockedOut": null,
+    "BusinessId": "12ca62f9-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "HASHEMI, FARHAD",
+    "Name": "AIS Australian Immigration Specialists",
+    "ABN": "61031610106",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "POBOX 4694",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "FOREST LAKE",
+      "OtherSuburb": null,
+      "PostCode": "4078",
+      "OtherPostCode": null,
+      "Latitude": -27.621137619018555,
+      "Longitude": 152.9612579345703,
+      "FullAddress": "POBOX 4694\r\nFOREST LAKE QLD 4078\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "FOREST LAKE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "FOREST LAKE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02535910",
+        "FullNumber": "61 4 02535910"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657989390780",
+      "CRN": "66579893907805",
+      "IsProfileLockedOut": null,
+      "BusinessId": "14a9d3ea-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "REFUGEE AND IMMIGRATION LEGAL SERVICE INC",
+      "Name": "Refugee and Immigration Legal Service Inc",
+      "ABN": "69697546949",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1 / 170 Boundary Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "WEST END",
+        "OtherSuburb": null,
+        "PostCode": "4101",
+        "OtherPostCode": null,
+        "Latitude": -27.48207,
+        "Longitude": 153.01202,
+        "FullAddress": "1 / 170 Boundary Street\r\nWEST END QLD 4101\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "38469300",
+          "FullNumber": "61 7 38469300"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "7",
+          "Number": "38443073",
+          "FullNumber": "61 7 38443073"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671039403199",
+    "CRN": "66710394031992",
+    "IsProfileLockedOut": null,
+    "BusinessId": "12ca62f9-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "HASHEMI, FARHAD",
+    "Name": "AIS Australian Immigration Specialists",
+    "ABN": "61031610106",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "POBOX 4694",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "FOREST LAKE",
+      "OtherSuburb": null,
+      "PostCode": "4078",
+      "OtherPostCode": null,
+      "Latitude": -27.621137619018555,
+      "Longitude": 152.9612579345703,
+      "FullAddress": "POBOX 4694\r\nFOREST LAKE QLD 4078\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "FOREST LAKE",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "FOREST LAKE"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02535910",
+        "FullNumber": "61 4 02535910"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Farhad",
+    "SecondName": null,
+    "FamilyName": "Hashemi",
+    "PostNominal": null,
+    "FullName": "Mr Farhad Hashemi",
+    "GivenName": "Farhad"
+  },
+  "MARN": "1174781",
+  "IsNoFee": false,
+  "ContactId": "0fccac24-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "d7a5b38b-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hashemi Barzabadi",
+      "FirstName": "Farhad",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Farhad"
+    },
+    {
+      "Id": "37b39ba3-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Hashemi Barzabadi",
+      "FirstName": "Farhad",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Farhad"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

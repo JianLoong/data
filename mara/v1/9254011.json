@@ -1,0 +1,382 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653195210716",
+    "CRN": "66531952107161",
+    "IsProfileLockedOut": null,
+    "BusinessId": "270d8dce-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN MIGRATION AGENTS PTY LTD",
+    "Name": "Australian Migration Agents Pty Ltd",
+    "ABN": "41064464615",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "143 Coolibah Drive,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "GREENWOOD",
+      "OtherSuburb": null,
+      "PostCode": "6024",
+      "OtherPostCode": null,
+      "Latitude": -31.823008,
+      "Longitude": 115.792172,
+      "FullAddress": "143 Coolibah Drive,\r\nGREENWOOD WA 6024\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GREENWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GREENWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "92464088",
+        "FullNumber": "61 08 92464088"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "94476301",
+        "FullNumber": "61 08 94476301"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0105789595612",
+      "CRN": "01057895956123",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7b404c87-f35f-446a-a5be-03550031ffb1",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Robert Chelliah & Associates Pte. Ltd.",
+      "Name": "Robert Chelliah & Associated Pte. Ltd.",
+      "ABN": null,
+      "Address": {
+        "Country": "Singapore",
+        "AddressLine1": "137 Market Street",
+        "AddressLine2": "Level 6",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Singapore",
+        "PostCode": "Other",
+        "OtherPostCode": "048943",
+        "Latitude": 1.28224,
+        "Longitude": 103.8504899,
+        "FullAddress": "137 Market Street\r\nLevel 6\r\nSingapore 048943\r\nSingapore"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "65",
+          "AreaCode": "65",
+          "Number": "82234805",
+          "FullNumber": "65 65 82234805"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0111570931823",
+      "CRN": "01115709318236",
+      "IsProfileLockedOut": null,
+      "BusinessId": "946c975d-ed84-4c3a-b6cf-080d635e7f86",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Australian Migration Agents Pty Ltd",
+      "Name": "Australian Migration Agents (Branch)",
+      "ABN": null,
+      "Address": {
+        "Country": "Malaysia",
+        "AddressLine1": " PJ 8, Block D-8-7A, ",
+        "AddressLine2": "No. 28 Jalan Barat, Section 8",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Selangor",
+        "Suburb": "Other",
+        "OtherSuburb": "Petaling Jaya",
+        "PostCode": "Other",
+        "OtherPostCode": "46050 ",
+        "Latitude": 3.10102,
+        "Longitude": 101.64146,
+        "FullAddress": " PJ 8, Block D-8-7A, \r\nNo. 28 Jalan Barat, Section 8\r\nPetaling Jaya 46050 \r\nMalaysia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "60",
+          "AreaCode": "12",
+          "Number": "3482961",
+          "FullNumber": "60 12 3482961"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6653195210716",
+    "CRN": "66531952107161",
+    "IsProfileLockedOut": null,
+    "BusinessId": "270d8dce-9552-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIAN MIGRATION AGENTS PTY LTD",
+    "Name": "Australian Migration Agents Pty Ltd",
+    "ABN": "41064464615",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "143 Coolibah Drive,",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "GREENWOOD",
+      "OtherSuburb": null,
+      "PostCode": "6024",
+      "OtherPostCode": null,
+      "Latitude": -31.823008,
+      "Longitude": 115.792172,
+      "FullAddress": "143 Coolibah Drive,\r\nGREENWOOD WA 6024\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "GREENWOOD",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "GREENWOOD"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "92464088",
+        "FullNumber": "61 08 92464088"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "08",
+        "Number": "94476301",
+        "FullNumber": "61 08 94476301"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Kandralingam",
+    "SecondName": null,
+    "FamilyName": "Chelliah",
+    "PostNominal": null,
+    "FullName": "Mr Kandralingam Chelliah",
+    "GivenName": "Kandralingam"
+  },
+  "MARN": "9254011",
+  "IsNoFee": false,
+  "ContactId": "29126053-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "dfecabbe-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": null,
+      "FirstName": "Robert K",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Robert K"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

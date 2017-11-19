@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9551299955224",
+    "CRN": "95512999552240",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f10cf802-7026-e411-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EQUITY AND COUNSEL PTY. LTD.",
+    "Name": "Equity and Counsel Pty Ltd",
+    "ABN": "33 066 382 670",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 4,",
+      "AddressLine2": "91 Aberdeen Street",
+      "AddressLine3": "PO BOX 6338, EAST PERTH. WA 6892",
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "NORTHBRIDGE",
+      "OtherSuburb": null,
+      "PostCode": "6003",
+      "OtherPostCode": null,
+      "Latitude": -31.94672,
+      "Longitude": 115.85868,
+      "FullAddress": "Suite 4,\r\n91 Aberdeen Street\r\nPO BOX 6338, EAST PERTH. WA 6892\r\nNORTHBRIDGE WA 6003\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "14383515",
+        "FullNumber": "61 4 14383515"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6654100001401",
+      "CRN": "66541000014011",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f2b43e05-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "STRAITS MIGRATION CONSULTANTS PTY LTD",
+      "Name": "Straits Migration Consultants Pty Ltd",
+      "ABN": "74086297136",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Unit 4, 91 Aberdeen Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "NORTHBRIDGE",
+        "OtherSuburb": null,
+        "PostCode": "6003",
+        "OtherPostCode": null,
+        "Latitude": -31.94686,
+        "Longitude": 115.85846,
+        "FullAddress": "Unit 4, 91 Aberdeen Street\r\nNORTHBRIDGE WA 6003\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "08",
+          "Number": "93282884",
+          "FullNumber": "61 08 93282884"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9551299955224",
+    "CRN": "95512999552240",
+    "IsProfileLockedOut": null,
+    "BusinessId": "f10cf802-7026-e411-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EQUITY AND COUNSEL PTY. LTD.",
+    "Name": "Equity and Counsel Pty Ltd",
+    "ABN": "33 066 382 670",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 4,",
+      "AddressLine2": "91 Aberdeen Street",
+      "AddressLine3": "PO BOX 6338, EAST PERTH. WA 6892",
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "NORTHBRIDGE",
+      "OtherSuburb": null,
+      "PostCode": "6003",
+      "OtherPostCode": null,
+      "Latitude": -31.94672,
+      "Longitude": 115.85868,
+      "FullAddress": "Suite 4,\r\n91 Aberdeen Street\r\nPO BOX 6338, EAST PERTH. WA 6892\r\nNORTHBRIDGE WA 6003\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "14383515",
+        "FullNumber": "61 4 14383515"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Percy",
+    "SecondName": null,
+    "FamilyName": "Benjamin",
+    "PostNominal": null,
+    "FullName": "Mr Percy Benjamin",
+    "GivenName": "Percy"
+  },
+  "MARN": "0208986",
+  "IsNoFee": false,
+  "ContactId": "ab89b131-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666287878779",
+    "CRN": "66662878787792",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4af73fdc-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "STEFFI, KAROLA",
+    "Name": "Australian Immigration Mission",
+    "ABN": "49624479945",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "14",
+      "AddressLine2": "Riverview Lane",
+      "AddressLine3": null,
+      "State": "TAS",
+      "OtherState": null,
+      "Suburb": "HUONVILLE",
+      "OtherSuburb": null,
+      "PostCode": "7109",
+      "OtherPostCode": null,
+      "Latitude": -43.03356,
+      "Longitude": 147.0439,
+      "FullAddress": "14\r\nRiverview Lane\r\nHUONVILLE TAS 7109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "BUNDALL",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "BUNDALL"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "00",
+        "AreaCode": "00",
+        "Number": "0422361745",
+        "FullNumber": "00 00 0422361745"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6709250708528",
+      "CRN": "67092507085285",
+      "IsProfileLockedOut": null,
+      "BusinessId": "7049e808-b224-493c-94f1-d33ce4c90664",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SAGE GLOBAL AUSTRALIA PTY LTD",
+      "Name": "SAGE GLOBAL AUSTRALIA PTY LTD",
+      "ABN": "28602484819",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "14",
+        "AddressLine2": "Riverview Lane",
+        "AddressLine3": null,
+        "State": "TAS",
+        "OtherState": null,
+        "Suburb": "HUONVILLE",
+        "OtherSuburb": null,
+        "PostCode": "7109",
+        "OtherPostCode": null,
+        "Latitude": -43.03356,
+        "Longitude": 147.0439,
+        "FullAddress": "14\r\nRiverview Lane\r\nHUONVILLE TAS 7109\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "0",
+          "Number": "422361745",
+          "FullNumber": "61 0 422361745"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666287878779",
+    "CRN": "66662878787792",
+    "IsProfileLockedOut": null,
+    "BusinessId": "4af73fdc-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "STEFFI, KAROLA",
+    "Name": "Australian Immigration Mission",
+    "ABN": "49624479945",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "14",
+      "AddressLine2": "Riverview Lane",
+      "AddressLine3": null,
+      "State": "TAS",
+      "OtherState": null,
+      "Suburb": "HUONVILLE",
+      "OtherSuburb": null,
+      "PostCode": "7109",
+      "OtherPostCode": null,
+      "Latitude": -43.03356,
+      "Longitude": 147.0439,
+      "FullAddress": "14\r\nRiverview Lane\r\nHUONVILLE TAS 7109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "BUNDALL",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "BUNDALL"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "00",
+        "AreaCode": "00",
+        "Number": "0422361745",
+        "FullNumber": "00 00 0422361745"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Karola",
+    "SecondName": null,
+    "FamilyName": "Steffi",
+    "PostNominal": null,
+    "FullName": "Ms Karola Steffi",
+    "GivenName": "Karola"
+  },
+  "MARN": "1170483",
+  "IsNoFee": false,
+  "ContactId": "6d7a09d6-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

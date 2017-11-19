@@ -1,0 +1,477 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671418093794",
+    "CRN": "66714180937943",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8632b60c-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MADAT HOLDINGS PTY LTD",
+    "Name": "Immigration Gurus",
+    "ABN": "58154389778",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "50 Spence Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": "4870",
+      "OtherPostCode": null,
+      "Latitude": -16.92463,
+      "Longitude": 145.77554,
+      "FullAddress": "50 Spence Street\r\nCAIRNS QLD 4870\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CAIRNS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "08724549",
+        "FullNumber": "61 4 08724549"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6668466769718",
+      "CRN": "66684667697189",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3b58a55a-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "MADAT HOLDINGS PTY LTD",
+      "Name": "Immigration Gurus",
+      "ABN": "58154389778",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "366 Narcotic Creek Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "MAREEBA",
+        "OtherSuburb": null,
+        "PostCode": "4880",
+        "OtherPostCode": null,
+        "Latitude": -17.09787,
+        "Longitude": 145.36425,
+        "FullAddress": "366 Narcotic Creek Road\r\nMAREEBA QLD 4880\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MAREEBA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MAREEBA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "08724549",
+          "FullNumber": "61 4 08724549"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6449847621974",
+      "CRN": "64498476219746",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3cf49cf5-0b66-42f6-aa27-5eb16c3d424c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "Ausvisto ",
+      "ABN": null,
+      "Address": {
+        "Country": "Ireland",
+        "AddressLine1": "North Point House",
+        "AddressLine2": "North Point Business Park ",
+        "AddressLine3": "Old Mallow Road",
+        "State": null,
+        "OtherState": "Cork",
+        "Suburb": "Other",
+        "OtherSuburb": "Cork",
+        "PostCode": "Other",
+        "OtherPostCode": "T23 ",
+        "Latitude": 51.8983383178711,
+        "Longitude": -8.4727897644043,
+        "FullAddress": "North Point House\r\nNorth Point Business Park \r\nOld Mallow Road\r\nCork T23 \r\nIreland"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "07",
+          "Number": "40511142",
+          "FullNumber": "61 07 40511142"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9358127935517",
+      "CRN": "93581279355175",
+      "IsProfileLockedOut": null,
+      "BusinessId": "92964eaf-3ca6-4f5e-9e7f-7cec9cbfdc01",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Carlos Watson-Ferreira",
+      "Name": "Ausvisto",
+      "ABN": null,
+      "Address": {
+        "Country": "Portugal",
+        "AddressLine1": "Rua Nova da Trindade ",
+        "AddressLine2": "5 Loja 31",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Lisbon",
+        "PostCode": "Other",
+        "OtherPostCode": "1200-302",
+        "Latitude": 38.7111,
+        "Longitude": -9.14239,
+        "FullAddress": "Rua Nova da Trindade \r\n5 Loja 31\r\nLisbon 1200-302\r\nPortugal"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "351",
+          "AreaCode": "91",
+          "Number": "3613173",
+          "FullNumber": "351 91 3613173"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6671418093794",
+    "CRN": "66714180937943",
+    "IsProfileLockedOut": null,
+    "BusinessId": "8632b60c-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MADAT HOLDINGS PTY LTD",
+    "Name": "Immigration Gurus",
+    "ABN": "58154389778",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "50 Spence Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": "4870",
+      "OtherPostCode": null,
+      "Latitude": -16.92463,
+      "Longitude": 145.77554,
+      "FullAddress": "50 Spence Street\r\nCAIRNS QLD 4870\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "CAIRNS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "08724549",
+        "FullNumber": "61 4 08724549"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Natale Vincenzo",
+    "SecondName": null,
+    "FamilyName": "Menniti",
+    "PostNominal": null,
+    "FullName": "Mr Natale Vincenzo Menniti",
+    "GivenName": "Natale Vincenzo"
+  },
+  "MARN": "1066082",
+  "IsNoFee": false,
+  "ContactId": "1cbb6181-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "f041c667-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Menniti",
+      "FirstName": "Natale Vincenzo Antonio",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Natale Vincenzo Antonio"
+    },
+    {
+      "Id": "f841c667-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Menniti",
+      "FirstName": "Nat",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Nat"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

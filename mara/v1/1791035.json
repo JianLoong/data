@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9699673366255",
+    "CRN": "96996733662552",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c1e0f2da-d259-4d53-aede-830a4c1884ad",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "KAINTH & DARBHANGA PTY. LTD.",
+    "Name": "KAINTH & DARBHANGA PTY. LTD.",
+    "ABN": "14616957496",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "893 Lower North East Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "DERNANCOURT",
+      "OtherSuburb": null,
+      "PostCode": "5075",
+      "OtherPostCode": null,
+      "Latitude": -34.85797,
+      "Longitude": 138.68877,
+      "FullAddress": "893 Lower North East Road\r\nDERNANCOURT SA 5075\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "51380703",
+        "FullNumber": "61 4 51380703"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8185242674408",
+      "CRN": "81852426744081",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8608907a-375c-435f-b956-7487f027cdf3",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "DUMRA CONSULTING PTY LTD",
+      "Name": "DUMRA CONSULTING PTY LTD",
+      "ABN": "50166347708",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2/ 68 Henley Beach Rd",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "MILE END",
+        "OtherSuburb": null,
+        "PostCode": "5031",
+        "OtherPostCode": null,
+        "Latitude": -34.9228792,
+        "Longitude": 138.5738634,
+        "FullAddress": "2/ 68 Henley Beach Rd\r\nMILE END SA 5031\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "72255561",
+          "FullNumber": "61 8 72255561"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "83123007",
+          "FullNumber": "61 8 83123007"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8282893833709",
+      "CRN": "82828938337094",
+      "IsProfileLockedOut": null,
+      "BusinessId": "f7a644c2-a4ce-4e53-a334-fa42d15a7ed4",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "DDK MIGRATION AND EDUCATION CONSULTANTS PVT LTD",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "SCO 156-157 FIRST FLOOR",
+        "AddressLine2": "SECTOR 9-C MADHYA MARG",
+        "AddressLine3": "CHANDIGARH",
+        "State": null,
+        "OtherState": "CHANDIGARH",
+        "Suburb": "Other",
+        "OtherSuburb": "CHANDIGARH",
+        "PostCode": "Other",
+        "OtherPostCode": "1600009",
+        "Latitude": 30.75478,
+        "Longitude": 76.77897,
+        "FullAddress": "SCO 156-157 FIRST FLOOR\r\nSECTOR 9-C MADHYA MARG\r\nCHANDIGARH\r\nCHANDIGARH 1600009\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "7",
+          "Number": "620100009",
+          "FullNumber": "91 7 620100009"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9699673366255",
+    "CRN": "96996733662552",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c1e0f2da-d259-4d53-aede-830a4c1884ad",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "KAINTH & DARBHANGA PTY. LTD.",
+    "Name": "KAINTH & DARBHANGA PTY. LTD.",
+    "ABN": "14616957496",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "893 Lower North East Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "DERNANCOURT",
+      "OtherSuburb": null,
+      "PostCode": "5075",
+      "OtherPostCode": null,
+      "Latitude": -34.85797,
+      "Longitude": 138.68877,
+      "FullAddress": "893 Lower North East Road\r\nDERNANCOURT SA 5075\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "51380703",
+        "FullNumber": "61 4 51380703"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Mudit",
+    "SecondName": null,
+    "FamilyName": "Darbhanga",
+    "PostNominal": null,
+    "FullName": "Mr Mudit Darbhanga",
+    "GivenName": "Mudit"
+  },
+  "MARN": "1791035",
+  "IsNoFee": false,
+  "ContactId": "d346f78e-27e1-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "India"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

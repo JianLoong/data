@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0616757758166",
+    "CRN": "06167577581665",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bee78f4d-3eb3-416c-b1d2-f44b4260f803",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PRIME PROMOTIONS GROUP PTY LTD",
+    "Name": "PRIME PROMOTIONS GROUP PTY LTD",
+    "ABN": "48147596647",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1 Swan Court",
+      "AddressLine2": null,
+      "AddressLine3": "Renown Park",
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "RENOWN PARK",
+      "OtherSuburb": null,
+      "PostCode": "5008",
+      "OtherPostCode": null,
+      "Latitude": -34.89257,
+      "Longitude": 138.57884,
+      "FullAddress": "1 Swan Court\r\nRenown Park\r\nRENOWN PARK SA 5008\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0",
+        "Number": "448869477",
+        "FullNumber": "61 0 448869477"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3391989239491",
+      "CRN": "33919892394914",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b9f2ce49-b6fc-4b71-93fe-6d8732ce852c",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Yan Yan Chen",
+      "Name": "Yan Yan Chen",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "1 Swan Court",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "SA",
+        "OtherState": null,
+        "Suburb": "RENOWN PARK",
+        "OtherSuburb": null,
+        "PostCode": "5008",
+        "OtherPostCode": null,
+        "Latitude": -34.81088,
+        "Longitude": 138.68954,
+        "FullAddress": "1 Swan Court\r\nRENOWN PARK SA 5008\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "83406979",
+          "FullNumber": "61 8 83406979"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0616757758166",
+    "CRN": "06167577581665",
+    "IsProfileLockedOut": null,
+    "BusinessId": "bee78f4d-3eb3-416c-b1d2-f44b4260f803",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PRIME PROMOTIONS GROUP PTY LTD",
+    "Name": "PRIME PROMOTIONS GROUP PTY LTD",
+    "ABN": "48147596647",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "1 Swan Court",
+      "AddressLine2": null,
+      "AddressLine3": "Renown Park",
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "RENOWN PARK",
+      "OtherSuburb": null,
+      "PostCode": "5008",
+      "OtherPostCode": null,
+      "Latitude": -34.89257,
+      "Longitude": 138.57884,
+      "FullAddress": "1 Swan Court\r\nRenown Park\r\nRENOWN PARK SA 5008\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0",
+        "Number": "448869477",
+        "FullNumber": "61 0 448869477"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Yan Yan",
+    "SecondName": null,
+    "FamilyName": "Chen",
+    "PostNominal": null,
+    "FullName": "Miss Yan Yan Chen",
+    "GivenName": "Yan Yan"
+  },
+  "MARN": "1793395",
+  "IsNoFee": false,
+  "ContactId": "8637fdfa-2102-e711-9404-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

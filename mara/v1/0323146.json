@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672529942235",
+    "CRN": "66725299422358",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7455bb4f-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business data not available",
+    "Name": "Chongqing Changyi Going Abroad Consulting Services Co Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Suite 9-4, Weilai Guoji Building,",
+      "AddressLine2": "6 Jianbei Yizhi Road",
+      "AddressLine3": "Guanyinqiao",
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Jiangbei District",
+      "PostCode": "Other",
+      "OtherPostCode": "400020",
+      "Latitude": 29.5766057,
+      "Longitude": 106.5358335,
+      "FullAddress": "Suite 9-4, Weilai Guoji Building,\r\n6 Jianbei Yizhi Road\r\nGuanyinqiao\r\nJiangbei District 400020\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "23",
+        "Number": "63630166",
+        "FullNumber": "86 23 63630166"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6656725131984",
+      "CRN": "66567251319841",
+      "IsProfileLockedOut": null,
+      "BusinessId": "645f9ea0-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Aust China Friendship Group Pty Ltd",
+      "Name": "Aust China Friendship Group Pty Ltd",
+      "ABN": "47093133398",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "11/26 May Street",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "EASTWOOD",
+        "OtherSuburb": null,
+        "PostCode": "2122",
+        "OtherPostCode": null,
+        "Latitude": -33.78834,
+        "Longitude": 151.085,
+        "FullAddress": "11/26 May Street\r\nEASTWOOD NSW 2122\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "PUNCHBOWL",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "PUNCHBOWL"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "86",
+          "AreaCode": "23",
+          "Number": "63630166",
+          "FullNumber": "86 23 63630166"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672529942235",
+    "CRN": "66725299422358",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7455bb4f-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business data not available",
+    "Name": "Chongqing Changyi Going Abroad Consulting Services Co Ltd",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "Suite 9-4, Weilai Guoji Building,",
+      "AddressLine2": "6 Jianbei Yizhi Road",
+      "AddressLine3": "Guanyinqiao",
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Jiangbei District",
+      "PostCode": "Other",
+      "OtherPostCode": "400020",
+      "Latitude": 29.5766057,
+      "Longitude": 106.5358335,
+      "FullAddress": "Suite 9-4, Weilai Guoji Building,\r\n6 Jianbei Yizhi Road\r\nGuanyinqiao\r\nJiangbei District 400020\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "23",
+        "Number": "63630166",
+        "FullNumber": "86 23 63630166"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "John",
+    "SecondName": null,
+    "FamilyName": "Han",
+    "PostNominal": null,
+    "FullName": "Mr John Han",
+    "GivenName": "John"
+  },
+  "MARN": "0323146",
+  "IsNoFee": false,
+  "ContactId": "734f63d5-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "1aa043a8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Han",
+      "FirstName": "John",
+      "SecondName": "Yu Jun",
+      "Alias": null,
+      "GivenName": "John Yu Jun"
+    },
+    {
+      "Id": "1da043a8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Han",
+      "FirstName": "Yu",
+      "SecondName": "Jun",
+      "Alias": null,
+      "GivenName": "Yu Jun"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

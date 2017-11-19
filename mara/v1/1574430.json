@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8942487795740",
+    "CRN": "89424877957405",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9181bff1-6a98-443b-ade3-df4815574d22",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DENNISON, DIANE MARY",
+    "Name": "OzBound Migration",
+    "ABN": "35 658 795 484",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1A. Level 2",
+      "AddressLine2": "802 Pacific Highway",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GORDON",
+      "OtherSuburb": null,
+      "PostCode": "2072",
+      "OtherPostCode": null,
+      "Latitude": -33.05912,
+      "Longitude": 151.65166,
+      "FullAddress": "Suite 1A. Level 2\r\n802 Pacific Highway\r\nGORDON NSW 2072\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "13",
+        "Number": "00657714",
+        "FullNumber": "61 13 00657714"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "14696330",
+        "FullNumber": "61 4 14696330"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2882271813208",
+      "CRN": "28822718132088",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5b796a99-9282-479c-a5f7-0e2e2523b222",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SHARP CORPORATION OF AUSTRALIA PTY LTD",
+      "Name": "SHARP CORPORATION OF AUSTRALIA PTY LTD",
+      "ABN": "40003039405",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "2 Julius Avenue East",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "NORTH RYDE",
+        "OtherSuburb": null,
+        "PostCode": "2113",
+        "OtherPostCode": null,
+        "Latitude": -33.7962599,
+        "Longitude": 151.14425,
+        "FullAddress": "2 Julius Avenue East\r\nNORTH RYDE NSW 2113\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98304605",
+          "FullNumber": "61 2 98304605"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8942487795740",
+    "CRN": "89424877957405",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9181bff1-6a98-443b-ade3-df4815574d22",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "DENNISON, DIANE MARY",
+    "Name": "OzBound Migration",
+    "ABN": "35 658 795 484",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 1A. Level 2",
+      "AddressLine2": "802 Pacific Highway",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GORDON",
+      "OtherSuburb": null,
+      "PostCode": "2072",
+      "OtherPostCode": null,
+      "Latitude": -33.05912,
+      "Longitude": 151.65166,
+      "FullAddress": "Suite 1A. Level 2\r\n802 Pacific Highway\r\nGORDON NSW 2072\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "13",
+        "Number": "00657714",
+        "FullNumber": "61 13 00657714"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "14696330",
+        "FullNumber": "61 4 14696330"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Diane",
+    "SecondName": "Mary",
+    "FamilyName": "Dennison",
+    "PostNominal": null,
+    "FullName": "Mrs Diane Mary Dennison",
+    "GivenName": "Diane Mary"
+  },
+  "MARN": "1574430",
+  "IsNoFee": false,
+  "ContactId": "9013cac9-b836-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [
+    {
+      "Id": "68e37ceb-c81b-46a7-bba0-4307c4119352",
+      "Type": "Former Name",
+      "FamilyName": "JONES",
+      "FirstName": "DIANE",
+      "SecondName": "MARY",
+      "Alias": null,
+      "GivenName": "DIANE MARY"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

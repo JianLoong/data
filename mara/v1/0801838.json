@@ -1,0 +1,427 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672779835612",
+    "CRN": "66727798356122",
+    "IsProfileLockedOut": null,
+    "BusinessId": "89dd965d-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Australian Migration Express Pty Ltd",
+    "Name": "Australian Migration Express Pty Ltd",
+    "ABN": "70147856308",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "81 Daintree Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "PARKWOOD",
+      "OtherSuburb": null,
+      "PostCode": "4214",
+      "OtherPostCode": null,
+      "Latitude": -27.948272,
+      "Longitude": 153.352351,
+      "FullAddress": "81 Daintree Drive\r\nPARKWOOD QLD 4214\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SOUTHPORT",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SOUTHPORT"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "28495905",
+        "FullNumber": "61 4 28495905"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6668636222330",
+      "CRN": "66686362223301",
+      "IsProfileLockedOut": null,
+      "BusinessId": "1135e666-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Australian Migration Express Pty Ltd",
+      "Name": "Australian Migration Express Pty Ltd",
+      "ABN": "70147856308",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "9 McIver Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "CLINTON",
+        "OtherSuburb": null,
+        "PostCode": "4680",
+        "OtherPostCode": null,
+        "Latitude": -23.88081,
+        "Longitude": 151.21391,
+        "FullAddress": "9 McIver Road\r\nCLINTON QLD 4680\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "CLINTON",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "CLINTON"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "28495905",
+          "FullNumber": "61 4 28495905"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9485620950331",
+      "CRN": "94856209503312",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c798b0e9-99fc-48e0-9118-5c32a9981290",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "International Business",
+      "Name": "SW Migration Consultancy",
+      "ABN": null,
+      "Address": {
+        "Country": "Philippines",
+        "AddressLine1": "Maryville Building, Marymart Shopping Centre",
+        "AddressLine2": "Delgado Street, Iloilo City",
+        "AddressLine3": "Philippines",
+        "State": null,
+        "OtherState": "Western Visaya",
+        "Suburb": "Other",
+        "OtherSuburb": "Delgado Street",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 11.1126661300659,
+        "Longitude": 122.509475708008,
+        "FullAddress": "Maryville Building, Marymart Shopping Centre\r\nDelgado Street, Iloilo City\r\nPhilippines\r\nDelgado Street \r\nPhilippines"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "63",
+          "AreaCode": "3",
+          "Number": "3235907",
+          "FullNumber": "63 3 3235907"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672779835612",
+    "CRN": "66727798356122",
+    "IsProfileLockedOut": null,
+    "BusinessId": "89dd965d-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Australian Migration Express Pty Ltd",
+    "Name": "Australian Migration Express Pty Ltd",
+    "ABN": "70147856308",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "81 Daintree Drive",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "PARKWOOD",
+      "OtherSuburb": null,
+      "PostCode": "4214",
+      "OtherPostCode": null,
+      "Latitude": -27.948272,
+      "Longitude": 153.352351,
+      "FullAddress": "81 Daintree Drive\r\nPARKWOOD QLD 4214\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SOUTHPORT",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SOUTHPORT"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "28495905",
+        "FullNumber": "61 4 28495905"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Susan",
+    "SecondName": null,
+    "FamilyName": "Watkin",
+    "PostNominal": null,
+    "FullName": "Ms Susan Watkin",
+    "GivenName": "Susan"
+  },
+  "MARN": "0801838",
+  "IsNoFee": false,
+  "ContactId": "306ece57-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "9c7e1614-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Delgado",
+      "FirstName": "Susan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Susan"
+    },
+    {
+      "Id": "a07e1614-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Cartel",
+      "FirstName": "Susan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Susan"
+    },
+    {
+      "Id": "b7ad0920-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Anancita",
+      "FirstName": "Susan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Susan"
+    },
+    {
+      "Id": "7d9995af-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Delgado",
+      "FirstName": "Susan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Susan"
+    },
+    {
+      "Id": "819995af-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Cartel",
+      "FirstName": "Susan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Susan"
+    },
+    {
+      "Id": "859995af-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Anancita",
+      "FirstName": "Susan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Susan"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

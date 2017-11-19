@@ -1,0 +1,372 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8626864132944",
+    "CRN": "86268641329448",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9d04f7b6-6cb8-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "KUNZ, JOHANNES",
+    "Name": "Johannes Kunz Migration Services",
+    "ABN": "35 305 462 144",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "6 Haslam Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CARINDALE",
+      "OtherSuburb": null,
+      "PostCode": "4152",
+      "OtherPostCode": null,
+      "Latitude": -27.51371,
+      "Longitude": 153.110443,
+      "FullAddress": "6 Haslam Court\r\nCARINDALE QLD 4152\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "3040 8051",
+        "FullNumber": "61 7 3040 8051"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4788206925166",
+      "CRN": "47882069251667",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2dd6ab29-1506-46b7-bab6-41a558fbea37",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Johannes Kunz Migration Services UG (haftungsbeschränkt)",
+      "Name": "Johannes Kunz Migration Services UG (haftungsbeschränkt)",
+      "ABN": null,
+      "Address": {
+        "Country": "Germany",
+        "AddressLine1": "c/o BERNHARD Steuerberatungsgesellschaft mbH",
+        "AddressLine2": "Zeppelinstraße 5",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Bavaria",
+        "Suburb": "Other",
+        "OtherSuburb": "Aschaffenburg",
+        "PostCode": "Other",
+        "OtherPostCode": "63741",
+        "Latitude": 49.98715,
+        "Longitude": 9.10855,
+        "FullAddress": "c/o BERNHARD Steuerberatungsgesellschaft mbH\r\nZeppelinstraße 5\r\nAschaffenburg 63741\r\nGermany"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+49",
+          "AreaCode": "(0)6021 ",
+          "Number": "1309575",
+          "FullNumber": "+49 (0)6021  1309575"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5632540259064",
+      "CRN": "56325402590648",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c99197d0-fdf9-4285-89be-d7f521971e05",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Johannes Kunz Migration Services",
+      "Name": "Johannes Kunz Migration Services",
+      "ABN": null,
+      "Address": {
+        "Country": "Austria",
+        "AddressLine1": "Glasauergasse 36",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Vienna",
+        "PostCode": "Other",
+        "OtherPostCode": "1130",
+        "Latitude": 48.19046,
+        "Longitude": 16.2685,
+        "FullAddress": "Glasauergasse 36\r\nVienna 1130\r\nAustria"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+43",
+          "AreaCode": "7",
+          "Number": "20115803",
+          "FullNumber": "+43 7 20115803"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8626864132944",
+    "CRN": "86268641329448",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9d04f7b6-6cb8-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "KUNZ, JOHANNES",
+    "Name": "Johannes Kunz Migration Services",
+    "ABN": "35 305 462 144",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "6 Haslam Court",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CARINDALE",
+      "OtherSuburb": null,
+      "PostCode": "4152",
+      "OtherPostCode": null,
+      "Latitude": -27.51371,
+      "Longitude": 153.110443,
+      "FullAddress": "6 Haslam Court\r\nCARINDALE QLD 4152\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "3040 8051",
+        "FullNumber": "61 7 3040 8051"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Johannes",
+    "SecondName": null,
+    "FamilyName": "Kunz",
+    "PostNominal": null,
+    "FullName": "Mr Johannes Kunz",
+    "GivenName": "Johannes"
+  },
+  "MARN": "1461072",
+  "IsNoFee": false,
+  "ContactId": "338b813d-776f-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Austria"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

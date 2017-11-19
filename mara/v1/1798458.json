@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8782411149658",
+    "CRN": "87824111496581",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0b6d7aa2-ed1f-4418-abc4-d4fb6fa473f8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Global Village International Business and Migration Consultancy",
+    "ABN": null,
+    "Address": {
+      "Country": "Thailand",
+      "AddressLine1": "Suite 502, SMD Office Center, 2437 Lad Prao Road",
+      "AddressLine2": "Sapan Song, Wangtonglang, Bangkok",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Lad Prao",
+      "PostCode": "Other",
+      "OtherPostCode": "10310",
+      "Latitude": 13.820216178894,
+      "Longitude": 100.675521850586,
+      "FullAddress": "Suite 502, SMD Office Center, 2437 Lad Prao Road\r\nSapan Song, Wangtonglang, Bangkok\r\nLad Prao 10310\r\nThailand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "66",
+        "AreaCode": "8",
+        "Number": "50320707",
+        "FullNumber": "66 8 50320707"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "0078344316582",
+      "CRN": "00783443165820",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ca1333ff-b13f-4f2b-8171-157797541c88",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "ANDREWS, SIMON TIMOTHY",
+      "Name": "GLOBAL VILLAGE INTERNATIONAL CONSULTANCY",
+      "ABN": "74112146914",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "51 Eaglesfield St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BEAUDESERT",
+        "OtherSuburb": null,
+        "PostCode": "4285",
+        "OtherPostCode": null,
+        "Latitude": -27.98843,
+        "Longitude": 153.00546,
+        "FullAddress": "51 Eaglesfield St\r\nBEAUDESERT QLD 4285\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "68586554",
+          "FullNumber": "61 4 68586554"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8782411149658",
+    "CRN": "87824111496581",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0b6d7aa2-ed1f-4418-abc4-d4fb6fa473f8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Global Village International Business and Migration Consultancy",
+    "ABN": null,
+    "Address": {
+      "Country": "Thailand",
+      "AddressLine1": "Suite 502, SMD Office Center, 2437 Lad Prao Road",
+      "AddressLine2": "Sapan Song, Wangtonglang, Bangkok",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Lad Prao",
+      "PostCode": "Other",
+      "OtherPostCode": "10310",
+      "Latitude": 13.820216178894,
+      "Longitude": 100.675521850586,
+      "FullAddress": "Suite 502, SMD Office Center, 2437 Lad Prao Road\r\nSapan Song, Wangtonglang, Bangkok\r\nLad Prao 10310\r\nThailand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "66",
+        "AreaCode": "8",
+        "Number": "50320707",
+        "FullNumber": "66 8 50320707"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Simon",
+    "SecondName": "Timothy",
+    "FamilyName": "Andrews",
+    "PostNominal": null,
+    "FullName": "Mr Simon Timothy Andrews",
+    "GivenName": "Simon Timothy"
+  },
+  "MARN": "1798458",
+  "IsNoFee": false,
+  "ContactId": "ea9a1086-d08e-e711-9414-000d3ad152db",
+  "CitizenshipCountries": [
+    "Australia",
+    "New Zealand"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

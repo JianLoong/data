@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1969710645819",
+    "CRN": "19697106458195",
+    "IsProfileLockedOut": null,
+    "BusinessId": "49f2e0cb-51dc-40be-857c-c9ebe4062601",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MORADSHAHI SOLICITORS PTY LTD",
+    "Name": "MORADSHAHI SOLICITORS PTY LTD",
+    "ABN": "87602664451",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 7, 32",
+      "AddressLine2": "Middle Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CLEVELAND",
+      "OtherSuburb": null,
+      "PostCode": "4163",
+      "OtherPostCode": null,
+      "Latitude": -27.52548,
+      "Longitude": 153.2655,
+      "FullAddress": "Suite 7, 32\r\nMiddle Street\r\nCLEVELAND QLD 4163\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "11379080",
+        "FullNumber": "61 4 11379080"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6658180286254",
+      "CRN": "66581802862540",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d9813cf7-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "MORADSHAHI, KATHY FATEMEH",
+      "Name": "Moradshahi Solicitors",
+      "ABN": "65808636789",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 6B, Level 6, 9-13 Redmyre Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "STRATHFIELD",
+        "OtherSuburb": null,
+        "PostCode": "2135",
+        "OtherPostCode": null,
+        "Latitude": -33.87307,
+        "Longitude": 151.09244,
+        "FullAddress": "Suite 6B, Level 6, 9-13 Redmyre Road\r\nSTRATHFIELD NSW 2135\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "STRATHFIELD",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "STRATHFIELD"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "11379080",
+          "FullNumber": "61 4 11379080"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": "61"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "1969710645819",
+    "CRN": "19697106458195",
+    "IsProfileLockedOut": null,
+    "BusinessId": "49f2e0cb-51dc-40be-857c-c9ebe4062601",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "MORADSHAHI SOLICITORS PTY LTD",
+    "Name": "MORADSHAHI SOLICITORS PTY LTD",
+    "ABN": "87602664451",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 7, 32",
+      "AddressLine2": "Middle Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CLEVELAND",
+      "OtherSuburb": null,
+      "PostCode": "4163",
+      "OtherPostCode": null,
+      "Latitude": -27.52548,
+      "Longitude": 153.2655,
+      "FullAddress": "Suite 7, 32\r\nMiddle Street\r\nCLEVELAND QLD 4163\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "11379080",
+        "FullNumber": "61 4 11379080"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Kathy",
+    "SecondName": "Fatemeh",
+    "FamilyName": "Moradshahi",
+    "PostNominal": null,
+    "FullName": "Mrs Kathy Fatemeh Moradshahi",
+    "GivenName": "Kathy Fatemeh"
+  },
+  "MARN": "0636017",
+  "IsNoFee": false,
+  "ContactId": "e1ad3e96-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "7ca34cc0-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Morandshahi",
+      "FirstName": "Fatemeh",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Fatemeh"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,314 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4762658959777",
+    "CRN": "47626589597779",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2dfea92f-2b01-465c-94c4-78c3a72e7bb7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Australian & Khmer Consultancy Service",
+    "Name": "Australian & Khmer Consultancy Service",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "211 Humphries Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BONNYRIGG",
+      "OtherSuburb": null,
+      "PostCode": "2177",
+      "OtherPostCode": null,
+      "Latitude": -33.89239,
+      "Longitude": 150.8985999,
+      "FullAddress": "211 Humphries Road\r\nBONNYRIGG NSW 2177\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "87862581",
+        "FullNumber": "61 2 87862581"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6654880555692",
+      "CRN": "66548805556922",
+      "IsProfileLockedOut": null,
+      "BusinessId": "ae128f36-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "CAMBODIAN AUSTRALIAN WELFARE COUNCILOF NSW INC",
+      "Name": "Cambodian Australian Welfare Councilof NSW Inc",
+      "ABN": "32405309879",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "211 Humphries Road,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BONNYRIGG",
+        "OtherSuburb": null,
+        "PostCode": "2177",
+        "OtherPostCode": null,
+        "Latitude": -33.892388,
+        "Longitude": 150.898596,
+        "FullAddress": "211 Humphries Road,\r\nBONNYRIGG NSW 2177\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BONNYRIGG",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BONNYRIGG"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "87862581",
+          "FullNumber": "61 02 87862581"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "87862584",
+          "FullNumber": "61 02 87862584"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4762658959777",
+    "CRN": "47626589597779",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2dfea92f-2b01-465c-94c4-78c3a72e7bb7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Australian & Khmer Consultancy Service",
+    "Name": "Australian & Khmer Consultancy Service",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "211 Humphries Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BONNYRIGG",
+      "OtherSuburb": null,
+      "PostCode": "2177",
+      "OtherPostCode": null,
+      "Latitude": -33.89239,
+      "Longitude": 150.8985999,
+      "FullAddress": "211 Humphries Road\r\nBONNYRIGG NSW 2177\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "87862581",
+        "FullNumber": "61 2 87862581"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Nola",
+    "SecondName": "May",
+    "FamilyName": "Randall-Mohk",
+    "PostNominal": null,
+    "FullName": "Ms Nola May Randall-Mohk",
+    "GivenName": "Nola May"
+  },
+  "MARN": "9688433",
+  "IsNoFee": false,
+  "ContactId": "18661c3f-a652-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "7c88640c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Randall-Mohk",
+      "FirstName": "Nola",
+      "SecondName": "May",
+      "Alias": null,
+      "GivenName": "Nola May"
+    },
+    {
+      "Id": "668b2bf6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Randall",
+      "FirstName": "Nola",
+      "SecondName": "May",
+      "Alias": null,
+      "GivenName": "Nola May"
+    },
+    {
+      "Id": "6b8b2bf6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Randall-Teung",
+      "FirstName": "Nola",
+      "SecondName": "May",
+      "Alias": null,
+      "GivenName": "Nola May"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

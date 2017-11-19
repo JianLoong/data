@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3736602091398",
+    "CRN": "37366020913980",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cee3f015-f78f-4a47-a27c-85a4ad7ec3d2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PHILLIP SILVER & ASSOCIATES (MIGRATION) PTY LTD",
+    "Name": "PHILLIP SILVER & ASSOCIATES (MIGRATION) PTY LTD",
+    "ABN": "76605101675",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1, 126 Bankstown City Plaza",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BANKSTOWN",
+      "OtherSuburb": null,
+      "PostCode": "2200",
+      "OtherPostCode": null,
+      "Latitude": -33.91765,
+      "Longitude": 151.03395,
+      "FullAddress": "Level 1, 126 Bankstown City Plaza\r\nBANKSTOWN NSW 2200\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "97085954",
+        "FullNumber": "61 02 97085954"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8321940443183",
+      "CRN": "83219404431837",
+      "IsProfileLockedOut": null,
+      "BusinessId": "c4757808-fc82-4dfa-983e-2fd8325b1383",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "PHILLIP SILVER AND ASSOCIATES (AUSTRALIA) PTY LIMITED",
+      "Name": "PHILLIP SILVER AND ASSOCIATES (AUSTRALIA) PTY LIMITED",
+      "ABN": "89134433408",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 1,",
+        "AddressLine2": "126-128 Bankstown City Plaza",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "BANKSTOWN",
+        "OtherSuburb": null,
+        "PostCode": "2200",
+        "OtherPostCode": null,
+        "Latitude": -33.9176545,
+        "Longitude": 151.0338625,
+        "FullAddress": "Level 1,\r\n126-128 Bankstown City Plaza\r\nBANKSTOWN NSW 2200\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "97085954",
+          "FullNumber": "61 2 97085954"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3736602091398",
+    "CRN": "37366020913980",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cee3f015-f78f-4a47-a27c-85a4ad7ec3d2",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PHILLIP SILVER & ASSOCIATES (MIGRATION) PTY LTD",
+    "Name": "PHILLIP SILVER & ASSOCIATES (MIGRATION) PTY LTD",
+    "ABN": "76605101675",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1, 126 Bankstown City Plaza",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "BANKSTOWN",
+      "OtherSuburb": null,
+      "PostCode": "2200",
+      "OtherPostCode": null,
+      "Latitude": -33.91765,
+      "Longitude": 151.03395,
+      "FullAddress": "Level 1, 126 Bankstown City Plaza\r\nBANKSTOWN NSW 2200\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "97085954",
+        "FullNumber": "61 02 97085954"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Simar",
+    "SecondName": null,
+    "FamilyName": "Hermis",
+    "PostNominal": null,
+    "FullName": "Mr Simar Hermis",
+    "GivenName": "Simar"
+  },
+  "MARN": "1464902",
+  "IsNoFee": false,
+  "ContactId": "ee553f1f-ed00-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

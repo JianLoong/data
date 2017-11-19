@@ -1,0 +1,209 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666632754846",
+    "CRN": "66666327548467",
+    "IsProfileLockedOut": null,
+    "BusinessId": "12fca6ee-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Australian Multicultural Education Centre (AMEC) Pty Ltd",
+    "Name": "Australian Multicultural Education Centre (AMEC) Pty Ltd",
+    "ABN": "66137733709",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 6, 3 Zamia Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SUNNYBANK",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.57084,
+      "Longitude": 153.06053,
+      "FullAddress": "Suite 6, 3 Zamia Street\r\nSUNNYBANK QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SUNNYBANK",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SUNNYBANK"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "33233168",
+        "FullNumber": "61 7 33233168"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "33233268",
+        "FullNumber": "61 7 33233268"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6666632754846",
+    "CRN": "66666327548467",
+    "IsProfileLockedOut": null,
+    "BusinessId": "12fca6ee-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Australian Multicultural Education Centre (AMEC) Pty Ltd",
+    "Name": "Australian Multicultural Education Centre (AMEC) Pty Ltd",
+    "ABN": "66137733709",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 6, 3 Zamia Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "SUNNYBANK",
+      "OtherSuburb": null,
+      "PostCode": "4109",
+      "OtherPostCode": null,
+      "Latitude": -27.57084,
+      "Longitude": 153.06053,
+      "FullAddress": "Suite 6, 3 Zamia Street\r\nSUNNYBANK QLD 4109\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SUNNYBANK",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SUNNYBANK"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "33233168",
+        "FullNumber": "61 7 33233168"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "33233268",
+        "FullNumber": "61 7 33233268"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Karl",
+    "SecondName": null,
+    "FamilyName": "Young",
+    "PostNominal": null,
+    "FullName": "Mr Karl Young",
+    "GivenName": "Karl"
+  },
+  "MARN": "1171642",
+  "IsNoFee": false,
+  "ContactId": "f5a338e8-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "3e69ab91-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Yang",
+      "FirstName": "Chun-Jan",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Chun-Jan"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9737344615064",
+    "CRN": "97373446150648",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0e954e72-c988-407d-8b65-b76ad51e594b",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "INTERNATIONAL LAWYERS PTY. LTD.",
+    "Name": "INTERNATIONAL LAWYERS PTY. LTD.",
+    "ABN": "26600556189",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2,  47 ",
+      "AddressLine2": "Princess Hwy, Dandenong ",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "DANDENONG",
+      "OtherSuburb": null,
+      "PostCode": "3175",
+      "OtherPostCode": null,
+      "Latitude": -36.8642845153809,
+      "Longitude": 144.310394287109,
+      "FullAddress": "Level 2,  47 \r\nPrincess Hwy, Dandenong \r\nDANDENONG VIC 3175\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99048513",
+        "FullNumber": "61 3 99048513"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "88884947",
+        "FullNumber": "61 3 88884947"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "3720711497224",
+      "CRN": "37207114972242",
+      "IsProfileLockedOut": null,
+      "BusinessId": "db7839e2-e7cd-e411-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "SAMARAKOON, SEYM",
+      "Name": "Melbourne International Lawyers",
+      "ABN": "93 915 013 988",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "12 Bibury Street,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "CRANBOURNE NORTH",
+        "OtherSuburb": null,
+        "PostCode": "3977",
+        "OtherPostCode": null,
+        "Latitude": -38.0846963,
+        "Longitude": 145.3176268,
+        "FullAddress": "12 Bibury Street,\r\nCRANBOURNE NORTH VIC 3977\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "99048513",
+          "FullNumber": "61 3 99048513"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9737344615064",
+    "CRN": "97373446150648",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0e954e72-c988-407d-8b65-b76ad51e594b",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "INTERNATIONAL LAWYERS PTY. LTD.",
+    "Name": "INTERNATIONAL LAWYERS PTY. LTD.",
+    "ABN": "26600556189",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2,  47 ",
+      "AddressLine2": "Princess Hwy, Dandenong ",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "DANDENONG",
+      "OtherSuburb": null,
+      "PostCode": "3175",
+      "OtherPostCode": null,
+      "Latitude": -36.8642845153809,
+      "Longitude": 144.310394287109,
+      "FullAddress": "Level 2,  47 \r\nPrincess Hwy, Dandenong \r\nDANDENONG VIC 3175\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "99048513",
+        "FullNumber": "61 3 99048513"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "88884947",
+        "FullNumber": "61 3 88884947"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Seym",
+    "SecondName": null,
+    "FamilyName": "Samarakoon",
+    "PostNominal": null,
+    "FullName": "Mr Seym Samarakoon",
+    "GivenName": "Seym"
+  },
+  "MARN": "1571459",
+  "IsNoFee": false,
+  "ContactId": "5b314d93-a4c0-e411-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Sri Lanka"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

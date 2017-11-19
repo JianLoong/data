@@ -1,0 +1,463 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6669020693702",
+    "CRN": "66690206937026",
+    "IsProfileLockedOut": null,
+    "BusinessId": "83ad157f-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "LE SUEUR, MARGARET CHRISTINA ELIZABETH",
+    "Name": "Margaret Le Sueur",
+    "ABN": "33097692707",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 3",
+      "AddressLine2": "54 Dorset Drive",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ROCHEDALE SOUTH",
+      "OtherSuburb": null,
+      "PostCode": "4123",
+      "OtherPostCode": null,
+      "Latitude": -27.60892,
+      "Longitude": 153.13992,
+      "FullAddress": "Unit 3\r\n54 Dorset Drive\r\nROCHEDALE SOUTH QLD 4123\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "34614702",
+        "FullNumber": "61 04 34614702"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6654185832921",
+      "CRN": "66541858329214",
+      "IsProfileLockedOut": null,
+      "BusinessId": "69673e0b-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Association",
+      "EntityName": "REFUGEE & IMMIGRATION LEGAL CENTRE INC",
+      "Name": "Refugee Legal",
+      "ABN": "94806293897",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 6",
+        "AddressLine2": "20 Otter Street",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "COLLINGWOOD",
+        "OtherSuburb": null,
+        "PostCode": "3066",
+        "OtherPostCode": null,
+        "Latitude": -37.80064,
+        "Longitude": 144.985504,
+        "FullAddress": "Level 6\r\n20 Otter Street\r\nCOLLINGWOOD VIC 3066\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "94130101",
+          "FullNumber": "61 3 94130101"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "94130144",
+          "FullNumber": "61 3 94130144"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657749863732",
+      "CRN": "66577498637320",
+      "IsProfileLockedOut": null,
+      "BusinessId": "730f4afb-8968-40dd-a9bf-2d655bab78a4",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "INTERNATIONAL CROSSOVER PTY. LTD.",
+      "Name": "PLAYFAIR VISA AND MIGRATION",
+      "ABN": "47003604886",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 5, 37 Bligh St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.866033,
+        "Longitude": 151.209812,
+        "FullAddress": "Level 5, 37 Bligh St\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92338899",
+          "FullNumber": "61 2 92338899"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92246599",
+          "FullNumber": "61 2 92246599"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6669020693702",
+    "CRN": "66690206937026",
+    "IsProfileLockedOut": null,
+    "BusinessId": "83ad157f-9952-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "LE SUEUR, MARGARET CHRISTINA ELIZABETH",
+    "Name": "Margaret Le Sueur",
+    "ABN": "33097692707",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 3",
+      "AddressLine2": "54 Dorset Drive",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ROCHEDALE SOUTH",
+      "OtherSuburb": null,
+      "PostCode": "4123",
+      "OtherPostCode": null,
+      "Latitude": -27.60892,
+      "Longitude": 153.13992,
+      "FullAddress": "Unit 3\r\n54 Dorset Drive\r\nROCHEDALE SOUTH QLD 4123\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "04",
+        "Number": "34614702",
+        "FullNumber": "61 04 34614702"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Margaret",
+    "SecondName": "Christina Elizabeth",
+    "FamilyName": "Le Sueur",
+    "PostNominal": null,
+    "FullName": "Ms Margaret Christina Elizabeth Le Sueur",
+    "GivenName": "Margaret Christina Elizabeth"
+  },
+  "MARN": "0108212",
+  "IsNoFee": false,
+  "ContactId": "956a901f-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "38abb7ac-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Fairfax",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "dda28edc-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": null,
+      "FirstName": "Anderson, Fairfax",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Anderson, Fairfax"
+    },
+    {
+      "Id": "5088640c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": null,
+      "FirstName": "Anderson",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Anderson"
+    },
+    {
+      "Id": "0c344678-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Anderson",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "8ceaae7f-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Fairfax",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "96eaae7f-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Anderson",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "a6eaae7f-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Fairfax",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "aeeaae7f-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Anderson",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "66ef88bb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Fairfax",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    },
+    {
+      "Id": "6aef88bb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Anderson",
+      "FirstName": "Margaret",
+      "SecondName": "Christina Elizabeth",
+      "Alias": null,
+      "GivenName": "Margaret Christina Elizabeth"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

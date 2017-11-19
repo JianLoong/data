@@ -1,0 +1,315 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661732940633",
+    "CRN": "66617329406336",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ad5d15cf-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FRAGOMEN (AUSTRALIA) PTY LIMITED",
+    "Name": "Fragomen (Australia) Pty Limited",
+    "ABN": "47104453947",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 19",
+      "AddressLine2": "201 Elizabeth Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.8737898,
+      "Longitude": 151.209626,
+      "FullAddress": "Level 19\r\n201 Elizabeth Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82248555",
+        "FullNumber": "61 2 82248555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82248500",
+        "FullNumber": "61 2 82248500"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657044574621",
+      "CRN": "66570445746219",
+      "IsProfileLockedOut": null,
+      "BusinessId": "bd8653b3-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "FRAGOMEN (AUSTRALIA) PTY LIMITED",
+      "Name": "Fragomen (Australia) Pty Limited",
+      "ABN": "47104453947",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 10",
+        "AddressLine2": "2 Mill Street",
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "PERTH",
+        "OtherSuburb": null,
+        "PostCode": "6000",
+        "OtherPostCode": null,
+        "Latitude": -31.954879,
+        "Longitude": 115.852851,
+        "FullAddress": "Level 10\r\n2 Mill Street\r\nPERTH WA 6000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "94360333",
+          "FullNumber": "61 8 94360333"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "8",
+          "Number": "94360300",
+          "FullNumber": "61 8 94360300"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661732940633",
+    "CRN": "66617329406336",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ad5d15cf-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "FRAGOMEN (AUSTRALIA) PTY LIMITED",
+    "Name": "Fragomen (Australia) Pty Limited",
+    "ABN": "47104453947",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 19",
+      "AddressLine2": "201 Elizabeth Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.8737898,
+      "Longitude": 151.209626,
+      "FullAddress": "Level 19\r\n201 Elizabeth Street\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82248555",
+        "FullNumber": "61 2 82248555"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "82248500",
+        "FullNumber": "61 2 82248500"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Alexandra",
+    "SecondName": "Louise",
+    "FamilyName": "Paterson",
+    "PostNominal": null,
+    "FullName": "Ms Alexandra Louise Paterson",
+    "GivenName": "Alexandra Louise"
+  },
+  "MARN": "1385851",
+  "IsNoFee": false,
+  "ContactId": "8c4efd0a-a552-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [
+    {
+      "Id": "2f0378eb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Saint",
+      "FirstName": "Alexandra",
+      "SecondName": "Louise",
+      "Alias": null,
+      "GivenName": "Alexandra Louise"
+    },
+    {
+      "Id": "b9937ef1-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Saint",
+      "FirstName": "Alex",
+      "SecondName": "Louise",
+      "Alias": null,
+      "GivenName": "Alex Louise"
+    },
+    {
+      "Id": "bb937ef1-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Paterson",
+      "FirstName": "Alex",
+      "SecondName": "Louise",
+      "Alias": null,
+      "GivenName": "Alex Louise"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

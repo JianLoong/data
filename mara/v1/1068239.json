@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3966531339282",
+    "CRN": "39665313392828",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fde2bc1c-dd3d-4558-ad49-ac1708192ef0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "HAMILTON, GENEVIEVE MARY",
+    "Name": "Hamiltons Migration",
+    "ABN": "76 454 170 865",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "14",
+      "AddressLine2": "Berwick Place",
+      "AddressLine3": "76 454 170 865",
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "GREENVALE",
+      "OtherSuburb": null,
+      "PostCode": "3059",
+      "OtherPostCode": null,
+      "Latitude": -37.64703,
+      "Longitude": 144.89524,
+      "FullAddress": "14\r\nBerwick Place\r\n76 454 170 865\r\nGREENVALE VIC 3059\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02426190",
+        "FullNumber": "61 4 02426190"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6665251350403",
+      "CRN": "66652513504035",
+      "IsProfileLockedOut": null,
+      "BusinessId": "64ca3f9e-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "HAMILTON, GENEVIEVE MARY",
+      "Name": "Hamiltons Migration Law",
+      "ABN": "76454170865",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "14 Berwick Place,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "GREENVALE",
+        "OtherSuburb": null,
+        "PostCode": "3059",
+        "OtherPostCode": null,
+        "Latitude": -37.647014,
+        "Longitude": 144.895095,
+        "FullAddress": "14 Berwick Place,\r\nGREENVALE VIC 3059\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "MELBOURNE"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "93333070",
+          "FullNumber": "61 3 93333070"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "3966531339282",
+    "CRN": "39665313392828",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fde2bc1c-dd3d-4558-ad49-ac1708192ef0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "HAMILTON, GENEVIEVE MARY",
+    "Name": "Hamiltons Migration",
+    "ABN": "76 454 170 865",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "14",
+      "AddressLine2": "Berwick Place",
+      "AddressLine3": "76 454 170 865",
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "GREENVALE",
+      "OtherSuburb": null,
+      "PostCode": "3059",
+      "OtherPostCode": null,
+      "Latitude": -37.64703,
+      "Longitude": 144.89524,
+      "FullAddress": "14\r\nBerwick Place\r\n76 454 170 865\r\nGREENVALE VIC 3059\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "02426190",
+        "FullNumber": "61 4 02426190"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Genevieve",
+    "SecondName": "Mary",
+    "FamilyName": "Hamilton",
+    "PostNominal": null,
+    "FullName": "Ms Genevieve Mary Hamilton",
+    "GivenName": "Genevieve Mary"
+  },
+  "MARN": "1068239",
+  "IsNoFee": false,
+  "ContactId": "cb9999ab-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,306 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0264575773293",
+    "CRN": "02645757732938",
+    "IsProfileLockedOut": null,
+    "BusinessId": "071fe9fe-8192-4ecb-afc4-84fa418ec0b7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "GET REAL LEGALS PTY LTD",
+    "Name": "GET REAL LEGALS PTY LTD",
+    "ABN": "90611086018",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "18, 302 South Pine Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRENDALE",
+      "OtherSuburb": null,
+      "PostCode": "4500",
+      "OtherPostCode": null,
+      "Latitude": -27.4158755,
+      "Longitude": 152.9918724,
+      "FullAddress": "18, 302 South Pine Road\r\nBRENDALE QLD 4500\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31422877",
+        "FullNumber": "61 7 31422877"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30483371",
+        "FullNumber": "61 7 30483371"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9742495990007",
+      "CRN": "97424959900076",
+      "IsProfileLockedOut": null,
+      "BusinessId": "acf82dd3-a383-4d28-88af-3334979be6b2",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "GET REAL MIGRATION PTY LTD",
+      "Name": "GET REAL MIGRATION PTY LTD",
+      "ABN": "58617921945",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "18/302 South Pine Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "BRENDALE",
+        "OtherSuburb": null,
+        "PostCode": "4500",
+        "OtherPostCode": null,
+        "Latitude": -27.32834,
+        "Longitude": 152.96209,
+        "FullAddress": "18/302 South Pine Road\r\nBRENDALE QLD 4500\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "19460674",
+          "FullNumber": "61 4 19460674"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0264575773293",
+    "CRN": "02645757732938",
+    "IsProfileLockedOut": null,
+    "BusinessId": "071fe9fe-8192-4ecb-afc4-84fa418ec0b7",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "GET REAL LEGALS PTY LTD",
+    "Name": "GET REAL LEGALS PTY LTD",
+    "ABN": "90611086018",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "18, 302 South Pine Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "BRENDALE",
+      "OtherSuburb": null,
+      "PostCode": "4500",
+      "OtherPostCode": null,
+      "Latitude": -27.4158755,
+      "Longitude": 152.9918724,
+      "FullAddress": "18, 302 South Pine Road\r\nBRENDALE QLD 4500\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "31422877",
+        "FullNumber": "61 7 31422877"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "30483371",
+        "FullNumber": "61 7 30483371"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Tracey",
+    "SecondName": "Leanne",
+    "FamilyName": "Price",
+    "PostNominal": null,
+    "FullName": "Mrs Tracey Leanne Price",
+    "GivenName": "Tracey Leanne"
+  },
+  "MARN": "0801472",
+  "IsNoFee": false,
+  "ContactId": "7968c751-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [
+    {
+      "Id": "228b2bf6-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Dadge",
+      "FirstName": "Tracey",
+      "SecondName": "Leanne",
+      "Alias": null,
+      "GivenName": "Tracey Leanne"
+    },
+    {
+      "Id": "6641c667-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Dadge",
+      "FirstName": "Tracey",
+      "SecondName": "Leanne",
+      "Alias": null,
+      "GivenName": "Tracey Leanne"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2142434097859",
+    "CRN": "21424340978596",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0d7cbfff-658a-4b1a-a4f4-3f22774e4403",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "GRINDLAY'S AUSTRALIA PTY LTD",
+    "Name": "GRINDLAY'S AUSTRALIA PTY LTD",
+    "ABN": "94112545605",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "17",
+      "AddressLine2": "Windorra Ave",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GLENMORE PARK",
+      "OtherSuburb": null,
+      "PostCode": "2745",
+      "OtherPostCode": null,
+      "Latitude": -33.79487,
+      "Longitude": 150.692,
+      "FullAddress": "17\r\nWindorra Ave\r\nGLENMORE PARK NSW 2745\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "0404980003",
+        "FullNumber": "61 4 0404980003"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Voluntary Worker",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9619201403166",
+      "CRN": "96192014031660",
+      "IsProfileLockedOut": null,
+      "BusinessId": "0c429e51-1db5-4648-8cf3-13ab92a068a2",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Grindlays International Immigration",
+      "Name": "Grindlays international Immigration",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "3rd Floor, SCO 122, District Shopping Centre,",
+        "AddressLine2": "Ranjit Avenue, In front of Improvement Trust Office",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Amritsar",
+        "PostCode": "Other",
+        "OtherPostCode": "1430001",
+        "Latitude": 31.65704,
+        "Longitude": 74.85949,
+        "FullAddress": "3rd Floor, SCO 122, District Shopping Centre,\r\nRanjit Avenue, In front of Improvement Trust Office\r\nAmritsar 1430001\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "183",
+          "Number": "2505065",
+          "FullNumber": "91 183 2505065"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2142434097859",
+    "CRN": "21424340978596",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0d7cbfff-658a-4b1a-a4f4-3f22774e4403",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "GRINDLAY'S AUSTRALIA PTY LTD",
+    "Name": "GRINDLAY'S AUSTRALIA PTY LTD",
+    "ABN": "94112545605",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "17",
+      "AddressLine2": "Windorra Ave",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "GLENMORE PARK",
+      "OtherSuburb": null,
+      "PostCode": "2745",
+      "OtherPostCode": null,
+      "Latitude": -33.79487,
+      "Longitude": 150.692,
+      "FullAddress": "17\r\nWindorra Ave\r\nGLENMORE PARK NSW 2745\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "0404980003",
+        "FullNumber": "61 4 0404980003"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Sukhmani",
+    "SecondName": null,
+    "FamilyName": "Khaira",
+    "PostNominal": null,
+    "FullName": "Miss Sukhmani Khaira",
+    "GivenName": "Sukhmani"
+  },
+  "MARN": "1686608",
+  "IsNoFee": false,
+  "ContactId": "70a47924-555f-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "0ead78a6-aae5-4fea-805e-2bd8432a6148",
+      "Type": "Former Name",
+      "FamilyName": "sukhmani",
+      "FirstName": "zenia",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "zenia"
+    },
+    {
+      "Id": "e9dcb43c-32a1-4c73-a8ec-855d1da76af3",
+      "Type": "Former Name",
+      "FamilyName": "sukhmani",
+      "FirstName": "sukhmani",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "sukhmani"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

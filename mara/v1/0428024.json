@@ -1,0 +1,199 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6761630622491",
+    "CRN": "67616306224911",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cb5acb8c-4a43-4f30-90f5-37273d179b67",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Milne Migration Solutions Limited",
+    "ABN": null,
+    "Address": {
+      "Country": "United Kingdom",
+      "AddressLine1": "30 Victoria Terrace",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "North Yorkshire",
+      "Suburb": "Other",
+      "OtherSuburb": "Addingham",
+      "PostCode": "Other",
+      "OtherPostCode": "LS29 0NF",
+      "Latitude": 53.958811,
+      "Longitude": -2.019426,
+      "FullAddress": "30 Victoria Terrace\r\nAddingham LS29 0NF\r\nUnited Kingdom"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "44",
+        "AreaCode": "7",
+        "Number": "435752733",
+        "FullNumber": "44 7 435752733"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6761630622491",
+    "CRN": "67616306224911",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cb5acb8c-4a43-4f30-90f5-37273d179b67",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "International Business",
+    "Name": "Milne Migration Solutions Limited",
+    "ABN": null,
+    "Address": {
+      "Country": "United Kingdom",
+      "AddressLine1": "30 Victoria Terrace",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "North Yorkshire",
+      "Suburb": "Other",
+      "OtherSuburb": "Addingham",
+      "PostCode": "Other",
+      "OtherPostCode": "LS29 0NF",
+      "Latitude": 53.958811,
+      "Longitude": -2.019426,
+      "FullAddress": "30 Victoria Terrace\r\nAddingham LS29 0NF\r\nUnited Kingdom"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "44",
+        "AreaCode": "7",
+        "Number": "435752733",
+        "FullNumber": "44 7 435752733"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Glen",
+    "SecondName": "David",
+    "FamilyName": "Milne",
+    "PostNominal": null,
+    "FullName": "Mr Glen David Milne",
+    "GivenName": "Glen David"
+  },
+  "MARN": "0428024",
+  "IsNoFee": false,
+  "ContactId": "05057711-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

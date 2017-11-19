@@ -1,0 +1,314 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6664796059616",
+    "CRN": "66647960596164",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5063eb7f-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "BHW INTERNATIONAL PTY. LTD.",
+    "Name": "Newquay Consulting",
+    "ABN": "60100667623",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 406, Level 1,",
+      "AddressLine2": "39 Kingsway",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "GLEN WAVERLEY",
+      "OtherSuburb": null,
+      "PostCode": "3150",
+      "OtherPostCode": null,
+      "Latitude": -37.879538,
+      "Longitude": 145.163596,
+      "FullAddress": "Suite 406, Level 1,\r\n39 Kingsway\r\nGLEN WAVERLEY VIC 3150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "DOCKLANDS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "DOCKLANDS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96779500",
+        "FullNumber": "61 3 96779500"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "86793398",
+        "FullNumber": "61 3 86793398"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6928613239043",
+      "CRN": "69286132390439",
+      "IsProfileLockedOut": null,
+      "BusinessId": "10b00810-d84e-e611-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "VANDT CONSULTING PTY. LTD.",
+      "Name": "VANDT CONSULTING PTY. LTD.",
+      "ABN": "56 169 080 611",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 3922, Level 39,",
+        "AddressLine2": "385 Bourke St",
+        "AddressLine3": null,
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3000",
+        "OtherPostCode": null,
+        "Latitude": -37.8145499,
+        "Longitude": 144.96293,
+        "FullAddress": "Suite 3922, Level 39,\r\n385 Bourke St\r\nMELBOURNE VIC 3000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "84592197",
+          "FullNumber": "61 3 84592197"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6664796059616",
+    "CRN": "66647960596164",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5063eb7f-9852-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "BHW INTERNATIONAL PTY. LTD.",
+    "Name": "Newquay Consulting",
+    "ABN": "60100667623",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 406, Level 1,",
+      "AddressLine2": "39 Kingsway",
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "GLEN WAVERLEY",
+      "OtherSuburb": null,
+      "PostCode": "3150",
+      "OtherPostCode": null,
+      "Latitude": -37.879538,
+      "Longitude": 145.163596,
+      "FullAddress": "Suite 406, Level 1,\r\n39 Kingsway\r\nGLEN WAVERLEY VIC 3150\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "DOCKLANDS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "DOCKLANDS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "96779500",
+        "FullNumber": "61 3 96779500"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "3",
+        "Number": "86793398",
+        "FullNumber": "61 3 86793398"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Betty",
+    "SecondName": "Bizhen",
+    "FamilyName": "Zhang",
+    "PostNominal": null,
+    "FullName": "Mrs Betty Bizhen Zhang",
+    "GivenName": "Betty Bizhen"
+  },
+  "MARN": "0964385",
+  "IsNoFee": false,
+  "ContactId": "8b409820-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "4ca74f5a-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Lei",
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": ""
+    },
+    {
+      "Id": "7733489c-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Lei",
+      "FirstName": "Betty",
+      "SecondName": "Bizhen",
+      "Alias": null,
+      "GivenName": "Betty Bizhen"
+    },
+    {
+      "Id": "9e04d955-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "LEI",
+      "FirstName": "Bizhen",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Bizhen"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

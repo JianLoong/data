@@ -1,0 +1,201 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658529002837",
+    "CRN": "66585290028370",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fec52f10-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ROSS RELOCATION SERVICES PTY LTD",
+    "Name": "Ross Relocation Services Pty Ltd",
+    "ABN": "16101657256",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 8",
+      "AddressLine2": "115 Grand Boulevard",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "JOONDALUP",
+      "OtherSuburb": null,
+      "PostCode": "6027",
+      "OtherPostCode": null,
+      "Latitude": -31.74149,
+      "Longitude": 115.77065,
+      "FullAddress": "Unit 8\r\n115 Grand Boulevard\r\nJOONDALUP WA 6027\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "JOONDALUP",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "JOONDALUP"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93015345",
+        "FullNumber": "61 8 93015345"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93015346",
+        "FullNumber": "61 8 93015346"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6658529002837",
+    "CRN": "66585290028370",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fec52f10-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "ROSS RELOCATION SERVICES PTY LTD",
+    "Name": "Ross Relocation Services Pty Ltd",
+    "ABN": "16101657256",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 8",
+      "AddressLine2": "115 Grand Boulevard",
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "JOONDALUP",
+      "OtherSuburb": null,
+      "PostCode": "6027",
+      "OtherPostCode": null,
+      "Latitude": -31.74149,
+      "Longitude": 115.77065,
+      "FullAddress": "Unit 8\r\n115 Grand Boulevard\r\nJOONDALUP WA 6027\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "JOONDALUP",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "JOONDALUP"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93015345",
+        "FullNumber": "61 8 93015345"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "8",
+        "Number": "93015346",
+        "FullNumber": "61 8 93015346"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Jason",
+    "SecondName": "Paul",
+    "FamilyName": "Ross",
+    "PostNominal": null,
+    "FullName": "Mr Jason Paul Ross",
+    "GivenName": "Jason Paul"
+  },
+  "MARN": "0954987",
+  "IsNoFee": false,
+  "ContactId": "afdb36fd-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "South Africa",
+    "Ireland"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

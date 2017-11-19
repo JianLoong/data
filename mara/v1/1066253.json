@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654316370358",
+    "CRN": "66543163703586",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e9da7811-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIA ASIA MIGRATION CONSULTANTS PTY. LTD.",
+    "Name": "Australia Asia Migration Consultants Pty Ltd",
+    "ABN": "94072788099",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 7A Hyper Centre",
+      "AddressLine2": "Ground Level 50-56 Sanders Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "UPPER MOUNT GRAVATT",
+      "OtherSuburb": null,
+      "PostCode": "4122",
+      "OtherPostCode": null,
+      "Latitude": -27.5585,
+      "Longitude": 153.08264,
+      "FullAddress": "Unit 7A Hyper Centre\r\nGround Level 50-56 Sanders Street\r\nUPPER MOUNT GRAVATT QLD 4122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "UPPER MOUNT GRAVATT",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "UPPER MOUNT GRAVATT"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "34220680",
+        "FullNumber": "61 7 34220680"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "9968233868541",
+      "CRN": "99682338685410",
+      "IsProfileLockedOut": null,
+      "BusinessId": "b2851418-2f98-483a-bda2-344ac0463dfa",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "LU, CHIA HUI",
+      "Name": "W.E Migration & Education",
+      "ABN": "58 670 034 343",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "8 Glenelg Place",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "PARKINSON",
+        "OtherSuburb": null,
+        "PostCode": "4115",
+        "OtherPostCode": null,
+        "Latitude": -27.64099,
+        "Longitude": 153.02743,
+        "FullAddress": "8 Glenelg Place\r\nPARKINSON QLD 4115\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "01453658",
+          "FullNumber": "61 4 01453658"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6654316370358",
+    "CRN": "66543163703586",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e9da7811-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "AUSTRALIA ASIA MIGRATION CONSULTANTS PTY. LTD.",
+    "Name": "Australia Asia Migration Consultants Pty Ltd",
+    "ABN": "94072788099",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Unit 7A Hyper Centre",
+      "AddressLine2": "Ground Level 50-56 Sanders Street",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "UPPER MOUNT GRAVATT",
+      "OtherSuburb": null,
+      "PostCode": "4122",
+      "OtherPostCode": null,
+      "Latitude": -27.5585,
+      "Longitude": 153.08264,
+      "FullAddress": "Unit 7A Hyper Centre\r\nGround Level 50-56 Sanders Street\r\nUPPER MOUNT GRAVATT QLD 4122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "UPPER MOUNT GRAVATT",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "UPPER MOUNT GRAVATT"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "34220680",
+        "FullNumber": "61 7 34220680"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Chia-Hui",
+    "SecondName": "Wendy",
+    "FamilyName": "Lu",
+    "PostNominal": null,
+    "FullName": "Ms Chia-Hui Wendy Lu",
+    "GivenName": "Chia-Hui Wendy"
+  },
+  "MARN": "1066253",
+  "IsNoFee": false,
+  "ContactId": "644a8587-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

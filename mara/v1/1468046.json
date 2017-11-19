@@ -1,0 +1,307 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9248727162316",
+    "CRN": "92487271623168",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fdcdda45-0e9b-45e0-84fe-00b18357393e",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "VEZ MIGRATIONS PTY LTD",
+    "Name": "VEZ MIGRATIONS PTY LTD",
+    "ABN": "68605891049",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "15 Kinchega Court",
+      "AddressLine2": "Warner",
+      "AddressLine3": "Qld",
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WATTLE GROVE",
+      "OtherSuburb": null,
+      "PostCode": "2173",
+      "OtherPostCode": null,
+      "Latitude": -33.9627,
+      "Longitude": 150.94715,
+      "FullAddress": "15 Kinchega Court\r\nWarner\r\nQld\r\nWATTLE GROVE NSW 2173\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "03332996",
+        "FullNumber": "61 4 03332996"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6661650969688",
+      "CRN": "66616509696882",
+      "IsProfileLockedOut": null,
+      "BusinessId": "225d15c9-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Konnecting Pty Ltd",
+      "Name": "Konnecting Pty Ltd",
+      "ABN": "93107921700",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 8.04, Level 8",
+        "AddressLine2": "307 Pitt Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.87361,
+        "Longitude": 151.20777,
+        "FullAddress": "Suite 8.04, Level 8\r\n307 Pitt Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "1300",
+          "Number": "131131",
+          "FullNumber": "61 1300 131131"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "82522501",
+          "FullNumber": "61 2 82522501"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9248727162316",
+    "CRN": "92487271623168",
+    "IsProfileLockedOut": null,
+    "BusinessId": "fdcdda45-0e9b-45e0-84fe-00b18357393e",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "VEZ MIGRATIONS PTY LTD",
+    "Name": "VEZ MIGRATIONS PTY LTD",
+    "ABN": "68605891049",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "15 Kinchega Court",
+      "AddressLine2": "Warner",
+      "AddressLine3": "Qld",
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "WATTLE GROVE",
+      "OtherSuburb": null,
+      "PostCode": "2173",
+      "OtherPostCode": null,
+      "Latitude": -33.9627,
+      "Longitude": 150.94715,
+      "FullAddress": "15 Kinchega Court\r\nWarner\r\nQld\r\nWATTLE GROVE NSW 2173\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "03332996",
+        "FullNumber": "61 4 03332996"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Ellen",
+    "SecondName": null,
+    "FamilyName": "Veza",
+    "PostNominal": null,
+    "FullName": "Mrs Ellen Veza",
+    "GivenName": "Ellen"
+  },
+  "MARN": "1468046",
+  "IsNoFee": false,
+  "ContactId": "d94dfdd9-096a-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "20c473aa-836b-e411-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Ellen Domantay Veza",
+      "GivenName": ""
+    },
+    {
+      "Id": "aeb6b00f-846b-e411-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Domantay",
+      "FirstName": "Ellen",
+      "SecondName": "Valderrama",
+      "Alias": null,
+      "GivenName": "Ellen Valderrama"
+    }
+  ],
+  "Aliases": [
+    "Ellen Domantay Veza"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

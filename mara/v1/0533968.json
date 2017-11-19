@@ -1,0 +1,486 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657910520254",
+    "CRN": "66579105202544",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ffa8d3ea-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Elite Migration and International Education Services Pty Ltd",
+    "Name": "Elite Migration and International Education Services Pty Ltd",
+    "ABN": "88116152071",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 306",
+      "AddressLine2": "160 Rowe Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "EASTWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2122",
+      "OtherPostCode": null,
+      "Latitude": -33.79175,
+      "Longitude": 151.08052,
+      "FullAddress": "Suite 306\r\n160 Rowe Street\r\nEASTWOOD NSW 2122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98583445",
+        "FullNumber": "61 02 98583445"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98583639",
+        "FullNumber": "61 02 98583639"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6658511890572",
+      "CRN": "66585118905723",
+      "IsProfileLockedOut": null,
+      "BusinessId": "e800260a-9752-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Elite Migration and International Education Services Pty Ltd",
+      "Name": "Elite Migration and International Education Services Pty Ltd",
+      "ABN": "88116152071",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 3, 29/F, 201 Elizabeth St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.8737898,
+        "Longitude": 151.209626,
+        "FullAddress": "Suite 3, 29/F, 201 Elizabeth St\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "92615061",
+          "FullNumber": "61 02 92615061"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "92863518",
+          "FullNumber": "61 02 92863518"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6656431752826",
+      "CRN": "66564317528263",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d631718e-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "Australasia International Education Group Pty Ltd",
+      "Name": "Australasia International Education Group Pty Ltd",
+      "ABN": "15101447456",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 306, 160 Rowe St",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "EASTWOOD",
+        "OtherSuburb": null,
+        "PostCode": "2122",
+        "OtherPostCode": null,
+        "Latitude": -33.7916183,
+        "Longitude": 151.0810695,
+        "FullAddress": "Suite 306, 160 Rowe St\r\nEASTWOOD NSW 2122\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "98583445",
+          "FullNumber": "61 02 98583445"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "98583639",
+          "FullNumber": "61 02 98583639"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6664468935929",
+      "CRN": "66644689359293",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d867af6d-9852-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "NEW LINK INTERNATIONAL PTY LTD",
+      "Name": "NEW LINK INTERNATIONAL PTY LTD",
+      "ABN": "35142328630",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 29.03, Level 29,",
+        "AddressLine2": "201 Elizabeth Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.8737898,
+        "Longitude": 151.209626,
+        "FullAddress": "Suite 29.03, Level 29,\r\n201 Elizabeth Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92615061",
+          "FullNumber": "61 2 92615061"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "92863518",
+          "FullNumber": "61 2 92863518"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657910520254",
+    "CRN": "66579105202544",
+    "IsProfileLockedOut": null,
+    "BusinessId": "ffa8d3ea-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Elite Migration and International Education Services Pty Ltd",
+    "Name": "Elite Migration and International Education Services Pty Ltd",
+    "ABN": "88116152071",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 306",
+      "AddressLine2": "160 Rowe Street",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "EASTWOOD",
+      "OtherSuburb": null,
+      "PostCode": "2122",
+      "OtherPostCode": null,
+      "Latitude": -33.79175,
+      "Longitude": 151.08052,
+      "FullAddress": "Suite 306\r\n160 Rowe Street\r\nEASTWOOD NSW 2122\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98583445",
+        "FullNumber": "61 02 98583445"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "98583639",
+        "FullNumber": "61 02 98583639"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Eric",
+    "SecondName": "Shu-Wah",
+    "FamilyName": "Ip",
+    "PostNominal": null,
+    "FullName": "Mr Eric Shu-Wah Ip",
+    "GivenName": "Eric Shu-Wah"
+  },
+  "MARN": "0533968",
+  "IsNoFee": false,
+  "ContactId": "be97e86b-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c8a93fb4-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ip",
+      "FirstName": "Reginald",
+      "SecondName": "Shu Wah",
+      "Alias": null,
+      "GivenName": "Reginald Shu Wah"
+    },
+    {
+      "Id": "cba93fb4-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ip",
+      "FirstName": "Shu",
+      "SecondName": "Wah",
+      "Alias": null,
+      "GivenName": "Shu Wah"
+    },
+    {
+      "Id": "cfa93fb4-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ip",
+      "FirstName": "Shu Wah",
+      "SecondName": "Reginald",
+      "Alias": null,
+      "GivenName": "Shu Wah Reginald"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

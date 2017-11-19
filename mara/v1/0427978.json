@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8820569392065",
+    "CRN": "88205693920656",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d166ed3d-81c3-4192-8e8d-6432bba8a189",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PARISH PATIENCE BITEL PTY LTD",
+    "Name": "Parish Patience Immigration Lawyers",
+    "ABN": "99613933289",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3",
+      "AddressLine2": "83 York St",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.86941,
+      "Longitude": 151.20573,
+      "FullAddress": "Level 3\r\n83 York St\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92868700",
+        "FullNumber": "61 2 92868700"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92833323",
+        "FullNumber": "61 2 92833323"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657176562269",
+      "CRN": "66571765622695",
+      "IsProfileLockedOut": null,
+      "BusinessId": "2d7f7db9-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Ruwan Prashantha Samarasinghe",
+      "Name": "Ruwan Prashantha Samarasinghe",
+      "ABN": null,
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "6 Andrew Place",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "NORTH ROCKS",
+        "OtherSuburb": null,
+        "PostCode": "2151",
+        "OtherPostCode": null,
+        "Latitude": -33.77014,
+        "Longitude": 151.01385,
+        "FullAddress": "6 Andrew Place\r\nNORTH ROCKS NSW 2151\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "NORTH ROCKS",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "NORTH ROCKS"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "88409146",
+          "FullNumber": "61 02 88409146"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "02",
+          "Number": "88409146",
+          "FullNumber": "61 02 88409146"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8820569392065",
+    "CRN": "88205693920656",
+    "IsProfileLockedOut": null,
+    "BusinessId": "d166ed3d-81c3-4192-8e8d-6432bba8a189",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "PARISH PATIENCE BITEL PTY LTD",
+    "Name": "Parish Patience Immigration Lawyers",
+    "ABN": "99613933289",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 3",
+      "AddressLine2": "83 York St",
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.86941,
+      "Longitude": 151.20573,
+      "FullAddress": "Level 3\r\n83 York St\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92868700",
+        "FullNumber": "61 2 92868700"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "92833323",
+        "FullNumber": "61 2 92833323"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ruwan",
+    "SecondName": "Prashantha",
+    "FamilyName": "Samarasinghe",
+    "PostNominal": null,
+    "FullName": "Mr Ruwan Prashantha Samarasinghe",
+    "GivenName": "Ruwan Prashantha"
+  },
+  "MARN": "0427978",
+  "IsNoFee": false,
+  "ContactId": "ff047711-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "63ba3584-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Samarasinghe",
+      "FirstName": "Samarappulie",
+      "SecondName": "Arachchige Ruwan Prashantha",
+      "Alias": null,
+      "GivenName": "Samarappulie Arachchige Ruwan Prashantha"
+    },
+    {
+      "Id": "28d34f8a-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Samarasinghe",
+      "FirstName": "Samarappuli Arachchige",
+      "SecondName": "Ruwan Prashantha",
+      "Alias": null,
+      "GivenName": "Samarappuli Arachchige Ruwan Prashantha"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

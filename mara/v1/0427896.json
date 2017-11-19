@@ -1,0 +1,227 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657169961412",
+    "CRN": "66571699614123",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2c7f7db9-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Joseph Ho Lawyers Pty Ltd",
+    "Name": "Joseph Ho Lawyers",
+    "ABN": "40158513716",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 6",
+      "AddressLine2": "2922 Logan Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "UNDERWOOD",
+      "OtherSuburb": null,
+      "PostCode": "4119",
+      "OtherPostCode": null,
+      "Latitude": -27.60806,
+      "Longitude": 153.11245,
+      "FullAddress": "Shop 6\r\n2922 Logan Road\r\nUNDERWOOD QLD 4119\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "COOPERS PLAINS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "COOPERS PLAINS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "38418818",
+        "FullNumber": "61 07 38418818"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "38418828",
+        "FullNumber": "61 07 38418828"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6657169961412",
+    "CRN": "66571699614123",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2c7f7db9-9652-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Joseph Ho Lawyers Pty Ltd",
+    "Name": "Joseph Ho Lawyers",
+    "ABN": "40158513716",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Shop 6",
+      "AddressLine2": "2922 Logan Road",
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "UNDERWOOD",
+      "OtherSuburb": null,
+      "PostCode": "4119",
+      "OtherPostCode": null,
+      "Latitude": -27.60806,
+      "Longitude": 153.11245,
+      "FullAddress": "Shop 6\r\n2922 Logan Road\r\nUNDERWOOD QLD 4119\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "COOPERS PLAINS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "COOPERS PLAINS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "38418818",
+        "FullNumber": "61 07 38418818"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "38418828",
+        "FullNumber": "61 07 38418828"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Hay",
+    "SecondName": "Ming Joseph",
+    "FamilyName": "Ho",
+    "PostNominal": null,
+    "FullName": "Mr Hay Ming Joseph Ho",
+    "GivenName": "Hay Ming Joseph"
+  },
+  "MARN": "0427896",
+  "IsNoFee": false,
+  "ContactId": "ef047711-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "54ba3584-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ho",
+      "FirstName": "Hay",
+      "SecondName": "Ming",
+      "Alias": null,
+      "GivenName": "Hay Ming"
+    },
+    {
+      "Id": "57ba3584-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ho",
+      "FirstName": "Joseph",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Joseph"
+    },
+    {
+      "Id": "5aba3584-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ho",
+      "FirstName": "Joseph",
+      "SecondName": "Hay Ming",
+      "Alias": null,
+      "GivenName": "Joseph Hay Ming"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

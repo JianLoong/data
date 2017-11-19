@@ -1,0 +1,468 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2265255373552",
+    "CRN": "22652553735527",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c06a978c-76a7-4ffa-a8dc-063953a28da0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "BEST MIGRATION SERVICES GLOBAL PTY LTD",
+    "Name": "BEST MIGRATION SERVICES GLOBAL PTY LTD",
+    "ABN": "73167593160",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "PO Box 7262",
+      "AddressLine2": "Hutt Street",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.93557,
+      "Longitude": 138.61259,
+      "FullAddress": "PO Box 7262\r\nHutt Street\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "4",
+        "Number": " 99988219",
+        "FullNumber": "+61 4  99988219"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1704606344419",
+      "CRN": "17046063444196",
+      "IsProfileLockedOut": null,
+      "BusinessId": "d8ee1a65-2533-4287-9484-87de6cfa9f05",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "FBP Dubai - Future Forward",
+      "ABN": null,
+      "Address": {
+        "Country": "United Arab Emirates",
+        "AddressLine1": "SBC Business Center, Latifa Towers, 17th Floor,",
+        "AddressLine2": "Sheikh Zayed Road (between WTC Metro and Emirates Towers Metro),",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Downtown Dubai",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 25.18823,
+        "Longitude": 55.25711,
+        "FullAddress": "SBC Business Center, Latifa Towers, 17th Floor,\r\nSheikh Zayed Road (between WTC Metro and Emirates Towers Metro),\r\nDowntown Dubai \r\nUnited Arab Emirates"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+971",
+          "AreaCode": "50",
+          "Number": "1027143",
+          "FullNumber": "+971 50 1027143"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "7575111101197",
+      "CRN": "75751111011974",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5562c0bb-5465-4764-af11-71bb6fdb143e",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "BPA Thimphu - FBP Future Forward",
+      "ABN": null,
+      "Address": {
+        "Country": "Bhutan",
+        "AddressLine1": "8/11 Building, 3rd Floor,",
+        "AddressLine2": "Chang Lam,",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Thimphu",
+        "Suburb": "Other",
+        "OtherSuburb": "Thimphu",
+        "PostCode": "Other",
+        "OtherPostCode": "11001",
+        "Latitude": 27.4682006835938,
+        "Longitude": 89.6618881225586,
+        "FullAddress": "8/11 Building, 3rd Floor,\r\nChang Lam,\r\nThimphu 11001\r\nBhutan"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+975",
+          "AreaCode": "17",
+          "Number": "351667",
+          "FullNumber": "+975 17 351667"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1723173416347",
+      "CRN": "17231734163474",
+      "IsProfileLockedOut": null,
+      "BusinessId": "a4391327-d921-4294-acb4-0a4dd727dd28",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "International Business",
+      "Name": "FBP Pune - Future Forward",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "Office Number 206, 2nd Floor, KPCT Mall, ",
+        "AddressLine2": "Fatima Nagar,",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": "Maharashtra",
+        "Suburb": "Other",
+        "OtherSuburb": "Pune",
+        "PostCode": "Other",
+        "OtherPostCode": null,
+        "Latitude": 18.5536403656006,
+        "Longitude": 73.918342590332,
+        "FullAddress": "Office Number 206, 2nd Floor, KPCT Mall, \r\nFatima Nagar,\r\nPune \r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "+91",
+          "AreaCode": "9",
+          "Number": "172204343",
+          "FullNumber": "+91 9 172204343"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2265255373552",
+    "CRN": "22652553735527",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c06a978c-76a7-4ffa-a8dc-063953a28da0",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "BEST MIGRATION SERVICES GLOBAL PTY LTD",
+    "Name": "BEST MIGRATION SERVICES GLOBAL PTY LTD",
+    "ABN": "73167593160",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "PO Box 7262",
+      "AddressLine2": "Hutt Street",
+      "AddressLine3": null,
+      "State": "SA",
+      "OtherState": null,
+      "Suburb": "ADELAIDE",
+      "OtherSuburb": null,
+      "PostCode": "5000",
+      "OtherPostCode": null,
+      "Latitude": -34.93557,
+      "Longitude": 138.61259,
+      "FullAddress": "PO Box 7262\r\nHutt Street\r\nADELAIDE SA 5000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "+61",
+        "AreaCode": "4",
+        "Number": " 99988219",
+        "FullNumber": "+61 4  99988219"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Janine",
+    "SecondName": null,
+    "FamilyName": "Elizabeth",
+    "PostNominal": null,
+    "FullName": "Miss Janine Elizabeth",
+    "GivenName": "Janine"
+  },
+  "MARN": "1464402",
+  "IsNoFee": false,
+  "ContactId": "824cfdcb-5bf3-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "9ebbe16c-c008-e411-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Shuttleworth",
+      "FirstName": "Janine",
+      "SecondName": "Elizabeth",
+      "Alias": null,
+      "GivenName": "Janine Elizabeth"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

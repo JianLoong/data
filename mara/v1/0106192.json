@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661170655555",
+    "CRN": "66611706555550",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cfcba5aa-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "GANLATH, JUANITA MARIE ANTIONETTE GERALDINE",
+    "Name": "Ganlaths",
+    "ABN": "82845293201",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "27 Caley Crescent",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "NARRABUNDAH",
+      "OtherSuburb": null,
+      "PostCode": "2604",
+      "OtherPostCode": null,
+      "Latitude": -35.33369,
+      "Longitude": 149.13905,
+      "FullAddress": "27 Caley Crescent\r\nNARRABUNDAH ACT 2604\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62606328",
+        "FullNumber": "61 2 62606328"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62606328",
+        "FullNumber": "61 2 62606328"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6657731976395",
+      "CRN": "66577319763952",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3e66cdde-9652-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "Don Lalith Hilary Ganlath",
+      "Name": "Don Lalith Hilary Ganlath",
+      "ABN": null,
+      "Address": {
+        "Country": "Sri Lanka",
+        "AddressLine1": "Mezannine Floor, Galadari Hotel",
+        "AddressLine2": "64 Lotus Road",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Colombo 01",
+        "PostCode": "Other",
+        "OtherPostCode": "00100",
+        "Latitude": 6.9342443,
+        "Longitude": 79.8469752,
+        "FullAddress": "Mezannine Floor, Galadari Hotel\r\n64 Lotus Road\r\nColombo 01 00100\r\nSri Lanka"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "94",
+          "AreaCode": "11",
+          "Number": "2333281",
+          "FullNumber": "94 11 2333281"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "94",
+          "AreaCode": "11",
+          "Number": "2438371",
+          "FullNumber": "94 11 2438371"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6661170655555",
+    "CRN": "66611706555550",
+    "IsProfileLockedOut": null,
+    "BusinessId": "cfcba5aa-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "GANLATH, JUANITA MARIE ANTIONETTE GERALDINE",
+    "Name": "Ganlaths",
+    "ABN": "82845293201",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "27 Caley Crescent",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "ACT",
+      "OtherState": null,
+      "Suburb": "NARRABUNDAH",
+      "OtherSuburb": null,
+      "PostCode": "2604",
+      "OtherPostCode": null,
+      "Latitude": -35.33369,
+      "Longitude": 149.13905,
+      "FullAddress": "27 Caley Crescent\r\nNARRABUNDAH ACT 2604\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62606328",
+        "FullNumber": "61 2 62606328"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "62606328",
+        "FullNumber": "61 2 62606328"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Don",
+    "SecondName": "Lalith Hilary",
+    "FamilyName": "Ganlath",
+    "PostNominal": null,
+    "FullName": "Mr Don Lalith Hilary Ganlath",
+    "GivenName": "Don Lalith Hilary"
+  },
+  "MARN": "0106192",
+  "IsNoFee": false,
+  "ContactId": "750b7b0d-a052-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Sri Lanka"
+  ],
+  "OtherNames": [
+    {
+      "Id": "8decbda6-0353-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Ganlath",
+      "FirstName": "Ganegoda",
+      "SecondName": "Appuhamilage",
+      "Alias": null,
+      "GivenName": "Ganegoda Appuhamilage"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

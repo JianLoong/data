@@ -1,0 +1,323 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0655553743994",
+    "CRN": "06555537439944",
+    "IsProfileLockedOut": null,
+    "BusinessId": "65d244ce-fc65-4d23-b76d-ba93685a4b8c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EZ EDUCATION GROUP PTY LTD",
+    "Name": "EZ EDUCATION GROUP PTY LTD",
+    "ABN": "90166299725",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 302B, Level 3, 541 Kent St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87574,
+      "Longitude": 151.205184,
+      "FullAddress": "Suite 302B, Level 3, 541 Kent St\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "92863282",
+        "FullNumber": "61 02 92863282"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "80419394",
+        "FullNumber": "61 02 80419394"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "1662014606445",
+      "CRN": "16620146064458",
+      "IsProfileLockedOut": null,
+      "BusinessId": "3586b09d-379d-e511-9403-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "BARUA, SHADESH",
+      "Name": "Australian Migration and Education Center (AMEC)",
+      "ABN": "71 149 124 675",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Suite 302B, Level 3,",
+        "AddressLine2": "541 Kent Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "SYDNEY",
+        "OtherSuburb": null,
+        "PostCode": "2000",
+        "OtherPostCode": null,
+        "Latitude": -33.87574,
+        "Longitude": 151.205184,
+        "FullAddress": "Suite 302B, Level 3,\r\n541 Kent Street\r\nSYDNEY NSW 2000\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "25222131",
+          "FullNumber": "61 4 25222131"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "0655553743994",
+    "CRN": "06555537439944",
+    "IsProfileLockedOut": null,
+    "BusinessId": "65d244ce-fc65-4d23-b76d-ba93685a4b8c",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "EZ EDUCATION GROUP PTY LTD",
+    "Name": "EZ EDUCATION GROUP PTY LTD",
+    "ABN": "90166299725",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Suite 302B, Level 3, 541 Kent St",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SYDNEY",
+      "OtherSuburb": null,
+      "PostCode": "2000",
+      "OtherPostCode": null,
+      "Latitude": -33.87574,
+      "Longitude": 151.205184,
+      "FullAddress": "Suite 302B, Level 3, 541 Kent St\r\nSYDNEY NSW 2000\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "92863282",
+        "FullNumber": "61 02 92863282"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "02",
+        "Number": "80419394",
+        "FullNumber": "61 02 80419394"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Shadesh",
+    "SecondName": null,
+    "FamilyName": "Barua",
+    "PostNominal": null,
+    "FullName": "Mr Shadesh Barua",
+    "GivenName": "Shadesh"
+  },
+  "MARN": "0602197",
+  "IsNoFee": false,
+  "ContactId": "19c82784-a152-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c8c645cc-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Sraman",
+      "FirstName": "Sree",
+      "SecondName": "Progha Lankar",
+      "Alias": null,
+      "GivenName": "Sree Progha Lankar"
+    },
+    {
+      "Id": "246446d8-0453-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Sraman",
+      "FirstName": "Progha",
+      "SecondName": "Lankar Sraman",
+      "Alias": null,
+      "GivenName": "Progha Lankar Sraman"
+    },
+    {
+      "Id": "5c547fcd-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Sraman",
+      "FirstName": "Sree",
+      "SecondName": "Progha Lankar",
+      "Alias": null,
+      "GivenName": "Sree Progha Lankar"
+    },
+    {
+      "Id": "60547fcd-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Sraman",
+      "FirstName": "Progha",
+      "SecondName": "Lankar Sraman",
+      "Alias": null,
+      "GivenName": "Progha Lankar Sraman"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

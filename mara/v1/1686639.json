@@ -1,0 +1,305 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8194370064174",
+    "CRN": "81943700641741",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e5716e5c-28c1-47eb-b6a2-a6a92337cae8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MORETTI, ELENA MARIA",
+    "Name": "MORETTI, ELENA MARIA",
+    "ABN": "91867708678",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "35B Beamish Ave",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "MOUNT PLEASANT",
+      "OtherSuburb": null,
+      "PostCode": "6153",
+      "OtherPostCode": null,
+      "Latitude": -32.0386,
+      "Longitude": 115.85692,
+      "FullAddress": "35B Beamish Ave\r\nMOUNT PLEASANT WA 6153\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "13946094",
+        "FullNumber": "61 4 13946094"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6674503275721",
+      "CRN": "66745032757214",
+      "IsProfileLockedOut": null,
+      "BusinessId": "cd7d4ec6-9a52-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "DANDOM PTY LTD",
+      "Name": "NEXT IN LINE MIGRATION SERVICES",
+      "ABN": "33166009856",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "75 Morley Drive",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "WA",
+        "OtherState": null,
+        "Suburb": "BALCATTA",
+        "OtherSuburb": null,
+        "PostCode": "6021",
+        "OtherPostCode": null,
+        "Latitude": -31.88866,
+        "Longitude": 115.83597,
+        "FullAddress": "75 Morley Drive\r\nBALCATTA WA 6021\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "BALCATTA",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "BALCATTA"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "99305163",
+          "FullNumber": "61 4 99305163"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": "94400859",
+          "FullNumber": "94400859"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "8194370064174",
+    "CRN": "81943700641741",
+    "IsProfileLockedOut": null,
+    "BusinessId": "e5716e5c-28c1-47eb-b6a2-a6a92337cae8",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "MORETTI, ELENA MARIA",
+    "Name": "MORETTI, ELENA MARIA",
+    "ABN": "91867708678",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "35B Beamish Ave",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "WA",
+      "OtherState": null,
+      "Suburb": "MOUNT PLEASANT",
+      "OtherSuburb": null,
+      "PostCode": "6153",
+      "OtherPostCode": null,
+      "Latitude": -32.0386,
+      "Longitude": 115.85692,
+      "FullAddress": "35B Beamish Ave\r\nMOUNT PLEASANT WA 6153\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "13946094",
+        "FullNumber": "61 4 13946094"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Elena",
+    "SecondName": "Maria",
+    "FamilyName": "Moretti",
+    "PostNominal": null,
+    "FullName": "Mrs Elena Maria Moretti",
+    "GivenName": "Elena Maria"
+  },
+  "MARN": "1686639",
+  "IsNoFee": false,
+  "ContactId": "8bc657c0-456b-e611-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "854f007a-4e33-40c6-a0c1-004d8b730f8c",
+      "Type": "Former Name",
+      "FamilyName": "Murace",
+      "FirstName": "Elena",
+      "SecondName": "Maria",
+      "Alias": null,
+      "GivenName": "Elena Maria"
+    },
+    {
+      "Id": "bf567c04-d09c-48c5-b18b-de6c6ecf170a",
+      "Type": "Former Name",
+      "FamilyName": "Ross",
+      "FirstName": "Elena",
+      "SecondName": "Maria",
+      "Alias": null,
+      "GivenName": "Elena Maria"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

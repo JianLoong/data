@@ -1,0 +1,392 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672729448871",
+    "CRN": "66727294488710",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7add965d-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LATTICE CAPITAL PTY LTD",
+    "Name": "Lattice Capital Pty Ltd",
+    "ABN": "59127096315",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1, 4/19 Aaron Place",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "INDOOROOPILLY",
+      "OtherSuburb": null,
+      "PostCode": "4068",
+      "OtherPostCode": null,
+      "Latitude": -27.5045,
+      "Longitude": 152.9668,
+      "FullAddress": "Level 1, 4/19 Aaron Place\r\nINDOOROOPILLY QLD 4068\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "INDOOROOPILLY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "INDOOROOPILLY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38784252",
+        "FullNumber": "61 7 38784252"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Employee",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6667425830747",
+      "CRN": "66674258307478",
+      "IsProfileLockedOut": null,
+      "BusinessId": "5415f21c-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "ROBERTSON, NELLIE",
+      "Name": "Robertson & Associates Solicitors",
+      "ABN": "47994604615",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "203 / 417 New South Head Road",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "DOUBLE BAY",
+        "OtherSuburb": null,
+        "PostCode": "2028",
+        "OtherPostCode": null,
+        "Latitude": -33.87783,
+        "Longitude": 151.24337,
+        "FullAddress": "203 / 417 New South Head Road\r\nDOUBLE BAY NSW 2028\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "DOUBLE BAY",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "DOUBLE BAY"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "93624957",
+          "FullNumber": "61 2 93624957"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "93273251",
+          "FullNumber": "61 2 93273251"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    },
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4001140101972",
+      "CRN": "40011401019724",
+      "IsProfileLockedOut": null,
+      "BusinessId": "673cecab-c979-4304-8282-4867ace3cdfc",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "LATTICE CAPITAL PTY LTD T/A LATTICE MIGRATION",
+      "Name": "LATTICE CAPITAL PTY LTD T/A LATTICE MIGRATION",
+      "ABN": null,
+      "Address": {
+        "Country": "South Africa",
+        "AddressLine1": "BLOCK B, LIBRARY OFFICE PARK",
+        "AddressLine2": "14 PAYNE ROAD",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "BRYANSTON",
+        "PostCode": "Other",
+        "OtherPostCode": "2191",
+        "Latitude": -26.0625992,
+        "Longitude": 28.0233994,
+        "FullAddress": "BLOCK B, LIBRARY OFFICE PARK\r\n14 PAYNE ROAD\r\nBRYANSTON 2191\r\nSouth Africa"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "0011",
+          "AreaCode": "27",
+          "Number": "110352411",
+          "FullNumber": "0011 27 110352411"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6672729448871",
+    "CRN": "66727294488710",
+    "IsProfileLockedOut": null,
+    "BusinessId": "7add965d-9a52-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "LATTICE CAPITAL PTY LTD",
+    "Name": "Lattice Capital Pty Ltd",
+    "ABN": "59127096315",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 1, 4/19 Aaron Place",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "INDOOROOPILLY",
+      "OtherSuburb": null,
+      "PostCode": "4068",
+      "OtherPostCode": null,
+      "Latitude": -27.5045,
+      "Longitude": 152.9668,
+      "FullAddress": "Level 1, 4/19 Aaron Place\r\nINDOOROOPILLY QLD 4068\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "INDOOROOPILLY",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "INDOOROOPILLY"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "7",
+        "Number": "38784252",
+        "FullNumber": "61 7 38784252"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Joan",
+    "SecondName": null,
+    "FamilyName": "Cuss",
+    "PostNominal": null,
+    "FullName": "Ms Joan Cuss",
+    "GivenName": "Joan"
+  },
+  "MARN": "0901122",
+  "IsNoFee": false,
+  "ContactId": "3413ecbf-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "fcb2101a-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Du Toit",
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": ""
+    },
+    {
+      "Id": "00b3101a-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Pretorius",
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

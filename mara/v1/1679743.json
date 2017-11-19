@@ -1,0 +1,287 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9396115464324",
+    "CRN": "93961154643247",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5994882b-85fd-473d-8452-4913b8632528",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Migration Plus Network Pty Ltd",
+    "Name": "MIGRATION PLUS",
+    "ABN": "45136723987",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Cairns Corporate Tower, Level 12/ 15 Lake Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": "4870",
+      "OtherPostCode": null,
+      "Latitude": -16.92529,
+      "Longitude": 145.7779,
+      "FullAddress": "Cairns Corporate Tower, Level 12/ 15 Lake Street\r\nCAIRNS QLD 4870\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "40412620",
+        "FullNumber": "61 07 40412620"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "40415011",
+        "FullNumber": "61 07 40415011"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4168573186769",
+      "CRN": "41685731867690",
+      "IsProfileLockedOut": null,
+      "BusinessId": "82f07c81-e76b-489a-9dd6-1d910149e76d",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "BHARDWAJ, AMIT ",
+      "Name": "Ozinex Consultants",
+      "ABN": "41624683673",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Level 5",
+        "AddressLine2": "180 Albert Road",
+        "AddressLine3": "South Melbourne  ",
+        "State": "VIC",
+        "OtherState": null,
+        "Suburb": "SOUTH MELBOURNE",
+        "OtherSuburb": null,
+        "PostCode": "3205",
+        "OtherPostCode": null,
+        "Latitude": -37.83682,
+        "Longitude": 144.96823,
+        "FullAddress": "Level 5\r\n180 Albert Road\r\nSouth Melbourne  \r\nSOUTH MELBOURNE VIC 3205\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "3",
+          "Number": "95302696",
+          "FullNumber": "61 3 95302696"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9396115464324",
+    "CRN": "93961154643247",
+    "IsProfileLockedOut": null,
+    "BusinessId": "5994882b-85fd-473d-8452-4913b8632528",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "Migration Plus Network Pty Ltd",
+    "Name": "MIGRATION PLUS",
+    "ABN": "45136723987",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Cairns Corporate Tower, Level 12/ 15 Lake Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "CAIRNS",
+      "OtherSuburb": null,
+      "PostCode": "4870",
+      "OtherPostCode": null,
+      "Latitude": -16.92529,
+      "Longitude": 145.7779,
+      "FullAddress": "Cairns Corporate Tower, Level 12/ 15 Lake Street\r\nCAIRNS QLD 4870\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "40412620",
+        "FullNumber": "61 07 40412620"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "07",
+        "Number": "40415011",
+        "FullNumber": "61 07 40415011"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Amit",
+    "SecondName": null,
+    "FamilyName": "Bhardwaj",
+    "PostNominal": null,
+    "FullName": "Mr Amit Bhardwaj",
+    "GivenName": "Amit"
+  },
+  "MARN": "1679743",
+  "IsNoFee": false,
+  "ContactId": "338080c3-d5c3-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "India"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

@@ -1,0 +1,297 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2627242544504",
+    "CRN": "26272425445049",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a3c9f588-deb5-4c20-bf68-b46f15167d63",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "IMMIGRATION MATTERS PTY LTD",
+    "Name": "IMMIGRATION MATTERS PTY LTD",
+    "ABN": "55612560013",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "12 Wyllie Place",
+      "AddressLine2": null,
+      "AddressLine3": "Cherrybrook",
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHERRYBROOK",
+      "OtherSuburb": null,
+      "PostCode": "2126",
+      "OtherPostCode": null,
+      "Latitude": -33.71446,
+      "Longitude": 151.0404,
+      "FullAddress": "12 Wyllie Place\r\nCherrybrook\r\nCHERRYBROOK NSW 2126\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "94846839",
+        "FullNumber": "61 2 94846839"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "11344914",
+        "FullNumber": "61 4 11344914"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Owner",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "2064457034093",
+      "CRN": "20644570340939",
+      "IsProfileLockedOut": null,
+      "BusinessId": "9d4a5a3b-700d-e411-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Sole Trader",
+      "EntityName": "HARRIS, AMANDA JANE",
+      "Name": "AJ Harris & Associates",
+      "ABN": "60 810 185 363",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "12 Wyllie Place,",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "CHERRYBROOK",
+        "OtherSuburb": null,
+        "PostCode": "2126",
+        "OtherPostCode": null,
+        "Latitude": -33.71446,
+        "Longitude": 151.0404,
+        "FullAddress": "12 Wyllie Place,\r\nCHERRYBROOK NSW 2126\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "4",
+          "Number": "11344914",
+          "FullNumber": "61 4 11344914"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2627242544504",
+    "CRN": "26272425445049",
+    "IsProfileLockedOut": null,
+    "BusinessId": "a3c9f588-deb5-4c20-bf68-b46f15167d63",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "IMMIGRATION MATTERS PTY LTD",
+    "Name": "IMMIGRATION MATTERS PTY LTD",
+    "ABN": "55612560013",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "12 Wyllie Place",
+      "AddressLine2": null,
+      "AddressLine3": "Cherrybrook",
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CHERRYBROOK",
+      "OtherSuburb": null,
+      "PostCode": "2126",
+      "OtherPostCode": null,
+      "Latitude": -33.71446,
+      "Longitude": 151.0404,
+      "FullAddress": "12 Wyllie Place\r\nCherrybrook\r\nCHERRYBROOK NSW 2126\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "94846839",
+        "FullNumber": "61 2 94846839"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "11344914",
+        "FullNumber": "61 4 11344914"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Amanda",
+    "SecondName": "Jane",
+    "FamilyName": "Harris",
+    "PostNominal": null,
+    "FullName": "Mrs Amanda Jane Harris",
+    "GivenName": "Amanda Jane"
+  },
+  "MARN": "0958730",
+  "IsNoFee": false,
+  "ContactId": "54137408-a352-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "OtherNames": [
+    {
+      "Id": "5ae2fa31-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "hyslop",
+      "FirstName": "amanda",
+      "SecondName": "jane",
+      "Alias": null,
+      "GivenName": "amanda jane"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

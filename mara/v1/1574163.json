@@ -1,0 +1,209 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9705381062756",
+    "CRN": "97053810627562",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9f5e8b3c-19de-4147-be59-6cfc335197d5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Ian Armani",
+    "Name": "Ian Armani",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "10/112 Punt Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "3181",
+      "OtherPostCode": null,
+      "Latitude": -37.85244,
+      "Longitude": 144.98407,
+      "FullAddress": "10/112 Punt Road\r\nWINDSOR VIC 3181\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0478",
+        "Number": "818474",
+        "FullNumber": "61 0478 818474"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9705381062756",
+    "CRN": "97053810627562",
+    "IsProfileLockedOut": null,
+    "BusinessId": "9f5e8b3c-19de-4147-be59-6cfc335197d5",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Ian Armani",
+    "Name": "Ian Armani",
+    "ABN": null,
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "10/112 Punt Road",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "VIC",
+      "OtherState": null,
+      "Suburb": "WINDSOR",
+      "OtherSuburb": null,
+      "PostCode": "3181",
+      "OtherPostCode": null,
+      "Latitude": -37.85244,
+      "Longitude": 144.98407,
+      "FullAddress": "10/112 Punt Road\r\nWINDSOR VIC 3181\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "0478",
+        "Number": "818474",
+        "FullNumber": "61 0478 818474"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Ian",
+    "SecondName": null,
+    "FamilyName": "Armani",
+    "PostNominal": null,
+    "FullName": "Mr Ian Armani",
+    "GivenName": "Ian"
+  },
+  "MARN": "1574163",
+  "IsNoFee": false,
+  "ContactId": "84ba6a2c-7530-e511-9403-005056ab0eca",
+  "CitizenshipCountries": [
+    "Iran, Islamic Republic of"
+  ],
+  "OtherNames": [
+    {
+      "Id": "b9fd1dff-0aa5-e511-9403-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Asadi Mobarakeh",
+      "FirstName": "Iman",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Iman"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

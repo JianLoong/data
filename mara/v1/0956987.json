@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662531367227",
+    "CRN": "66625313672279",
+    "IsProfileLockedOut": null,
+    "BusinessId": "093cbff9-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "RIGHT CHOICE CONSULTANTS PTY LTD",
+    "Name": "Right Choice Consultants Pty Ltd",
+    "ABN": "44135638961",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "45 MISSISSIPPI ROAD",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SEVEN HILLS",
+      "OtherSuburb": null,
+      "PostCode": "2147",
+      "OtherPostCode": null,
+      "Latitude": -33.79029,
+      "Longitude": 150.92726,
+      "FullAddress": "45 MISSISSIPPI ROAD\r\nSEVEN HILLS NSW 2147\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SEVEN HILLS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SEVEN HILLS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "98910042",
+        "FullNumber": "61 2 98910042"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "83246453",
+        "FullNumber": "61 2 83246453"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "5930807007426",
+      "CRN": "59308070074267",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8e9b1179-0fb0-420d-b026-3d4da76193ae",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Partnership",
+      "EntityName": "International Business",
+      "Name": "RIGHT CHOICE CONSULTANTS",
+      "ABN": null,
+      "Address": {
+        "Country": "India",
+        "AddressLine1": "UG 34, WESTEND MALL",
+        "AddressLine2": "JANAKPURI WEST",
+        "AddressLine3": "NEAR DISTRICT CENTRE & HOTEL PICCADILLY",
+        "State": null,
+        "OtherState": "NEW DELHI",
+        "Suburb": "Other",
+        "OtherSuburb": "JANAKPURI WEST",
+        "PostCode": "Other",
+        "OtherPostCode": "110058",
+        "Latitude": 28.61199,
+        "Longitude": 77.09307,
+        "FullAddress": "UG 34, WESTEND MALL\r\nJANAKPURI WEST\r\nNEAR DISTRICT CENTRE & HOTEL PICCADILLY\r\nJANAKPURI WEST 110058\r\nIndia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "91",
+          "AreaCode": "11",
+          "Number": "47009383",
+          "FullNumber": "91 11 47009383"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "6662531367227",
+    "CRN": "66625313672279",
+    "IsProfileLockedOut": null,
+    "BusinessId": "093cbff9-9752-e311-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "RIGHT CHOICE CONSULTANTS PTY LTD",
+    "Name": "Right Choice Consultants Pty Ltd",
+    "ABN": "44135638961",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "45 MISSISSIPPI ROAD",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "SEVEN HILLS",
+      "OtherSuburb": null,
+      "PostCode": "2147",
+      "OtherPostCode": null,
+      "Latitude": -33.79029,
+      "Longitude": 150.92726,
+      "FullAddress": "45 MISSISSIPPI ROAD\r\nSEVEN HILLS NSW 2147\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "SEVEN HILLS",
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": "SEVEN HILLS"
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "98910042",
+        "FullNumber": "61 2 98910042"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "83246453",
+        "FullNumber": "61 2 83246453"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Nitin",
+    "SecondName": null,
+    "FamilyName": "Malik",
+    "PostNominal": null,
+    "FullName": "Mr Nitin Malik",
+    "GivenName": "Nitin"
+  },
+  "MARN": "0956987",
+  "IsNoFee": false,
+  "ContactId": "a7974ff0-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

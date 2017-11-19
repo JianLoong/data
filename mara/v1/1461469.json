@@ -1,0 +1,200 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9905012286068",
+    "CRN": "99050122860681",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c75fd4f-bc3f-4fc3-9647-d9ec1e93d535",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "Baker & McKenzie",
+    "Name": "Baker & McKenzie",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "14/F, Hutchison House",
+      "AddressLine2": "10 Harcourt Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Central",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.2800725,
+      "Longitude": 114.1639328,
+      "FullAddress": "14/F, Hutchison House\r\n10 Harcourt Road\r\nCentral \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "0",
+        "Number": "28461888",
+        "FullNumber": "852 0 28461888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "852",
+        "AreaCode": "0",
+        "Number": "2845 0476",
+        "FullNumber": "852 0 2845 0476"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "9905012286068",
+    "CRN": "99050122860681",
+    "IsProfileLockedOut": null,
+    "BusinessId": "0c75fd4f-bc3f-4fc3-9647-d9ec1e93d535",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Partnership",
+    "EntityName": "Baker & McKenzie",
+    "Name": "Baker & McKenzie",
+    "ABN": null,
+    "Address": {
+      "Country": "Hong Kong",
+      "AddressLine1": "14/F, Hutchison House",
+      "AddressLine2": "10 Harcourt Road",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Central",
+      "PostCode": "Other",
+      "OtherPostCode": null,
+      "Latitude": 22.2800725,
+      "Longitude": 114.1639328,
+      "FullAddress": "14/F, Hutchison House\r\n10 Harcourt Road\r\nCentral \r\nHong Kong"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "852",
+        "AreaCode": "0",
+        "Number": "28461888",
+        "FullNumber": "852 0 28461888"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "852",
+        "AreaCode": "0",
+        "Number": "2845 0476",
+        "FullNumber": "852 0 2845 0476"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Miss",
+    "FirstName": "Vivien",
+    "SecondName": "Fung Yat",
+    "FamilyName": "Yu",
+    "PostNominal": null,
+    "FullName": "Miss Vivien Fung Yat Yu",
+    "GivenName": "Vivien Fung Yat"
+  },
+  "MARN": "1461469",
+  "IsNoFee": false,
+  "ContactId": "f53a610c-495e-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia",
+    "Hong Kong"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

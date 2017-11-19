@@ -1,0 +1,296 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4404825980384",
+    "CRN": "44048259803840",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c40a16be-c121-e411-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Ao Hai Zi Xun Gong Si Beihai Branch",
+    "Name": "Ao Hai Zi Xun Gong Si Beihai Branch",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "3 Bei Bu Wan Dong Lu",
+      "AddressLine2": "Haicheng Qu",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Guangxi",
+      "Suburb": "Other",
+      "OtherSuburb": "Beihai Shi",
+      "PostCode": "Other",
+      "OtherPostCode": "536000",
+      "Latitude": 21.4811856,
+      "Longitude": 109.119941,
+      "FullAddress": "3 Bei Bu Wan Dong Lu\r\nHaicheng Qu\r\nBeihai Shi 536000\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "138",
+        "Number": "779 39050",
+        "FullNumber": "86 138 779 39050"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6669210879101",
+      "CRN": "66692108791019",
+      "IsProfileLockedOut": null,
+      "BusinessId": "106abb8b-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "AUSEA CONSULTING PTY LTD",
+      "Name": "Ausea Consulting Pty Ltd",
+      "ABN": "63153644083",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "112 Chesterfield Crescent",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "QLD",
+        "OtherState": null,
+        "Suburb": "KURABY",
+        "OtherSuburb": null,
+        "PostCode": "4112",
+        "OtherPostCode": null,
+        "Latitude": -27.60834,
+        "Longitude": 153.08805,
+        "FullAddress": "112 Chesterfield Crescent\r\nKURABY QLD 4112\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "KURABY",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "KURABY"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "07",
+          "Number": "34230490",
+          "FullNumber": "61 07 34230490"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Employee",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "4404825980384",
+    "CRN": "44048259803840",
+    "IsProfileLockedOut": null,
+    "BusinessId": "c40a16be-c121-e411-9402-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "Ao Hai Zi Xun Gong Si Beihai Branch",
+    "Name": "Ao Hai Zi Xun Gong Si Beihai Branch",
+    "ABN": null,
+    "Address": {
+      "Country": "China",
+      "AddressLine1": "3 Bei Bu Wan Dong Lu",
+      "AddressLine2": "Haicheng Qu",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": "Guangxi",
+      "Suburb": "Other",
+      "OtherSuburb": "Beihai Shi",
+      "PostCode": "Other",
+      "OtherPostCode": "536000",
+      "Latitude": 21.4811856,
+      "Longitude": 109.119941,
+      "FullAddress": "3 Bei Bu Wan Dong Lu\r\nHaicheng Qu\r\nBeihai Shi 536000\r\nChina"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "86",
+        "AreaCode": "138",
+        "Number": "779 39050",
+        "FullNumber": "86 138 779 39050"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Annie",
+    "SecondName": "Li",
+    "FamilyName": "Zeng",
+    "PostNominal": null,
+    "FullName": "Ms Annie Li Zeng",
+    "GivenName": "Annie Li"
+  },
+  "MARN": "1277645",
+  "IsNoFee": false,
+  "ContactId": "c59d4a61-a452-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c4ef88bb-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Zeng",
+      "FirstName": "Li",
+      "SecondName": null,
+      "Alias": null,
+      "GivenName": "Li"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

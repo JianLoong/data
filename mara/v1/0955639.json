@@ -1,0 +1,307 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2670714978037",
+    "CRN": "26707149780376",
+    "IsProfileLockedOut": null,
+    "BusinessId": "21c1de38-55c1-4994-b151-35d1a83b55ff",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "JAYMINELLY PTY LTD",
+    "Name": "MK MIGRATION",
+    "ABN": "68613200829",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2, Suite 48, 24-32 Hughes Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CABRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": "2166",
+      "OtherPostCode": null,
+      "Latitude": -33.8936599,
+      "Longitude": 150.9356699,
+      "FullAddress": "Level 2, Suite 48, 24-32 Hughes Street\r\nCABRAMATTA NSW 2166\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "33443352",
+        "FullNumber": "61 4 33443352"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80768674",
+        "FullNumber": "61 2 80768674"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Consultant",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "6670567520207",
+      "CRN": "66705675202070",
+      "IsProfileLockedOut": null,
+      "BusinessId": "455f78da-9952-e311-9402-005056ab0eca",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "DG Lawyers Pty Ltd",
+      "Name": "Legal First Solicitors Barristers",
+      "ABN": "84131196631",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Shop 2",
+        "AddressLine2": "100 Terminus Street",
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "LIVERPOOL",
+        "OtherSuburb": null,
+        "PostCode": "2170",
+        "OtherPostCode": null,
+        "Latitude": -33.92676,
+        "Longitude": 150.92211,
+        "FullAddress": "Shop 2\r\n100 Terminus Street\r\nLIVERPOOL NSW 2170\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "LIVERPOOL",
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": "LIVERPOOL"
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98243884",
+          "FullNumber": "61 2 98243884"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "98243882",
+          "FullNumber": "61 2 98243882"
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2670714978037",
+    "CRN": "26707149780376",
+    "IsProfileLockedOut": null,
+    "BusinessId": "21c1de38-55c1-4994-b151-35d1a83b55ff",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "JAYMINELLY PTY LTD",
+    "Name": "MK MIGRATION",
+    "ABN": "68613200829",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "Level 2, Suite 48, 24-32 Hughes Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "NSW",
+      "OtherState": null,
+      "Suburb": "CABRAMATTA",
+      "OtherSuburb": null,
+      "PostCode": "2166",
+      "OtherPostCode": null,
+      "Latitude": -33.8936599,
+      "Longitude": 150.9356699,
+      "FullAddress": "Level 2, Suite 48, 24-32 Hughes Street\r\nCABRAMATTA NSW 2166\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "33443352",
+        "FullNumber": "61 4 33443352"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": "61",
+        "AreaCode": "2",
+        "Number": "80768674",
+        "FullNumber": "61 2 80768674"
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mrs",
+    "FirstName": "Maria",
+    "SecondName": "Kieu Oanh",
+    "FamilyName": "Do",
+    "PostNominal": null,
+    "FullName": "Mrs Maria Kieu Oanh Do",
+    "GivenName": "Maria Kieu Oanh"
+  },
+  "MARN": "0955639",
+  "IsNoFee": false,
+  "ContactId": "93f716d8-a252-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "c0ad0920-0553-e311-9402-005056ab0eca",
+      "Type": "Former Name",
+      "FamilyName": "Nguyen",
+      "FirstName": "Maria",
+      "SecondName": "Kieu Oanh",
+      "Alias": null,
+      "GivenName": "Maria Kieu Oanh"
+    },
+    {
+      "Id": "c5ad0920-0553-e311-9402-005056ab0eca",
+      "Type": "Also Known As",
+      "FamilyName": null,
+      "FirstName": null,
+      "SecondName": null,
+      "Alias": "Thi Kieu Oanh Nguyen",
+      "GivenName": ""
+    }
+  ],
+  "Aliases": [
+    "Thi Kieu Oanh Nguyen"
+  ],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

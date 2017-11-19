@@ -1,0 +1,286 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5673936337856",
+    "CRN": "56739363378562",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2ee78c84-7918-e511-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SW Consulting Co., Ltd",
+    "Name": "Australian Visa Advice Centre",
+    "ABN": null,
+    "Address": {
+      "Country": "Thailand",
+      "AddressLine1": "6th Floor, Trendy Building",
+      "AddressLine2": "Soi Sukhumvit 13, Sukhumvit ",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Nakhon, Bangkok",
+      "PostCode": "Other",
+      "OtherPostCode": "10110",
+      "Latitude": 40.7535285949707,
+      "Longitude": -73.9809036254883,
+      "FullAddress": "6th Floor, Trendy Building\r\nSoi Sukhumvit 13, Sukhumvit \r\nNakhon, Bangkok 10110\r\nThailand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "66",
+        "AreaCode": "0",
+        "Number": "950853355",
+        "FullNumber": "66 0 950853355"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Director",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "8693027105162",
+      "CRN": "86930271051627",
+      "IsProfileLockedOut": null,
+      "BusinessId": "8f17cbf0-7584-4c01-a737-0a09f4607fd9",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SW Consulting (Asia) Co., Ltd.",
+      "Name": "SW Consulting (Asia) Co., Ltd.",
+      "ABN": null,
+      "Address": {
+        "Country": "Thailand",
+        "AddressLine1": "13/95 Moo 4, Soi Pasak 1,",
+        "AddressLine2": "Baan Don Cherngtalay",
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": "Other",
+        "OtherSuburb": "Cherngtalay, Thalang, Phuket",
+        "PostCode": "Other",
+        "OtherPostCode": "83110",
+        "Latitude": 8.008627,
+        "Longitude": 98.3160654,
+        "FullAddress": "13/95 Moo 4, Soi Pasak 1,\r\nBaan Don Cherngtalay\r\nCherngtalay, Thalang, Phuket 83110\r\nThailand"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "66",
+          "AreaCode": "0",
+          "Number": "950853355",
+          "FullNumber": "66 0 950853355"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Director",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "5673936337856",
+    "CRN": "56739363378562",
+    "IsProfileLockedOut": null,
+    "BusinessId": "2ee78c84-7918-e511-9403-005056ab0eca",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Company",
+    "EntityName": "SW Consulting Co., Ltd",
+    "Name": "Australian Visa Advice Centre",
+    "ABN": null,
+    "Address": {
+      "Country": "Thailand",
+      "AddressLine1": "6th Floor, Trendy Building",
+      "AddressLine2": "Soi Sukhumvit 13, Sukhumvit ",
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": "Other",
+      "OtherSuburb": "Nakhon, Bangkok",
+      "PostCode": "Other",
+      "OtherPostCode": "10110",
+      "Latitude": 40.7535285949707,
+      "Longitude": -73.9809036254883,
+      "FullAddress": "6th Floor, Trendy Building\r\nSoi Sukhumvit 13, Sukhumvit \r\nNakhon, Bangkok 10110\r\nThailand"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "66",
+        "AreaCode": "0",
+        "Number": "950853355",
+        "FullNumber": "66 0 950853355"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Mr",
+    "FirstName": "Simon",
+    "SecondName": "Antony",
+    "FamilyName": "Wetherell",
+    "PostNominal": null,
+    "FullName": "Mr Simon Antony Wetherell",
+    "GivenName": "Simon Antony"
+  },
+  "MARN": "1464995",
+  "IsNoFee": false,
+  "ContactId": "19a241c3-e3fd-e311-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}

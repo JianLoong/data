@@ -1,0 +1,314 @@
+{
+  "PrimaryBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2269706794094",
+    "CRN": "22697067940944",
+    "IsProfileLockedOut": null,
+    "BusinessId": "32f1bc13-ce84-4dff-a967-47f7cc399296",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SOLES, JACI LEA",
+    "Name": "Solely Migration",
+    "ABN": "39968901670",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "5 Fair Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ONE MILE",
+      "OtherSuburb": null,
+      "PostCode": "4305",
+      "OtherPostCode": null,
+      "Latitude": -27.63215,
+      "Longitude": 152.74034,
+      "FullAddress": "5 Fair Street\r\nONE MILE QLD 4305\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "48000764",
+        "FullNumber": "61 4 48000764"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "SecondaryBusinesses": [
+    {
+      "Relationship": "Independent Contractor",
+      "IsPrimary": false,
+      "IsExisting": false,
+      "CID": "4085323556384",
+      "CRN": "40853235563842",
+      "IsProfileLockedOut": null,
+      "BusinessId": "4ef8a5cb-522b-4a79-872d-ccb9ef316647",
+      "BusinessClassificationCode": "RMA",
+      "BusinessClassification": "Registered Migration Agent",
+      "BusinessType": "Company",
+      "EntityName": "SOUTHERN CROSS IMMIGRATION SERVICE PTY. LTD.",
+      "Name": "SOUTHERN CROSS IMMIGRATION SERVICE PTY. LTD.",
+      "ABN": "51606958132",
+      "Address": {
+        "Country": "Australia",
+        "AddressLine1": "Shop 1  46 Walker St ",
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": "NSW",
+        "OtherState": null,
+        "Suburb": "RHODES",
+        "OtherSuburb": null,
+        "PostCode": "2138",
+        "OtherPostCode": null,
+        "Latitude": -33.876338,
+        "Longitude": 151.133666,
+        "FullAddress": "Shop 1  46 Walker St \r\nRHODES NSW 2138\r\nAustralia"
+      },
+      "PostalAddress": {
+        "Country": null,
+        "AddressLine1": null,
+        "AddressLine2": null,
+        "AddressLine3": null,
+        "State": null,
+        "OtherState": null,
+        "Suburb": null,
+        "OtherSuburb": null,
+        "PostCode": null,
+        "OtherPostCode": null,
+        "Latitude": null,
+        "Longitude": null,
+        "FullAddress": ""
+      },
+      "Contact": {
+        "Phone": {
+          "CountryCode": "61",
+          "AreaCode": "2",
+          "Number": "91885586",
+          "FullNumber": "61 2 91885586"
+        },
+        "Phone2": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Phone3": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "Fax": {
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": null,
+          "FullNumber": null
+        },
+        "EmailAddress1": null,
+        "EmailAddress2": null
+      },
+      "WebsiteUrl": null,
+      "IsBusinessNameSameAsOwner": null,
+      "IsBusinessNameRegistered": null,
+      "HasHoldingCharge": null,
+      "HasChangesInName": null,
+      "ChangesInNameDetail": null,
+      "ConnectedAgents": [],
+      "HasEmployees": null,
+      "HavingEmployeesDetail": null,
+      "PrimaryContactId": null,
+      "VerifiedDocuments": null,
+      "OptionalDocuments": [],
+      "OptionalExpiringDocuments": []
+    }
+  ],
+  "DisplayBusiness": {
+    "Relationship": "Owner",
+    "IsPrimary": true,
+    "IsExisting": false,
+    "CID": "2269706794094",
+    "CRN": "22697067940944",
+    "IsProfileLockedOut": null,
+    "BusinessId": "32f1bc13-ce84-4dff-a967-47f7cc399296",
+    "BusinessClassificationCode": "RMA",
+    "BusinessClassification": "Registered Migration Agent",
+    "BusinessType": "Sole Trader",
+    "EntityName": "SOLES, JACI LEA",
+    "Name": "Solely Migration",
+    "ABN": "39968901670",
+    "Address": {
+      "Country": "Australia",
+      "AddressLine1": "5 Fair Street",
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": "QLD",
+      "OtherState": null,
+      "Suburb": "ONE MILE",
+      "OtherSuburb": null,
+      "PostCode": "4305",
+      "OtherPostCode": null,
+      "Latitude": -27.63215,
+      "Longitude": 152.74034,
+      "FullAddress": "5 Fair Street\r\nONE MILE QLD 4305\r\nAustralia"
+    },
+    "PostalAddress": {
+      "Country": null,
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "AddressLine3": null,
+      "State": null,
+      "OtherState": null,
+      "Suburb": null,
+      "OtherSuburb": null,
+      "PostCode": null,
+      "OtherPostCode": null,
+      "Latitude": null,
+      "Longitude": null,
+      "FullAddress": ""
+    },
+    "Contact": {
+      "Phone": {
+        "CountryCode": "61",
+        "AreaCode": "4",
+        "Number": "48000764",
+        "FullNumber": "61 4 48000764"
+      },
+      "Phone2": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Phone3": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "Fax": {
+        "CountryCode": null,
+        "AreaCode": null,
+        "Number": null,
+        "FullNumber": null
+      },
+      "EmailAddress1": null,
+      "EmailAddress2": null
+    },
+    "WebsiteUrl": null,
+    "IsBusinessNameSameAsOwner": null,
+    "IsBusinessNameRegistered": null,
+    "HasHoldingCharge": null,
+    "HasChangesInName": null,
+    "ChangesInNameDetail": null,
+    "ConnectedAgents": [],
+    "HasEmployees": null,
+    "HavingEmployeesDetail": null,
+    "PrimaryContactId": null,
+    "VerifiedDocuments": null,
+    "OptionalDocuments": [],
+    "OptionalExpiringDocuments": []
+  },
+  "Name": {
+    "Salutation": "Ms",
+    "FirstName": "Jaci",
+    "SecondName": "Lea",
+    "FamilyName": "Soles",
+    "PostNominal": null,
+    "FullName": "Ms Jaci Lea Soles",
+    "GivenName": "Jaci Lea"
+  },
+  "MARN": "1570889",
+  "IsNoFee": false,
+  "ContactId": "84d2ebba-a455-e411-9402-005056ab0eca",
+  "CitizenshipCountries": [
+    "Australia"
+  ],
+  "OtherNames": [
+    {
+      "Id": "1fd34ada-9988-4634-9f78-0347dc10e9cc",
+      "Type": "Former Name",
+      "FamilyName": "Ingham",
+      "FirstName": "Ruth",
+      "SecondName": "Janine",
+      "Alias": null,
+      "GivenName": "Ruth Janine"
+    },
+    {
+      "Id": "7a370e6d-97de-4bdc-b824-6f805edb2fa3",
+      "Type": "Former Name",
+      "FamilyName": "Bradley",
+      "FirstName": "Ruth",
+      "SecondName": "Janine",
+      "Alias": null,
+      "GivenName": "Ruth Janine"
+    },
+    {
+      "Id": "79859ec1-4d15-4b87-a4ab-cb706c82d106",
+      "Type": "Former Name",
+      "FamilyName": "Soles",
+      "FirstName": "Ruth ",
+      "SecondName": "Janine",
+      "Alias": null,
+      "GivenName": "Ruth  Janine"
+    }
+  ],
+  "Aliases": [],
+  "ApplicantReferenceID": null,
+  "DisplayPublicationDate": "",
+  "CurrentSanctionOutcome": null,
+  "CurrentSanctionOutcome2": null,
+  "SanctionedDate": null,
+  "DisplaySanctionedDate": "",
+  "DisplayCeasedDate": "01 Jan 0001"
+}
