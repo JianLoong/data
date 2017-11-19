@@ -29,3 +29,20 @@ https://jianloong.github.io/data/monash/v1/units.json
 ````code
 https://jianloong.github.io/data/monash/v1/FIT9131.json
 ````
+
+### MARA Data Collection
+
+Host : https://jianloong.github.io/data/mara/
+
+This information is obtained from https://www.mara.gov.au
+
+All information rightfully belongs to them. 
+
+Version: V1
+
+Simple API that allows consumer to view MARA agent information
+
+| URI            | Description                        |
+|:---------------|:-----------------------------------|
+| v1/agents.json | List of agents                     |
+| v1/{id}.json   | Returns information of specific Id |
