@@ -21,11 +21,12 @@ Simple API that allow consumers to view unit information.
 | v1/units.json   | List of units                  |
 | v1/FIT9131.json | Returns information of FIT9131 |
 
-### Example
+#### Example
 
 ````code
 https://jianloong.github.io/data/monash/v1/units.json
 ````
+
 ````code
 https://jianloong.github.io/data/monash/v1/FIT9131.json
 ````
@@ -46,3 +47,14 @@ Simple API that allows consumer to view MARA agent information
 |:---------------|:-----------------------------------|
 | v1/agents.json | List of agents                     |
 | v1/{id}.json   | Returns information of specific Id |
+
+#### Example
+
+````code
+https://jianloong.github.io/data/mara/v1/agents.json
+````
+
+````code
+https://jianloong.github.io/data/mara/v1/0000048.json
+````
+
