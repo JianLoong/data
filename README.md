@@ -2,7 +2,7 @@
 
 Data dump for various information.
 
-Information are stored as json files and can be obtained via GET request.
+Information are stored as json files and can be obtained via **GET** request.
 
 ### Disclaimer
 
@@ -24,11 +24,11 @@ Simple API that allow consumers to view unit information.
 #### Example
 
 ````code
-https://jianloong.github.io/data/monash/v1/units.json
+wget https://jianloong.github.io/data/monash/v1/units.json
 ````
 
 ````code
-https://jianloong.github.io/data/monash/v1/FIT9131.json
+wget https://jianloong.github.io/data/monash/v1/FIT9131.json
 ````
 
 ### MARA Data Collection
@@ -51,10 +51,10 @@ Simple API that allows consumer to view MARA agent information
 #### Example
 
 ````code
-https://jianloong.github.io/data/mara/v1/agents.json
+wget https://jianloong.github.io/data/mara/v1/agents.json
 ````
 
 ````code
-https://jianloong.github.io/data/mara/v1/0000048.json
+wget https://jianloong.github.io/data/mara/v1/0000048.json
 ````
 
